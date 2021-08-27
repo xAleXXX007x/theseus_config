@@ -3,4 +3,6 @@
 !/config/
 !/scripts/
 !/electroblob_spells/
+!/mods/
+/mods/*
 !/mods/OpenTerrainGenerator
