@@ -1,0 +1,486 @@
+{
+	"dependencies": "metallurgy",
+	"populate": {
+		"sulfur": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:sulfur_ore",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 7,
+			"spread": 7,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"potash": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:potash_ore",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 52,
+			"spread": 20,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"phosphorite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:phosphorite_ore",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 50,
+			"spread": 50,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"alduorite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:alduorite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 7,
+			"center-height": 34,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"vulcanite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:vulcanite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 10
+			},
+			"cluster-count": 1,
+			"chunk-chance": 7,
+			"center-height": 64,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"ignatius": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:ignatius_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 80,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"zinc": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:zinc_ore",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 7,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"astral_silver": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:astral_silver_ore",
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 44,
+			"spread": 20,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"lemurite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:lemurite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 28
+			},
+			"cluster-count": 1,
+			"chunk-chance": 10,
+			"center-height": 48,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"sanguinite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:sanguinite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 10,
+			"center-height": 24,
+			"spread": 12,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"eximite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:eximite_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "END"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"shadow_iron": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:shadow_iron_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 70,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"carmot": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:carmot_ore",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 48,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"ceruclase": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:ceruclase_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 10,
+			"center-height": 32,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"deep_iron": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:deep_iron_ore",
+				"cluster-size": 14
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 48,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "WATER"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"kalendrite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:kalendrite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 100,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"manganese": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:manganese_ore",
+				"cluster-size": 29
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 42,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"prometheum": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:prometheum_ore",
+				"cluster-size": 12
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 28,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"adamantine": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:adamantine_ore",
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 25,
+			"spread": 15,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					0,
+					1
+				]
+			}
+		},
+		"atlarus": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:atlarus_ore",
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 30,
+			"spread": 18,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					0,
+					1
+				]
+			}
+		},
+		"vyroxeres": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:vyroxeres_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 7
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 80,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		}
+	}
+}
