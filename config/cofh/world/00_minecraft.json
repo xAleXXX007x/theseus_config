@@ -213,10 +213,10 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 16
 			},
 			"cluster-count": 1,
-			"chunk-chance": 2,
+			"chunk-chance": 4,
 			"center-height": 8,
 			"spread": 8,
 			"retrogen": false,
@@ -235,9 +235,10 @@
 			"generator": {
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 7
+				"cluster-size": 28
 			},
 			"cluster-count": 1,
+			"chunk-chance": 4,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -259,9 +260,10 @@
 					"name": "gold_ore"
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 36
 			},
 			"cluster-count": 1,
+			"chunk-chance": 4,
 			"center-height": 56,
 			"spread": 24,
 			"retrogen": false,
@@ -292,9 +294,10 @@
 					"name": "emerald_ore"
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 2
+				"cluster-size": 8
 			},
 			"cluster-count": 1,
+			"chunk-chance": 4,
 			"center-height": 12,
 			"spread": 12,
 			"retrogen": false,
@@ -363,9 +366,10 @@
 			"generator": {
 				"block": "quartz_ore",
 				"material": "minecraft:netherrack",
-				"cluster-size": 24
+				"cluster-size": 48
 			},
 			"cluster-count": 1,
+			"chunk-chance": 2,
 			"center-height": 64,
 			"spread": 54,
 			"retrogen": false,
