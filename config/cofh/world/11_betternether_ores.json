@@ -1,0 +1,29 @@
+{
+	"dependencies": "betternether",
+	"populate": {
+		"cincinnasite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "betternether:cincinnasite_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 96,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		}
+	}
+}

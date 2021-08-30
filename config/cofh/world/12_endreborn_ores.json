@@ -1,0 +1,29 @@
+{
+	"dependencies": "endreborn",
+	"populate": {
+		"tungsten": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "endreborn:block_wolframium_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "END"
+					}
+				]
+			},
+			"dimension": "all"
+		}
+	}
+}

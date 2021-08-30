@@ -1,0 +1,294 @@
+{
+	"dependencies": "biomesoplenty",
+	"populate": {
+		"ruby": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "ruby"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "SANDY"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"peridot": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "peridot"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "PLAINS"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"topaz": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "topaz"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "LUSH"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tanzanite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "tanzanite"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "COLD"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"malachite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "malachite"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "SWAMP"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"sapphire": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "sapphire"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "OCEAN"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"amber": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "amber"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "FOREST"
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"ender_amethyst": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:gem_ore",
+					"properties": {
+						"type": "amethyst"
+					}
+				},
+				"cluster-size": 6
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "END"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"biome_essence": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "biomesoplenty:biome_block",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "END"
+					}
+				]
+			},
+			"dimension": "all"
+		}
+	}
+}
