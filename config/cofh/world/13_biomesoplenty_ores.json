@@ -8,7 +8,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "ruby"
+						"variant": "ruby"
 					}
 				},
 				"cluster-size": 6
@@ -42,7 +42,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "peridot"
+						"variant": "peridot"
 					}
 				},
 				"cluster-size": 6
@@ -76,7 +76,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "topaz"
+						"variant": "topaz"
 					}
 				},
 				"cluster-size": 6
@@ -110,7 +110,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "tanzanite"
+						"variant": "tanzanite"
 					}
 				},
 				"cluster-size": 6
@@ -144,7 +144,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "malachite"
+						"variant": "malachite"
 					}
 				},
 				"cluster-size": 6
@@ -178,7 +178,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "sapphire"
+						"variant": "sapphire"
 					}
 				},
 				"cluster-size": 6
@@ -212,7 +212,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "amber"
+						"variant": "amber"
 					}
 				},
 				"cluster-size": 6
@@ -246,7 +246,7 @@
 				"block": {
 					"name": "biomesoplenty:gem_ore",
 					"properties": {
-						"type": "amethyst"
+						"variant": "amethyst"
 					}
 				},
 				"cluster-size": 6
