@@ -1,0 +1,245 @@
+{
+	"dependencies": "erebus",
+	"populate": {
+		"erebus_iron": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_iron",
+				"material": "erebus:umberstone",
+				"cluster-size": 18
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_gold": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_gold",
+				"material": "erebus:umberstone",
+				"cluster-size": 14
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_coal": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_coal",
+				"material": "erebus:umberstone",
+				"cluster-size": 34
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_diamond_low": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_diamond",
+				"material": "erebus:umberstone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 8,
+			"spread": 8,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_diamond_high": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_diamond",
+				"material": "erebus:umberstone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 120,
+			"spread": 8,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_lapis": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_lapis",
+				"material": "erebus:umberstone",
+				"cluster-size": 28
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_quartz": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_quartz",
+				"material": "erebus:umberstone",
+				"cluster-size": 20
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_jade": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_jade",
+				"material": "erebus:umberstone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_fossil": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_fossil",
+				"material": "erebus:umberstone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_gneiss": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_gneiss",
+				"material": "erebus:umberstone",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_petrified_wood": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_petrified_wood",
+				"material": "erebus:umberstone",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		},
+		"erebus_temple": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "erebus:ore_temple",
+				"material": "erebus:umberstone",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					66
+				]
+			}
+		}
+	}
+}
