@@ -74,16 +74,7 @@
       "enable": true
     },
     "malachite": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "malachite"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
-      "enable": false
+      "enable": true
     },
     "trees": {
       "amountPerChunk": 0.5,
