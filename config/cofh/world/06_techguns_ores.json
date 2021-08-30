@@ -1,0 +1,31 @@
+{
+	"dependencies": "techguns",
+	"populate": {
+		"titanium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "techguns:basicore",
+					"properties": {
+						"type": "ore_titanium"
+					}
+				},
+				"cluster-size": 12
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 24,
+			"spread": 12,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

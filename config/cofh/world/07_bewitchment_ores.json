@@ -1,0 +1,89 @@
+{
+	"dependencies": "bewitchment",
+	"populate": {
+		"amethyst": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:amethyst_ore",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"garnet": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:garnet_ore",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"opal": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:opal_ore",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"salt": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:salt_ore",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 12,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -305,7 +305,7 @@
 			},
 			"cluster-count": 1,
 			"chunk-chance": 10,
-			"center-height": 32,
+			"center-height": 112,
 			"spread": 16,
 			"retrogen": "true",
 			"biome": {
@@ -481,6 +481,159 @@
 				]
 			},
 			"dimension": "all"
+		},
+		"lutetium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:lutetium_ore",
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 35,
+			"spread": 15,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"oureclase": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:oureclase_ore",
+				"cluster-size": 12
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 30,
+			"spread": 8,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"meutoite": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:meutoite_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 64,
+			"spread": 64,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "END"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"orichalcum": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:orichalcum_ore",
+				"cluster-size": 10
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"center-height": 16,
+			"spread": 8,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"infuscolium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:infuscolium_ore",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 41,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"midasium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:midasium_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 10
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 70,
+			"spread": 16,
+			"retrogen": "true",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": "NETHER"
+					}
+				]
+			},
+			"dimension": "all"
+		},
+		"rubracium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "metallurgy:rubracium_ore",
+				"cluster-size": 8
+			},
+			"cluster-count": 1,
+			"chunk-chance": 6,
+			"center-height": 15,
+			"spread": 15,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
 		}
 	}
 }

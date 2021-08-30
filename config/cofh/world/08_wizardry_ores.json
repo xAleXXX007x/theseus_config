@@ -1,0 +1,26 @@
+{
+	"dependencies": "ebwizardry",
+	"populate": {
+		"crystal": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "ebwizardry:crystal_ore",
+				"cluster-size": 16
+			},
+			"cluster-count": 1,
+			"chunk-chance": 4,
+			"center-height": 24,
+			"spread": 12,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

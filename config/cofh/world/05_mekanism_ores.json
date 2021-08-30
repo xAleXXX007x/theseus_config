@@ -1,0 +1,26 @@
+{
+	"dependencies": "mekanism",
+	"populate": {
+		"osmium": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "mekanism:oreblock",
+				"cluster-size": 28
+			},
+			"cluster-count": 1,
+			"chunk-chance": 3,
+			"center-height": 32,
+			"spread": 12,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
