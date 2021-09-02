@@ -278,3 +278,4 @@ SpawnAmbientCreatures: []
 BiomeDictId: SPOOKY, DENSE, FOREST
 
 InheritMobsBiomeName: Roofed Forest
+

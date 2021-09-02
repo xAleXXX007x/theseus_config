@@ -254,3 +254,4 @@ SpawnAmbientCreatures: [{"mob": "minecraft:bat", "weight": 10, "min": 8, "max": 
 BiomeDictId: 
 
 InheritMobsBiomeName: Mesa
+

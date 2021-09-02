@@ -264,3 +264,4 @@ SpawnAmbientCreatures: [{"mob": "minecraft:bat", "weight": 10, "min": 8, "max": 
 BiomeDictId: COLD, CONIFEROUS, FOREST, SNOWY
 
 InheritMobsBiomeName: Cold Taiga
+
