@@ -17,7 +17,7 @@
 			"chunk-chance": 5,
 			"center-height": 16,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -43,7 +43,7 @@
 			"chunk-chance": 5,
 			"center-height": 16,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -69,7 +69,7 @@
 			"chunk-chance": 4,
 			"center-height": 14,
 			"spread": 12,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -95,7 +95,7 @@
 			"chunk-chance": 4,
 			"center-height": 14,
 			"spread": 12,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -121,7 +121,7 @@
 			"chunk-chance": 5,
 			"center-height": 12,
 			"spread": 12,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",

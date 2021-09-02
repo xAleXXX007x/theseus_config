@@ -13,7 +13,7 @@
 			"chunk-chance": 6,
 			"center-height": 96,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
 				"value": [

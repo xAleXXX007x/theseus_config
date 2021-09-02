@@ -12,7 +12,7 @@
 			"chunk-chance": 6,
 			"center-height": 26,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -33,7 +33,7 @@
 			"chunk-chance": 6,
 			"center-height": 26,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -54,7 +54,7 @@
 			"chunk-chance": 6,
 			"center-height": 26,
 			"spread": 16,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -75,7 +75,7 @@
 			"chunk-chance": 4,
 			"center-height": 64,
 			"spread": 12,
-			"retrogen": "true",
+			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
