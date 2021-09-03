@@ -42,7 +42,7 @@
 				"cluster-size": 40
 			},
 			"cluster-count": 1,
-			"chunk-chance": 7,
+			"chunk-chance": 9,
 			"center-height": 37,
 			"spread": 17,
 			"retrogen": "false",
@@ -76,9 +76,9 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 24
+				"cluster-size": 20
 			},
-			"chunk-chance": 7,
+			"chunk-chance": 8,
 			"cluster-count": 1,
 			"center-height": 17,
 			"spread": 12,
@@ -113,7 +113,7 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 32
+				"cluster-size": 28
 			},
 			"cluster-count": 1,
 			"chunk-chance": 10,
@@ -204,7 +204,7 @@
 					}
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 32
+				"cluster-size": 28
 			},
 			"cluster-count": 1,
 			"chunk-chance": 10,

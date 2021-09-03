@@ -6,10 +6,10 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "mekanism:oreblock",
-				"cluster-size": 28
+				"cluster-size": 24
 			},
 			"cluster-count": 1,
-			"chunk-chance": 3,
+			"chunk-chance": 5,
 			"center-height": 32,
 			"spread": 12,
 			"retrogen": "false",

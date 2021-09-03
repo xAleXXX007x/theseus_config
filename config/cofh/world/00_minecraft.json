@@ -238,7 +238,7 @@
 				"cluster-size": 28
 			},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 7,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
