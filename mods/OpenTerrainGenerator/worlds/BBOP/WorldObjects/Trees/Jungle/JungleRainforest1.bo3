@@ -66,6 +66,8 @@ MaxPercentageOutsideSourceBlock: 0
 
 OutsideSourceBlock: placeAnyway
 
+DoReplaceBlocks: true
+
 IsOTGPlus: false
 
 
@@ -1279,4 +1281,3 @@ BlockCheck(-1,-1,6,GRASS,DIRT,SAND)
 # |                             ModData                             | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
-

@@ -67,6 +67,8 @@ MaxPercentageOutsideSourceBlock: 100
 
 OutsideSourceBlock: placeAnyway
 
+DoReplaceBlocks: true
+
 IsOTGPlus: false
 
 
@@ -153,4 +155,3 @@ LightCheck(0,0,0,0,14)
 # |                             ModData                             | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
-
