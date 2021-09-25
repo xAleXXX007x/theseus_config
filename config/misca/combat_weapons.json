@@ -1,0 +1,1411 @@
+{
+  "overrides": {
+    "flansmod:dwpwr57": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwcrm15": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmbtautocrossbow": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwclockwing": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:sawedoff": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 3.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmatriarchsnubshort": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwcloudpuncher": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.6,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpar60": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwflakwater": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 3.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwfeatherduster": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwstumbreonsteamer": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": -0.18,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwcinderfire": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsilversec": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwhvfpeforator": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwduskdusterwing": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwoverwatch": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwat51sp": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkgl40": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmfp5compact": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpakat": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.6,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwumx45": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwheavydupletmg": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwambirconsteamrifle": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:powerhammer": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "melee"
+      ]
+    },
+    "flansmod:dwwinnowbp": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskyswatterss": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:aug": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:revolver": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmatriarchscatter": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwgsx": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpup762": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmatriarchskymare": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwwolfstedtm2088": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.02,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:flamethrower": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:gaussrifle": {
+      "dmg": 0.0,
+      "atk": 9.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsforel": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwrivetrailgun": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:uidedmissilelauncher": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwdronedeployer": {
+      "dmg": 0.0,
+      "atk": 14.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmodcannonlauncher": {
+      "dmg": 0.0,
+      "atk": 12.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpepperbox": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:minigun": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsc7stnd": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.8,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:teslagun": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwarcanepawgun": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:lmg": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwroseluphca": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 18.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwdusterwing": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.02,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpagl": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.02,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwrurhicvtsy87": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "tconstruct:shuriken": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 3.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range",
+        "canUse"
+      ]
+    },
+    "techguns:pdw": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsc7": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwcrossfire": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:mac10": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsteelbluss": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmfp33": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwwolfstedt": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:combatshotgun": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmk47": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.8,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkgl3": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.02,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsf116bp": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwluabella": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsf94": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwstumbreonsv": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:grenadelauncher": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwaegisdisrupter": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwgs5": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:m4": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwironhoofm40": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwwinnowmp": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.06,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:miningdrill": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "melee"
+      ]
+    },
+    "techguns:chainsaw": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "melee"
+      ]
+    },
+    "flansmod:dwpup227": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwgsskylite": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwxm240": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": -0.28,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkrystaloverwatch": {
+      "dmg": 0.0,
+      "atk": 9.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:lasergun": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:pistol": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:nucleardeathray": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:laserpistol": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwroselup": {
+      "dmg": 0.0,
+      "atk": 9.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwautorifle2097": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:thompson": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:m4_infiltrator": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:mibgun": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwwolfstedtrep": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwinkstriker45": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.6,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwpar38": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": 0.6,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskycomm": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.1,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:handcannon": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 3.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwwinnow": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:scar": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmfp15": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskychaser": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:sonicshotgun": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:tfg": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:blasterrifle": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwflightchaser": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwtimemarker": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:alienblaster": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmbtcrossbow": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwairmare": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": -0.16,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmatriarchr015": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmfpk9": {
+      "dmg": 0.0,
+      "atk": 2.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.1,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwagmpredator": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 11.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwdzky103": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.8,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:pulserifle": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:vector": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskylighteraec": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.4,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:as50": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 8.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwironhoof": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskylighter": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.06,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwairdropper": {
+      "dmg": 0.0,
+      "atk": 9.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.1,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkp12": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwskyswatter": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsf2012p": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 7.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwscspinnaker": {
+      "dmg": 0.0,
+      "atk": 1.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:grimreaper": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwlk103": {
+      "dmg": 0.0,
+      "atk": 10.0,
+      "use": 11.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:scatterbeamrifle": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:boltaction": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmpar": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.04,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkat3": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 9.0,
+      "overhead": 0.5,
+      "chance": 0.8,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwbreacher870": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:ak47": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwfeathershock": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "minecraft:bow": {
+      "dmg": 0.0,
+      "atk": 0.0,
+      "use": 4.0,
+      "overhead": 0.0,
+      "chance": 0.0,
+      "traits": [
+        "range",
+        "canHoldUse"
+      ]
+    },
+    "flansmod:dwsf370b": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 11.0,
+      "overhead": 0.5,
+      "chance": -0.12,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:netherblaster": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:goldenrevolver": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwhpar": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 10.0,
+      "overhead": 0.5,
+      "chance": -0.08,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsf112": {
+      "dmg": 0.0,
+      "atk": 3.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwambirconsteamrifle2": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.6,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwmpara2": {
+      "dmg": 0.0,
+      "atk": 4.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": -0.02,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwkpss12": {
+      "dmg": 0.0,
+      "atk": 8.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": -0.05,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwneurotoxinrifle": {
+      "dmg": 0.0,
+      "atk": 6.0,
+      "use": 12.0,
+      "overhead": 0.5,
+      "chance": 0.2,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:biogun": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 5.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "techguns:rocketlauncher": {
+      "dmg": 0.0,
+      "atk": 7.0,
+      "use": 4.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    },
+    "flansmod:dwsf94au": {
+      "dmg": 0.0,
+      "atk": 5.0,
+      "use": 6.0,
+      "overhead": 0.5,
+      "chance": 0.0,
+      "traits": [
+        "range"
+      ]
+    }
+  },
+  "generation": {
+    "wizardryApPerSpellCost": 0.3,
+    "wizardrySpellTierFactor": 0.5,
+    "wizardryContinuousSpellOverheadFactor": 0.0
+  }
+}
