@@ -1,0 +1,26 @@
+{
+	"dependencies": "thaumcraft",
+	"populate": {
+		"cinnabar": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "thaumcraft:ore_cinnabar",
+				"cluster-size": 24
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"center-height": 32,
+			"spread": 16,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
