@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
-  [ENG_1]: [
+  [TCH_1]: [
     <immersiveengineering:metal_decoration0>,
     <immersiveengineering:metal_decoration0:1>,
     <immersiveengineering:metal_decoration0:2>,
@@ -33,7 +33,7 @@ var stagedItems as IIngredient[][string] = {
     <engineersdecor:treated_wood_crafting_table>,
     <patchouli:guide_book>.withTag({"patchouli:book": "engineersdecor:engineersdecor_manual"})
   ],
-  [L_ENG_1]: [
+  [ENG_1]: [
     <immersiveengineering:wooden_device0:2>,
     <immersiveengineering:blueprint>.withTag({blueprint: "bullet"}),
     <immersiveengineering:toolbox>,
@@ -56,7 +56,7 @@ var stagedItems as IIngredient[][string] = {
     <immersivepetroleum:upgrades:4>,
     <immersivepetroleum:oil_can>
   ],
-  [H_ENG_1]: [
+  [MNF_1]: [
     <immersiveengineering:stone_decoration>,
     <immersiveengineering:stone_decoration:10>,
     <immersiveengineering:wooden_device0:3>,
@@ -120,11 +120,11 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:hoe_steel>,
     <immersiveengineering:sword_steel>
   ],
-  [ENG_2]: [
+  [TCH_2]: [
     <immersiveengineering:blueprint>.withTag({blueprint: "components"}),
     <immersiveengineering:blueprint>.withTag({blueprint: "molds"})
   ],
-  [L_ENG_2]: [
+  [ENG_2]: [
     <immersiveengineering:drill>,
     <immersiveengineering:drillhead>,
     <immersiveengineering:drillhead:1>,
@@ -161,7 +161,7 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:metal_device1:11>,
     <immersiveengineering:metal_device1:13>
   ],
-  [H_ENG_2]: [
+  [MNF_2]: [
     <immersiveengineering:stone_decoration:1>,
     <immersiveengineering:stone_decoration:2>,
     <immersiveengineering:metal_decoration0:6>,

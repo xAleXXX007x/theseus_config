@@ -17,19 +17,19 @@ global ENC_2 as string = "enc_two";
 
 // Общая инженерия
 // Технический стейдж для общих рецептов
+global TCH_1 as string = "tch_one";
+global TCH_2 as string = "tch_two";
+global TCH_3 as string = "tch_three";
+
+// Лёгкая инженерия
 global ENG_1 as string = "eng_one";
 global ENG_2 as string = "eng_two";
 global ENG_3 as string = "eng_three";
 
-// Лёгкая инженерия
-global L_ENG_1 as string = "l_eng_one";
-global L_ENG_2 as string = "l_eng_two";
-global L_ENG_3 as string = "l_eng_three";
-
 // Тяжёлая инженерия
-global H_ENG_1 as string = "h_eng_one";
-global H_ENG_2 as string = "h_eng_two";
-global H_ENG_3 as string = "h_eng_three";
+global MNF_1 as string = "mnf_one";
+global MNF_2 as string = "mnf_two";
+global MNF_3 as string = "mnf_three";
 
 // Информатика
 global INF_1 as string = "inf_one";
