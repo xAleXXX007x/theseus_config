@@ -1,6 +1,6 @@
   {
   "name": "builtin:loot",
   "inherit": [
-    "loot:loot_main"
+    "loot:loot_tables"
   ]
 }
