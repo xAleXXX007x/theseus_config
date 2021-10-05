@@ -19,13 +19,13 @@ function addLootTier1(lootTableName as string) {
 }
 
 function addLootTier2(lootTableName as string) {
-  addLoot(lootTableName, loot_list.tier1, "tier1", 3, 6);
+  addLoot(lootTableName, loot_list.tier1, "tier1", 1, 3);
   addLoot(lootTableName, loot_list.tier2, "tier2", 2, 4);
 }
 
 function addLootTier3(lootTableName as string) {
-  addLoot(lootTableName, loot_list.tier1, "tier1", 3, 6);
-  addLoot(lootTableName, loot_list.tier2, "tier2", 2, 4);
+  addLoot(lootTableName, loot_list.tier1, "tier1", 1, 3);
+  addLoot(lootTableName, loot_list.tier2, "tier2", 3, 5);
   addLoot(lootTableName, loot_list.tier3, "tier3", 1, 2);
 }
 
