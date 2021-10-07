@@ -2,7 +2,7 @@ import loottweaker.LootTweaker;
 import loottweaker.vanilla.loot.LootTable;
 import loottweaker.vanilla.loot.LootPool;
 
-//LootTweaker.getTable("astralsorcery:chest_shrine").getPool("astralsorcery:chest_shrine").removeEntry("astralsorcery:itemconstellationpaper");
+LootTweaker.getTable("astralsorcery:chest_shrine").getPool("astralsorcery:chest_shrine").removeEntry("astralsorcery:itemconstellationpaper");
 //LootTweaker.getTable("astralsorcery:chest_shrine").getPool("astralsorcery:chest_shrine").removeEntry("astralsorcery:itemcraftingcomponent");
 LootTweaker.getTable("astralsorcery:chest_shrine").getPool("astralsorcery:chest_shrine").removeEntry("minecraft:bone");
 LootTweaker.getTable("astralsorcery:chest_shrine").getPool("astralsorcery:chest_shrine").removeEntry("minecraft:gold_ingot");
@@ -389,7 +389,7 @@ LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").rem
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("minecraft:iron_pickaxe");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("empty");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("zettaimagic_additive_entry");
-//LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("astralsorcery:constellation_paper");
+LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("astralsorcery:constellation_paper");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("pool1").removeEntry("minecraft:iron_ingot");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("pool1").removeEntry("minecraft:gold_ingot");
@@ -430,7 +430,7 @@ LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEn
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("empty");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("quark:treasure_map");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("quark:rune");
-//LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("astralsorcery:constellation_paper");
+LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("astralsorcery:constellation_paper");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:dominos");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
@@ -487,7 +487,7 @@ LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry("minecraft:emerald");
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry("minecraft:wheat");
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry("mod_lavacowitem.mod_lavacow.frozenthigh");
-//LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry("astralsorcery:constellation_paper");
+LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("main").removeEntry("astralsorcery:constellation_paper");
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("pool1").removeEntry("minecraft:golden_apple");
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
 LootTweaker.getTable("minecraft:chests/igloo_chest").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
@@ -509,7 +509,7 @@ LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEnt
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("zettaimagic_additive_entry");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("quark:treasure_map");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("quark:rune");
-//LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("astralsorcery:constellation_paper");
+LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("astralsorcery:constellation_paper");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("MysticalWorld").removeEntry("MysticalWorld");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
@@ -646,7 +646,7 @@ LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("bewitchmen
 //LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry//("minecraft:book#0");
 //LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("quark:ancient_tome");
 //LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("blueprint_electrode");
-//LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("astralsorcery:constellation_paper");
+LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("astralsorcery:constellation_paper");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:dominos");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:milk_chocolate");

@@ -381,7 +381,12 @@ static tier2 as int[IItemStack] = {
   <grimoireofgaia:deco_garden_gnome>: 2,
   <grimoireofgaia:deco_mandragora_pot>: 2,
   <grimoireofgaia:deco_bust_minotaur>: 2,
-  <grimoireofgaia:deco_nest_harpy>: 2
+  <grimoireofgaia:deco_nest_harpy>: 2,
+  <astralsorcery:itemconstellationpaper>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.discidia"}}): 11,
+  <astralsorcery:itemconstellationpaper>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.discidia"}}): 11,
+  <astralsorcery:itemconstellationpaper>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.armara"}}): 11,
+  <astralsorcery:itemconstellationpaper>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.aevitas"}}): 11,
+  <astralsorcery:itemconstellationpaper>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.evorsio"}}): 11
 };
 
 static tier3 as int[IItemStack] = {
