@@ -15,7 +15,8 @@ function addLoot(lootTableName as string, table as int[IItemStack], poolName as 
 }
 
 function addLootTier1(lootTableName as string) {
-  addLoot(lootTableName, loot_list.tier1, "tier1", 3, 6);
+  addLoot(lootTableName, loot_list.plants, "plants", 2, 4);
+  addLoot(lootTableName, loot_list.tier1, "tier1", 2, 4);
 }
 
 function addLootTier2(lootTableName as string) {
