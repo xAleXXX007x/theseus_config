@@ -390,7 +390,6 @@ LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").rem
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("empty");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("zettaimagic_additive_entry");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("astralsorcery:constellation_paper");
-LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("pool1").removeEntry("minecraft:iron_ingot");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("pool1").removeEntry("minecraft:gold_ingot");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("pool1").removeEntry("minecraft:redstone");
@@ -431,15 +430,6 @@ LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEn
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("quark:treasure_map");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("quark:rune");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("astralsorcery:constellation_paper");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("cyberware:neuropozyne");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:dominos");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:marshmallow");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:smore");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:record_end_of_the_world");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:record_money_for_nothing");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:record_wanderer");
-LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEntry("nuclearcraft:record_hyperspace");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("pool1").removeEntry("minecraft:bone");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("pool1").removeEntry("minecraft:gunpowder");
 LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("pool1").removeEntry("minecraft:rotten_flesh");
@@ -510,7 +500,6 @@ LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEnt
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("quark:treasure_map");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("quark:rune");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("astralsorcery:constellation_paper");
-LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("MysticalWorld").removeEntry("MysticalWorld");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
 LootTweaker.getTable("minecraft:chests/jungle_temple").getPool("endreborn_inject_pool").removeEntry("endreborn_inject_entry");
@@ -535,7 +524,6 @@ LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("main").removeEnt
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("main").removeEntry("minecraft:obsidian");
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("main").removeEntry("zettaimagic_additive_entry");
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("main").removeEntry("quark:rune");
-LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("main").removeEntry("cyberware:surgery_apparatus");
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("endreborn_inject_pool").removeEntry("endreborn_inject_entry");
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("bewitchment_nether_materials_pool").removeEntry("bewitchment_nether_materials_entry");
 LootTweaker.getTable("minecraft:chests/nether_bridge").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
@@ -553,15 +541,6 @@ LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEn
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("zettaimagic_additive_entry");
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("quark:rune");
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("quark:ancient_tome");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("cyberware:neuropozyne");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:dominos");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:marshmallow");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:smore");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:record_end_of_the_world");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:record_money_for_nothing");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:record_wanderer");
-LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("nuclearcraft:record_hyperspace");
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("main").removeEntry("harvestcraft.item.gigapickleseeditem");
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("pool1").removeEntry("minecraft:iron_ingot");
 LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("pool1").removeEntry("minecraft:gold_ingot");
@@ -586,9 +565,6 @@ LootTweaker.getTable("minecraft:chests/simple_dungeon").getPool("extrabotany_inj
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("minecraft:stone_axe");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("minecraft:wooden_axe");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("zettaimagic_additive_entry");
-LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("biomesoplenty:pear");
-LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("biomesoplenty:peach");
-LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("main").removeEntry("biomesoplenty:persimmon");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("pool1").removeEntry("minecraft:stone_pickaxe");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("pool1").removeEntry("minecraft:wooden_pickaxe");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").getPool("pool2").removeEntry("minecraft:apple");
@@ -621,7 +597,6 @@ LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("main").rem
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("main").removeEntry("minecraft:diamond_horse_armor");
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("main").removeEntry("minecraft:book");
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("main").removeEntry("quark:treasure_map");
-LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
 LootTweaker.getTable("minecraft:chests/stronghold_corridor").getPool("botania_inject_pool").removeEntry("botania_inject_entry");
@@ -635,7 +610,6 @@ LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("main").rem
 LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("main").removeEntry("minecraft:apple");
 LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("main").removeEntry("minecraft:iron_pickaxe");
 LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("main").removeEntry("minecraft:book");
-LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("main").removeEntry("cyberware:neuropozyne");
 LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
 LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
 
@@ -647,15 +621,6 @@ LootTweaker.getTable("minecraft:chests/stronghold_crossing").getPool("bewitchmen
 //LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("quark:ancient_tome");
 //LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("blueprint_electrode");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("astralsorcery:constellation_paper");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("cyberware:neuropozyne");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:dominos");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:marshmallow");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:smore");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:record_end_of_the_world");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:record_money_for_nothing");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:record_wanderer");
-LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("main").removeEntry("nuclearcraft:record_hyperspace");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("ebwizardry_ebwizardry_additional_dungeon_loot").removeEntry("ebwizardry_additive_entry");
 LootTweaker.getTable("minecraft:chests/stronghold_library").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
 
@@ -678,14 +643,6 @@ LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").remo
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("minecraft:diamond_horse_armor");
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("zettaimagic_additive_entry");
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("blueprint_electrode");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:dominos");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:marshmallow");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:smore");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:record_end_of_the_world");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:record_money_for_nothing");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:record_wanderer");
-LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("nuclearcraft:record_hyperspace");
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("endreborn_inject_pool").removeEntry("endreborn_inject_entry");
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("bewitchment_materials_pool").removeEntry("bewitchment_materials_entry");
 LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("botania_inject_pool").removeEntry("botania_inject_entry");
@@ -701,14 +658,6 @@ LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").remove
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("minecraft:diamond_hoe");
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("minecraft:diamond_chestplate");
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("minecraft:book");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:dominos");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:milk_chocolate");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:marshmallow");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:smore");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:record_end_of_the_world");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:record_money_for_nothing");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:record_wanderer");
-LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("main").removeEntry("nuclearcraft:record_hyperspace");
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("pool1").removeEntry("minecraft:iron_ingot");
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("pool1").removeEntry("minecraft:gold_ingot");
 LootTweaker.getTable("minecraft:chests/woodland_mansion").getPool("pool1").removeEntry("minecraft:bread");
@@ -853,12 +802,6 @@ LootTweaker.getTable("roots:hut").getPool("main").removeEntry("minecraft:wooden_
 LootTweaker.getTable("roots:hut").getPool("main").removeEntry("minecraft:wooden_pickaxe");
 LootTweaker.getTable("roots:hut").getPool("main").removeEntry("minecraft:wooden_shovel");
 LootTweaker.getTable("roots:hut").getPool("main").removeEntry("minecraft:wooden_hoe");
-
-LootTweaker.getTable("srparasites:lodo").getPool("srparasites:lodo").removeEntry("minecraft:torch");
-LootTweaker.getTable("srparasites:lodo").getPool("srparasites:lodo").removeEntry("minecraft:beetroot");
-LootTweaker.getTable("srparasites:lodo").getPool("srparasites:lodo").removeEntry("minecraft:torch");
-LootTweaker.getTable("srparasites:lodo").getPool("srparasites:lodo").removeEntry("minecraft:coal");
-LootTweaker.getTable("srparasites:lodo").getPool("srparasites:lodo").removeEntry("minecraft:fireworks");
 
 LootTweaker.getTable("techguns:blocks/military_crate_ammo").getPool("ammo").removeEntry("pistol_rounds");
 LootTweaker.getTable("techguns:blocks/military_crate_ammo").getPool("ammo").removeEntry("shotgun_rounds");
@@ -1062,24 +1005,6 @@ LootTweaker.getTable("techguns:chests/survivor_hideout").getPool("armor").remove
 LootTweaker.getTable("techguns:chests/survivor_hideout").getPool("meds").removeEntry("techguns:radaway");
 LootTweaker.getTable("techguns:chests/survivor_hideout").getPool("meds").removeEntry("techguns:radpills");
 
-LootTweaker.getTable("tfspellpack:chests/tf_dungeon_additions").getPool("tfspellpack").removeEntry("tfspellpack:twilight_spell_book");
-LootTweaker.getTable("tfspellpack:chests/tf_dungeon_additions").getPool("tfspellpack").removeEntry("tfspellpack:twilight_scroll");
-
-LootTweaker.getTable("tfspellpack:subsets/epic_artefacts").getPool("epic_artefacts").removeEntry("tfspellpack:ring_hydra_kaboom");
-LootTweaker.getTable("tfspellpack:subsets/epic_artefacts").getPool("epic_artefacts").removeEntry("tfspellpack:ring_aurora");
-LootTweaker.getTable("tfspellpack:subsets/epic_artefacts").getPool("epic_artefacts").removeEntry("tfspellpack:amulet_life_charm");
-LootTweaker.getTable("tfspellpack:subsets/epic_artefacts").getPool("epic_artefacts").removeEntry("tfspellpack:charm_goblin");
-
-LootTweaker.getTable("tfspellpack:subsets/rare_artefacts").getPool("rare_artefacts").removeEntry("tfspellpack:ring_trollsteinn");
-LootTweaker.getTable("tfspellpack:subsets/rare_artefacts").getPool("rare_artefacts").removeEntry("tfspellpack:amulet_carminite");
-LootTweaker.getTable("tfspellpack:subsets/rare_artefacts").getPool("rare_artefacts").removeEntry("tfspellpack:charm_ice_exploder");
-LootTweaker.getTable("tfspellpack:subsets/rare_artefacts").getPool("rare_artefacts").removeEntry("tfspellpack:charm_troll");
-LootTweaker.getTable("tfspellpack:subsets/rare_artefacts").getPool("rare_artefacts").removeEntry("tfspellpack:charm_accursed_tome");
-
-LootTweaker.getTable("tfspellpack:subsets/uncommon_artefacts").getPool("uncommon_artefacts").removeEntry("tfspellpack:ring_twilight");
-LootTweaker.getTable("tfspellpack:subsets/uncommon_artefacts").getPool("uncommon_artefacts").removeEntry("tfspellpack:ring_stealth_attack");
-LootTweaker.getTable("tfspellpack:subsets/uncommon_artefacts").getPool("uncommon_artefacts").removeEntry("tfspellpack:amulet_steeleaf");
-
 LootTweaker.getTable("thaumicaugmentation:block/loot_common").getPool("loot_common").removeEntry("nugget_gold");
 LootTweaker.getTable("thaumicaugmentation:block/loot_common").getPool("loot_common").removeEntry("nugget_quicksilver");
 LootTweaker.getTable("thaumicaugmentation:block/loot_common").getPool("loot_common").removeEntry("nugget_thaumium");
@@ -1198,595 +1123,6 @@ LootTweaker.getTable("thaumicaugmentation:generic/pedestal_uncommon").getPool("p
 //LootTweaker.getTable("thaumicaugmentation:generic/pedestal_uncommon").getPool("pedestal_uncommon").removeEntry("thaumcraft:alumentum");
 //LootTweaker.getTable("thaumicaugmentation:generic/pedestal_uncommon").getPool("pedestal_uncommon").removeEntry("thaumcraft:nitor_yellow");
 LootTweaker.getTable("thaumicaugmentation:generic/pedestal_uncommon").getPool("pedestal_uncommon").removeEntry("minecraft:glowstone_dust");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("common").removeEntry("twilightforest:structures/aurora_cache/common");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("uncommon").removeEntry("twilightforest:structures/aurora_cache/uncommon");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("rare").removeEntry("twilightforest:structures/aurora_cache/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("rare").removeEntry("twilightforest:structures/aurora_cache/rare");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/aurora_cache").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("minecraft:stick");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("minecraft:coal");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("minecraft:ice");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("minecraft:packed_ice");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/common").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/rare").getPool("main").removeEntry("twilightforest:arctic_fur");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/rare").getPool("main").removeEntry("twilightforest:ice_bow");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/rare").getPool("main").removeEntry("twilightforest:ender_bow");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/rare").getPool("main").removeEntry("twilightforest:ice_sword");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/ultrarare").getPool("main").removeEntry("sharpness");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/ultrarare").getPool("main").removeEntry("power");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/ultrarare").getPool("main").removeEntry("punch");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/ultrarare").getPool("main").removeEntry("unbreaking");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/ultrarare").getPool("main").removeEntry("infinity");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/uncommon").getPool("main").removeEntry("twilightforest:aurora_block");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/uncommon").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-// LootTweaker.getTable("twilightforest:structures/aurora_cache/uncommon").getPool("main").removeEntry("twilightforest:arctic_fur");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_room/aurora_room").getPool("common").removeEntry("twilightforest:structures/aurora_room/common");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/aurora_room").getPool("uncommon").removeEntry("twilightforest:structures/aurora_room/uncommon");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/aurora_room").getPool("rare").removeEntry("twilightforest:structures/aurora_room/rare");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_room/common").getPool("main").removeEntry("minecraft:ice");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/common").getPool("main").removeEntry("minecraft:packed_ice");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/common").getPool("main").removeEntry("twilightforest:ice_bomb");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/common").getPool("main").removeEntry("twilightforest:firefly");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_room/rare").getPool("main").removeEntry("twilightforest:ice_bow");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/rare").getPool("main").removeEntry("twilightforest:ender_bow");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/rare").getPool("main").removeEntry("twilightforest:ice_sword");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/rare").getPool("main").removeEntry("twilightforest:glass_sword");
-
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:arctic_fur");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:arctic_leggings");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:arctic_chestplate");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:arctic_helmet");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:arctic_boots");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:knightmetal_chestplate");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:knightmetal_sword");
-// LootTweaker.getTable("twilightforest:structures/aurora_room/uncommon").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-
-// LootTweaker.getTable("twilightforest:structures/basement/basement").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/basement/basement").getPool("common").removeEntry("twilightforest:structures/basement/common");
-// LootTweaker.getTable("twilightforest:structures/basement/basement").getPool("uncommon").removeEntry("twilightforest:structures/basement/uncommon");
-// LootTweaker.getTable("twilightforest:structures/basement/basement").getPool("rare").removeEntry("twilightforest:structures/basement/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/basement/basement").getPool("rare").removeEntry("twilightforest:structures/basement/rare");
-
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:potion");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:rotten_flesh");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:poisonous_potato");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:wheat");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:potato");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:carrot");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:melon");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:water_bucket");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:torch");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:mushroom_stew");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:milk_bucket");
-// LootTweaker.getTable("twilightforest:structures/basement/common").getPool("main").removeEntry("minecraft:melon_seeds");
-
-// LootTweaker.getTable("twilightforest:structures/basement/rare").getPool("main").removeEntry("minecraft:speckled_melon");
-// LootTweaker.getTable("twilightforest:structures/basement/rare").getPool("main").removeEntry("minecraft:apple");
-// LootTweaker.getTable("twilightforest:structures/basement/rare").getPool("main").removeEntry("minecraft:map");
-// LootTweaker.getTable("twilightforest:structures/basement/rare").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/basement/ultrarare").getPool("main").removeEntry("minecraft:golden_apple");
-// LootTweaker.getTable("twilightforest:structures/basement/ultrarare").getPool("main").removeEntry("minecraft:golden_carrot");
-// LootTweaker.getTable("twilightforest:structures/basement/ultrarare").getPool("main").removeEntry("minecraft:cake");
-// LootTweaker.getTable("twilightforest:structures/basement/ultrarare").getPool("main").removeEntry("minecraft:boat");
-// LootTweaker.getTable("twilightforest:structures/basement/ultrarare").getPool("main").removeEntry("twilightforest:twilight_sapling");
-
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:bread");
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:cooked_beef");
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:cooked_porkchop");
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:baked_potato");
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:cooked_chicken");
-// LootTweaker.getTable("twilightforest:structures/basement/uncommon").getPool("main").removeEntry("minecraft:cooked_fish");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/common").getPool("main").removeEntry("twilightforest:carminite");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/darktower_boss").getPool("common").removeEntry("twilightforest:structures/darktower_boss/common");
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/darktower_boss").getPool("uncommon").removeEntry("twilightforest:structures/darktower_boss/uncommon");
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/darktower_boss").getPool("rare").removeEntry("twilightforest:structures/darktower_boss/rare");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/rare").getPool("main").removeEntry("twilightforest:trophy");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_boss/uncommon").getPool("main").removeEntry("twilightforest:fiery_tears");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("minecraft:stick");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("minecraft:coal");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("twilightforest:experiment_115");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("minecraft:wool");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/common").getPool("main").removeEntry("minecraft:redstone");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/darktower_cache").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/darktower_cache").getPool("common").removeEntry("twilightforest:structures/darktower_cache/common");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/darktower_cache").getPool("uncommon").removeEntry("twilightforest:structures/darktower_cache/uncommon");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/darktower_cache").getPool("rare").removeEntry("twilightforest:structures/darktower_cache/rare");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/darktower_cache").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/rare").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/rare").getPool("main").removeEntry("minecraft:diamond");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/uncommon").getPool("main").removeEntry("minecraft:redstone_lamp");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/uncommon").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/uncommon").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/darktower_cache/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("twilightforest:experiment_115");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("minecraft:gunpowder");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("minecraft:redstone");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/common").getPool("main").removeEntry("minecraft:glowstone_dust");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_key/darktower_key").getPool("key").removeEntry("twilightforest:tower_key");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/darktower_key").getPool("common").removeEntry("twilightforest:structures/darktower_key/common");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/darktower_key").getPool("uncommon").removeEntry("twilightforest:structures/darktower_key/uncommon");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/darktower_key").getPool("rare").removeEntry("twilightforest:structures/darktower_key/rare");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_key/rare").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/rare").getPool("main").removeEntry("ff");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/rare").getPool("main").removeEntry("knock");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/rare").getPool("main").removeEntry("eff");
-
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_leggings");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_chestplate");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_helmet");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_boots");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:ironwood_chestplate");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:ironwood_sword");
-// LootTweaker.getTable("twilightforest:structures/darktower_key/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/graveyard/common").getPool("main").removeEntry("minecraft:pumpkin_seeds");
-// LootTweaker.getTable("twilightforest:structures/graveyard/common").getPool("main").removeEntry("twilightforest:torchberries");
-// LootTweaker.getTable("twilightforest:structures/graveyard/common").getPool("main").removeEntry("minecraft:pumpkin_pie");
-
-// LootTweaker.getTable("twilightforest:structures/graveyard/graveyard").getPool("common").removeEntry("twilightforest:structures/graveyard/common");
-// LootTweaker.getTable("twilightforest:structures/graveyard/graveyard").getPool("uncommon").removeEntry("twilightforest:structures/graveyard/uncommon");
-// LootTweaker.getTable("twilightforest:structures/graveyard/graveyard").getPool("rare").removeEntry("twilightforest:structures/graveyard/rare");
-
-
-// LootTweaker.getTable("twilightforest:structures/graveyard/uncommon").getPool("main").removeEntry("twilightforest:moon_dial");
-// LootTweaker.getTable("twilightforest:structures/graveyard/uncommon").getPool("main").removeEntry("minecraft:diamond");
-
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:planks");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:brown_mushroom");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:red_mushroom");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:wheat");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:string");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/common").getPool("main").removeEntry("minecraft:stick");
-
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/hedge_maze").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/hedge_maze").getPool("common").removeEntry("twilightforest:structures/hedge_maze/common");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/hedge_maze").getPool("uncommon").removeEntry("twilightforest:structures/hedge_maze/uncommon");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/hedge_maze").getPool("rare").removeEntry("twilightforest:structures/hedge_maze/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/hedge_maze").getPool("rare").removeEntry("twilightforest:structures/hedge_maze/rare");
-
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/rare").getPool("main").removeEntry("minecraft:web");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/rare").getPool("main").removeEntry("minecraft:shears");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/rare").getPool("main").removeEntry("minecraft:saddle");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/rare").getPool("main").removeEntry("minecraft:bow");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/rare").getPool("main").removeEntry("minecraft:apple");
-
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/ultrarare").getPool("main").removeEntry("minecraft:diamond_hoe");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/ultrarare").getPool("main").removeEntry("minecraft:diamond");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/ultrarare").getPool("main").removeEntry("minecraft:mushroom_stew");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/ultrarare").getPool("main").removeEntry("minecraft:golden_apple");
-
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/uncommon").getPool("main").removeEntry("minecraft:melon");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/uncommon").getPool("main").removeEntry("minecraft:melon_seeds");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/uncommon").getPool("main").removeEntry("minecraft:pumpkin_seeds");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/uncommon").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/hedge_maze/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-
-// LootTweaker.getTable("twilightforest:structures/hill_1/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/hill_1/common").getPool("main").removeEntry("minecraft:wheat");
-// LootTweaker.getTable("twilightforest:structures/hill_1/common").getPool("main").removeEntry("minecraft:string");
-// LootTweaker.getTable("twilightforest:structures/hill_1/common").getPool("main").removeEntry("minecraft:bucket");
-
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("common").removeEntry("twilightforest:structures/hill_1/common");
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("uncommon").removeEntry("twilightforest:structures/hill_1/uncommon");
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("rare").removeEntry("twilightforest:structures/hill_1/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("rare").removeEntry("twilightforest:structures/hill_1/rare");
-// LootTweaker.getTable("twilightforest:structures/hill_1/hill_1").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/hill_1/rare").getPool("main").removeEntry("minecraft:gold_ingot");
-// LootTweaker.getTable("twilightforest:structures/hill_1/rare").getPool("main").removeEntry("minecraft:iron_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/hill_1/rare").getPool("main").removeEntry("twilightforest:liveroot");
-
-// LootTweaker.getTable("twilightforest:structures/hill_1/ultrarare").getPool("main").removeEntry("twilightforest:transformation_powder");
-// LootTweaker.getTable("twilightforest:structures/hill_1/ultrarare").getPool("main").removeEntry("minecraft:diamond");
-// LootTweaker.getTable("twilightforest:structures/hill_1/ultrarare").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-
-// LootTweaker.getTable("twilightforest:structures/hill_1/uncommon").getPool("main").removeEntry("minecraft:bread");
-// LootTweaker.getTable("twilightforest:structures/hill_1/uncommon").getPool("main").removeEntry("twilightforest:ore_magnet");
-// LootTweaker.getTable("twilightforest:structures/hill_1/uncommon").getPool("main").removeEntry("minecraft:gunpowder");
-// LootTweaker.getTable("twilightforest:structures/hill_1/uncommon").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/hill_1/uncommon").getPool("main").removeEntry("minecraft:torch");
-
-// LootTweaker.getTable("twilightforest:structures/hill_2/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/hill_2/common").getPool("main").removeEntry("minecraft:carrot");
-// LootTweaker.getTable("twilightforest:structures/hill_2/common").getPool("main").removeEntry("minecraft:ladder");
-// LootTweaker.getTable("twilightforest:structures/hill_2/common").getPool("main").removeEntry("minecraft:bucket");
-
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("common").removeEntry("twilightforest:structures/hill_2/common");
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("uncommon").removeEntry("twilightforest:structures/hill_2/uncommon");
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("rare").removeEntry("twilightforest:structures/hill_2/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("rare").removeEntry("twilightforest:structures/hill_2/rare");
-// LootTweaker.getTable("twilightforest:structures/hill_2/hill_2").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/hill_2/rare").getPool("main").removeEntry("twilightforest:naga_scale");
-// LootTweaker.getTable("twilightforest:structures/hill_2/rare").getPool("main").removeEntry("twilightforest:uncrafting_table");
-// LootTweaker.getTable("twilightforest:structures/hill_2/rare").getPool("main").removeEntry("twilightforest:transformation_powder");
-
-// LootTweaker.getTable("twilightforest:structures/hill_2/ultrarare").getPool("main").removeEntry("twilightforest:peacock_fan");
-// LootTweaker.getTable("twilightforest:structures/hill_2/ultrarare").getPool("main").removeEntry("minecraft:emerald");
-// LootTweaker.getTable("twilightforest:structures/hill_2/ultrarare").getPool("main").removeEntry("minecraft:diamond");
-// LootTweaker.getTable("twilightforest:structures/hill_2/ultrarare").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-
-// LootTweaker.getTable("twilightforest:structures/hill_2/uncommon").getPool("main").removeEntry("minecraft:baked_potato");
-// LootTweaker.getTable("twilightforest:structures/hill_2/uncommon").getPool("main").removeEntry("twilightforest:ore_magnet");
-// LootTweaker.getTable("twilightforest:structures/hill_2/uncommon").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/hill_2/uncommon").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/hill_2/uncommon").getPool("main").removeEntry("minecraft:torch");
-
-// LootTweaker.getTable("twilightforest:structures/hill_3/common").getPool("main").removeEntry("minecraft:gold_nugget");
-// LootTweaker.getTable("twilightforest:structures/hill_3/common").getPool("main").removeEntry("minecraft:potato");
-// LootTweaker.getTable("twilightforest:structures/hill_3/common").getPool("main").removeEntry("minecraft:fish");
-// LootTweaker.getTable("twilightforest:structures/hill_3/common").getPool("main").removeEntry("twilightforest:torchberries");
-
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("common").removeEntry("twilightforest:structures/hill_3/common");
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("uncommon").removeEntry("twilightforest:structures/hill_3/uncommon");
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("rare").removeEntry("twilightforest:structures/hill_3/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("rare").removeEntry("twilightforest:structures/hill_3/rare");
-// LootTweaker.getTable("twilightforest:structures/hill_3/hill_3").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/hill_3/rare").getPool("main").removeEntry("twilightforest:naga_scale");
-// LootTweaker.getTable("twilightforest:structures/hill_3/rare").getPool("main").removeEntry("twilightforest:ironwood_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/hill_3/rare").getPool("main").removeEntry("twilightforest:transformation_powder");
-
-// LootTweaker.getTable("twilightforest:structures/hill_3/ultrarare").getPool("main").removeEntry("twilightforest:moonworm_queen");
-// LootTweaker.getTable("twilightforest:structures/hill_3/ultrarare").getPool("main").removeEntry("twilightforest:twilight_sapling");
-// LootTweaker.getTable("twilightforest:structures/hill_3/ultrarare").getPool("main").removeEntry("minecraft:diamond");
-// LootTweaker.getTable("twilightforest:structures/hill_3/ultrarare").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-// LootTweaker.getTable("twilightforest:structures/hill_3/ultrarare").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("minecraft:pumpkin_pie");
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("twilightforest:ore_magnet");
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("minecraft:gunpowder");
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("minecraft:torch");
-// LootTweaker.getTable("twilightforest:structures/hill_3/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:stick");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:coal");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:paper");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:leather");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/common").getPool("main").removeEntry("minecraft:mushroom_stew");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end").getPool("common").removeEntry("twilightforest:structures/labyrinth_dead_end/common");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end").getPool("uncommon").removeEntry("twilightforest:structures/labyrinth_dead_end/uncommon");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end").getPool("rare").removeEntry("twilightforest:structures/labyrinth_dead_end/rare");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/labyrinth_dead_end").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/rare").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/rare").getPool("main").removeEntry("minecraft:golden_apple");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/rare").getPool("main").removeEntry("minecraft:blaze_rod");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("minecraft:milk_bucket");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("minecraft:paper");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_dead_end/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("minecraft:gunpowder");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/common").getPool("main").removeEntry("minecraft:milk_bucket");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/labyrinth_room").getPool("common").removeEntry("twilightforest:structures/labyrinth_room/common");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/labyrinth_room").getPool("uncommon").removeEntry("twilightforest:structures/labyrinth_room/uncommon");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/labyrinth_room").getPool("rare").removeEntry("twilightforest:structures/labyrinth_room/rare");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/rare").getPool("main").removeEntry("twilightforest:maze_map_focus");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/rare").getPool("main").removeEntry("minecraft:tnt");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/rare").getPool("main").removeEntry("minecraft:potion");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_leggings");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_chestplate");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_helmet");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_boots");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:ironwood_chestplate");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:ironwood_sword");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_room/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("minecraft:emerald");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("regen 2");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("health 2");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/common").getPool("main").removeEntry("speed 2");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/labyrinth_vault").getPool("common").removeEntry("twilightforest:structures/labyrinth_vault/common");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/labyrinth_vault").getPool("uncommon").removeEntry("twilightforest:structures/labyrinth_vault/uncommon");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/labyrinth_vault").getPool("rare").removeEntry("twilightforest:structures/labyrinth_vault/rare");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("minecraft:emerald_block");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("minecraft:ender_chest");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("twilightforest:steeleaf_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("sharpknock");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("boafire");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/rare").getPool("main").removeEntry("twilightforest:mazebreaker_pickaxe");
-
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("infpunch");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("powerflame");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_shovel");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_axe");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_chestplate");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_leggings");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_boots");
-// LootTweaker.getTable("twilightforest:structures/labyrinth_vault/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_helmet");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/common").getPool("main").removeEntry("twilightforest:knightmetal_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/common").getPool("main").removeEntry("twilightforest:knightmetal_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/common").getPool("main").removeEntry("twilightforest:knightmetal_axe");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/rare").getPool("main").removeEntry("twilightforest:phantom_helmet");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/rare").getPool("main").removeEntry("twilightforest:phantom_chestplate");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/stronghold_boss").getPool("common").removeEntry("twilightforest:structures/stronghold_boss/common");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/stronghold_boss").getPool("uncommon").removeEntry("twilightforest:structures/stronghold_boss/uncommon");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/stronghold_boss").getPool("rare").removeEntry("twilightforest:structures/stronghold_boss/rare");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/stronghold_boss").getPool("trophy").removeEntry("twilightforest:structures/stronghold_boss/trophy");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/trophy").getPool("main").removeEntry("twilightforest:trophy");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/uncommon").getPool("main").removeEntry("twilightforest:phantom_helmet");
-// LootTweaker.getTable("twilightforest:structures/stronghold_boss/uncommon").getPool("main").removeEntry("twilightforest:phantom_chestplate");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("minecraft:stick");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("minecraft:coal");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("minecraft:arrow");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("minecraft:wool");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/common").getPool("main").removeEntry("minecraft:iron_ingot");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/rare").getPool("main").removeEntry("twilightforest:knightmetal_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/rare").getPool("main").removeEntry("minecraft:bow");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/rare").getPool("main").removeEntry("minecraft:iron_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/rare").getPool("main").removeEntry("twilightforest:ironwood_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/rare").getPool("main").removeEntry("twilightforest:steeleaf_sword");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/stronghold_cache").getPool("common").removeEntry("twilightforest:structures/stronghold_cache/common");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/stronghold_cache").getPool("uncommon").removeEntry("twilightforest:structures/stronghold_cache/uncommon");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/stronghold_cache").getPool("rare").removeEntry("twilightforest:structures/stronghold_cache/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/stronghold_cache").getPool("rare").removeEntry("twilightforest:structures/stronghold_cache/rare");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/stronghold_cache").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("boa");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("sharp");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("smite");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("unbreaking");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("prot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("projprot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/ultrarare").getPool("main").removeEntry("ff");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("minecraft:bucket");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-// LootTweaker.getTable("twilightforest:structures/stronghold_cache/uncommon").getPool("main").removeEntry("twilightforest:armor_shard");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("minecraft:iron_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("twilightforest:maze_wafer");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("minecraft:gunpowder");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("twilightforest:ironwood_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/common").getPool("main").removeEntry("minecraft:milk_bucket");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("twilightforest:maze_map_focus");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("minecraft:bow");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("minecraft:iron_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("twilightforest:ironwood_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("twilightforest:steeleaf_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/rare").getPool("main").removeEntry("minecraft:diamond_sword");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/stronghold_room").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/stronghold_room").getPool("common").removeEntry("twilightforest:structures/stronghold_room/common");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/stronghold_room").getPool("uncommon").removeEntry("twilightforest:structures/stronghold_room/uncommon");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/stronghold_room").getPool("rare").removeEntry("twilightforest:structures/stronghold_room/rare");
-
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_ingot");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_leggings");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_chestplate");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_helmet");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_boots");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:steeleaf_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:ironwood_chestplate");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:ironwood_sword");
-// LootTweaker.getTable("twilightforest:structures/stronghold_room/uncommon").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:glass_bottle");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:potion");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:ladder");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:paper");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:bone");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:gold_nugget");
-// LootTweaker.getTable("twilightforest:structures/tower_library/common").getPool("main").removeEntry("minecraft:clay_ball");
-
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("minecraft:bow");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("minecraft:stone_sword");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("minecraft:wooden_sword");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("minecraft:splash_potion");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("regen 2");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("health 2");
-// LootTweaker.getTable("twilightforest:structures/tower_library/rare").getPool("main").removeEntry("speed 2");
-
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("common").removeEntry("twilightforest:structures/tower_library/common");
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("uncommon").removeEntry("twilightforest:structures/tower_library/uncommon");
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("rare").removeEntry("twilightforest:structures/tower_library/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("rare").removeEntry("twilightforest:structures/tower_library/rare");
-// LootTweaker.getTable("twilightforest:structures/tower_library/tower_library").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:golden_pickaxe");
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:iron_sword");
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:bow");
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:bookshelf");
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:ender_pearl");
-// LootTweaker.getTable("twilightforest:structures/tower_library/ultrarare").getPool("main").removeEntry("minecraft:experience_bottle");
-
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("minecraft:iron_leggings");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("minecraft:fire_charge");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("minecraft:book");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("minecraft:map");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("awk");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("poison");
-// LootTweaker.getTable("twilightforest:structures/tower_library/uncommon").getPool("main").removeEntry("weak");
-
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:glass_bottle");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:potion");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:sugar");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:spider_eye");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:ghast_tear");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:magma_cream");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:fermented_spider_eye");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:speckled_melon");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:blaze_powder");
-// LootTweaker.getTable("twilightforest:structures/tower_room/common").getPool("main").removeEntry("minecraft:paper");
-
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("minecraft:golden_helmet");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("speed 2");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("regen 2");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("splash heal");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("splash dmg 2");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("twilightforest:transformation_powder");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-// LootTweaker.getTable("twilightforest:structures/tower_room/rare").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/tower_room/tower_room").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/tower_room/tower_room").getPool("common").removeEntry("twilightforest:structures/tower_room/common");
-// LootTweaker.getTable("twilightforest:structures/tower_room/tower_room").getPool("uncommon").removeEntry("twilightforest:structures/tower_room/uncommon");
-// LootTweaker.getTable("twilightforest:structures/tower_room/tower_room").getPool("rare").removeEntry("twilightforest:structures/tower_room/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/tower_room/tower_room").getPool("rare").removeEntry("twilightforest:structures/tower_room/rare");
-
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("minecraft:golden_axe");
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("minecraft:ender_pearl");
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("minecraft:obsidian");
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("minecraft:diamond");
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("twilightforest:moonworm_queen");
-// LootTweaker.getTable("twilightforest:structures/tower_room/ultrarare").getPool("main").removeEntry("twilightforest:peacock_fan");
-
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("lvl10");
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("lvl7");
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("minecraft:potion");
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("health");
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("fire");
-// LootTweaker.getTable("twilightforest:structures/tower_room/uncommon").getPool("main").removeEntry("damage");
-
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:poisonous_potato");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:wheat");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:potato");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:carrot");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:melon");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:water_bucket");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:milk_bucket");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/common").getPool("main").removeEntry("minecraft:melon_seeds");
-
-// LootTweaker.getTable("twilightforest:structures/tree_cache/rare").getPool("main").removeEntry("minecraft:pumpkin_pie");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/rare").getPool("main").removeEntry("minecraft:apple");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/rare").getPool("main").removeEntry("twilightforest:charm_of_life_1");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/rare").getPool("main").removeEntry("twilightforest:charm_of_keeping_1");
-
-// LootTweaker.getTable("twilightforest:structures/tree_cache/tree_cache").getPool("common").removeEntry("twilightforest:structures/useless");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/tree_cache").getPool("common").removeEntry("twilightforest:structures/tree_cache/common");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/tree_cache").getPool("uncommon").removeEntry("twilightforest:structures/tree_cache/uncommon");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/tree_cache").getPool("rare").removeEntry("twilightforest:structures/tree_cache/ultrarare");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/tree_cache").getPool("rare").removeEntry("twilightforest:structures/tree_cache/rare");
-
-// LootTweaker.getTable("twilightforest:structures/tree_cache/ultrarare").getPool("main").removeEntry("hollow");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/ultrarare").getPool("main").removeEntry("time");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/ultrarare").getPool("main").removeEntry("trans");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/ultrarare").getPool("main").removeEntry("mining");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/ultrarare").getPool("main").removeEntry("sorting");
-
-// LootTweaker.getTable("twilightforest:structures/tree_cache/uncommon").getPool("main").removeEntry("twilightforest:firefly");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/uncommon").getPool("main").removeEntry("oak");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/uncommon").getPool("main").removeEntry("canopy");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/uncommon").getPool("main").removeEntry("mangrove");
-// LootTweaker.getTable("twilightforest:structures/tree_cache/uncommon").getPool("main").removeEntry("dark");
-
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:red_mushroom");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:brown_mushroom");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:wheat_seeds");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:carrot");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:potato");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:melon_seeds");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/common").getPool("main").removeEntry("minecraft:dye");
-
-// LootTweaker.getTable("twilightforest:structures/troll_garden/rare").getPool("main").removeEntry("twilightforest:magic_beans");
-
-// LootTweaker.getTable("twilightforest:structures/troll_garden/troll_garden").getPool("common").removeEntry("twilightforest:structures/troll_garden/common");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/troll_garden").getPool("uncommon").removeEntry("twilightforest:structures/troll_garden/uncommon");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/troll_garden").getPool("rare").removeEntry("twilightforest:structures/troll_garden/rare");
-// LootTweaker.getTable("twilightforest:structures/troll_garden/troll_garden").getPool("tfspellpack_tfspellpack_additional_dungeon_loot").removeEntry("tfspellpack_additive_entry");
-
-// LootTweaker.getTable("twilightforest:structures/troll_garden/uncommon").getPool("main").removeEntry("twilightforest:uberous_soil");
-
-// LootTweaker.getTable("twilightforest:structures/troll_vault/common").getPool("main").removeEntry("minecraft:coal");
-// LootTweaker.getTable("twilightforest:structures/troll_vault/common").getPool("main").removeEntry("twilightforest:torchberries");
-// LootTweaker.getTable("twilightforest:structures/troll_vault/common").getPool("main").removeEntry("minecraft:emerald");
-
-// LootTweaker.getTable("twilightforest:structures/troll_vault/rare").getPool("main").removeEntry("twilightforest:lamp_of_cinders");
-
-// LootTweaker.getTable("twilightforest:structures/troll_vault/troll_vault").getPool("common").removeEntry("twilightforest:structures/troll_vault/common");
-// LootTweaker.getTable("twilightforest:structures/troll_vault/troll_vault").getPool("uncommon").removeEntry("twilightforest:structures/troll_vault/uncommon");
-// LootTweaker.getTable("twilightforest:structures/troll_vault/troll_vault").getPool("rare").removeEntry("twilightforest:structures/troll_vault/rare");
-
-// LootTweaker.getTable("twilightforest:structures/troll_vault/uncommon").getPool("main").removeEntry("twilightforest:trollsteinn");
-// LootTweaker.getTable("twilightforest:structures/troll_vault/uncommon").getPool("main").removeEntry("minecraft:obsidian");
-
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:red_flower");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:yellow_flower");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:feather");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:wheat_seeds");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:flint");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:cactus");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:reeds");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:sand");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:flower_pot");
-// LootTweaker.getTable("twilightforest:structures/useless").getPool("main").removeEntry("minecraft:dye");
-
-// LootTweaker.getTable("twilightforest:glass_sword").getPool("sword").removeEntry("twilightforest:glass_sword");
 
 LootTweaker.getTable("zettaigrimoires:chests/bonus_chest").getPool("basic_grimoire").removeEntry("zettaigrimoires:empty_grimoire");
 
