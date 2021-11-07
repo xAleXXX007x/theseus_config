@@ -180,7 +180,7 @@ SurfacePatch(PACKED_ICE,AIR,60,70,STATIONARY_WATER)
 SurfacePatch(ICE,AIR,60,70,STATIONARY_WATER)
 Liquid(STATIONARY_WATER,100,100.0,28,30,STONE)
 
-CustomStructure(structure_brick,0.2,ShipsFloat,0.1)
+# CustomStructure(structure_brick,0.2,ShipsFloat,0.1)
 CustomObject(icesheet01,icesheet02,iceboulder01,iceboulder02,icestalag01,icestalag02)
 CustomObject(dungeon)
 
@@ -254,4 +254,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:frozen_ocean
-

@@ -189,7 +189,7 @@ Ore(COAL_ORE,17,20,100.0,3,60,STONE:0)
 Ore(159:15,16,8,50.0,60,80,SAND)
 
 
-CustomStructure(structure_warm,0.1,RF_CaveShip,1.0)
+# CustomStructure(structure_warm,0.1,RF_CaveShip,1.0)
 CustomObject(tropicalboulder_leaves_01,tropicalboulder_leaves_02,tropicalboulder_leaves_03,tropicalboulder_leaves_04)
 CustomObject(tropicalboulder_large_01,tropicalboulder_med_01,tropicalboulder_small_01,tropicalboulder_skulls_01)
 

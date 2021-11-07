@@ -192,7 +192,7 @@ Ore(DIAMOND_ORE,8,1,100.0,3,16,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
 Ore(AIR,33,10,100.0,3,256,STONE)
 
-CustomStructure(structure_brick,0.2,WestPort,100.0)
+# CustomStructure(structure_brick,0.2,WestPort,100.0)
 CustomObject(dungeon)
 
 Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
@@ -269,6 +269,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:ocean
-
-
-

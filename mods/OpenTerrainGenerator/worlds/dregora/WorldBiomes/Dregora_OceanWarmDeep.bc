@@ -189,7 +189,7 @@ Ore(DIRT,33,10,100.0,33,60,STONE)
 Ore(DIAMOND_ORE,8,1,100.0,33,40,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
 
-CustomStructure(structure_warm,0.1,ShipsFloat,0.2)
+# CustomStructure(structure_warm,0.1,ShipsFloat,0.2)
 CustomObject(lakegraniteboulder,lakegraniteboulder1)
 CustomObject(OceanVine1,OceanVine2,OceanVine3)
 CustomObject(OceanVine1,OceanVine2,OceanVine3)
