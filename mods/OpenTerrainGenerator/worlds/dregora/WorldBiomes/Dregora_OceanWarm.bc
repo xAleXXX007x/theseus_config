@@ -186,7 +186,7 @@ Ore(COAL_ORE,17,20,100.0,3,128,STONE)
 Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,chisel:basalt2:7)
 
 
-CustomStructure(ShipsSunkOceanWarm,0.1,structure_warm,0.2,ShipsFloat,0.1)
+# CustomStructure(ShipsSunkOceanWarm,0.1,structure_warm,0.2,ShipsFloat,0.1)
 CustomObject(dungeon)
 CustomObject(OceanVine1,OceanVine2,OceanVine3)
 CustomObject(coral01,coral02,coral03,seaplant01,seaplant04,seaplant05)

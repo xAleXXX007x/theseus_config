@@ -188,7 +188,7 @@ Ore(DIRT,33,10,100.0,33,60,STONE)
 Ore(DIAMOND_ORE,8,1,100.0,33,40,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
 
-CustomStructure(ShipsFloat,0.01,structure_warm,0.1)
+# CustomStructure(ShipsFloat,0.01,structure_warm,0.1)
 CustomObject(dungeon)
 
 Tree(3,warm_8,10,warm_7,10,warm_6,10,warm_5,10,warm_4,10,warm_3,10,warm_2,10,warm_1,10)
