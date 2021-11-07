@@ -8,7 +8,7 @@ SettingsMode: WriteDisable
 
 IsOTGPlus: false
 Tree: false
-Frequency: 2
+Frequency: 1
 Rarity: 100
 RotateRandomly: true
 SpawnHeight: randomY
@@ -1465,4 +1465,3 @@ B(1,11,3,LEAVES:7)
 B(2,11,3,LEAVES:7)
 B(6,11,3,LEAVES:7)
 B(7,11,3,LEAVES:7)
-

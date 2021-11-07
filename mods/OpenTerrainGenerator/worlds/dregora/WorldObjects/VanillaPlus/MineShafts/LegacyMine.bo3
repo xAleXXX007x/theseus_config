@@ -8,7 +8,7 @@ SettingsMode: WriteDisable
 
 IsOTGPlus: false
 Tree: false
-Frequency: 5
+Frequency: 1
 Rarity: 100
 RotateRandomly: true
 SpawnHeight: randomY

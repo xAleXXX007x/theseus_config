@@ -8,7 +8,7 @@ SettingsMode: WriteDisable
 
 IsOTGPlus: false
 Tree: false
-Frequency: 2
+Frequency: 1
 Rarity: 100
 RotateRandomly: true
 SpawnHeight: randomY
@@ -403,4 +403,3 @@ RB(-5,5,3,STONEBRICK:1,10,STONEBRICK:2,10,COBBLESTONE,10,MOSSY_COBBLESTONE,10,SM
 B(-4,5,3,LEAVES:7)
 RB(2,5,3,STONEBRICK:1,10,STONEBRICK:2,10,COBBLESTONE,10,MOSSY_COBBLESTONE,10,SMOOTH_BRICK,100)
 B(2,5,4,VINE:4)
-

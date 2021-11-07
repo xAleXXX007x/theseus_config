@@ -22,7 +22,7 @@ SettingsMode: WriteDisable
 
 Tree: false
 
-Frequency: 10
+Frequency: 1
 
 Rarity: 100.0
 
@@ -3925,4 +3925,3 @@ Branch(10,0,7, MineShaftWoodSuspension,NORTH,100.0)
 # |                             ModData                             | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
-
