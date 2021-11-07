@@ -195,7 +195,7 @@ Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 Liquid(STATIONARY_LAVA,50,100.0,30,31,STONE)
 Liquid(STATIONARY_LAVA,20,100.0,45,46,STONE)
 
-CustomStructure(MineshaftTower,100.0,dragonchasm01,1.0,lavatemple01,1.0,CenterRuin,0.01,RandomRuins,10.0)
+# CustomStructure(MineshaftTower,100.0,dragonchasm01,1.0,lavatemple01,1.0,CenterRuin,0.01,RandomRuins,10.0)
 CustomObject(plainbush1,plainbush2,plainbush3,plainbush4,plainbush5,plainbush6,plainbush7,plainbush8)
 CustomObject(oak1,oak2,oak3)
 CustomObject(dungeon)
@@ -276,4 +276,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:plains
-

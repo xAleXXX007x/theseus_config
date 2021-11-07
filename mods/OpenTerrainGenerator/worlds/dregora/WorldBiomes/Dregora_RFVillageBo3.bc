@@ -188,7 +188,7 @@ Ore(DIRT,33,10,100.0,50,60,STONE:0)
 Ore(DIAMOND_ORE,4,4,100.0,3,8,STONE:0)
 Ore(COAL_ORE,17,20,100.0,3,60,STONE:0)
 
-CustomStructure(JungleVillage,100.0)
+# CustomStructure(JungleVillage,100.0)
 CustomObject(dungeon,RF_FLoatSpike,RF_FloatBoulder)
 
 
@@ -273,4 +273,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:jungle
-

@@ -188,7 +188,7 @@ Ore(DIRT,32,20,100.0,3,256,STONE)
 Ore(DIAMOND_ORE,4,4,100.0,3,16,STONE)
 Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 
-CustomStructure(MineshaftTower,100.0,dragonchasm01,1.0,lavatemple01,1.0)
+# CustomStructure(MineshaftTower,100.0,dragonchasm01,1.0,lavatemple01,1.0)
 CustomObject(plainbush1,plainbush2,plainbush3,plainbush4,plainbush5,plainbush6,plainbush7,plainbush8)
 CustomObject(dungeon)
 CustomObject(boulder1,boulder2,boulder3)
@@ -267,4 +267,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:savanna_rock
-

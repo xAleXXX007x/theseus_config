@@ -191,7 +191,7 @@ Ore(DIRT,33,10,100.0,3,256,STONE)
 Ore(DIAMOND_ORE,8,1,100.0,3,16,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
 
-CustomStructure(Pir29,100.0)
+# CustomStructure(Pir29,100.0)
 CustomObject(dungeon)
 CustomObject(MountainBush4,MountainBush8)
 CustomObject(LakeBoulderLarge1,LakeBoulderLarge2,LakeBoulderLarge3,LakeBoulderMedium)
@@ -272,4 +272,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:beaches
-

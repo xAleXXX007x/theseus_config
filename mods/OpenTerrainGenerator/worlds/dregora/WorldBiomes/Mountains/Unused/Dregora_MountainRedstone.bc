@@ -189,7 +189,7 @@ Ore(GRAVEL,20,10,100.0,100,256,STONE)
 Ore(DIRT,32,10,100.0,3,110,STONE)
 Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 
-CustomStructure(rshaft,50.0)
+# CustomStructure(rshaft,50.0)
 CustomObject(dungeon)
 
 
@@ -268,4 +268,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:taiga_hills
-

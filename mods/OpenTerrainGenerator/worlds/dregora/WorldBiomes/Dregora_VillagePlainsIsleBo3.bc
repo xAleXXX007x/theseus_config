@@ -186,7 +186,7 @@ Ore(DIRT,32,20,100.0,3,256,STONE)
 Ore(DIAMOND_ORE,4,4,100.0,3,16,STONE)
 Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 
-CustomStructure(village,100.0)
+# CustomStructure(village,100.0)
 CustomObject(plainbush1,plainbush2,plainbush3,plainbush4,plainbush5,plainbush6,plainbush7,plainbush8)
 CustomObject(oak1,oak2,oak3)
 CustomObject(dungeon)
@@ -283,4 +283,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:mutated_plains
-

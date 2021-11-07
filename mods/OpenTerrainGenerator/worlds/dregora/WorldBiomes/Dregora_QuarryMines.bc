@@ -197,7 +197,7 @@ Ore(DIAMOND_ORE,4,4,100.0,3,16,STONE)
 Ore(DIAMOND_ORE,4,4,100.0,3,16,STONE)
 Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 
-CustomStructure(MineshaftTower,100.0)
+# CustomStructure(MineshaftTower,100.0)
 CustomObject(dungeon)
 CustomObject(QuarryMountainBush1,QuarryMountainBush2,QuarryMountainBush3)
 CustomObject(QuarryBo1,QuarryBo2,Quarrytrunk1,Quarrytrunk2,Quarrytrunk3,Quarrytrunk4,Quarrytrunk5,Quarrytrunk6)
@@ -281,4 +281,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:redwood_taiga
-

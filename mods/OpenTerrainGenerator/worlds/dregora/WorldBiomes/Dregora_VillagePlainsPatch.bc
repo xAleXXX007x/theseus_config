@@ -186,7 +186,7 @@ Ore(DIRT,32,20,100.0,3,256,STONE)
 Ore(DIAMOND_ORE,4,4,100.0,3,16,STONE)
 Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 
-CustomStructure(windmill,2.5)
+# CustomStructure(windmill,2.5)
 CustomObject(oak1,oak2,oak3)
 CustomObject(farmhouse,haybarn1,haybarn2,haystack1,haystack2,haystack3,haystack4,wagon1,wagon2)
 CustomObject(dungeon)
@@ -269,4 +269,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:mutated_plains
-
