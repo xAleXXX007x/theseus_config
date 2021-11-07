@@ -190,7 +190,7 @@ Ore(DIAMOND_ORE,4,4,100.0,3,8,STONE:0)
 Ore(COAL_ORE,17,20,100.0,3,60,STONE:0)
 Ore(173,5,45,100,70,80,159:15)
 
-CustomStructure(Dragon_Skeleton,0.5,Worm_Skeleton,0.5)
+CustomStructure(Dragon_Skeleton,0.25,Worm_Skeleton,0.25)
 CustomObject(dungeon,tropicalbush_med_lava,tropicalbush_large_lava)
 CustomObject(Lizard_Skeleton,Mammoth_Skeleton,SmallDino_Skeleton)
 
