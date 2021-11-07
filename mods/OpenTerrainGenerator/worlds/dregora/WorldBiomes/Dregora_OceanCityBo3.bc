@@ -195,7 +195,7 @@ Liquid(STATIONARY_LAVA,10,100.0,8,60,STONE)
 Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,OBSIDIAN)
 
 
-CustomStructure(Sap53,100.0)
+# CustomStructure(Sap53,100.0)
 CustomObject(lakegraniteboulder,lakegraniteboulder1)
 CustomObject(dungeon)
 CustomObject(Ocean-ceilingstonecave_04,Ocean-ceilingstonecave_03,Ocean-ceilingstonecave_02,Ocean-ceilingstonecave_01)
@@ -280,4 +280,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:ocean
-
