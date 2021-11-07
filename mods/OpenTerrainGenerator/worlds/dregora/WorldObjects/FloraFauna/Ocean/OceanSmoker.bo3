@@ -1629,10 +1629,10 @@ RandomBlock(0,29,-2,OBSIDIAN:0,50,159:10,100)
 #   BlockCheck(0,-1,0,WOOL:0)      Require white wool just below the object
 #   BlockCheckNot(0,-1,0,WOOL:0)   Require that there is no white wool below the object
 #   LightCheck(0,0,0,0,1)          Require almost complete darkness just below the object
-BlockCheck(0,13,-5,OBSIDIAN)
-BlockCheck(-6,13,-1,OBSIDIAN)
-BlockCheck(5,13,0,OBSIDIAN)
-BlockCheck(1,13,4,OBSIDIAN)
+BlockCheck(0,13,-5,chisel:basalt2:7)
+BlockCheck(-6,13,-1,chisel:basalt2:7)
+BlockCheck(5,13,0,chisel:basalt2:7)
+BlockCheck(1,13,4,chisel:basalt2:7)
 
 #######################################################################
 # +-----------------------------------------------------------------+ #
@@ -1653,4 +1653,3 @@ BlockCheck(1,13,4,OBSIDIAN)
 # Weighted Branches spawn branches with a dependent chance of spawning.
 # WeightedBranch(x,y,z,branchName,rotation,chance[,anotherBranchName,rotation,chance[,...]][MaxChanceOutOf])
 # MaxChanceOutOf - The chance all branches have to spawn out of, assumed to be 100 when left blank
-

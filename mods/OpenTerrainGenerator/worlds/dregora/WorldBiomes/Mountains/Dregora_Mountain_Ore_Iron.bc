@@ -112,7 +112,7 @@ SurfaceBlock: STONE
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: AIR, OBSIDIAN, -0.1, AIR, OBSIDIAN, 0.1, STONE, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, STONE, STONE, 1.5, OBSIDIAN, OBSIDIAN, 3.5, OBSIDIAN, OBSIDIAN, 3.55, OBSIDIAN, OBSIDIAN, 3.6,OBSIDIAN, OBSIDIAN, 3.65, OBSIDIAN, OBSIDIAN, 3.70, OBSIDIAN, OBSIDIAN, 3.75, OBSIDIAN, OBSIDIAN, 3.8
+SurfaceAndGroundControl: AIR, chisel:basalt2:7, -0.1, AIR, chisel:basalt2:7, 0.1, STONE, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, STONE, STONE, 1.5, chisel:basalt2:7, chisel:basalt2:7, 3.5, chisel:basalt2:7, chisel:basalt2:7, 3.55, chisel:basalt2:7, chisel:basalt2:7, 3.6,chisel:basalt2:7, chisel:basalt2:7, 3.65, chisel:basalt2:7, chisel:basalt2:7, 3.70, chisel:basalt2:7, chisel:basalt2:7, 3.75, chisel:basalt2:7, chisel:basalt2:7, 3.8
 
 ReplacedBlocks: (STATIONARY_LAVA,ICE,0,30),(STATIONARY_LAVA,ICE,0,30),(GRASS,ICE,0,30),(SNOW_BLOCK,STONE,155,200)
 

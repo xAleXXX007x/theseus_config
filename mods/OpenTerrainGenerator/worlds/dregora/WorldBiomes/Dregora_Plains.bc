@@ -172,8 +172,8 @@ FogThunderWeight: 0.5
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-Vein(OBSIDIAN,50,100,30.0,40,1,30,30,40,STONE)
-Vein(OBSIDIAN,50,100,30.0,40,1,30,0,40,STONE)
+Vein(chisel:basalt2:7,50,100,30.0,40,1,30,30,40,STONE)
+Vein(chisel:basalt2:7,50,100,30.0,40,1,30,0,40,STONE)
 UnderWaterOre(SAND,7,4,100.0,DIRT,GRASS)
 UnderWaterOre(GRAVEL,8,1,100.0,DIRT,CLAY)
 UnderGroundLake(25,60,2,5.0,0,50)
@@ -280,4 +280,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:plains
-

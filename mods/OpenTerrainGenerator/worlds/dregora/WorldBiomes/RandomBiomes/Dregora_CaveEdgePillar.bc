@@ -213,13 +213,13 @@ GroundBlock: SANDSTONE:0
 
 # Alternatively, you can use Mesa, MesaForest or MesaBryce to get blocks
 # like the blocks found in the Mesa biomes.
-SurfaceAndGroundControl: STONE:0, STONE:0, -0.7, STONE:3, STONE:0, -0.35, OBSIDIAN, OBSIDIAN, -0.1, OBSIDIAN, OBSIDIAN, 0.1, STONE:3, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
+SurfaceAndGroundControl: STONE:0, STONE:0, -0.7, STONE:3, STONE:0, -0.35, chisel:basalt2:7, chisel:basalt2:7, -0.1, chisel:basalt2:7, chisel:basalt2:7, 0.1, STONE:3, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
 
 # Replace Variable: (blockFrom,blockTo[:blockDataTo][,minHeight,maxHeight])
 # Example :
 #   ReplacedBlocks: (GRASS,DIRT,100,127),(GRAVEL,GLASS)
 # Replace grass block to dirt from 100 to 127 height and replace gravel to glass on all height 
-ReplacedBlocks: (GRAVEL,SAND,39,39),(STONE:1,SAND,39,39),(STONE:0,SAND,39,39),(SANDSTONE:0,STONE:0,150,180),(STONE:0,SANDSTONE:0,180,256),(SAND:0,SANDSTONE:0,100,150),(OBSIDIAN,MAGMA,38,39),(GRASS,DIRT:2,154,156)
+ReplacedBlocks: (GRAVEL,SAND,39,39),(STONE:1,SAND,39,39),(STONE:0,SAND,39,39),(SANDSTONE:0,STONE:0,150,180),(STONE:0,SANDSTONE:0,180,256),(SAND:0,SANDSTONE:0,100,150),(chisel:basalt2:7,MAGMA,38,39),(GRASS,DIRT:2,154,156)
 
 ################################
 # Water / Lava & Frozen States #
@@ -401,7 +401,7 @@ CustomObject(dungeon)
 CustomObject(CO-CeilingSpike-01,CO-CeilingSpike-02,CO-CeilingSpike-03,CO-CeilingSpike-04)
 CustomObject(Ocean-stonecave_01,Ocean-stonecave_02,Ocean-stonecave_03,Ocean-stonecave_04)
 CustomObject(CO-Coral-01,CO-Coral-02,CO-Coral-03,CO-Coral-04,CO-Reef-01,CO-Reef-02)
-CustomObject(CO-ColumnMixed,CO-ColumnObsidian,CO-ColumnDiorite,CO-ColumnLeaves,CO-ColumnStone)
+CustomObject(CO-ColumnMixed,CO-Columnchisel:basalt2:7,CO-ColumnDiorite,CO-ColumnLeaves,CO-ColumnStone)
 CustomObject(CO-ColumnBig-01,CO-ColumnSmall-01,CO-ColumnSmall-02,CO-ColumnSmall-03,CO-ColumnSmall-04,CO-ColumnSmall-05)
 CustomObject(CO-Vines)
 
@@ -583,4 +583,3 @@ BiomeDictId:
 # will override inherited mob settings for the same mob.
 # Use this setting to inherit modded mobs from vanilla biomes (see also: BiomeDictId)
 InheritMobsBiomeName: minecraft:beaches
-

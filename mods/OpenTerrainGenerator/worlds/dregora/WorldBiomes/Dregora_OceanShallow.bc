@@ -114,7 +114,7 @@ GroundBlock: SAND
 
 SurfaceAndGroundControl: GRASS, DIRT, -0.8, GRASS, DIRT, 0.0  
 
-ReplacedBlocks: (CLAY,SAND,30,70),(GRAVEL,SAND,30,70),(DIRT,SAND,30,70),(GRASS,SAND,30,70),(STATIONARY_WATER,AIR,5,33),(SAND,GRASS,93,120),(STONE,OBSIDIAN,31,32),(SAND,OBSIDIAN,31,32)
+ReplacedBlocks: (CLAY,SAND,30,70),(GRAVEL,SAND,30,70),(DIRT,SAND,30,70),(GRASS,SAND,30,70),(STATIONARY_WATER,AIR,5,33),(SAND,GRASS,93,120),(STONE,chisel:basalt2:7,31,32),(SAND,chisel:basalt2:7,31,32)
 
 ################################
 # Water / Lava & Frozen States #
@@ -271,4 +271,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:ocean
-

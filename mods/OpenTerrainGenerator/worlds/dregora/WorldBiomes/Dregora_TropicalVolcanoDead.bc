@@ -112,7 +112,7 @@ SurfaceBlock: COBBLESTONE
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: OBSIDIAN, OBSIDIAN, -0.2 
+SurfaceAndGroundControl: chisel:basalt2:7, chisel:basalt2:7, -0.2 
 
 ReplacedBlocks: (STONE,STATIONARY_LAVA,10,20),(STONE,STATIONARY_LAVA,10,20),(STONE,STATIONARY_LAVA,10,20),(STONE,STATIONARY_LAVA,10,20),(DIRT,STATIONARY_LAVA,10,20),(GRAVEL,STATIONARY_LAVA,10,20),(COAL_ORE,STATIONARY_LAVA,10,20),(REDSTONE_ORE,STATIONARY_LAVA,10,20),(LAPIS_ORE,STATIONARY_LAVA,10,20)
 
@@ -269,4 +269,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:jungle_edge
-

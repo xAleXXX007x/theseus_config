@@ -110,9 +110,9 @@ SurfaceBlock: SAND
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl: GRASS:0, STONE:0, -0.7, OBSIDIAN, STONE:0, -0.35, MAGMA, MAGMA, -0.1, MAGMA, MAGMA, 0.1, OBSIDIAN, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
+SurfaceAndGroundControl: GRASS:0, STONE:0, -0.7, chisel:basalt2:7, STONE:0, -0.35, MAGMA, MAGMA, -0.1, MAGMA, MAGMA, 0.1, chisel:basalt2:7, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
 
-ReplacedBlocks: (SAND,GRASS,85,120),(AIR,WATER,0,9),(MAGMA,GRASS,50,256),(OBSIDIAN,DIRT:2,50,256)
+ReplacedBlocks: (SAND,GRASS,85,120),(AIR,WATER,0,9),(MAGMA,GRASS,50,256),(chisel:basalt2:7,DIRT:2,50,256)
 
 ################################
 # Water / Lava & Frozen States #
@@ -265,4 +265,3 @@ SpawnAmbientCreatures: []
 BiomeDictId: BEACH, JUNGLE, WET, HOT
 
 InheritMobsBiomeName: minecraft:beaches
-

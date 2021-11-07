@@ -114,7 +114,7 @@ GroundBlock: SAND
 
 SurfaceAndGroundControl: GRAVEL, SAND, -0.7, WATER, GRAVEL, -0.35, WATER, GRAVEL, 0.35, WATER, GRAVEL, 0.7, GRAVEL, SAND, 1.5 
 
-ReplacedBlocks: (AIR,WATER,0,12),(SAND,GRASS,93,120),(STONE,OBSIDIAN,31,32),(GRAVEL,OBSIDIAN,31,32),(SAND,OBSIDIAN,31,32),(COAL_ORE,OBSIDIAN,31,32)
+ReplacedBlocks: (AIR,WATER,0,12),(SAND,GRASS,93,120),(STONE,chisel:basalt2:7,31,32),(GRAVEL,chisel:basalt2:7,31,32),(SAND,chisel:basalt2:7,31,32),(COAL_ORE,chisel:basalt2:7,31,32)
 
 ################################
 # Water / Lava & Frozen States #
@@ -186,7 +186,7 @@ Ore(GOLD_ORE,9,2,100.0,33,40,STONE)
 Ore(DIRT,33,10,100.0,33,60,STONE)
 Ore(DIAMOND_ORE,8,1,100.0,33,40,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
-Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,OBSIDIAN)
+Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,chisel:basalt2:7)
 
 
 CustomStructure(structure_brick,0.2,ShipsFloat,0.2)
@@ -272,4 +272,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:ocean
-

@@ -112,7 +112,7 @@ SurfaceBlock: STONE
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: AIR, MAGMA, -0.1, AIR, MAGMA, 0.1, STONE, STONE, -0.7, OBSIDIAN, STONE, -0.35, OBSIDIAN, STONE, 0.35, OBSIDIAN, STONE, 0.7, STONE, STONE, 1.5
+SurfaceAndGroundControl: AIR, MAGMA, -0.1, AIR, MAGMA, 0.1, STONE, STONE, -0.7, chisel:basalt2:7, STONE, -0.35, chisel:basalt2:7, STONE, 0.35, chisel:basalt2:7, STONE, 0.7, STONE, STONE, 1.5
 
 ReplacedBlocks:
 
@@ -173,8 +173,8 @@ FogThunderWeight: 0.5
 #######################################################################
 
 Ore(STONE:5,16,8,100.0,3,256,STONE)
-Ore(OBSIDIAN,16,8,100.0,3,256,STONE)
-Ore(OBSIDIAN,16,8,100.0,3,256,STONE)
+Ore(chisel:basalt2:7,16,8,100.0,3,256,STONE)
+Ore(chisel:basalt2:7,16,8,100.0,3,256,STONE)
 Ore(REDSTONE_ORE,4,8,100.0,3,42,STONE)
 Ore(LAPIS_ORE,7,1,100.0,3,16,STONE)
 Ore(IRON_ORE,8,5,100.0,3,100,STONE)
@@ -265,4 +265,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:mesa_rock
-

@@ -42,7 +42,7 @@ MaxHeight: 80
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-SourceBlocks: AIR,STONE,GRASS,LEAVES,LOG,OBSIDIAN,PODZOL,DIRT,COAL_ORE
+SourceBlocks: AIR,STONE,GRASS,LEAVES,LOG,chisel:basalt2:7,PODZOL,DIRT,COAL_ORE
 MaxPercentageOutsideSourceBlock: 10
 OutsideSourceBlock: placeAnyway
 

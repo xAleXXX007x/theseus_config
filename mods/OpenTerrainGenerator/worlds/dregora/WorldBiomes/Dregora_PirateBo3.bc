@@ -114,7 +114,7 @@ GroundBlock: DIRT
 
 SurfaceAndGroundControl: 
 
-ReplacedBlocks: (OBSIDIAN,STATIONARY_LAVA,50,60)
+ReplacedBlocks: (chisel:basalt2:7,STATIONARY_LAVA,50,60)
 
 ################################
 # Water / Lava & Frozen States #

@@ -112,7 +112,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl: OBSIDIAN, OBSIDIAN, -0.5, DIRT:1, DIRT, 0.1 
+SurfaceAndGroundControl: chisel:basalt2:7, chisel:basalt2:7, -0.5, DIRT:1, DIRT, 0.1 
 
 ReplacedBlocks: None
 
@@ -175,7 +175,7 @@ FogThunderWeight: 0.5
 UnderWaterOre(SAND,7,4,100.0,DIRT,GRASS)
 UnderWaterOre(GRAVEL,8,1,100.0,DIRT,CLAY)
 SurfacePatch(DIRT:2,DIRT:2,77,77,GRASS,DIRT:1)
-SurfacePatch(DIRT:1,AIR,70,80,OBSIDIAN)
+SurfacePatch(DIRT:1,AIR,70,80,chisel:basalt2:7)
 Ore(STONE:5,16,8,100.0,3,256,STONE)
 Ore(STONE:3,16,8,100.0,3,256,STONE)
 Ore(STONE:1,16,8,100.0,3,256,STONE)
@@ -273,5 +273,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:redwood_taiga
-
-

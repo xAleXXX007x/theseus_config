@@ -61,7 +61,7 @@ ExcludedBiomes: All
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-SourceBlocks: STONE,GRASS,DIRT,OBSIDIAN,STONE:1,STONE:5,STONE:3,GRAVEL,COAL_ORE,IRON_ORE,GOLD_ORE,REDSTONE_ORE,DIAMOND_ORE,LAPIS_ORE,SAND,CLAY,concrete:15,concrete_powder:15
+SourceBlocks: STONE,GRASS,DIRT,chisel:basalt2:7,STONE:1,STONE:5,STONE:3,GRAVEL,COAL_ORE,IRON_ORE,GOLD_ORE,REDSTONE_ORE,DIAMOND_ORE,LAPIS_ORE,SAND,CLAY,concrete:15,concrete_powder:15
 
 MaxPercentageOutsideSourceBlock: 100
 
@@ -2916,4 +2916,3 @@ Branch(0,0,16, RF_CaveShip_03-03,NORTH,100.0)
 # |                             ModData                             | #
 # +-----------------------------------------------------------------+ #
 #######################################################################
-

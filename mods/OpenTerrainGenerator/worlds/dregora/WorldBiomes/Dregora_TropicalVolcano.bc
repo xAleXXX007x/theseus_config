@@ -172,7 +172,7 @@ FogThunderWeight: 0.5
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-Ore(OBSIDIAN,4,10,100.0,60,200,GRAVEL)
+Ore(chisel:basalt2:7,4,10,100.0,60,200,GRAVEL)
 Ore(STONE:1,16,8,100.0,3,256,STONE)
 Ore(STONE:5,16,8,100.0,3,256,STONE)
 Ore(STONE:3,16,8,100.0,3,256,STONE)
@@ -268,4 +268,3 @@ SpawnAmbientCreatures: []
 BiomeDictId:
 
 InheritMobsBiomeName: minecraft:jungle_edge
-

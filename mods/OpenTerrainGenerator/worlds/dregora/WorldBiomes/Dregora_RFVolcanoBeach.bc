@@ -113,7 +113,7 @@ GroundBlock: 159:15
 
 SurfaceAndGroundControl: 
 
-SurfaceAndGroundControl: GRASS:0, STONE:0, -0.7, OBSIDIAN, STONE:0, -0.35, MAGMA, MAGMA, -0.1, MAGMA, MAGMA, 0.1, OBSIDIAN, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
+SurfaceAndGroundControl: GRASS:0, STONE:0, -0.7, chisel:basalt2:7, STONE:0, -0.35, MAGMA, MAGMA, -0.1, MAGMA, MAGMA, 0.1, chisel:basalt2:7, STONE:0, 0.35, STONE:3, STONE:0, 0.7, STONE:0, STONE:0, 1.5 
 
 ################################
 # Water / Lava & Frozen States #
@@ -269,4 +269,3 @@ SpawnAmbientCreatures: []
 BiomeDictId: JUNGLE, HOT, DEAD, BEACH
 
 InheritMobsBiomeName: minecraft:jungle_hills
-
