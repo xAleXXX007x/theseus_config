@@ -30,8 +30,6 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:wirecoil:2>,
     <immersiveengineering:metal_device0:4>,
     <immersiveengineering:metal_device1:6>,
-    <engineersdecor:treated_wood_crafting_table>,
-    <patchouli:guide_book>.withTag({"patchouli:book": "engineersdecor:engineersdecor_manual"})
   ],
   [ENG_1]: [
     <immersiveengineering:wooden_device0:2>,
@@ -96,22 +94,6 @@ var stagedItems as IIngredient[][string] = {
     <immersivetech:valve>,
     <immersivetech:valve:1>,
     <immersivetech:valve:2>,
-    <engineersdecor:small_lab_furnace>,
-    <engineersdecor:small_electrical_furnace>,
-    <engineersdecor:factory_hopper>,
-    <engineersdecor:factory_dropper>,
-    <engineersdecor:factory_placer>,
-    <engineersdecor:small_block_breaker>,
-    <engineersdecor:small_tree_cutter>,
-    <engineersdecor:small_waste_incinerator>,
-    <engineersdecor:small_solar_panel>,
-    <engineersdecor:small_mineral_smelter>,
-    <engineersdecor:straight_pipe_valve>,
-    <engineersdecor:straight_pipe_valve_redstone>,
-    <engineersdecor:straight_pipe_valve_redstone_analog>,
-    <engineersdecor:small_fluid_funnel>,
-    <engineersdecor:passive_fluid_accumulator>,
-    <engineersdecor:small_milking_machine>
   ],
   [SMT_1]: [
     <immersiveengineering:pickaxe_steel>,

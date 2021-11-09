@@ -1,9 +1,0 @@
-{
-	"name" : "loot:loot_tables",
-	"lootTables" : [
-		{"level" : [0, 1, 2], "table" : "loot:tier1"},
-    {"level" : [3, 4], "table" : "loot:tier2"},
-    {"level" : 4, "table" : "loot:tier3"}
-      
-	]
-}

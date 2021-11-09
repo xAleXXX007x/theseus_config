@@ -24,7 +24,7 @@ Book.addBook(ENG_3, "Лёгкая инженерия 3", "Мануал: Лёгк
 
 Book.addBook(MNF_1, "Тяжелая инженерия 1", "Мануал: Тяжелая инженерия 1", "engineersdecor:small_electrical_furnace", 0xababab);
 Book.addBook(MNF_2, "Тяжелая инженерия 2", "Мануал: Тяжелая инженерия 2", "mekanism:machineblock", 0x595959);
-Book.addBook(MNF_3, "Тяжелая инженерия 3", "Мануал: Тяжелая инженерия 3", "nuclearcraft:fusion_core", 0x2b2b2b);
+Book.addBook(MNF_3, "Тяжелая инженерия 3", "Мануал: Тяжелая инженерия 3", "alchemistry:fusion_core", 0x2b2b2b);
 
 Book.addBook(INF_1, "Информатика", "Мануал: Информатика", "opencomputers:tool", 0x1d308f);
 
