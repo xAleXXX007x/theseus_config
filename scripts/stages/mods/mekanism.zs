@@ -7,8 +7,6 @@ var stagedItems as IIngredient[][string] = {
         <mekanism:robit>
     ],
     [ENG_1]:[
-      <mekanism:configurator>,
-      <mekanism:networkreader>,
       <mekanism:walkietalkie>.withTag({mekData: {channel: 1}}),
       <mekanism:scubatank>,
       <mekanism:jetpack>,
@@ -30,6 +28,8 @@ var stagedItems as IIngredient[][string] = {
       <mekanism:atomicdisassembler>
     ],
     [TCH_1]:[
+      <mekanism:configurator>,
+      <mekanism:networkreader>,
       <mekanism:machineblock:13>,
       <mekanism:energytablet>,
       <mekanism:enrichedalloy>,
@@ -55,7 +55,6 @@ var stagedItems as IIngredient[][string] = {
       <mekanism:gastank>.withTag({tier: 1}),
       <mekanism:machineblock2:11>.withTag({tier: 0}),
       <mekanism:machineblock2:11>.withTag({tier: 1}),
-      <mekanism:glowpanel>,
       <mekanism:energycube>.withTag({tier: 0})
     ],
     [TCH_2]:[
