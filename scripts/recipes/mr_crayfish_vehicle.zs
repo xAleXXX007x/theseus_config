@@ -1,0 +1,31 @@
+import mods.vr.Workstation;
+import mods.industrialforegoing.FluidDictionary;
+
+FluidDictionary.add("gasoline", "fuelium", 1.28); // 160 RF/T
+FluidDictionary.add("refined_fuel", "fuelium", 1.6); // 200 RF/T
+FluidDictionary.add("diesel", "fuelium", 1); // 125 RF/T
+FluidDictionary.add("biodiesel", "fuelium", 1); // 125 RF/T
+
+Workstation.changeRecipe("ALUMINUM_BOAT", [<thermalfoundation:storage:4> * 10, <techguns:itemshared:57> * 16, <vehicle:panel> * 16, <minecraft:iron_trapdoor> * 4]);
+Workstation.changeRecipe("ATV", [<techguns:itemshared:57> * 16, <vehicle:panel> * 16, <minecraft:wool:15> * 4, <minecraft:iron_bars> * 4, <immersiveengineering:metal_decoration0:4> * 4, <immersiveengineering:material:27> * 2]);
+Workstation.changeRecipe("BUMPER_CAR", [<immersiveengineering:material:27> * 4, <immersiveengineering:metal_decoration0:4> * 4, <vehicle:panel> * 8, <thermalfoundation:material:832> * 15, <techguns:itemshared:57> * 8]);
+Workstation.changeRecipe("DIRT_BIKE", [<minecraft:wool:7> * 4, <techguns:itemshared:57> * 16, <vehicle:panel> * 16, <immersiveengineering:metal_decoration0:4> * 4, <immersiveengineering:material:2> * 4, <techguns:itemshared:72>, <immersiveengineering:metal_device1:6> * 4]);
+Workstation.changeRecipe("DUNE_BUGGY", [<minecraft:carpet:4>, <techguns:itemshared:57> * 4, <immersiveengineering:metal_decoration0:4>, <vehicle:panel> * 4, <thermalfoundation:material:354> * 4, <thermalfoundation:material:290> * 2]);
+Workstation.changeRecipe("FERTILIZER_TRAILER", [<vehicle:panel> * 16, <techguns:itemshared:57> * 16, <immersiveengineering:material:27> * 2, <immersiveengineering:metal_decoration0:5> * 4, <techguns:itemshared:72> * 4]);
+Workstation.changeRecipe("FLUID_TRAILER", [<immersiveengineering:metal_decoration0:4> * 4, <techguns:itemshared:72> * 2, <vehicle:panel> * 16, <thaumcraft:plate> * 8, <mekanism:machineblock2:11>.withTag({tier: 0}) * 4, <minecraft:glass_pane> * 8]);
+Workstation.changeRecipe("GO_KART", [<immersiveengineering:metal_decoration0:4> * 4, <techguns:itemshared:57> * 16, <vehicle:panel> * 8, <minecraft:iron_bars> * 2, <thaumcraft:plate> * 4]);
+Workstation.changeRecipe("GOLF_CART", [<immersiveengineering:material:27> * 4, <minecraft:iron_bars> * 8, <vehicle:panel> * 16, <techguns:itemshared:57> * 8, <minecraft:wool> * 8, <thaumcraft:plate> * 32]);
+Workstation.changeRecipe("JET_SKI", [<thermalfoundation:storage:4> * 4, <vehicle:panel> * 16, <industrialforegoing:plastic> * 16, <thermalfoundation:material:832> * 16, <techguns:itemshared:72> * 4, <immersiveengineering:material:27> * 2]);
+Workstation.changeRecipe("LAWN_MOWER", [<minecraft:wool:15> * 4, <vehicle:panel> * 16, <techguns:itemshared:57> * 16, <industrialforegoing:crop_recolector>, <immersiveengineering:material:27> * 2, <thaumcraft:plate> * 8, <industrialforegoing:plastic> * 8]);
+Workstation.changeRecipe("MINI_BIKE", [<immersiveengineering:metal_decoration0:4> * 2, <immersiveengineering:material:3> * 16, <immersiveengineering:material:2> * 8, <minecraft:iron_bars> * 4, <minecraft:wool:15> * 2]);
+Workstation.changeRecipe("MINI_BUS", [<minecraft:glass_pane> * 16, <techguns:itemshared:57> * 32, <vehicle:panel> * 16, <thermalfoundation:material:324> * 32, <thermalfoundation:storage:4> * 4, <immersiveengineering:metal_decoration0:5> * 2, <minecraft:wool:7> * 16]);
+Workstation.changeRecipe("MOPED", [<minecraft:iron_bars> * 4, <techguns:itemshared:57> * 8, <vehicle:panel> * 8, <minecraft:wool:15> * 4, <thermalfoundation:material:324> * 16, <immersiveengineering:metal_decoration0:4> * 2]);
+Workstation.changeRecipe("OFF_ROADER", [<minecraft:glass_pane> * 8, <minecraft:iron_bars> * 8, <immersiveengineering:metal_decoration0:5> * 8, <vehicle:panel> * 32, <techguns:itemshared:57> * 32, <thermalfoundation:material:324> * 32, <thermalfoundation:storage:4> * 8, <immersiveengineering:material:27> * 8, <techguns:itemshared:72> * 4]);
+Workstation.changeRecipe("SEEDER_TRAILER", [<vehicle:panel> * 8, <techguns:itemshared:57> * 16, <industrialforegoing:crop_sower>, <thaumcraft:plate> * 8, <thermalfoundation:material:324> * 8]);
+Workstation.changeRecipe("SHOPPING_CART", [<minecraft:iron_bars> * 4, <minecraft:iron_trapdoor> * 4, <techguns:itemshared:57> * 8, <thermalfoundation:material:324> * 4]);
+Workstation.changeRecipe("SMART_CAR", [<minecraft:glass_pane> * 8, <thermalfoundation:material:324> * 16, <thermalfoundation:storage:4> * 4, <immersiveengineering:metal_decoration0:5> * 4, <immersiveengineering:metal_decoration0:4> * 2, <immersiveengineering:material:27> * 4, <vehicle:panel> * 16, <minecraft:wool:15> * 16]);
+Workstation.changeRecipe("SPEED_BOAT", [<thermalfoundation:storage:4> * 8, <thermalfoundation:material:324> * 32, <immersiveengineering:metal_decoration0:5> * 8, <immersiveengineering:metal_decoration0:4> * 8, <techguns:itemshared:72> * 4, <immersiveengineering:material:27> * 8, <minecraft:glass_pane> * 8, <minecraft:wool:15> * 8]);
+Workstation.changeRecipe("SPORTS_PLANE", [<minecraft:glass_pane> * 32, <thermalfoundation:material:324> * 32, <thermalfoundation:storage:4> * 8, <immersiveengineering:material:27> * 32, <techguns:itemshared:72> * 8, <immersiveengineering:metal_decoration0:4> * 16, <immersiveengineering:metal_decoration0:5> * 16, <vehicle:panel> * 32]);
+Workstation.changeRecipe("STORAGE_TRAILER", [<techguns:itemshared:57> * 16, <thermalfoundation:material:324> * 16, <vehicle:panel> * 16, <thaumcraft:plate> * 8, <minecraft:iron_trapdoor> * 4, <minecraft:iron_bars> * 8, <immersiveengineering:wooden_device0>]);
+Workstation.changeRecipe("TRACTOR", [<techguns:itemshared:57> * 32, <immersiveengineering:metal_decoration0:5> * 16, <immersiveengineering:metal_decoration0:4> * 16, <techguns:itemshared:72> * 64, <minecraft:iron_bars> * 8, <immersiveengineering:material:27> * 8, <thaumcraft:plate> * 16, <minecraft:wool:15> * 8, <vehicle:panel> * 32]);
+Workstation.changeRecipe("VEHICLE_TRAILER", [<techguns:itemshared:57> * 8, <minecraft:iron_trapdoor> * 8, <minecraft:iron_bars> * 8, <immersiveengineering:material:2> * 8, <thaumcraft:plate> * 8, <vehicle:panel> * 8]);
