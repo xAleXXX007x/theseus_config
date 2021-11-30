@@ -24,8 +24,8 @@
             "posY" : 100,
             "width" : 200,
             "height" : 30,
-			"imageWidth": 404,
-			"imageHeight": 70,
+			"imageWidth": 557,
+			"imageHeight": 92,
 			"texture" : "menu:buttons/start.png",
             "action" : 
             {
@@ -41,8 +41,8 @@
             "posY" : 133,
             "width" : 200,
             "height" : 30,
-			"imageWidth": 404,
-			"imageHeight": 70,
+			"imageWidth": 557,
+			"imageHeight": 92,
 			"texture" : "menu:buttons/options.png",
             "action" : 
             {
@@ -58,8 +58,8 @@
             "posY" : 166,
             "width" : 200,
             "height" : 30,
-			"imageWidth": 404,
-			"imageHeight": 70,
+			"imageWidth": 557,
+			"imageHeight": 92,
 			"texture" : "menu:buttons/quit.png",
             "action" : 
             {
