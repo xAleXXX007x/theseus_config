@@ -13,7 +13,7 @@
             "alignment" : "top_center"
         }
     },
-    
+
     "buttons":
     {
         "multiplayer":
@@ -30,10 +30,10 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "ariadna.su"
+                "ip" : "theseus.su"
             }
         },
-  
+
         "options":
         {
             "text" : "\u0020",
@@ -50,7 +50,7 @@
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "\u0020",
@@ -66,7 +66,7 @@
                 "type" : "quit"
             }
         },
-		
+
 		"logo_text":
         {
             "text" : "\u0020",
@@ -84,8 +84,7 @@
             }
         }
     },
-    
-    
+
     "other":
     {
         
