@@ -269,7 +269,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: PLAINS, RARE
 
 InheritMobsBiomeName: minecraft:jungle
-

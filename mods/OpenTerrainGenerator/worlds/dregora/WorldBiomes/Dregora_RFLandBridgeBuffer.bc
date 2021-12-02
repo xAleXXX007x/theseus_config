@@ -268,7 +268,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: RARE
 
 InheritMobsBiomeName: minecraft:jungle_hills
-

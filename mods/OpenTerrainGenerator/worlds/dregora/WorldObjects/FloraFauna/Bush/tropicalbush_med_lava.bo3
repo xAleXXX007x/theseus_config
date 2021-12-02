@@ -258,7 +258,7 @@ B(1,0,1,Leaves:7)
 #   BlockCheck(0,-1,0,WOOL:0)      Require white wool just below the object
 #   BlockCheckNot(0,-1,0,WOOL:0)   Require that there is no white wool below the object
 #   LightCheck(0,0,0,0,1)          Require almost complete darkness just below the object
-BlockCheck(0,-1,0,GRASS,chisel:basalt2:7,STAINED_CLAY,concrete_powder:15)
+BlockCheck(0,-1,0,GRASS,quark:basalt:0,STAINED_CLAY,concrete_powder:15)
 
 #
 # +-----------------------------------------------------------------+ #

@@ -275,7 +275,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: FOREST, DENSE, 
 
 InheritMobsBiomeName: minecraft:birch_forest
-

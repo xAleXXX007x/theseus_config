@@ -270,7 +270,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: RIVER, WATER
 
 InheritMobsBiomeName: minecraft:river
-

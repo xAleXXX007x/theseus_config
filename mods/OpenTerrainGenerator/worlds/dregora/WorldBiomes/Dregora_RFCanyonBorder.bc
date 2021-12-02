@@ -268,7 +268,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, MESA
 
 InheritMobsBiomeName: minecraft:mutated_jungle_edge
-

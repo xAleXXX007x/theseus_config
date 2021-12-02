@@ -250,7 +250,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MAGICAL, SPOOKY, RARE
 
 InheritMobsBiomeName: minecraft:jungle
-

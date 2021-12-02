@@ -264,7 +264,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: COLD, SNOWY, PLAINS
 
 InheritMobsBiomeName: minecraft:ice_flats
-

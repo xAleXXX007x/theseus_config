@@ -268,7 +268,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: FOREST, LUSH, DENSE
 
 InheritMobsBiomeName: minecraft:jungle
-

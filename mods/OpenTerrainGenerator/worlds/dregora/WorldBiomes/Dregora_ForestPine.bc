@@ -274,7 +274,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: CONIFEROUS, FOREST, DENSE
 
 InheritMobsBiomeName: minecraft:taiga
-

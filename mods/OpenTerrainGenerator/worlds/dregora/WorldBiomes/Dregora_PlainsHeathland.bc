@@ -270,7 +270,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: PLAINS, LUSH
 
 InheritMobsBiomeName: minecraft:redwood_taiga_hills
-

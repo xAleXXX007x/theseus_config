@@ -270,7 +270,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, COLD
 
 InheritMobsBiomeName: minecraft:jungle_hills
-

@@ -270,7 +270,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: JUGNLE, LUSH, DENSE, HOT, MAGICAL, RARE
 
 InheritMobsBiomeName: minecraft:jungle
-

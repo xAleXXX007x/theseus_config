@@ -114,7 +114,7 @@ GroundBlock: DIRT
 
 SurfaceAndGroundControl: 
 
-ReplacedBlocks: (chisel:basalt2:7,STATIONARY_LAVA,50,60)
+ReplacedBlocks: (quark:basalt:0,STATIONARY_LAVA,50,60)
 
 ################################
 # Water / Lava & Frozen States #
@@ -269,6 +269,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: BEACH, HOT, JUNGLE
 
 InheritMobsBiomeName: minecraft:beaches

@@ -262,7 +262,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: BEACH, HOT, RARE, MAGICAL
 
 InheritMobsBiomeName: minecraft:jungle_hills
-

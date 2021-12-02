@@ -269,7 +269,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: WATER, OCEAN, MOUNTAIN, HILLS, RARE, MAGICAL
 
 InheritMobsBiomeName: minecraft:jungle
-

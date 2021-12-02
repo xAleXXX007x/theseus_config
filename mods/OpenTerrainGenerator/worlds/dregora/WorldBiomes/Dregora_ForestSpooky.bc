@@ -268,7 +268,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: SPOOKY, FOREST, DENSE
 
 InheritMobsBiomeName: minecraft:mutated_redwood_taiga
-

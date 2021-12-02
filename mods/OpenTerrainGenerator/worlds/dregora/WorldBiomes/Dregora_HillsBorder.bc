@@ -272,7 +272,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: HILLS, MOUNTAIN
 
 InheritMobsBiomeName: minecraft:mutated_birch_forest_hills
-

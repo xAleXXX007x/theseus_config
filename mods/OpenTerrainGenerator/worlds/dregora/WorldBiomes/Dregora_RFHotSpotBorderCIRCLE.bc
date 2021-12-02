@@ -259,7 +259,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: HOT, MAGICAL, MOUNTAIN, HILLS, JUNGLE
 
 InheritMobsBiomeName: minecraft:mutated_desert
-

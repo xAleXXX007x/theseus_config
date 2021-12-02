@@ -112,7 +112,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: AIR, MAGMA, -0.1, AIR, MAGMA, 0.1, GRASS, STONE, -10.0, GRASS, STONE, -0.8, STONE, STONE, -0.7, chisel:basalt2:7, STONE, -0.35, chisel:basalt2:7, STONE, 0.35, chisel:basalt2:7, STONE, 0.7, STONE, STONE, 1.5
+SurfaceAndGroundControl: AIR, MAGMA, -0.1, AIR, MAGMA, 0.1, GRASS, STONE, -10.0, GRASS, STONE, -0.8, STONE, STONE, -0.7, quark:basalt:0, STONE, -0.35, quark:basalt:0, STONE, 0.35, quark:basalt:0, STONE, 0.7, STONE, STONE, 1.5
 
 ReplacedBlocks:
 
@@ -175,8 +175,8 @@ FogThunderWeight: 0.5
 UnderWaterOre(SAND,7,4,100.0,DIRT,GRASS)
 UnderWaterOre(GRAVEL,8,1,100.0,DIRT,CLAY)
 Ore(STONE:5,16,8,100.0,3,125,STONE)
-Ore(chisel:basalt2:7,16,8,100.0,3,125,STONE)
-Ore(chisel:basalt2:7,16,8,100.0,3,125,STONE)
+Ore(quark:basalt:0,16,8,100.0,3,125,STONE)
+Ore(quark:basalt:0,16,8,100.0,3,125,STONE)
 Ore(STONE,22,20,100.0,3,256,DIRT,GRASS)
 Ore(REDSTONE_ORE,4,8,100.0,3,42,STONE)
 Ore(LAPIS_ORE,7,1,100.0,3,16,STONE)
@@ -267,6 +267,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, SANDY, HOT
 
 InheritMobsBiomeName: minecraft:savanna_rock

@@ -251,7 +251,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: HILLS, MOUNTAIN
 
 InheritMobsBiomeName: minecraft:desert_hills
-

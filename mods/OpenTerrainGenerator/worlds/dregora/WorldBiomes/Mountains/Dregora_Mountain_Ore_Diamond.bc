@@ -112,7 +112,7 @@ SurfaceBlock: STONE
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: AIR, chisel:basalt2:7, -0.1, AIR, chisel:basalt2:7, 0.1, STONE, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, STONE, STONE, 1.5, chisel:basalt2:7, chisel:basalt2:7, 3.5, chisel:basalt2:7, chisel:basalt2:7, 3.55, chisel:basalt2:7, chisel:basalt2:7, 3.6,chisel:basalt2:7, chisel:basalt2:7, 3.65, chisel:basalt2:7, chisel:basalt2:7, 3.70, chisel:basalt2:7, chisel:basalt2:7, 3.75, chisel:basalt2:7, chisel:basalt2:7, 3.8
+SurfaceAndGroundControl: AIR, quark:basalt:0, -0.1, AIR, quark:basalt:0, 0.1, STONE, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, STONE, STONE, 1.5, quark:basalt:0, quark:basalt:0, 3.5, quark:basalt:0, quark:basalt:0, 3.55, quark:basalt:0, quark:basalt:0, 3.6,quark:basalt:0, quark:basalt:0, 3.65, quark:basalt:0, quark:basalt:0, 3.70, quark:basalt:0, quark:basalt:0, 3.75, quark:basalt:0, quark:basalt:0, 3.8
 
 ReplacedBlocks: (STATIONARY_LAVA,ICE,0,30),(STATIONARY_LAVA,ICE,0,30),(GRASS,ICE,0,30),(SNOW_BLOCK,STONE,155,200)
 
@@ -273,6 +273,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, RIVER, RARE
 
 InheritMobsBiomeName: minecraft:smaller_extreme_hills

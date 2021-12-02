@@ -282,7 +282,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MUSHROOM, MAGICAL, HILLS, MOUNTAIN, RARE
 
 InheritMobsBiomeName: minecraft:mushroom_island
-

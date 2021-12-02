@@ -272,7 +272,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: FOREST, PLAINS, LUSH
 
 InheritMobsBiomeName: minecraft:plains
-

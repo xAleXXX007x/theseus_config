@@ -251,6 +251,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: OCEAN, WATER, SNOWY, COLD
 
 InheritMobsBiomeName: minecraft:frozen_ocean

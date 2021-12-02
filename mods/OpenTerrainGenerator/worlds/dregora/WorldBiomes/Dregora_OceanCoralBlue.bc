@@ -111,9 +111,9 @@ SurfaceBlock: SAND
 
 GroundBlock: SAND
 
-SurfaceAndGroundControl: chisel:basalt2:7, SAND, -0.7, WATER, chisel:basalt2:7, -0.35, WATER, chisel:basalt2:7, 0.35, WATER, chisel:basalt2:7, 0.7, chisel:basalt2:7, SAND, 1.5 
+SurfaceAndGroundControl: quark:basalt:0, SAND, -0.7, WATER, quark:basalt:0, -0.35, WATER, quark:basalt:0, 0.35, WATER, quark:basalt:0, 0.7, quark:basalt:0, SAND, 1.5 
 
-ReplacedBlocks: (AIR,WATER,0,12),(SAND,GRAVEL,68,90),(STONE,chisel:basalt2:7,31,32),(GRAVEL,chisel:basalt2:7,31,32),(SAND,chisel:basalt2:7,31,32),(COAL_ORE,chisel:basalt2:7,31,32)
+ReplacedBlocks: (AIR,WATER,0,12),(SAND,GRAVEL,68,90),(STONE,quark:basalt:0,31,32),(GRAVEL,quark:basalt:0,31,32),(SAND,quark:basalt:0,31,32),(COAL_ORE,quark:basalt:0,31,32)
 
 ################################
 # Water / Lava & Frozen States #
@@ -185,7 +185,7 @@ Ore(GOLD_ORE,9,2,100.0,33,40,STONE)
 Ore(DIRT,33,10,100.0,33,60,STONE)
 Ore(DIAMOND_ORE,8,1,100.0,33,40,STONE)
 Ore(COAL_ORE,17,20,100.0,3,128,STONE)
-Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,chisel:basalt2:7)
+Ore(SEA_LANTERN,5,15,30.0,10,12,STONE,SANDSTONE,SAND,quark:basalt:0)
 
 
 # CustomStructure(structure_warm,0.2,ShipsFloat,0.2)

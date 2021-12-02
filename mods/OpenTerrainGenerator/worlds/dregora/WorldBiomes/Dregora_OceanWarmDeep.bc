@@ -114,7 +114,7 @@ GroundBlock: SAND
 
 SurfaceAndGroundControl: 
 
-ReplacedBlocks: (STONE,chisel:basalt2:7,31,32),(GRAVEL,chisel:basalt2:7,31,32),(SAND,chisel:basalt2:7,31,32),(COAL_ORE,chisel:basalt2:7,31,32)
+ReplacedBlocks: (STONE,quark:basalt:0,31,32),(GRAVEL,quark:basalt:0,31,32),(SAND,quark:basalt:0,31,32),(COAL_ORE,quark:basalt:0,31,32)
 
 ################################
 # Water / Lava & Frozen States #
@@ -271,6 +271,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: OCEAN, WATER, HOT
 
 InheritMobsBiomeName: minecraft:deep_ocean

@@ -258,7 +258,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: HOT, MAGICAL, SPOOKY, RARE
 
 InheritMobsBiomeName: minecraft:mutated_desert
-

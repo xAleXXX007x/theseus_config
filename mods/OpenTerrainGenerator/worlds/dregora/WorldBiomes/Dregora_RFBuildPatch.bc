@@ -267,7 +267,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: RARE
 
 InheritMobsBiomeName: minecraft:mutated_jungle
-

@@ -264,8 +264,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: COLD, SNOWY, HILLS, MOUNTAIN
 
 InheritMobsBiomeName: minecraft:taiga_cold_hills
-
-

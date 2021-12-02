@@ -112,7 +112,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: STONE
 
-SurfaceAndGroundControl: AIR, chisel:basalt2:7, -0.1, AIR, chisel:basalt2:7, 0.1, GRASS, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, GRASS, STONE, 1.5 
+SurfaceAndGroundControl: AIR, quark:basalt:0, -0.1, AIR, quark:basalt:0, 0.1, GRASS, STONE, -0.7, STONE:3, STONE, -0.35, STONE:3, STONE, 0.35, STONE:3, STONE, 0.7, GRASS, STONE, 1.5 
 
 ReplacedBlocks: (STATIONARY_LAVA,ICE,0,30),(STATIONARY_LAVA,ICE,0,30),(GRASS,ICE,0,30),(SNOW_BLOCK,STONE,155,200)
 
@@ -274,6 +274,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, WATER, RIVER
 
 InheritMobsBiomeName: minecraft:taiga_cold

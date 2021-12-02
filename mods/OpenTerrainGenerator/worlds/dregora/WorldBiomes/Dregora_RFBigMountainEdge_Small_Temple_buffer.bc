@@ -269,7 +269,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MAGICAL, RARE, SPOOKY
 
 InheritMobsBiomeName: minecraft:jungle_hills
-

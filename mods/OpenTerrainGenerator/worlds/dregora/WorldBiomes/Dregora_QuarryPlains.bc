@@ -112,7 +112,7 @@ SurfaceBlock: GRASS
 
 GroundBlock: DIRT
 
-SurfaceAndGroundControl: chisel:basalt2:7, chisel:basalt2:7, -0.5, DIRT:1, DIRT, 0.1 
+SurfaceAndGroundControl: quark:basalt:0, quark:basalt:0, -0.5, DIRT:1, DIRT, 0.1 
 
 ReplacedBlocks: (GRAVEL,STONE,0,15),(DIRT,STONE,0,15)
 
@@ -176,7 +176,7 @@ UnderWaterOre(SAND,7,3,100.0,DIRT,GRASS)
 UnderWaterOre(GRAVEL,6,1,100.0,DIRT,GRASS)
 UnderWaterOre(CLAY,4,1,100.0,DIRT,CLAY)
 SurfacePatch(DIRT:2,DIRT:2,77,77,GRASS,DIRT:1)
-SurfacePatch(DIRT:1,AIR,70,80,chisel:basalt2:7)
+SurfacePatch(DIRT:1,AIR,70,80,quark:basalt:0)
 Ore(STONE:5,16,8,100.0,3,256,STONE)
 Ore(STONE:5,16,8,100.0,3,256,STONE)
 Ore(STONE:3,16,8,100.0,3,256,STONE)
@@ -184,7 +184,7 @@ Ore(STONE:3,16,8,100.0,3,256,STONE)
 Ore(STONE:1,16,8,100.0,3,256,STONE)
 Ore(STONE:1,16,8,100.0,3,256,STONE)
 Ore(REDSTONE_ORE,4,8,100.0,3,16,STONE)
-Ore(chisel:basalt2:7,5,50,100.0,1,20,STONE,GRAVEL)
+Ore(quark:basalt:0,5,50,100.0,1,20,STONE,GRAVEL)
 Ore(LAPIS_ORE,7,1,100.0,3,16,STONE)
 Ore(IRON_ORE,8,5,100.0,0,85,STONE)
 Ore(IRON_ORE,6,10,100.0,0,85,STONE)
@@ -278,6 +278,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: MOUNTAIN, HILLS, RARE, PLAINS
 
 InheritMobsBiomeName: minecraft:mutated_birch_forest

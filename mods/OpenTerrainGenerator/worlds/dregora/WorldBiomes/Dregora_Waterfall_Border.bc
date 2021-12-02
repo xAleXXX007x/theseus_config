@@ -265,7 +265,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: WASTELAND, MESA, HOT, DEAD
 
 InheritMobsBiomeName:
-

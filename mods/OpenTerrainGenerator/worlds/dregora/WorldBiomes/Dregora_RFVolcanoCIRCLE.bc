@@ -259,7 +259,6 @@ SpawnWaterCreatures: []
 
 SpawnAmbientCreatures: []
 
-BiomeDictId:
+BiomeDictId: BEACH, HOT, RARE, MAGICAL
 
 InheritMobsBiomeName: minecraft:mutated_desert
-

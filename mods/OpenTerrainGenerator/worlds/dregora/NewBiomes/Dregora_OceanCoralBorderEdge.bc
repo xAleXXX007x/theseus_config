@@ -110,9 +110,9 @@ SurfaceBlock: SAND
 
 GroundBlock: SAND
 
-SurfaceAndGroundControl: chisel:basalt2:7, SAND, -0.7, WATER, chisel:basalt2:7, -0.35, WATER, chisel:basalt2:7, 0.35, WATER, chisel:basalt2:7, 0.7, chisel:basalt2:7, SAND, 1.5 
+SurfaceAndGroundControl: quark:basalt:0, SAND, -0.7, WATER, quark:basalt:0, -0.35, WATER, quark:basalt:0, 0.35, WATER, quark:basalt:0, 0.7, quark:basalt:0, SAND, 1.5 
 
-ReplacedBlocks: (SAND,GRAVEL,68,90),(STONE,chisel:basalt2:7,31,32),(GRAVEL,chisel:basalt2:7,31,32),(SAND,chisel:basalt2:7,31,32),(COAL_ORE,chisel:basalt2:7,31,32)
+ReplacedBlocks: (SAND,GRAVEL,68,90),(STONE,quark:basalt:0,31,32),(GRAVEL,quark:basalt:0,31,32),(SAND,quark:basalt:0,31,32),(COAL_ORE,quark:basalt:0,31,32)
 
 ################################
 # Water / Lava & Frozen States #
