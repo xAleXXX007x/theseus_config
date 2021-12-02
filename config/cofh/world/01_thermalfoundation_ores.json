@@ -11,13 +11,54 @@
 						"type": "copper"
 					}
 				},
-				"material": "minecraft:stone",
-				"cluster-size": 48
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 24
 			},
 			"cluster-count": 1,
 			"chunk-chance": 8,
 			"center-height": 57,
-			"spread": 17,
+			"spread": 34,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"copper_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "copper"
+					}
+				},
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 48
+			},
+			"cluster-count": 4,
+			"chunk-chance": 8,
+			"center-height": 57,
+			"spread": 34,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -48,13 +89,54 @@
 						"type": "tin"
 					}
 				},
-				"material": "minecraft:stone",
-				"cluster-size": 40
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 28
 			},
 			"cluster-count": 1,
 			"chunk-chance": 9,
 			"center-height": 37,
-			"spread": 17,
+			"spread": 34,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tin_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "tin"
+					}
+				},
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 40
+			},
+			"cluster-count": 4,
+			"chunk-chance": 9,
+			"center-height": 37,
+			"spread": 34,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -95,13 +177,64 @@
 						"weight": 20
 					}
 				],
-				"material": "minecraft:stone",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
 				"cluster-size": 20
 			},
 			"chunk-chance": 8,
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 17,
-			"spread": 12,
+			"spread": 24,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"silver_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "silver"
+						},
+						"weight": 80
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "lead"
+						},
+						"weight": 20
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 20
+			},
+			"chunk-chance": 8,
+			"cluster-count": 4,
+			"center-height": 17,
+			"spread": 24,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -142,13 +275,64 @@
 						"weight": 10
 					}
 				],
-				"material": "minecraft:stone",
-				"cluster-size": 28
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"chunk-chance": 10,
 			"center-height": 22,
-			"spread": 12,
+			"spread": 24,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"lead_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "lead"
+						},
+						"weight": 90
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "silver"
+						},
+						"weight": 10
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 28
+			},
+			"cluster-count": 4,
+			"chunk-chance": 10,
+			"center-height": 22,
+			"spread": 24,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -179,13 +363,54 @@
 						"type": "nickel"
 					}
 				},
-				"material": "minecraft:stone",
-				"cluster-size": 16
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 12
 			},
 			"cluster-count": 1,
 			"chunk-chance": 6,
 			"center-height": 13,
-			"spread": 7,
+			"spread": 14,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"nickel_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "nickel"
+					}
+				},
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 16
+			},
+			"cluster-count": 4,
+			"chunk-chance": 6,
+			"center-height": 13,
+			"spread": 14,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -226,13 +451,64 @@
 						"weight": 60
 					}
 				],
-				"material": "minecraft:stone",
-				"cluster-size": 8
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 5
 			},
 			"cluster-count": 1,
 			"chunk-chance": 6,
 			"center-height": 15,
-			"spread": 10,
+			"spread": 20,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"platinum_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "platinum"
+						},
+						"weight": 40
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "nickel"
+						},
+						"weight": 60
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"chunk-chance": 6,
+			"center-height": 15,
+			"spread": 20,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -263,13 +539,54 @@
 						"type": "aluminum"
 					}
 				},
-				"material": "minecraft:stone",
-				"cluster-size": 28
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 20
 			},
 			"cluster-count": 1,
 			"chunk-chance": 10,
 			"center-height": 57,
-			"spread": 17,
+			"spread": 34,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"aluminum_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": {
+					"name": "thermalfoundation:ore",
+					"properties": {
+						"type": "aluminum"
+					}
+				},
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 28
+			},
+			"cluster-count": 4,
+			"chunk-chance": 10,
+			"center-height": 57,
+			"spread": 34,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -310,13 +627,64 @@
 						"weight": 60
 					}
 				],
-				"material": "minecraft:stone",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
 				"cluster-size": 8
 			},
 			"chunk-chance": 6,
 			"cluster-count": 1,
 			"center-height": 17,
-			"spread": 12,
+			"spread": 24,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"iridium_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "iridium"
+						},
+						"weight": 40
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "platinum"
+						},
+						"weight": 60
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 8
+			},
+			"chunk-chance": 6,
+			"cluster-count": 4,
+			"center-height": 17,
+			"spread": 24,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -326,41 +694,6 @@
 						"entry": [
 							"SNOWY", "COLD", "WASTELAND", "DEAD", "SPOOKY", "DRY"
 						]
-					}
-				]
-			},
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-		"copper_ocean": {
-			"enabled": "true",
-			"distribution": "gaussian",
-			"generator": {
-				"block": {
-					"name": "thermalfoundation:ore",
-					"properties": {
-						"type": "copper"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 48
-			},
-			"cluster-count": 1,
-			"chunk-chance": 15,
-			"center-height": 37,
-			"spread": 17,
-			"retrogen": "false",
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "dictionary",
-						"entry": "OCEAN"
 					}
 				]
 			},

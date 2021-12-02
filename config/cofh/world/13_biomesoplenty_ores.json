@@ -7,6 +7,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "ruby"
 					}
@@ -41,6 +49,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "peridot"
 					}
@@ -75,6 +91,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "topaz"
 					}
@@ -109,6 +133,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "tanzanite"
 					}
@@ -143,6 +175,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "malachite"
 					}
@@ -177,6 +217,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "sapphire"
 					}
@@ -211,6 +259,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "amber"
 					}
@@ -245,6 +301,14 @@
 			"generator": {
 				"block": {
 					"name": "biomesoplenty:gem_ore",
+					"material": [
+						"minecraft:sandstone",
+						"minecraft:stone",
+						"minecraft:stained_hardened_clay",
+						"minecraft:hardened_clay",
+						"minecraft:concrete",
+						"minecraft:packed_ice"
+					],
 					"properties": {
 						"variant": "amethyst"
 					}
@@ -272,6 +336,14 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "biomesoplenty:biome_block",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
 				"cluster-size": 4
 			},
 			"cluster-count": 1,

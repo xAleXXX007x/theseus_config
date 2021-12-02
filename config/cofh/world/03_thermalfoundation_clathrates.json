@@ -18,7 +18,14 @@
 						"weight": 10
 					}
 				],
-				"material": "minecraft:stone",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
 				"cluster-size": 16
 			},
 			"cluster-count": 2,
@@ -94,7 +101,7 @@
 				"material": "minecraft:end_stone",
 				"cluster-size": 24
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 4,
 			"min-height": 10,
 			"max-height": 80,

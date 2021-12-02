@@ -9,7 +9,7 @@
 				"material": "minecraft:netherrack",
 				"cluster-size": 8
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 6,
 			"center-height": 96,
 			"spread": 16,

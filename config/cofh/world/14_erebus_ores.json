@@ -8,7 +8,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 18
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 4,
 			"center-height": 64,
 			"spread": 64,
@@ -28,7 +28,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 14
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 8,
 			"center-height": 64,
 			"spread": 64,
@@ -48,7 +48,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 34
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 4,
 			"center-height": 64,
 			"spread": 64,
@@ -68,7 +68,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 8,
 			"center-height": 8,
 			"spread": 8,
@@ -88,7 +88,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 8,
 			"center-height": 120,
 			"spread": 8,
@@ -108,7 +108,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 28
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 6,
 			"center-height": 64,
 			"spread": 64,
@@ -128,7 +128,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 20
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 5,
 			"center-height": 64,
 			"spread": 64,
@@ -148,7 +148,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 8,
 			"center-height": 64,
 			"spread": 64,
@@ -168,7 +168,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 5,
 			"center-height": 64,
 			"spread": 64,
@@ -188,7 +188,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 24
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 4,
 			"center-height": 64,
 			"spread": 64,
@@ -208,7 +208,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 6,
 			"center-height": 64,
 			"spread": 64,
@@ -228,7 +228,7 @@
 				"material": "erebus:umberstone",
 				"cluster-size": 24
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 4,
 			"center-height": 64,
 			"spread": 64,

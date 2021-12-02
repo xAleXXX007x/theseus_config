@@ -6,12 +6,49 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "bewitchment:amethyst_ore",
-				"cluster-size": 8
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 6
 			},
 			"cluster-count": 1,
 			"chunk-chance": 6,
 			"center-height": 26,
-			"spread": 16,
+			"spread": 32,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"amethyst_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:amethyst_ore",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 32,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -37,12 +74,49 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "bewitchment:garnet_ore",
-				"cluster-size": 8
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 6
 			},
 			"cluster-count": 1,
 			"chunk-chance": 6,
 			"center-height": 26,
-			"spread": 16,
+			"spread": 32,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"garnet_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:garnet_ore",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 32,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -68,12 +142,49 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "bewitchment:opal_ore",
-				"cluster-size": 8
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 6
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"chunk-chance": 6,
 			"center-height": 26,
-			"spread": 16,
+			"spread": 32,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"opal_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:opal_ore",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"chunk-chance": 6,
+			"center-height": 26,
+			"spread": 32,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
@@ -99,12 +210,49 @@
 			"distribution": "gaussian",
 			"generator": {
 				"block": "bewitchment:salt_ore",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
 				"cluster-size": 16
 			},
 			"cluster-count": 1,
 			"chunk-chance": 4,
 			"center-height": 64,
-			"spread": 12,
+			"spread": 24,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"salt_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": "bewitchment:salt_ore",
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 16
+			},
+			"cluster-count": 4,
+			"chunk-chance": 4,
+			"center-height": 64,
+			"spread": 24,
 			"retrogen": "false",
 			"biome": {
 				"restriction": "whitelist",
