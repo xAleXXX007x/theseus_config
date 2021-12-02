@@ -19,7 +19,17 @@
 			"center-height": 57,
 			"spread": 17,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"PLAINS", "SPARSE", "MESA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -46,7 +56,17 @@
 			"center-height": 37,
 			"spread": 17,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"PLAINS", "CONIFEROUS", "MAGICAL", "SPOOKY", "DEAD"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -83,7 +103,17 @@
 			"center-height": 17,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MAGICAL", "SNOWY", "COLD"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -120,7 +150,17 @@
 			"center-height": 22,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MESA", "DEAD", "MOUNTAIN", "HILLS", "WASTELAND"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -147,7 +187,17 @@
 			"center-height": 13,
 			"spread": 7,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"COLD", "HILLS", "MOUNTAIN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -184,7 +234,17 @@
 			"center-height": 15,
 			"spread": 10,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HILLS", "MOUNTAIN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -211,7 +271,17 @@
 			"center-height": 57,
 			"spread": 17,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HOT", "JUNGLE", "LUSH"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -248,7 +318,17 @@
 			"center-height": 17,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SNOWY", "COLD", "WASTELAND", "DEAD", "SPOOKY", "DRY"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

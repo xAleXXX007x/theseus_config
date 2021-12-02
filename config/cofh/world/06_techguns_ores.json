@@ -18,7 +18,17 @@
 			"center-height": 24,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SNOWY", "COLD", "MOUNTAIN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

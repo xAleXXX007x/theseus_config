@@ -13,7 +13,17 @@
 			"center-height": 7,
 			"spread": 7,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SANDY", "DEAD", "WASTELAND", "MESA", "SAVANNA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -34,7 +44,17 @@
 			"center-height": 52,
 			"spread": 20,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"FOREST", "LUSH", "SWAMP", "JUNGLE"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -55,7 +75,17 @@
 			"center-height": 50,
 			"spread": 50,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"FOREST", "PLAINS", "SPARCE", "SAVANNA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -148,7 +178,17 @@
 			"center-height": 64,
 			"spread": 64,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"PLAINS", "SWAMP", "WET", "HILLS", "MOUNTAIN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -169,7 +209,17 @@
 			"center-height": 44,
 			"spread": 20,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MAGIC", "MOUNTAIN", "RARE", "HILLS"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -286,7 +336,17 @@
 			"center-height": 48,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SAVANNA", "BEACH", "WASTELAND"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -384,7 +444,17 @@
 			"center-height": 42,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS", "HOT", "SANDY", "WASTELAND", "MESA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -405,7 +475,17 @@
 			"center-height": 28,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"CONIFEROUS", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -426,12 +506,21 @@
 			"center-height": 25,
 			"spread": 15,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS", "RARE", "MAGICAL", "SPOOKY"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
 					-1,
-					0,
 					1
 				]
 			}
@@ -448,7 +537,17 @@
 			"center-height": 30,
 			"spread": 18,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS", "RARE", "MAGICAL"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -494,7 +593,17 @@
 			"center-height": 35,
 			"spread": 15,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SPOOKY", "WASTELAND", "RARE", "DEAD"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -515,7 +624,17 @@
 			"center-height": 30,
 			"spread": 8,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SANDY", "HOT", "MUSHROOM", "RARE"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -560,7 +679,17 @@
 			"center-height": 16,
 			"spread": 8,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"CONIFEROUS", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "HILLS", "RARE", "MOUNTAIN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -581,7 +710,17 @@
 			"center-height": 41,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SANDY", "HOT", "MESA", "DEAD", "SPOOKY"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -626,7 +765,17 @@
 			"center-height": 15,
 			"spread": 15,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"COLD", "SNOWY", "MUSHROOM", "RARE"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

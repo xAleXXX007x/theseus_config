@@ -13,7 +13,17 @@
 			"center-height": 24,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MAGICAL", "SPOOKY", "VOID", "TWILIGHT", "OASIS"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

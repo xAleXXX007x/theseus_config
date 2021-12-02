@@ -13,7 +13,17 @@
 			"center-height": 26,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -34,7 +44,17 @@
 			"center-height": 26,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -55,7 +75,17 @@
 			"center-height": 26,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MOUNTAIN", "HILLS"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -76,7 +106,17 @@
 			"center-height": 64,
 			"spread": 12,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"BEACH", "FOREST", "PLAINS", "SPARSE", "BIRCH_TREES", "SUPER_BIRCH_TREES", "MEGA_TAIGA_TREES", "CONIFEROUS", "THEMED_TREES"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

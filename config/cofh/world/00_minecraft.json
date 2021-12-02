@@ -176,7 +176,17 @@
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MESA", "SANDY", "HOT", "JUNGLE"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -198,7 +208,17 @@
 			"center-height": 8,
 			"spread": 8,
 			"retrogen": false,
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"MESA", "SANDY", "HOT", "JUNGLE"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -220,7 +240,17 @@
 			"center-height": 8,
 			"spread": 8,
 			"retrogen": false,
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HILLS", "MOUNTAIN", "HOT", "RARE", "MAGICAL", "MESA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -242,7 +272,17 @@
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"SANDY", "HOT", "JUNGLE", "OCEAN"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

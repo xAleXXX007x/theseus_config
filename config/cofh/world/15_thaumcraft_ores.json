@@ -13,7 +13,17 @@
 			"center-height": 32,
 			"spread": 16,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HOT", "SANDY", "MESA", "SAVANNA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

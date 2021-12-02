@@ -26,7 +26,17 @@
 			"min-height": 0,
 			"max-height": 20,
 			"retrogen": "false",
-			"biome": "all",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HOT", "SANDY", "DEAD", "MESA"
+						]
+					}
+				]
+			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
