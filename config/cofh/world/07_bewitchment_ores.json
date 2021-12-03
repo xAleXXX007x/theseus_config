@@ -17,7 +17,7 @@
 				"cluster-size": 6
 			},
 			"cluster-count": 1,
-			"chunk-chance": 6,
+			"chunk-chance": 14,
 			"center-height": 26,
 			"spread": 32,
 			"retrogen": "false",
@@ -85,7 +85,7 @@
 				"cluster-size": 6
 			},
 			"cluster-count": 1,
-			"chunk-chance": 6,
+			"chunk-chance": 14,
 			"center-height": 26,
 			"spread": 32,
 			"retrogen": "false",
@@ -153,7 +153,7 @@
 				"cluster-size": 6
 			},
 			"cluster-count": 2,
-			"chunk-chance": 6,
+			"chunk-chance": 14,
 			"center-height": 26,
 			"spread": 32,
 			"retrogen": "false",
@@ -221,7 +221,7 @@
 				"cluster-size": 16
 			},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 6,
 			"center-height": 64,
 			"spread": 24,
 			"retrogen": "false",

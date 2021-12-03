@@ -187,7 +187,7 @@
 				],
 				"cluster-size": 20
 			},
-			"chunk-chance": 8,
+			"chunk-chance": 10,
 			"cluster-count": 2,
 			"center-height": 17,
 			"spread": 24,
@@ -286,7 +286,7 @@
 				"cluster-size": 20
 			},
 			"cluster-count": 1,
-			"chunk-chance": 10,
+			"chunk-chance": 7,
 			"center-height": 22,
 			"spread": 24,
 			"retrogen": "false",
@@ -374,7 +374,7 @@
 				"cluster-size": 12
 			},
 			"cluster-count": 1,
-			"chunk-chance": 6,
+			"chunk-chance": 8,
 			"center-height": 13,
 			"spread": 14,
 			"retrogen": "false",
@@ -462,7 +462,7 @@
 				"cluster-size": 5
 			},
 			"cluster-count": 1,
-			"chunk-chance": 6,
+			"chunk-chance": 12,
 			"center-height": 15,
 			"spread": 20,
 			"retrogen": "false",
@@ -550,7 +550,7 @@
 				"cluster-size": 20
 			},
 			"cluster-count": 1,
-			"chunk-chance": 10,
+			"chunk-chance": 7,
 			"center-height": 57,
 			"spread": 34,
 			"retrogen": "false",
@@ -637,7 +637,7 @@
 				],
 				"cluster-size": 8
 			},
-			"chunk-chance": 6,
+			"chunk-chance": 10,
 			"cluster-count": 1,
 			"center-height": 17,
 			"spread": 24,
