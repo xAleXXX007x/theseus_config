@@ -172,11 +172,11 @@ FogThunderWeight: 0.5
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-Ore(REDSTONE_ORE,8,8,100.0,0,3,STONE,159:15)
-Ore(LAPIS_ORE,7,1,100.0,0,3,STONE,159:15)
-Ore(IRON_ORE,9,20,100.0,0,18,STONE,159:15)
-Ore(GOLD_ORE,9,2,100.0,0,5,STONE,159:15)
-Ore(DIAMOND_ORE,8,1,100.0,0,3,STONE,159:15)
+# Ore(REDSTONE_ORE,8,8,100.0,0,3,STONE,159:15)
+# Ore(LAPIS_ORE,7,1,100.0,0,3,STONE,159:15)
+# Ore(IRON_ORE,9,20,100.0,0,18,STONE,159:15)
+# Ore(GOLD_ORE,9,2,100.0,0,5,STONE,159:15)
+# Ore(DIAMOND_ORE,8,1,100.0,0,3,STONE,159:15)
 
 CustomStructure()
 

@@ -172,13 +172,13 @@ FogThunderWeight: 0.5
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-Ore(COAL_ORE,16,20,100.0,3,128,STONE)
+# Ore(COAL_ORE,16,20,100.0,3,128,STONE)
 Ore(DIRT,32,10,100.0,3,110,STONE)
-Ore(GOLD_ORE,8,5,100.0,3,30,STONE)
+# Ore(GOLD_ORE,8,5,100.0,3,30,STONE)
 Ore(GRAVEL,20,10,100.0,100,256,STONE)
 Ore(GRAVEL,32,10,100.0,3,256,STONE)
-Ore(LAPIS_ORE,7,1,100.0,3,16,STONE)
-Ore(REDSTONE_ORE,4,8,100.0,3,16,STONE)
+# Ore(LAPIS_ORE,7,1,100.0,3,16,STONE)
+# Ore(REDSTONE_ORE,4,8,100.0,3,16,STONE)
 Ore(STATIONARY_LAVA,2,10,100.0,70,80,quark:basalt:0)
 Ore(STONE:1,16,8,100.0,3,256,STONE)
 Ore(STONE:3,16,8,100.0,3,256,STONE)
