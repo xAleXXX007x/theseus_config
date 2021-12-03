@@ -1,0 +1,25 @@
+{
+	"dependencies": "thaumcraft",
+	"populate": {
+		"vishroom": {
+			"enabled": "true",
+			"distribution": "surface",
+			"generator": {
+				"type": "decoration",
+				"block": "thaumcraft:vishroom",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

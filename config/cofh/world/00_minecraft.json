@@ -136,7 +136,8 @@
 				],
 				"cluster-size": 34
 			},
-			"cluster-count": 2,
+			"cluster-count": 1,
+			"chunk-chance": 2,
 			"center-height": 64,
 			"spread": 32,
 			"retrogen": false,
@@ -164,7 +165,8 @@
 				],
 				"cluster-size": 18
 			},
-			"cluster-count": 2,
+			"cluster-count": 1,
+			"chunk-chance": 2,
 			"center-height": 32,
 			"spread": 32,
 			"retrogen": false,
@@ -193,7 +195,7 @@
 				"cluster-size": 10
 			},
 			"cluster-count": 1,
-			"chunk-chance": 2,
+			"chunk-chance": 5,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -261,7 +263,7 @@
 				"cluster-size": 16
 			},
 			"cluster-count": 1,
-			"chunk-chance": 2,
+			"chunk-chance": 6,
 			"center-height": 8,
 			"spread": 8,
 			"retrogen": false,
@@ -329,7 +331,7 @@
 				"cluster-size": 10
 			},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 8,
 			"center-height": 8,
 			"spread": 8,
 			"retrogen": false,
@@ -397,7 +399,7 @@
 				"cluster-size": 18
 			},
 			"cluster-count": 1,
-			"chunk-chance": 7,
+			"chunk-chance": 6,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -467,7 +469,7 @@
 				"cluster-size": 8
 			},
 			"cluster-count": 2,
-			"chunk-chance": 4,
+			"chunk-chance": 8,
 			"center-height": 12,
 			"spread": 24,
 			"retrogen": false,

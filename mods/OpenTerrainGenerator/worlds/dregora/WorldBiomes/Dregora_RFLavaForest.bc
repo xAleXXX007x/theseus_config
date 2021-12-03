@@ -204,7 +204,6 @@ Tree(5,RFTree01,5,RFTree02,5,RFTree03,5,RFTree04,5,RFTree05,5,RFTree06,5,RFTree0
 
 Grass(Tallgrass,NotGrouped,10,100.0,GRASS,DIRT)
 Plant(Dandelion,2,100.0,0,128,GRASS,DIRT)
-Plant(thaumcraft:vishroom,2,50.0,0,128,STAINED_CLAY:15)
 Reed(SUGAR_CANE_BLOCK,100,100.0,70,90,SAND,GRASS,DIRT)
 
 
