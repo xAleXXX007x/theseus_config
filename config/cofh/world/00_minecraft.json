@@ -136,7 +136,7 @@
 				],
 				"cluster-size": 34
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 64,
 			"spread": 32,
 			"retrogen": false,
@@ -164,7 +164,7 @@
 				],
 				"cluster-size": 18
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 32,
 			"spread": 32,
 			"retrogen": false,
