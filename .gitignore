@@ -6,6 +6,7 @@ config/thaumicjei_itemstack_aspects.json
 config/worldedit/worldedit.properties
 config/smoothfont/player-*
 config/splash.properties
+config/jei/jei.cfg
 
 !/mods/OpenTerrainGenerator
 !.gitignore
