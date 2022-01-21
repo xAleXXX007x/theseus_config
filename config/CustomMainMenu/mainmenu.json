@@ -4,12 +4,12 @@
         "main":
         {
             "image" : "menu:textures/background_logo.png",
-            "posX" : -67,
+            "posX" : -60,
             "posY" : 10,
-            "width" : 130,
+            "width" : 120,
             "height" : 120,
-			"imageWidth": 362,
-			"imageHeight": 354,
+			"imageWidth": 512,
+			"imageHeight": 512,
             "alignment" : "top_center"
         }
     },
