@@ -7,6 +7,8 @@ config/worldedit/worldedit.properties
 config/smoothfont/player-*
 config/splash.properties
 config/jei/jei.cfg
+config/jei/worldSettings.cfg
+config/xaero*
 
 !/mods/OpenTerrainGenerator
 !.gitignore
