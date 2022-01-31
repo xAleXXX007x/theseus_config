@@ -1,5 +1,30 @@
 {
-  "block_stage": {},
+  "block_stage": {
+    "botanicadds:elven_altar": [
+      "arc_two"
+    ],
+    "botania:runealtar": [
+      "arc_one"
+    ],
+    "apotheosis:prismatic_altar": [
+      "enc_two"
+    ],
+    "ebwizardry:arcane_workbench": [
+      "mys_one"
+    ],
+    "minecraft:enchanting_table": [
+      "enc_one"
+    ],
+    "botania:enchanter": [
+      "enc_two"
+    ],
+    "botania:brewery": [
+      "alc_one"
+    ],
+    "ebwizardry:imbuement_altar": [
+      "mys_two"
+    ]
+  },
   "global_stages": {},
   "adjacent_stages": {}
 }
