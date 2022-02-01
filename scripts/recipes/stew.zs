@@ -904,7 +904,7 @@ recipes.addShapeless(<harvestcraft:bananaitem> * 9, [<stewblocks:object_bananas>
 
 recipes.addShapeless(<stewblocks:object_bloom> * 2, [<minecraft:red_flower:1>, <minecraft:red_flower:2>]);
 
-recipes.addShapeless(<stewblocks:object_bottle>, [<ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewblocks:object_bottle>, [<minecraft:glass_bottle>]);
 recipes.addShapeless(<minecraft:glass_bottle>, [<stewblocks:object_bottle>]);
 
 recipes.addShapeless(<stewblocks:object_carrots>, [<ore:cropCarrot>, <ore:cropCarrot>, <ore:cropCarrot>, <ore:cropCarrot>, <ore:cropCarrot>, <ore:cropCarrot>]);
