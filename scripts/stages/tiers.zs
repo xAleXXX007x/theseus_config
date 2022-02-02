@@ -13,7 +13,6 @@ global MYS_3 as string = "mys_three";
 
 // Зачарование
 global ENC_1 as string = "enc_one";
-global ENC_2 as string = "enc_two";
 
 // Общая инженерия
 // Технический стейдж для общих рецептов
