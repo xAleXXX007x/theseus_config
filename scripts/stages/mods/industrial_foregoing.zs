@@ -90,7 +90,14 @@ var stagedItems as IIngredient[][string] = {
         <industrialforegoing:range_addon:7>,
         <industrialforegoing:range_addon:8>,
         <teslacorelib:speed_tier2>,
-        <teslacorelib:energy_tier2>
+        <teslacorelib:energy_tier2>,
+        <industrialforegoing:wither_builder>,
+        <industrialforegoing:villager_trade_exchanger>,
+        <industrialforegoing:enchantment_invoker>,
+        <industrialforegoing:potion_enervator>,
+        <industrialforegoing:enchantment_aplicator>,
+        <industrialforegoing:enchantment_extractor>,
+        <industrialforegoing:enchantment_refiner>
     ],
     [MNF_3]:[
         <industrialforegoing:black_hole_unit>,
