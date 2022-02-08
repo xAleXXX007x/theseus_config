@@ -28,8 +28,8 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "Z",
-        "scale": 0.0
+        "timezone": "-03:00",
+        "scale": 1.0
       }
     },
     "17": {
