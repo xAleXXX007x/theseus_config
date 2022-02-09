@@ -1,6 +1,6 @@
 {
   "chat": {
-    "wikiUrlBase": "https://wiki.ariadna.su/w/",
+    "wikiUrlBase": "https://crust.theseus.su/characters/",
     "offtopRange": 15,
     "rollRange": 15,
     "speechRanges": [
@@ -28,22 +28,22 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "-03:00",
+        "timezone": "-01:00",
         "scale": 1.0
       }
     },
-    "17": {
+    "2": {
       "rain": {
         "income": 0,
         "outcome": 0,
         "thunder": 0,
         "min": 0,
-        "max": 100,
+        "max": 0,
         "dice": 0
       },
       "time": {
-        "timezone": "Z",
-        "scale": 0.0
+        "timezone": "-01:00",
+        "scale": 1.0
       }
     },
     "5": {
@@ -52,12 +52,26 @@
         "outcome": 0,
         "thunder": 0,
         "min": 0,
-        "max": 100,
+        "max": 0,
         "dice": 0
       },
       "time": {
-        "timezone": "Z",
-        "scale": 0.0
+        "timezone": "-01:00",
+        "scale": 1.0
+      }
+    },
+    "6": {
+      "rain": {
+        "income": 1,
+        "outcome": 35,
+        "thunder": 6048000,
+        "min": 3456000,
+        "max": 8640000,
+        "dice": 4500000
+      },
+      "time": {
+        "timezone": "-01:00",
+        "scale": 1.0
       }
     }
   },
