@@ -75,6 +75,9 @@
     "ebwizardry:imbuement_altar": [
       "mys_two"
     ],
+    "vehicle:workstation:*": [
+      "eng_one"
+    ],
     "immersiveengineering:metal_multiblock:7": [
       "mnf_one",
       "eng_one"
