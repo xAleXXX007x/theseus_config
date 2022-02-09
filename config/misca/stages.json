@@ -1,15 +1,21 @@
 {
   "block_stage": {
-    "immersivetech:metal_multiblock": [
-      "mnf_one"
-    ],
-    "botanicadds:elven_altar": [
-      "arc_two"
-    ],
     "alchemistry:chemical_combiner:*": [
       "chm_one"
     ],
-    "minecraft:enchanting_table": [
+    "astralsorcery:blockchalice": [
+      "arc_three"
+    ],
+    "roots:fey_crafter": [
+      "mys_two"
+    ],
+    "roots:imbuer": [
+      "mys_two"
+    ],
+    "astralsorcery:blockaltar:0": [
+      "arc_one"
+    ],
+    "astralsorcery:blockmapdrawingtable": [
       "enc_one"
     ],
     "alchemistry:atomizer:*": [
@@ -18,11 +24,77 @@
     "alchemistry:liquifier:*": [
       "chm_one"
     ],
+    "alchemistry:evaporator:*": [
+      "chm_one"
+    ],
+    "astralsorcery:blockmachine:1": [
+      "arc_one"
+    ],
+    "astralsorcery:blockstarlightinfuser": [
+      "arc_two"
+    ],
+    "astralsorcery:blockmachine:0": [
+      "arc_two"
+    ],
+    "immersiveengineering:metal_multiblock:13": [
+      "mnf_one"
+    ],
+    "alchemistry:fusion_controller:*": [
+      "chm_one"
+    ],
+    "astralsorcery:blockattunementaltar": [
+      "arc_three"
+    ],
+    "botania:enchanter": [
+      "enc_two"
+    ],
+    "botania:brewery": [
+      "alc_one"
+    ],
+    "alchemistry:electrolyzer:*": [
+      "chm_one"
+    ],
+    "ebwizardry:imbuement_altar": [
+      "mys_two"
+    ],
+    "vehicle:workstation:*": [
+      "eng_one"
+    ],
+    "astralsorcery:blockaltar:3": [
+      "arc_three"
+    ],
+    "astralsorcery:blockaltar:1": [
+      "arc_two"
+    ],
+    "thaumadditions:shadow_enchanter": [
+      "enc_one"
+    ],
+    "astralsorcery:blockaltar:2": [
+      "arc_two"
+    ],
+    "immersivetech:metal_multiblock": [
+      "mnf_one"
+    ],
+    "botanicadds:elven_altar": [
+      "arc_two"
+    ],
+    "roots:offertory_plate": [
+      "mys_tree"
+    ],
+    "astralsorcery:blockborehead:0": [
+      "arc_three"
+    ],
+    "minecraft:enchanting_table": [
+      "enc_one"
+    ],
     "immersiveengineering:stone_device:2": [
       "mnf_one"
     ],
-    "alchemistry:evaporator:*": [
-      "chm_one"
+    "roots:mortar": [
+      "mys_one"
+    ],
+    "astralsorcery:blockbore": [
+      "arc_three"
     ],
     "immersivepetroleum:metal_multiblock": [
       "mnf_one"
@@ -39,23 +111,14 @@
     "botania:runealtar": [
       "arc_one"
     ],
-    "immersiveengineering:metal_multiblock:13": [
-      "mnf_one"
+    "astralsorcery:blockattunementrelay": [
+      "arc_three"
+    ],
+    "roots:bonfire": [
+      "mys_one"
     ],
     "immersiveengineering:metal_device1:7": [
       "mnf_one"
-    ],
-    "alchemistry:fusion_controller:*": [
-      "chm_one"
-    ],
-    "botania:enchanter": [
-      "enc_two"
-    ],
-    "botania:brewery": [
-      "alc_one"
-    ],
-    "alchemistry:electrolyzer:*": [
-      "chm_one"
     ],
     "alchemistry:fission_controller:*": [
       "chm_one"
@@ -70,12 +133,6 @@
     ],
     "immersiveengineering:metal_multiblock:5": [
       "mnf_one",
-      "eng_one"
-    ],
-    "ebwizardry:imbuement_altar": [
-      "mys_two"
-    ],
-    "vehicle:workstation:*": [
       "eng_one"
     ],
     "immersiveengineering:metal_multiblock:7": [
@@ -99,6 +156,9 @@
     ],
     "immersiveengineering:metal_device1:13": [
       "mnf_one"
+    ],
+    "astralsorcery:blockborehead:1": [
+      "arc_three"
     ],
     "immersivetech:metal_multiblock:7": [
       "mnf_one"
