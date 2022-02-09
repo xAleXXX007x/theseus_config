@@ -7,11 +7,7 @@ var stagedItems as IIngredient[][string] = {
     <roots:wildwood_door>,
     <roots:pestle>,
     <roots:mortar>,
-    <roots:bonfire>,
-    <roots:wood_knife>,
-    <roots:stone_knife>,
-    <roots:iron_knife>,
-    <mysticalworld:copper_knife>
+    <roots:bonfire>
   ],
   [MYS_2]:[
     <roots:component_pouch>,
@@ -19,18 +15,20 @@ var stagedItems as IIngredient[][string] = {
     <roots:imbuer>,
     <roots:fey_crafter>,
     <roots:unending_bowl>,
-    <mysticalworld:silver_knife>,
-    <roots:gold_knife>,
     <roots:grove_stone>,
     <roots:fey_crafter>
   ],
   [MYS_3]:[
     <roots:apothecary_pouch>,
-    <roots:offertory_plate>,
-    <roots:diamond_knife>,
-    <mysticalworld:amethyst_knife>
+    <roots:offertory_plate>
   ],
   [SMT_1]:[
+    <roots:iron_knife>,
+    <mysticalworld:silver_knife>,
+    <roots:gold_knife>,
+    <roots:diamond_knife>,
+    <mysticalworld:amethyst_knife>,
+    <mysticalworld:copper_knife>,
     <mysticalworld:copper_axe>,
     <mysticalworld:silver_axe>,
     <mysticalworld:amethyst_axe>,
