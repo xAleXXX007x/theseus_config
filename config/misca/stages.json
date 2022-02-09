@@ -1,22 +1,49 @@
 {
   "block_stage": {
+    "immersivetech:metal_multiblock": [
+      "mnf_one"
+    ],
     "botanicadds:elven_altar": [
       "arc_two"
     ],
-    "alchemistry:chemical_dissolver:*": [
-      "chm_one"
-    ],
-    "botania:runealtar": [
-      "arc_one"
-    ],
-    "alchemistry:evaporator:*": [
-      "chm_one"
-    ],
-    "alchemistry:atomizer:*": [
+    "alchemistry:chemical_combiner:*": [
       "chm_one"
     ],
     "minecraft:enchanting_table": [
       "enc_one"
+    ],
+    "alchemistry:atomizer:*": [
+      "chm_one"
+    ],
+    "alchemistry:liquifier:*": [
+      "chm_one"
+    ],
+    "immersiveengineering:stone_device:2": [
+      "mnf_one"
+    ],
+    "alchemistry:evaporator:*": [
+      "chm_one"
+    ],
+    "immersivepetroleum:metal_multiblock": [
+      "mnf_one"
+    ],
+    "apotheosis:prismatic_altar": [
+      "enc_two"
+    ],
+    "immersivetech:stone_multiblock:*": [
+      "mnf_one"
+    ],
+    "ebwizardry:arcane_workbench": [
+      "mys_one"
+    ],
+    "botania:runealtar": [
+      "arc_one"
+    ],
+    "immersiveengineering:metal_multiblock:13": [
+      "mnf_one"
+    ],
+    "alchemistry:fusion_controller:*": [
+      "chm_one"
     ],
     "botania:enchanter": [
       "enc_two"
@@ -24,28 +51,53 @@
     "botania:brewery": [
       "alc_one"
     ],
-    "ebwizardry:imbuement_altar": [
-      "mys_two"
-    ],
     "alchemistry:electrolyzer:*": [
-      "chm_one"
-    ],
-    "alchemistry:liquifier:*": [
-      "chm_one"
-    ],
-    "apotheosis:prismatic_altar": [
-      "enc_two"
-    ],
-    "ebwizardry:arcane_workbench": [
-      "mys_one"
-    ],
-    "alchemistry:chemical_combiner:*": [
       "chm_one"
     ],
     "alchemistry:fission_controller:*": [
       "chm_one"
     ],
-    "alchemistry:fusion_controller:*": [
+    "immersiveengineering:wooden_device0:2": [
+      "mnf_one",
+      "eng_one"
+    ],
+    "immersiveengineering:metal_multiblock:4": [
+      "mnf_one",
+      "eng_one"
+    ],
+    "immersiveengineering:metal_multiblock:5": [
+      "mnf_one",
+      "eng_one"
+    ],
+    "ebwizardry:imbuement_altar": [
+      "mys_two"
+    ],
+    "immersiveengineering:metal_multiblock:7": [
+      "mnf_one",
+      "eng_one"
+    ],
+    "immersiveengineering:metal_multiblock:8": [
+      "mnf_one"
+    ],
+    "immersiveengineering:metal_multiblock:9": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:4": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:6": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:9": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:1": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:7": [
+      "mnf_one"
+    ],
+    "alchemistry:chemical_dissolver:*": [
       "chm_one"
     ]
   },
