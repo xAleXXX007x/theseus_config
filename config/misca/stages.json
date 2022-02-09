@@ -42,6 +42,9 @@
     "immersiveengineering:metal_multiblock:13": [
       "mnf_one"
     ],
+    "immersiveengineering:metal_device1:7": [
+      "mnf_one"
+    ],
     "alchemistry:fusion_controller:*": [
       "chm_one"
     ],
@@ -82,19 +85,22 @@
     "immersiveengineering:metal_multiblock:9": [
       "mnf_one"
     ],
+    "immersivetech:metal_multiblock:1": [
+      "mnf_one"
+    ],
     "immersivetech:metal_multiblock:4": [
       "mnf_one"
     ],
     "immersivetech:metal_multiblock:6": [
       "mnf_one"
     ],
-    "immersivetech:metal_multiblock:9": [
-      "mnf_one"
-    ],
-    "immersivetech:metal_multiblock:1": [
+    "immersiveengineering:metal_device1:13": [
       "mnf_one"
     ],
     "immersivetech:metal_multiblock:7": [
+      "mnf_one"
+    ],
+    "immersivetech:metal_multiblock:9": [
       "mnf_one"
     ],
     "alchemistry:chemical_dissolver:*": [
