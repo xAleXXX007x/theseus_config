@@ -3,14 +3,17 @@
     "botanicadds:elven_altar": [
       "arc_two"
     ],
+    "alchemistry:chemical_dissolver:*": [
+      "chm_one"
+    ],
     "botania:runealtar": [
       "arc_one"
     ],
-    "apotheosis:prismatic_altar": [
-      "enc_two"
+    "alchemistry:evaporator:*": [
+      "chm_one"
     ],
-    "ebwizardry:arcane_workbench": [
-      "mys_one"
+    "alchemistry:atomizer:*": [
+      "chm_one"
     ],
     "minecraft:enchanting_table": [
       "enc_one"
@@ -23,8 +26,48 @@
     ],
     "ebwizardry:imbuement_altar": [
       "mys_two"
+    ],
+    "alchemistry:electrolyzer:*": [
+      "chm_one"
+    ],
+    "alchemistry:liquifier:*": [
+      "chm_one"
+    ],
+    "apotheosis:prismatic_altar": [
+      "enc_two"
+    ],
+    "ebwizardry:arcane_workbench": [
+      "mys_one"
+    ],
+    "alchemistry:chemical_combiner:*": [
+      "chm_one"
+    ],
+    "alchemistry:fission_controller:*": [
+      "chm_one"
+    ],
+    "alchemistry:fusion_controller:*": [
+      "chm_one"
     ]
   },
   "global_stages": {},
-  "adjacent_stages": {}
+  "adjacent_stages": {
+    "mnf_two": [
+      "tch_two"
+    ],
+    "mnf_three": [
+      "tch_three"
+    ],
+    "eng_one": [
+      "tch_one"
+    ],
+    "eng_two": [
+      "tch_two"
+    ],
+    "mnf_one": [
+      "tch_one"
+    ],
+    "eng_three": [
+      "tch_three"
+    ]
+  }
 }
