@@ -11,8 +11,7 @@ Book.addBook(MYS_1, "Мистика 1", "Мануал: Мистика 1", "bewit
 Book.addBook(MYS_2, "Мистика 2", "Мануал: Мистика 2", "bewitchment:pentacle", 0x4692a3);
 Book.addBook(MYS_3, "Мистика 3", "Мануал: Мистика 3", "bewitchment:token_of_remedies", 0x1f8ba3);
 
-Book.addBook(ENC_1, "Зачарование 1", "Мануал: Зачарование 1", "minecraft:enchanted_book", 0xa34b9a);
-Book.addBook(ENC_2, "Зачарование 2", "Мануал: Зачарование 2", "minecraft:enchanting_table", 0xa32997);
+Book.addBook(ENC_1, "Зачарование 1", "Мануал: Зачарование", "minecraft:enchanted_book", 0xa34b9a);
 
 Book.addBook(TCH_1, "Инженерия 1", "Мануал: Инженерия 1", "embers:winding_gears", 0x9e974a);
 Book.addBook(TCH_2, "Инженерия 2", "Мануал: Инженерия 2", "engineersdecor:treated_wood_crafting_table", 0x9e952c);

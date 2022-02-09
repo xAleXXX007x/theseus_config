@@ -1,7 +1,6 @@
 import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
-
 var stagedItems as IIngredient[][string] = {
     [ARC_1]:[
         <botania:altar>,
@@ -304,8 +303,7 @@ var stagedItems as IIngredient[][string] = {
     ],
     [ENC_1]:[
     ]
-    };
-
+};
 for stageName, items in stagedItems {
   for item in items {
     Recipes.setRecipeStage(stageName, item);
@@ -313,26 +311,26 @@ for stageName, items in stagedItems {
 }
 
 var toRemove = [
-        <botania:thundersword>,
-        <extrabotany:combatmaidchestdarkened>,
-        <extrabotany:goblinslayerchest>,
-        <extrabotany:goblinslayerhelm>,
-        <extrabotany:goblinslayerlegs>,
-        <extrabotany:goblinslayerboots>,
-        <extrabotany:failnaught>,
-        <extrabotany:achilleshield>,
-        <extrabotany:camera>,
-        <extrabotany:deathring>,
-        <extrabotany:excaliber>,
-        <extrabotany:supercrown>,
-        <extrabotany:masterhandbag>,
-        <extrabotany:spearsubspace>,
-        <extrabotany:coregod>,
-        <extrabotany:judahoath>,
-        <extrabotany:allforone>,
-        <extrabotany:elvenking>,
-        <extrabotany:jingweifeather>,
-        <extrabotany:firstfractal>
+  <botania:thundersword>,
+  <extrabotany:combatmaidchestdarkened>,
+  <extrabotany:goblinslayerchest>,
+  <extrabotany:goblinslayerhelm>,
+  <extrabotany:goblinslayerlegs>,
+  <extrabotany:goblinslayerboots>,
+  <extrabotany:failnaught>,
+  <extrabotany:achilleshield>,
+  <extrabotany:camera>,
+  <extrabotany:deathring>,
+  <extrabotany:excaliber>,
+  <extrabotany:supercrown>,
+  <extrabotany:masterhandbag>,
+  <extrabotany:spearsubspace>,
+  <extrabotany:coregod>,
+  <extrabotany:judahoath>,
+  <extrabotany:allforone>,
+  <extrabotany:elvenking>,
+  <extrabotany:jingweifeather>,
+  <extrabotany:firstfractal>
 ] as IIngredient[];
 
 for item in toRemove {
