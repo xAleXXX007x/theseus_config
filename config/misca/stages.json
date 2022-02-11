@@ -168,6 +168,27 @@
     ],
     "alchemistry:chemical_dissolver:*": [
       "chm_one"
+    ],
+    "thaumcraft:arcane_workbench:*": [
+      "arc_one"
+    ],
+    "thaumcraft:wand_workbench:*": [
+      "arc_one"
+    ],
+    "thaumcraft:crucible:*": [
+      "arc_one"
+    ],
+    "thaumcraft:smelter_basic:*": [
+      "arc_one"
+    ],
+    "thaumcraft:smelter_thaumium:*": [
+      "arc_two"
+    ],
+    "thaumcraft:smelter_void:*": [
+      "arc_three"
+    ],
+    "thaumcraft:infusion_matrix:*": [
+      "arc_two"
     ]
   },
   "global_stages": {},
