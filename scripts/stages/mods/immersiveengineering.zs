@@ -30,6 +30,8 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:wirecoil:2>,
     <immersiveengineering:metal_device0:4>,
     <immersiveengineering:metal_device1:6>,
+    <alternatingflux:material>,
+    <alternatingflux:wirecoil>
   ],
   [ENG_1]: [
     <immersiveengineering:wooden_device0:2>,
@@ -163,7 +165,9 @@ var stagedItems as IIngredient[][string] = {
     <immersivepetroleum:metal_device>,
     <immersivepetroleum:metal_device:1>,
     <immersivetech:metal_device>,
-    <immersivetech:stone_decoration>
+    <immersivetech:stone_decoration>,
+    <alternatingflux:connector>,
+    <alternatingflux:connector:1>
   ],
   [INF_1]: [
     <immersivecables:coil_block>,
