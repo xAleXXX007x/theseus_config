@@ -262,7 +262,14 @@
     "damageThresholdFactor": 0.33,
     "baseDiceCount": 1,
     "baseDiceSides": 20,
-    "baseDefenseClass": 14
+    "baseDefenseClass": 14,
+    "armorPerDefensePenalty": 5,
+    "shieldBonus": 4,
+    "towerShieldBonus": 8,
+    "veryFastSpeed": 2.0,
+    "fastSpeed": 1.6,
+    "normalSpeed": 1.25,
+    "slowSpeed": 0.8
   },
   "externalBookUrlTemplate": "https://library.ariadna.su/view.php?id\u003d%s"
 }
