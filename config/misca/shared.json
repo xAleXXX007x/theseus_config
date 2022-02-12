@@ -257,7 +257,7 @@
   "charsheet": {
     "healthPerFitnessComposure": 2.0,
     "fitnessFistsDamageOffset": -0.5,
-    "fitnessFistsDamageFactor": 0.35,
+    "fitnessFistsDamageFactor": 0.225,
     "damageThresholdDelay": 3000,
     "damageThresholdFactor": 0.33,
     "baseDiceCount": 1,
