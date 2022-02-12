@@ -1,7 +1,7 @@
 import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 var stagedItems as IIngredient[][string] = {
-    [MNF_1]:[
+    [SMT_1]:[
         <metallurgy:phosphorus_lamp>,
         <metallurgy:crusher>,
         <metallurgy:alloyer>,
