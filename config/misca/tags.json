@@ -1,9 +1,5 @@
 {
   "item_tags": {
-    "minecraft:stone_shovel": [
-      "fitness",
-      "ingenuity"
-    ],
     "minecraft:diamond_pickaxe": [
       "fitness",
       "ingenuity",
@@ -14,17 +10,12 @@
       "ingenuity",
       "onehanded"
     ],
-    "minecraft:fishing_rod": [
-      "twohanded",
-      "slow",
-      "ingenuity"
-    ],
-    "minecraft:golden_axe": [
-      "fitness",
-      "onehanded"
-    ],
     "minecraft:wooden_sword": [
       "fitness"
+    ],
+    "betternether:cincinnasite_axe": [
+      "fitness",
+      "onehanded"
     ],
     "minecraft:stone_hoe": [
       "fitness",
@@ -34,24 +25,37 @@
     "minecraft:diamond_sword": [
       "fitness"
     ],
+    "bewitchment:silver_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "bewitchment:boline": [
+      "ingenuity",
+      "composure"
+    ],
     "minecraft:diamond_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
     ],
-    "minecraft:wooden_hoe": [
+    "astralsorcery:itemchargedcrystalsword": [
+      "fitness"
+    ],
+    "astralsorcery:itemchargedcrystalshovel": [
       "fitness",
       "ingenuity",
       "twohanded"
     ],
-    "minecraft:diamond_shovel": [
-      "fitness",
-      "ingenuity"
-    ],
-    "minecraft:stone_sword": [
+    "bewitchment:silver_sword": [
       "fitness"
     ],
     "minecraft:stone_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "betternether:cincinnasite_pickaxe_diamond": [
       "fitness",
       "ingenuity",
       "onehanded"
@@ -61,17 +65,14 @@
     ],
     "minecraft:golden_shovel": [
       "fitness",
-      "ingenuity"
-    ],
-    "minecraft:iron_axe": [
-      "fitness",
-      "onehanded"
-    ],
-    "minecraft:diamond_axe": [
-      "fitness",
-      "onehanded"
+      "ingenuity",
+      "twohanded"
     ],
     "minecraft:wooden_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "astralsorcery:itemchargedcrystalaxe": [
       "fitness",
       "onehanded"
     ],
@@ -85,7 +86,8 @@
     ],
     "minecraft:wooden_shovel": [
       "fitness",
-      "ingenuity"
+      "ingenuity",
+      "twohanded"
     ],
     "minecraft:egg": [
       "throwable",
@@ -93,6 +95,97 @@
       "composure"
     ],
     "minecraft:golden_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "astralsorcery:itemcrystalsword": [
+      "fitness"
+    ],
+    "bewitchment:silver_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "bewitchment:cold_iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "bewitchment:cold_iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:iron_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:stone_shovel": [
+      "fitness",
+      "ingenuity",
+      null
+    ],
+    "bewitchment:athame": [
+      "agility",
+      "composure"
+    ],
+    "minecraft:fishing_rod": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
+    "minecraft:golden_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "astralsorcery:itemcrystalpickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:wooden_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:diamond_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:stone_sword": [
+      "fitness"
+    ],
+    "bewitchment:cleaver_sword": [
+      "strength",
+      "coordination",
+      "twohanded"
+    ],
+    "minecraft:iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:diamond_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "astralsorcery:itemchargedcrystalpickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "bewitchment:cold_iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "betternether:cincinnasite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "bewitchment:silver_pickaxe": [
       "fitness",
       "ingenuity",
       "onehanded"
@@ -107,14 +200,35 @@
       "perception",
       "normal"
     ],
-    "minecraft:iron_shovel": [
+    "betternether:cincinnasite_axe_diamond": [
       "fitness",
-      "ingenuity"
+      "onehanded"
+    ],
+    "bewitchment:thyrsus": [
+      "perception",
+      "composure"
+    ],
+    "astralsorcery:itemcrystalshovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "bewitchment:cold_iron_sword": [
+      "fitness"
+    ],
+    "bewitchment:cold_iron_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "minecraft:golden_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "bewitchment:silver_axe": [
+      "fitness",
+      "onehanded"
     ],
     "minecraft:stone_axe": [
       "fitness",
@@ -123,6 +237,10 @@
     "minecraft:snowball": [
       "throwable",
       "coordination"
+    ],
+    "astralsorcery:itemcrystalaxe": [
+      "fitness",
+      "onehanded"
     ]
   }
 }
