@@ -96,8 +96,6 @@ var stagedItems as IIngredient[][string] = {
       <spartanweaponry:halberd_gold>,
       <spartanweaponry:pike_gold>,
       <spartanweaponry:lance_gold>,
-      <spartanweaponry:longbow_gold>,
-      <spartanweaponry:crossbow_gold>,
       <spartanweaponry:throwing_knife_gold>,
       <spartanweaponry:throwing_axe_gold>,
       <spartanweaponry:javelin_gold>,
