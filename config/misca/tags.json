@@ -1,3 +1,128 @@
 {
-  "item_tags": {}
+  "item_tags": {
+    "minecraft:stone_shovel": [
+      "fitness",
+      "ingenuity"
+    ],
+    "minecraft:diamond_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:wooden_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:fishing_rod": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
+    "minecraft:golden_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:wooden_sword": [
+      "fitness"
+    ],
+    "minecraft:stone_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:diamond_sword": [
+      "fitness"
+    ],
+    "minecraft:diamond_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:wooden_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:diamond_shovel": [
+      "fitness",
+      "ingenuity"
+    ],
+    "minecraft:stone_sword": [
+      "fitness"
+    ],
+    "minecraft:stone_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:iron_sword": [
+      "fitness"
+    ],
+    "minecraft:golden_shovel": [
+      "fitness",
+      "ingenuity"
+    ],
+    "minecraft:iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:diamond_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:wooden_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:golden_sword": [
+      "fitness"
+    ],
+    "minecraft:iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:wooden_shovel": [
+      "fitness",
+      "ingenuity"
+    ],
+    "minecraft:egg": [
+      "throwable",
+      "coordination",
+      "composure"
+    ],
+    "minecraft:golden_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:bow": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
+    "minecraft:iron_shovel": [
+      "fitness",
+      "ingenuity"
+    ],
+    "minecraft:golden_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "minecraft:stone_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:snowball": [
+      "throwable",
+      "coordination"
+    ]
+  }
 }
