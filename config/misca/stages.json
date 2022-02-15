@@ -207,6 +207,15 @@
     ],
     "bewitchment:sigil_table:*": [
       "mys_three"
+    ],
+    "minecraft:brewing_stand:*": [
+      "alc_one"
+    ],
+    "endreborn:entropy_user:*": [
+      "mys_one"
+    ],
+    "endreborn:block_end_forge:*": [
+      "mys_one"
     ]
   },
   "global_stages": {},
