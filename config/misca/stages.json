@@ -189,6 +189,24 @@
     ],
     "alchemistry:chemical_dissolver:*": [
       "chm_one"
+    ],
+    "bewitchment:witches_cauldron": [
+      "mys_one"
+    ],
+    "bewitchment:witches_oven:*": [
+      "mys_one"
+    ],
+    "bewitchment:distillery:*": [
+      "mys_one"
+    ],
+    "bewitchment:brazier:*": [
+      "mys_two"
+    ],
+    "bewitchment:crystal_ball:*": [
+      "mys_two"
+    ],
+    "bewitchment:sigil_table:*": [
+      "mys_three"
     ]
   },
   "global_stages": {},
