@@ -5,7 +5,7 @@ import mods.recipestages.Recipes;
 var stagedItems as IIngredient[][string] = {
     [ENC_1]:[
         <apotheosis:hellshelf>,
-        <apotheosis:prismatic_altiar>,
+        <apotheosis:prismatic_altar>,
         <apotheosis:null_book>,
         <apotheosis:armor_head_book>,
         <apotheosis:armor_chest_book>,
