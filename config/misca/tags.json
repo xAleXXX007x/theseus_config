@@ -1,61 +1,273 @@
 {
   "item_tags": {
+    "endreborn:tool_shovel_endorium": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:crossbow_invar": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "mod_lavacow:sludge_wand": [
+      "magic",
+      "charisma",
+      "slow"
+    ],
+    "spartanweaponryarcana:dagger_thaumium": [
+      "agility"
+    ],
+    "thaumcraft:void_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:halberd_stone": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "thaumcraft:thaumium_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thaumadditions:void_elemental_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "mowziesmobs:naga_fang_dagger": [
+      "agility"
+    ],
+    "spartanweaponryarcana:longbow_thaumium": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanshields:shield_tower_nickel": [
+      "towershield"
+    ],
+    "metallurgy:eximite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:longbow_manasteel": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "metallurgy:eximite_sword": [
+      "fitness"
+    ],
+    "bewitchment:cold_iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:dagger_diamond": [
+      "agility"
+    ],
+    "mowziesmobs:blowgun": [
+      "coordination",
+      "composure",
+      "normal",
+      "onehanded"
+    ],
+    "spartanweaponry:battleaxe_tin": [
+      "fitness"
+    ],
+    "techguns:revolver": [
+      "coordination",
+      "agility"
+    ],
+    "metallurgy:copper_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:deep_iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:angmallen_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:boomerang_tin": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:javelin_elementium": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:boomerang_iron": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "ebwizardry:apprentice_sorcery_wand": [
+      "twohanded"
+    ],
+    "techguns:flamethrower": [
+      "coordination"
+    ],
+    "metallurgy:vyroxeres_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:lance_gold": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:glaive_platinum": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponry:warhammer_gold": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:crossbow_tin": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "endreborn:tool_axe_endorium": [
+      "fitness",
+      "onehanded"
+    ],
+    "stewweapons:blade_trost": [
+      "agility",
+      "composure"
+    ],
+    "botania:elementiumaxe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:brass_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "stewweapons:blader_cutter": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:spear_silver": [
+      "perception",
+      "polearm"
+    ],
+    "stewweapons:rusty_sword": [
+      "fitness",
+      "twohanded"
+    ],
+    "betternether:cincinnasite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:rapier_stone": [
+      "agility"
+    ],
+    "spartanweaponry:hammer_bronze": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:halberd_terrasteel": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "techguns:m4": [
+      "fitness",
+      "perception"
+    ],
     "minecraft:diamond_pickaxe": [
       "fitness",
       "ingenuity",
       "onehanded"
     ],
-    "minecraft:wooden_pickaxe": [
+    "botania:starsword": [
       "fitness",
-      "ingenuity",
-      "onehanded"
+      "agility"
     ],
-    "minecraft:wooden_sword": [
-      "fitness"
-    ],
-    "betternether:cincinnasite_axe": [
-      "fitness",
-      "onehanded"
-    ],
-    "minecraft:stone_hoe": [
-      "fitness",
-      "ingenuity",
+    "spartanweaponry:glaive_diamond": [
+      "coordination",
+      "perception",
       "twohanded"
     ],
-    "minecraft:diamond_sword": [
-      "fitness"
+    "metallurgy:copper_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:desichalkos_axe": [
+      "fitness",
+      "onehanded"
     ],
     "bewitchment:silver_shovel": [
       "fitness",
       "ingenuity",
       "twohanded"
     ],
-    "bewitchment:boline": [
-      "ingenuity",
-      "composure"
+    "ebwizardry:poison_bomb": [
+      "throwable",
+      "coordination"
     ],
-    "minecraft:diamond_hoe": [
+    "metallurgy:silver_pickaxe": [
       "fitness",
       "ingenuity",
-      "twohanded"
+      "onehanded"
     ],
-    "astralsorcery:itemchargedcrystalsword": [
+    "spartanweaponry:throwing_knife_bronze": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "metallurgy:oureclase_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:javelin_tin": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:caestus": [
       "fitness"
     ],
-    "astralsorcery:itemchargedcrystalshovel": [
+    "stewweapons:spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:warhammer_thaumium": [
       "fitness",
-      "ingenuity",
       "twohanded"
     ],
     "bewitchment:silver_sword": [
       "fitness"
     ],
-    "minecraft:stone_pickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
+    "metallurgy:orichalcum_buckler": [
+      "shield"
     ],
-    "betternether:cincinnasite_pickaxe_diamond": [
+    "metallurgy:ignatius_pickaxe": [
       "fitness",
       "ingenuity",
       "onehanded"
@@ -63,7 +275,1844 @@
     "minecraft:iron_sword": [
       "fitness"
     ],
+    "metallurgy:shadow_iron_sword": [
+      "fitness"
+    ],
+    "metallurgy:shadow_steel_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:electroaxe": [
+      "fitness",
+      "tech"
+    ],
+    "spartanweaponry:crossbow_gold": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "techguns:mibgun": [
+      "tech",
+      "agility"
+    ],
+    "metallurgy:carmot_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:tartarite_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:throwing_knife_silver": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponryarcana:halberd_thaumium": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "ebwizardry:advanced_wand": [
+      "twohanded"
+    ],
+    "mod_lavacow:tooth_dagger": [
+      "agility"
+    ],
+    "stewweapons:vibroblade": [
+      "agility",
+      "composure",
+      "twohanded"
+    ],
+    "ebwizardry:advanced_necromancy_wand": [
+      "twohanded"
+    ],
+    "spartanweaponryarcana:saber_thaumium": [
+      "agility"
+    ],
+    "thaumadditions:void_elemental_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:orichalcum_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "grimoireofgaia:weapon_book_freezing": [
+      "charisma",
+      "magic"
+    ],
+    "spartanweaponry:dagger_steel": [
+      "agility"
+    ],
+    "spartanweaponry:javelin_gold": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "stewweapons:poison_dagger": [
+      "agility",
+      "ingenuity"
+    ],
+    "roots:living_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:dagger_gold": [
+      "agility"
+    ],
+    "spartanweaponry:saber_platinum": [
+      "agility"
+    ],
+    "metallurgy:atlarus_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:spear_electrum": [
+      "perception",
+      "polearm"
+    ],
+    "metallurgy:silver_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanshields:shield_tower_gold": [
+      "towershield"
+    ],
+    "spartanweaponry:boomerang_stone": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:crossbow_terrasteel": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "metallurgy:vyroxeres_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:vulcanite_sword": [
+      "fitness"
+    ],
+    "metallurgy:inolashite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:mace_manasteel": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:lance_silver": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:dagger_bronze": [
+      "agility"
+    ],
+    "metallurgy:haderoth_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "botania:manasteelsword": [
+      "fitness"
+    ],
+    "spartanweaponry:katana_tin": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:spear_iron": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:lance_bronze": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:saber_steel": [
+      "agility"
+    ],
+    "techguns:scatterbeamrifle": [
+      "coordination",
+      "tech"
+    ],
+    "stewweapons:vibroblade_1": [
+      "fitness",
+      "coordination",
+      "composure",
+      "twohanded"
+    ],
+    "ebwizardry:novice_ice_wand": [
+      "twohanded"
+    ],
+    "metallurgy:adamantine_sword": [
+      "fitness"
+    ],
+    "erebus:jade_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanshields:shield_tower_obsidian": [
+      "towershield"
+    ],
+    "metallurgy:tartarite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:pike_gold": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "metallurgy:damascus_steel_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:rapier_silver": [
+      "agility"
+    ],
+    "techguns:fraggrenade": [
+      "coordination"
+    ],
+    "spartanweaponry:throwing_axe_stone": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:dagger_terrasteel": [
+      "agility"
+    ],
+    "metallurgy:astral_silver_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:electrum_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:glaive_voidmetal": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "minecraft:golden_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:club_studded": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:katana_steel": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_copper": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:hammer_elementium": [
+      "fitness"
+    ],
+    "minecraft:wooden_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:throwing_axe_manasteel": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:orichalcum_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:crystal_sword": [
+      "magic",
+      "agility"
+    ],
+    "thaumcraft:crimson_blade": [
+      "fitness"
+    ],
+    "metallurgy:etherium_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:mace_stone": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:throwing_knife_iron": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "ebwizardry:advanced_sorcery_wand": [
+      "twohanded"
+    ],
+    "metallurgy:atlarus_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:saber_terrasteel": [
+      "agility"
+    ],
+    "spartanweaponryarcana:staff_voidmetal": [
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:electrum_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "mod_lavacow:skeletonking_mace": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:pike_voidmetal": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:javelin_stone": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:lance_electrum": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:dagger_stone": [
+      "agility"
+    ],
+    "spartanweaponry:warhammer_electrum": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:saber_diamond": [
+      "agility"
+    ],
+    "spartanweaponry:battleaxe_invar": [
+      "fitness"
+    ],
+    "bewitchment:cold_iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:rapier_manasteel": [
+      "agility"
+    ],
+    "spartanweaponryarcana:hammer_terrasteel": [
+      "fitness"
+    ],
+    "ebwizardry:advanced_ice_wand": [
+      "twohanded"
+    ],
+    "metallurgy:black_steel_sword": [
+      "fitness"
+    ],
+    "metallurgy:inolashite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thaumcraft:void_sword": [
+      "fitness"
+    ],
+    "minecraft:fishing_rod": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
+    "spartanweaponry:saber_iron": [
+      "agility"
+    ],
+    "thaumcraft:elemental_pick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:greatsword_bronze": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_bronze": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "grimoireofgaia:weapon_book_hunger": [
+      "charisma",
+      "magic"
+    ],
+    "techguns:teslagun": [
+      "tech",
+      "coordination"
+    ],
+    "mysticalworld:amethyst_sword": [
+      "fitness"
+    ],
+    "metallurgy:astral_silver_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:battleaxe_wood": [
+      "fitness"
+    ],
+    "thaumcraft:caster_basic": [
+      "magic",
+      "ingenuity"
+    ],
+    "spartanweaponry:lance_tin": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "roots:living_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "botania:elementiumpick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:copper_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:katana_iron": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:spear_thaumium": [
+      "perception",
+      "polearm"
+    ],
+    "metallurgy:adamantine_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:hammer_silver": [
+      "fitness"
+    ],
+    "spartanweaponry:spear_invar": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponryarcana:rapier_terrasteel": [
+      "agility"
+    ],
+    "roots:wood_knife": [
+      "agility"
+    ],
+    "spartanshields:shield_tower_tin": [
+      "towershield"
+    ],
+    "metallurgy:amordrine_sword": [
+      "fitness"
+    ],
+    "metallurgy:vyroxeres_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:astral_silver_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:lance_stone": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:greatsword_voidmetal": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_knife_tin": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponry:pike_bronze": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:boomerang_platinum": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:prometheum_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:throwing_axe_wood": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:warhammer_elementium": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:brass_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_iron": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:oureclase_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:greatsword_electrum": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:pike_invar": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:dagger": [
+      "agility"
+    ],
+    "techguns:blasterrifle": [
+      "perception",
+      "tech"
+    ],
+    "extrabotany:excaliber": [
+      "fitness",
+      "coordination"
+    ],
+    "metallurgy:ceruclase_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:desichalkos_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:battleaxe_bronze": [
+      "fitness"
+    ],
+    "spartanweaponry:staff_silver": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:saber_elementium": [
+      "agility"
+    ],
+    "mana_wizardry:wand_terra": [
+      "twohanded"
+    ],
+    "metallurgy:celenegil_sword": [
+      "fitness"
+    ],
+    "minecraft:golden_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "ebwizardry:master_healing_wand": [
+      "twohanded"
+    ],
+    "metallurgy:haderoth_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thaumcraft:void_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "endreborn:tool_shovel_wolframium": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "immersiveengineering:axe_steel": [
+      "fitness",
+      "onehanded"
+    ],
+    "endreborn:tool_sword_endorium": [
+      "fitness"
+    ],
+    "metallurgy:kalendrite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanshields:shield_tower_invar": [
+      "towershield"
+    ],
+    "extrabotany:spearsubspace": [
+      "polearm",
+      "magic"
+    ],
+    "metallurgy:mithril_sword": [
+      "fitness"
+    ],
+    "minecraft:stone_sword": [
+      "fitness"
+    ],
+    "ebwizardry:master_earth_wand": [
+      "twohanded"
+    ],
+    "metallurgy:vulcanite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:haderoth_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:warhammer_terrasteel": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:rapier_elementium": [
+      "agility"
+    ],
+    "metallurgy:oureclase_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:steel_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "botania:elementiumshovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_stone": [
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:shadow_steel_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "ebwizardry:novice_sorcery_wand": [
+      "twohanded"
+    ],
+    "erebus:jade_paxel": [
+      "fitness",
+      "ingenuity",
+      "twohanded",
+      "normal"
+    ],
+    "grimoireofgaia:weapon_fan_fire": [
+      "composure",
+      "charisma"
+    ],
+    "metallurgy:orichalcum_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:battleaxe_terrasteel": [
+      "fitness"
+    ],
+    "spartanweaponry:longbow_tin": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "stewweapons:solid_light_baton": [
+      "fitness",
+      "tech",
+      "composure"
+    ],
+    "astralsorcery:itemcrystalaxe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:deep_iron_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:pike_tin": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:staff_manasteel": [
+      "coordination",
+      "twohanded"
+    ],
+    "industrialforegoing:infinity_drill": [
+      "fitness",
+      "ingenuity",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponryarcana:javelin_manasteel": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:lance_voidmetal": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:rapier_platinum": [
+      "agility"
+    ],
+    "spartanweaponryarcana:spear_voidmetal": [
+      "perception",
+      "polearm"
+    ],
+    "metallurgy:platinum_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "mekanism:atomicdisassembler": [
+      "fitness",
+      "tech",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponryarcana:crossbow_voidmetal": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "minecraft:golden_sword": [
+      "fitness"
+    ],
+    "metallurgy:bronze_sword": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:javelin_thaumium": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:electrum_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:brass_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thaumcraft:thaumium_pick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:golden_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "stewweapons:laser_razor": [
+      "agility",
+      "tech"
+    ],
+    "ebwizardry:apprentice_earth_wand": [
+      "twohanded"
+    ],
+    "spartanweaponryarcana:crossbow_elementium": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "immersiveengineering:hoe_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:celenegil_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:crossbow_copper": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "techguns:powerhammer": [
+      "fitness"
+    ],
+    "techguns:aug": [
+      "fitness",
+      "perception"
+    ],
+    "mod_lavacow:moltenhammer": [
+      "fitness",
+      "coordination"
+    ],
+    "mod_lavacow:vespa_dagger": [
+      "agility"
+    ],
+    "spartanweaponry:greatsword_iron": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:eximite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:saber_stone": [
+      "agility"
+    ],
+    "metallurgy:oureclase_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:warhammer_manasteel": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:katana_stone": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:krik_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:mace_bronze": [
+      "fitness",
+      "onehanded"
+    ],
+    "immersiveengineering:shovel_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "roots:living_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:greatsword_thaumium": [
+      "fitness",
+      "twohanded"
+    ],
+    "stewweapons:monomolecural_blade": [
+      "agility",
+      "tech"
+    ],
+    "extrabotany:firstfractal": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "techguns:lmg": [
+      "fitness"
+    ],
+    "bewitchment:cold_iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:throwing_knife_thaumium": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponry:hammer_copper": [
+      "fitness"
+    ],
+    "spartanweaponry:hammer_electrum": [
+      "fitness"
+    ],
+    "erebus:jade_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "mysticalworld:amethyst_knife": [
+      "agility",
+      "fast"
+    ],
+    "spartanweaponry:longsword_electrum": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "ebwizardry:magic_wand": [
+      "twohanded"
+    ],
+    "techguns:combatshotgun": [
+      "coordination",
+      "fitness"
+    ],
+    "stewweapons:axe": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:rapier_tin": [
+      "agility"
+    ],
+    "mod_lavacow:famine": [
+      "agility"
+    ],
+    "metallurgy:copper_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:halberd_copper": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:throwing_axe_platinum": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "ebwizardry:firebomb": [
+      "throwable",
+      "coordination"
+    ],
+    "spartanweaponry:staff_steel": [
+      "coordination",
+      "twohanded"
+    ],
+    "mod_lavacow:frozen_dagger": [
+      "agility"
+    ],
+    "spartanweaponry:lance_invar": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "metallurgy:carmot_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "extrabotany:elementiumhammer": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:throwing_knife_manasteel": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "metallurgy:vyroxeres_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "techguns:handcannon": [
+      "perception",
+      "fitness",
+      "composure"
+    ],
+    "stewweapons:plasma_torch": [
+      "ingenuity",
+      "tech"
+    ],
+    "techguns:combatknife": [
+      "agility"
+    ],
+    "minecraft:wooden_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:tartarite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "mod_lavacow:bonesword": [
+      "agility"
+    ],
+    "mowziesmobs:wrought_axe": [
+      "fitness",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponry:spear_copper": [
+      "perception",
+      "polearm"
+    ],
+    "immersiveengineering:shield": [
+      "towershield"
+    ],
+    "botania:crystalbow": [
+      "perception",
+      "twohanded"
+    ],
+    "ebwizardry:master_lightning_wand": [
+      "twohanded"
+    ],
+    "metallurgy:etherium_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:halberd_elementium": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "thaumcraft:void_pick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:throwing_knife_steel": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "metallurgy:amordrine_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:boomerang_thaumium": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:warhammer_diamond": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:longsword_manasteel": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "minecraft:diamond_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:celenegil_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:warhammer_stone": [
+      "fitness",
+      "twohanded"
+    ],
+    "ebwizardry:apprentice_fire_wand": [
+      "twohanded"
+    ],
+    "stewweapons:energy_whip": [
+      "charisma",
+      "composure",
+      "polearm"
+    ],
+    "metallurgy:steel_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:black_steel_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:crossbow_thaumium": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponryarcana:glaive_thaumium": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponry:rapier_iron": [
+      "agility"
+    ],
+    "stewweapons:magnet_mace": [
+      "coordination",
+      "fitness",
+      "tech"
+    ],
+    "metallurgy:amordrine_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:astral_silver_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:warhammer_platinum": [
+      "fitness",
+      "twohanded"
+    ],
+    "stewweapons:chainsaw_1": [
+      "fitness",
+      "composure"
+    ],
+    "erebus:wasp_dagger": [
+      "agility",
+      "throwable",
+      "fast"
+    ],
+    "spartanweaponry:rapier_bronze": [
+      "agility"
+    ],
+    "spartanweaponry:spear_platinum": [
+      "perception",
+      "polearm"
+    ],
+    "metallurgy:damascus_steel_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:saber_electrum": [
+      "agility"
+    ],
+    "metallurgy:astral_silver_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:katana_copper": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "endreborn:tool_sword_wolframium": [
+      "fitness"
+    ],
+    "metallurgy:hepatizon_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:claw": [
+      "agility",
+      "ingenuity",
+      "composure"
+    ],
+    "spartanweaponry:javelin_copper": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "ebwizardry:novice_earth_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:spear_wood": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:halberd_electrum": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "metallurgy:sanguinite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:dagger_platinum": [
+      "agility"
+    ],
+    "spartanweaponry:longbow_electrum": [
+      "perception"
+    ],
+    "metallurgy:mithril_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:lance_diamond": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "metallurgy:shadow_steel_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:spear_stone": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:spear_tin": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:rapier_steel": [
+      "agility"
+    ],
+    "stewweapons:long_dagger": [
+      "agility"
+    ],
+    "spartanweaponry:dagger_wood": [
+      "agility"
+    ],
+    "minecraft:diamond_sword": [
+      "fitness"
+    ],
+    "botania:thundersword": [
+      "fitness",
+      "perception"
+    ],
+    "metallurgy:rubracium_gauntlet": [
+      "fitness"
+    ],
+    "ebwizardry:advanced_fire_wand": [
+      "twohanded"
+    ],
+    "techguns:ballistic_shield": [
+      "towershield"
+    ],
+    "botania:enderdagger": [
+      "agility",
+      "magic"
+    ],
     "minecraft:golden_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:spear_manasteel": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:crossbow_diamond": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponry:lance_steel": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:caestus_studded": [
+      "fitness"
+    ],
+    "erebus:jade_sword": [
+      "fitness"
+    ],
+    "spartanshields:shield_tower_constantan": [
+      "towershield"
+    ],
+    "spartanweaponry:spear_gold": [
+      "perception",
+      "polearm"
+    ],
+    "metallurgy:prometheum_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:greatsword_copper": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:rapier_thaumium": [
+      "agility"
+    ],
+    "spartanweaponry:saber_silver": [
+      "agility"
+    ],
+    "mysticalworld:amethyst_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:mithril_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:hammer": [
+      "fitness",
+      "tech",
+      "ingenuity"
+    ],
+    "spartanweaponryarcana:throwing_knife_terrasteel": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "metallurgy:angmallen_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_copper": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:deep_iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:midasium_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thaumcraft:primal_crusher": [
+      "magic",
+      "onehanded"
+    ],
+    "spartanweaponry:throwing_knife_wood": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponryarcana:glaive_terrasteel": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_gold": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:copper_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_gold": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:crossbow_manasteel": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "extrabotany:ultimatehammer": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:ceruclase_shield": [
+      "shield"
+    ],
+    "spartanweaponry:pike_wood": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "ebwizardry:apprentice_ice_wand": [
+      "twohanded"
+    ],
+    "metallurgy:ignatius_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "roots:living_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:throwing_axe_steel": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "techguns:mac10": [
+      "agility"
+    ],
+    "metallurgy:haderoth_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:pike_platinum": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:saber_manasteel": [
+      "agility"
+    ],
+    "metallurgy:inolashite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:hammer_gold": [
+      "fitness"
+    ],
+    "spartanweaponry:longbow_diamond": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponryarcana:greatsword_elementium": [
+      "fitness",
+      "twohanded"
+    ],
+    "ebwizardry:master_necromancy_wand": [
+      "twohanded"
+    ],
+    "spartanweaponryarcana:javelin_terrasteel": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:warhammer_voidmetal": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:tartarite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_knife_diamond": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "techguns:riot_shield": [
+      "towershield"
+    ],
+    "metallurgy:orichalcum_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "botania:livingwoodbow": [
+      "perception",
+      "twohanded"
+    ],
+    "techguns:miningdrill": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
+    "metallurgy:amordrine_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "erebus:wasp_sword": [
+      "agility",
+      "magic"
+    ],
+    "immersiveengineering:chemthrower": [
+      "coordination",
+      "fitness",
+      "ingenuity",
+      "twohanded",
+      "slow"
+    ],
+    "metallurgy:hepatizon_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "techguns:lasergun": [
+      "perception",
+      "tech"
+    ],
+    "spartanweaponry:throwing_knife_copper": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "techguns:stielgranate": [
+      "coordination"
+    ],
+    "spartanshields:shield_tower_silver": [
+      "towershield"
+    ],
+    "spartanweaponry:longsword_tin": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "mod_lavacow:moltenpan": [
+      "ingenuity"
+    ],
+    "spartanweaponry:longsword_invar": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:saber_wood": [
+      "agility"
+    ],
+    "spartanweaponryarcana:throwing_axe_thaumium": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:javelin_steel": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:lance_elementium": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:throwing_knife_voidmetal": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponry:longbow_bronze": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:pike_silver": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:longbow_terrasteel": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:battleaxe_silver": [
+      "fitness"
+    ],
+    "erebus:jade_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "endreborn:tool_axe_wolframium": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:shadow_steel_sword": [
+      "fitness"
+    ],
+    "metallurgy:hepatizon_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "bewitchment:athame": [
+      "agility",
+      "composure"
+    ],
+    "metallurgy:amordrine_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "endreborn:tool_magnifier": [
+      "magic",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:pike_thaumium": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:longbow_iron": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "grimoireofgaia:weapon_book": [
+      "charisma",
+      "magic"
+    ],
+    "ebwizardry:spell_book:1": [
+      "perception"
+    ],
+    "ebwizardry:spell_book:2": [
+      "perception"
+    ],
+    "minecraft:wooden_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:mithril_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "ebwizardry:apprentice_lightning_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_knife_stone": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "stewweapons:laser_sword": [
+      "tech",
+      "agility"
+    ],
+    "metallurgy:eximite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:mace_elementium": [
+      "fitness",
+      "onehanded"
+    ],
+    "grimoireofgaia:weapon_book_nightmare": [
+      "charisma",
+      "magic"
+    ],
+    "metallurgy:orichalcum_sword": [
+      "fitness"
+    ],
+    "metallurgy:platinum_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "ebwizardry:advanced_earth_wand": [
+      "twohanded"
+    ],
+    "metallurgy:quicksilver_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:longsword_voidmetal": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:mace_gold": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:etherium_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:battleaxe_gold": [
+      "fitness"
+    ],
+    "bewitchment:thyrsus": [
+      "perception",
+      "composure"
+    ],
+    "metallurgy:silver_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:halberd_iron": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "bewitchment:cold_iron_sword": [
+      "fitness"
+    ],
+    "metallurgy:atlarus_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:glaive_manasteel": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:celenegil_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:pike_elementium": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:halberd_bronze": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:mace": [
+      "coordination"
+    ],
+    "spartanweaponry:throwing_axe_invar": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "ebwizardry:spell_book:111": [
+      "coordination"
+    ],
+    "spartanweaponry:longsword_gold": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:midasium_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:shadow_steel_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:shadow_iron_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:saber_bronze": [
+      "agility"
+    ],
+    "spartanweaponry:hammer_tin": [
+      "fitness"
+    ],
+    "immersiveengineering:drill": [
+      "fitness",
+      "ingenuity",
+      "twohanded",
+      "veryslow"
+    ],
+    "stewweapons:deepdrill": [
+      "fitness",
+      "ingenuity",
+      "composure",
+      "twohanded"
+    ],
+    "stewweapons:machete_1": [
+      "fitness",
+      "coordination"
+    ],
+    "stewweapons:rope_hook": [
+      "coordination",
+      "composure",
+      "polearm"
+    ],
+    "astralsorcery:itemchargedcrystalshovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:machete": [
+      "fitness",
+      "coordination"
+    ],
+    "spartanweaponry:mace_wood": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:stone_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thaumcraft:thaumium_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
@@ -72,103 +2121,166 @@
       "fitness",
       "onehanded"
     ],
-    "astralsorcery:itemchargedcrystalaxe": [
+    "spartanshields:shield_tower_platinum": [
+      "towershield"
+    ],
+    "metallurgy:carmot_axe": [
       "fitness",
       "onehanded"
     ],
-    "minecraft:golden_sword": [
-      "fitness"
+    "spartanweaponryarcana:rapier_voidmetal": [
+      "agility"
     ],
-    "minecraft:iron_pickaxe": [
+    "mysticalworld:amethyst_axe": [
       "fitness",
-      "ingenuity",
       "onehanded"
     ],
-    "minecraft:wooden_shovel": [
+    "spartanweaponry:halberd_invar": [
       "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "minecraft:egg": [
-      "throwable",
-      "coordination",
-      "composure"
-    ],
-    "minecraft:golden_pickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
-    ],
-    "astralsorcery:itemcrystalsword": [
-      "fitness"
-    ],
-    "bewitchment:silver_hoe": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "bewitchment:cold_iron_pickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
-    ],
-    "bewitchment:cold_iron_hoe": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "minecraft:iron_shovel": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "minecraft:stone_shovel": [
-      "fitness",
-      "ingenuity",
-      null
-    ],
-    "bewitchment:athame": [
-      "agility",
-      "composure"
-    ],
-    "minecraft:fishing_rod": [
+      "perception",
       "twohanded",
-      "slow",
-      "ingenuity"
+      "polearm"
     ],
-    "minecraft:golden_axe": [
+    "spartanweaponryarcana:spear_terrasteel": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:javelin_iron": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:throwing_axe_tin": [
       "fitness",
-      "onehanded"
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
     ],
-    "astralsorcery:itemcrystalpickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
-    ],
-    "minecraft:wooden_hoe": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "minecraft:diamond_shovel": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "minecraft:stone_sword": [
+    "spartanweaponry:battleaxe_steel": [
       "fitness"
     ],
-    "bewitchment:cleaver_sword": [
-      "strength",
+    "spartanweaponryarcana:pike_manasteel": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:thermal_blade": [
+      "tech",
+      "fitness",
+      "coordination"
+    ],
+    "mana_wizardry:wand_flowers": [
+      "twohanded"
+    ],
+    "spartanweaponryarcana:staff_elementium": [
       "coordination",
       "twohanded"
     ],
-    "minecraft:iron_axe": [
+    "spartanweaponry:battleaxe_platinum": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:longsword_thaumium": [
       "fitness",
-      "onehanded"
+      "coordination",
+      "twohanded"
+    ],
+    "stewweapons:energy_glavie": [
+      "coordination",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:knife": [
+      "agility"
+    ],
+    "metallurgy:carmot_sword": [
+      "fitness"
+    ],
+    "stewweapons:khopesh": [
+      "composure",
+      "coordination"
+    ],
+    "spartanweaponry:crossbow_bronze": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponryarcana:katana_terrasteel": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanshields:shield_tower_stone": [
+      "towershield"
+    ],
+    "ebwizardry:apprentice_healing_wand": [
+      "twohanded"
+    ],
+    "metallurgy:ceruclase_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:boomerang_voidmetal": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "stewweapons:negotiator": [
+      "agility",
+      "charisma"
+    ],
+    "spartanweaponry:katana_platinum": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "erebus:max_speed_bow": [
+      "perception",
+      "fast"
+    ],
+    "spartanweaponry:warhammer_silver": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:longsword_copper": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_silver": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:katana_voidmetal": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:inolashite_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:rapier_invar": [
+      "agility"
+    ],
+    "metallurgy:shadow_iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "minecraft:diamond_axe": [
       "fitness",
+      "onehanded"
+    ],
+    "immersiveengineering:pickaxe_steel": [
+      "fitness",
+      "ingenuity",
       "onehanded"
     ],
     "astralsorcery:itemchargedcrystalpickaxe": [
@@ -176,71 +2288,1909 @@
       "ingenuity",
       "onehanded"
     ],
-    "bewitchment:cold_iron_axe": [
-      "fitness",
-      "onehanded"
+    "stewweapons:kris": [
+      "agility",
+      "composure"
     ],
-    "betternether:cincinnasite_pickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
+    "spartanweaponryarcana:saber_voidmetal": [
+      "agility"
     ],
-    "bewitchment:silver_pickaxe": [
-      "fitness",
-      "ingenuity",
-      "onehanded"
+    "techguns:pdw": [
+      "tech",
+      "agility"
     ],
-    "minecraft:iron_hoe": [
+    "metallurgy:prometheum_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "mana_wizardry:wand_livingwood": [
+      "twohanded"
+    ],
+    "spartanweaponry:mace_copper": [
+      "fitness",
+      "onehanded"
+    ],
+    "ebwizardry:novice_necromancy_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:greatsword_wood": [
+      "fitness",
+      "twohanded"
+    ],
+    "ebwizardry:advanced_healing_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:crossbow_stone": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "metallurgy:deep_iron_sword": [
+      "fitness"
+    ],
+    "bewitchment:silver_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:midasium_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "quark:pickarang": [
+      "coordination",
+      "composure",
+      "normal",
+      "onehanded",
+      "throwable"
+    ],
+    "minecraft:snowball": [
+      "throwable",
+      "coordination"
+    ],
+    "metallurgy:angmallen_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "techguns:grenadelauncher": [
+      "coordination"
+    ],
+    "stewweapons:hand_drill": [
+      "fitness",
+      "ingenuity",
+      "composure",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:hammer_manasteel": [
+      "fitness"
+    ],
+    "grimoireofgaia:weapon_book_ender": [
+      "charisma",
+      "magic"
+    ],
+    "spartanweaponryarcana:longsword_elementium": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:boomerang_copper": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "astralsorcery:itemchargedcrystalsword": [
+      "fitness"
+    ],
+    "spartanweaponry:crossbow_leather": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponryarcana:mace_thaumium": [
+      "fitness",
+      "onehanded"
+    ],
+    "thaumcraft:elemental_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:hammer_thaumium": [
+      "fitness"
+    ],
+    "metallurgy:prometheum_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:longsword_stone": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanshields:shield_tower_iron": [
+      "towershield"
+    ],
+    "spartanweaponry:boomerang_gold": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "techguns:sonicshotgun": [
+      "coordination",
+      "tech"
+    ],
+    "metallurgy:zinc_buckler": [
+      "shield"
+    ],
+    "metallurgy:platinum_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:pike_stone": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanshields:shield_tower_copper": [
+      "towershield"
+    ],
+    "metallurgy:lemurite_shield": [
+      "shield"
+    ],
+    "stewweapons:winged_sword": [
+      "coordination",
+      "composure",
+      "twohanded"
+    ],
+    "minecraft:stone_shovel": [
+      "fitness",
+      "ingenuity",
+      null
+    ],
+    "metallurgy:steel_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:greatsword_tin": [
+      "fitness",
+      "twohanded"
+    ],
+    "roots:stone_knife": [
+      "agility"
+    ],
+    "metallurgy:desichalkos_sword": [
+      "fitness"
+    ],
+    "metallurgy:damascus_steel_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_tin": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:katana_thaumium": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:warhammer_iron": [
+      "fitness",
+      "twohanded"
+    ],
+    "stewweapons:glavie": [
+      "coordination",
+      "perception",
+      "polearm",
+      "twohanded"
+    ],
+    "spartanweaponry:rapier_wood": [
+      "agility"
+    ],
+    "spartanweaponryarcana:longsword_terrasteel": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:boomerang_terrasteel": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:greatsword_diamond": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_steel": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponry:javelin_platinum": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "stewweapons:chainsaw": [
+      "fitness",
+      "ingenuity"
+    ],
+    "techguns:grimreaper": [
+      "coordination",
+      "composure"
+    ],
+    "metallurgy:ignatius_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:spear_steel": [
+      "perception",
+      "polearm"
+    ],
+    "techguns:boltaction": [
+      "perception"
+    ],
+    "spartanweaponry:staff_invar": [
+      "coordination",
+      "twohanded"
+    ],
+    "botania:manasteelpick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "ebwizardry:spark_bomb": [
+      "throwable",
+      "coordination"
+    ],
+    "botania:elementiumsword": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:greatsword_manasteel": [
+      "fitness",
+      "twohanded"
+    ],
+    "thaumcraft:elemental_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "mowziesmobs:spear": [
+      "perception",
+      "twohanded"
+    ],
+    "mysticalworld:amethyst_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:platinum_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:brass_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:lance_iron": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:hammer_steel": [
+      "fitness"
+    ],
+    "spartanshields:shield_tower_diamond": [
+      "towershield"
+    ],
+    "spartanweaponry:spear_diamond": [
+      "perception",
+      "polearm"
+    ],
+    "spartanweaponry:hammer_diamond": [
+      "fitness"
+    ],
+    "techguns:rocketlauncher": [
+      "coordination"
+    ],
+    "botania:manasteelshovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:mace_invar": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:quicksilver_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:pike_iron": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "betternether:cincinnasite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:staff_wood": [
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:quicksilver_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:boomerang_elementium": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "immersiveengineering:sword_steel": [
+      "fitness"
+    ],
+    "spartanweaponry:longsword_steel": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:tartarite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "techguns:sawedoff": [
+      "coordination",
+      "fitness"
+    ],
+    "spartanweaponry:halberd_silver": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:blue_laser_sword": [
+      "tech",
+      "agility"
+    ],
+    "spartanweaponry:katana_gold": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:kalendrite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:atlarus_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_bronze": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:angmallen_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:dagger_iron": [
+      "agility"
+    ],
+    "spartanweaponryarcana:javelin_voidmetal": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:club_wood": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:warhammer_bronze": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:silver_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:hammer_wood": [
+      "fitness"
+    ],
+    "metallurgy:prometheum_sword": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:battleaxe_manasteel": [
+      "fitness"
+    ],
+    "ebwizardry:smoke_bomb": [
+      "throwable",
+      "coordination"
+    ],
+    "mod_lavacow:piranhalauncher": [
+      "twohanded",
+      "ingenuity",
+      "slow"
+    ],
+    "minecraft:iron_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:ceruclase_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "mod_lavacow:moltenaxe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:crossbow_iron": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "spartanweaponry:javelin_invar": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:hepatizon_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:battleaxe_thaumium": [
+      "fitness"
+    ],
+    "techguns:gaussrifle": [
+      "perception",
+      "tech"
+    ],
+    "spartanweaponry:saber_tin": [
+      "agility"
+    ],
+    "spartanweaponry:warhammer_steel": [
+      "fitness",
+      "twohanded"
+    ],
+    "techguns:minigun": [
+      "fitness",
+      "composure"
+    ],
+    "metallurgy:silver_sword": [
+      "fitness"
+    ],
+    "techguns:crowbar": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
+    "spartanweaponry:glaive_gold": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:bronze_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "stewweapons:short_blade": [
+      "agility"
+    ],
+    "spartanweaponry:hammer_stone": [
+      "fitness"
+    ],
+    "stewweapons:saw": [
+      "ingenuity"
+    ],
+    "spartanweaponry:warhammer_copper": [
+      "fitness",
+      "twohanded"
+    ],
+    "stewweapons:rogosvet": [
+      "fitness",
+      "magic"
+    ],
+    "spartanweaponry:glaive_stone": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:lance_thaumium": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "roots:gold_knife": [
+      "agility"
+    ],
+    "metallurgy:adamantine_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:lance_manasteel": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:boomerang_diamond": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "ebwizardry:novice_lightning_wand": [
+      "twohanded"
+    ],
+    "metallurgy:electrum_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:rapier_diamond": [
+      "agility"
+    ],
+    "stewweapons:strange_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:longsword_diamond": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:longsword_silver": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:spear_elementium": [
+      "perception",
+      "polearm"
+    ],
+    "grimoireofgaia:weapon_book_nature": [
+      "charisma",
+      "magic"
+    ],
+    "roots:iron_knife": [
+      "agility"
+    ],
+    "minecraft:wooden_sword": [
+      "fitness"
+    ],
+    "endreborn:tool_pickaxe_wolframium": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "techguns:advanced_shield": [
+      "towershield"
+    ],
+    "techguns:thompson": [
+      "agility"
+    ],
+    "spartanweaponry:greatsword_stone": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:greatsword_platinum": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:krik_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanshields:shield_tower_bronze": [
+      "towershield"
+    ],
+    "metallurgy:ceruclase_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:longbow_silver": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:crossbow_platinum": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "bewitchment:silver_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:ceruclase_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "techguns:tfg": [
+      "coordination",
+      "tech"
+    ],
+    "spartanweaponryarcana:battleaxe_elementium": [
+      "fitness"
+    ],
+    "techguns:alienblaster": [
+      "tech",
+      "charisma"
+    ],
+    "spartanweaponry:dagger_tin": [
+      "agility"
+    ],
+    "endreborn:tool_hoe_endorium": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_knife_gold": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "ebwizardry:apprentice_necromancy_wand": [
+      "twohanded"
+    ],
+    "spartanweaponryarcana:throwing_axe_terrasteel": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "grimoireofgaia:weapon_book_metal": [
+      "charisma",
+      "magic"
+    ],
+    "spartanweaponry:dagger_copper": [
+      "agility"
+    ],
+    "techguns:vector": [
+      "agility"
+    ],
+    "mod_lavacow:reapers_scythe": [
+      "composure",
+      "veryslow"
+    ],
+    "stewweapons:katana": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:katana_silver": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:mace_voidmetal": [
+      "fitness",
+      "onehanded"
+    ],
+    "roots:wildwood_bow": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
+    "bewitchment:cleaver_sword": [
+      "strength",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:damascus_steel_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:longbow_wood": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "extrabotany:judahoath": [
+      "magic"
+    ],
+    "stewweapons:anicent_blade": [
+      "coordination",
+      "magic",
+      "composure",
+      "twohanded"
+    ],
+    "stewweapons:curved_sword": [
+      "composure",
+      "coordination"
+    ],
+    "spartanweaponry:halberd_wood": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "techguns:ak47": [
+      "fitness",
+      "perception"
+    ],
+    "spartanweaponry:crossbow_steel": [
+      "perception",
+      "twohanded",
+      "veryslow"
     ],
     "minecraft:bow": [
       "twohanded",
       "perception",
       "normal"
     ],
-    "betternether:cincinnasite_axe_diamond": [
+    "spartanweaponryarcana:throwing_axe_elementium": [
       "fitness",
-      "onehanded"
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
     ],
-    "bewitchment:thyrsus": [
+    "spartanweaponry:longbow_stone": [
       "perception",
-      "composure"
+      "twohanded",
+      "slow"
     ],
-    "astralsorcery:itemcrystalshovel": [
+    "metallurgy:carmot_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
     ],
-    "bewitchment:cold_iron_sword": [
+    "spartanweaponry:boomerang_silver": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:lance_platinum": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:throwing_knife_platinum": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "techguns:goldenrevolver": [
+      "coordination",
+      "agility"
+    ],
+    "techguns:biogun": [
+      "tech",
+      "coordination"
+    ],
+    "spartanweaponry:saber_gold": [
+      "agility"
+    ],
+    "metallurgy:platinum_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "grimoireofgaia:weapon_book_battle": [
+      "charisma",
+      "magic"
+    ],
+    "spartanweaponry:mace_iron": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:midasium_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:steel_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:lance_wood": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:saber_copper": [
+      "agility"
+    ],
+    "spartanweaponry:javelin_silver": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:adamantine_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:vulcanite_buckler": [
+      "shield"
+    ],
+    "spartanweaponry:javelin_wood": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:vulcanite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:pike_electrum": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:dagger_voidmetal": [
+      "agility"
+    ],
+    "spartanweaponryarcana:battleaxe_voidmetal": [
       "fitness"
+    ],
+    "metallurgy:haderoth_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:warhammer_invar": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:warhammer_tin": [
+      "fitness",
+      "twohanded"
+    ],
+    "roots:diamond_knife": [
+      "agility"
+    ],
+    "metallurgy:quicksilver_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:warhammer_wood": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:katana_diamond": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:dagger_elementium": [
+      "agility"
+    ],
+    "spartanweaponry:longsword_wood": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_silver": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:kalendrite_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:halberd_platinum": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:longbow_elementium": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:katana_invar": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:longsword_bronze": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:saber_invar": [
+      "agility"
+    ],
+    "roots:staff": [
+      "magic",
+      "normal",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:halberd_voidmetal": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "thaumcraft:elemental_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "stewweapons:cutter": [
+      "fitness",
+      "tech",
+      "twohanded"
+    ],
+    "endreborn:ender_sword": [
+      "fitness"
+    ],
+    "mod_lavacow:undertaker_shovel": [
+      "charisma"
+    ],
+    "spartanweaponry:dagger_electrum": [
+      "agility"
+    ],
+    "spartanweaponry:longbow_gold": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "stewweapons:positron_opressor": [
+      "fitness",
+      "tech",
+      "ingenuity",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:greatsword_silver": [
+      "fitness",
+      "twohanded"
+    ],
+    "spartanweaponry:boomerang_wood": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:sanguinite_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:black_steel_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "endreborn:entropy_wand": [
+      "magic",
+      "twohanded"
+    ],
+    "stewweapons:drill": [
+      "tech",
+      "ingenuity",
+      "composure"
+    ],
+    "metallurgy:sanguinite_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:boomerang_steel": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:longbow_steel": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "stewweapons:shock_baton": [
+      "fitness",
+      "agility"
+    ],
+    "endreborn:tool_pickaxe_endorium": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "ebwizardry:novice_fire_wand": [
+      "twohanded"
     ],
     "bewitchment:cold_iron_shovel": [
       "fitness",
       "ingenuity",
       "twohanded"
     ],
-    "minecraft:golden_hoe": [
-      "fitness",
-      "ingenuity",
-      "twohanded"
-    ],
-    "bewitchment:silver_axe": [
-      "fitness",
-      "onehanded"
+    "spartanweaponryarcana:hammer_voidmetal": [
+      "fitness"
     ],
     "minecraft:stone_axe": [
       "fitness",
       "onehanded"
     ],
-    "minecraft:snowball": [
-      "throwable",
-      "coordination"
-    ],
-    "astralsorcery:itemcrystalaxe": [
+    "extrabotany:terrasteelhammer": [
       "fitness",
       "onehanded"
+    ],
+    "metallurgy:inolashite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:bronze_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:battleaxe_copper": [
+      "fitness"
+    ],
+    "metallurgy:steel_sword": [
+      "fitness"
+    ],
+    "stewweapons:industrial_hammer": [
+      "fitness",
+      "twohanded"
+    ],
+    "ebwizardry:apprentice_wand": [
+      "twohanded"
+    ],
+    "metallurgy:midasium_sword": [
+      "fitness"
+    ],
+    "metallurgy:krik_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "betternether:cincinnasite_pickaxe_diamond": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "techguns:nucleardeathray": [
+      "fitness",
+      "tech"
+    ],
+    "spartanweaponry:katana_electrum": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "ebwizardry:advanced_lightning_wand": [
+      "twohanded"
+    ],
+    "metallurgy:bronze_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:halberd_tin": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "techguns:guidedmissilelauncher": [
+      "tech",
+      "coordination"
+    ],
+    "spartanweaponryarcana:pike_terrasteel": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponryarcana:greatsword_terrasteel": [
+      "fitness",
+      "twohanded"
+    ],
+    "extrabotany:shadowkatana": [
+      "coordination",
+      "composure"
+    ],
+    "metallurgy:electrum_sword": [
+      "fitness"
+    ],
+    "spartanshields:shield_tower_electrum": [
+      "towershield"
+    ],
+    "grimoireofgaia:weapon_book_buff": [
+      "charisma",
+      "magic"
+    ],
+    "spartanweaponry:pike_copper": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:halberd_steel": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:longbow_copper": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:rapier_gold": [
+      "agility"
+    ],
+    "mekanism:electricbow": [
+      "tech",
+      "perception",
+      "normal",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_knife_invar": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanshields:shield_tower_wood": [
+      "towershield"
+    ],
+    "spartanweaponry:dagger_silver": [
+      "agility"
+    ],
+    "techguns:pulserifle": [
+      "fitness",
+      "perception",
+      "tech"
+    ],
+    "astralsorcery:itemcrystalpickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thaumadditions:void_elemental_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "extrabotany:failnaught": [
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:vyroxeres_sword": [
+      "fitness"
+    ],
+    "spartanweaponryarcana:longbow_voidmetal": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:greatsword_gold": [
+      "fitness",
+      "twohanded"
+    ],
+    "botania:glasspick": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:hepatizon_sword": [
+      "fitness"
+    ],
+    "minecraft:iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "thaumcraft:elemental_sword": [
+      "fitness"
+    ],
+    "metallurgy:kalendrite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:sanguinite_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:halberd_diamond": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "bewitchment:silver_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:greatsword_invar": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:atlarus_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "botanicadds:mana_stealer_sword": [
+      "agility",
+      "magic"
+    ],
+    "stewweapons:blader_cutter_1": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:staff_terrasteel": [
+      "coordination",
+      "twohanded"
+    ],
+    "stewweapons:sword": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "techguns:netherblaster": [
+      "tech"
+    ],
+    "astralsorcery:itemcrystalshovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:angmallen_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:black_steel_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:katana_elementium": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "mysticalworld:amethyst_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thaumcraft:void_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:throwing_axe_voidmetal": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "extrabotany:manasteelhammer": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:brass_knuckles": [
+      "fitness"
+    ],
+    "spartanweaponry:mace_diamond": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:javelin_bronze": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponry:longbow_invar": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "metallurgy:vulcanite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "grimoireofgaia:weapon_book_wither": [
+      "charisma",
+      "magic"
+    ],
+    "minecraft:stone_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "roots:living_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "minecraft:diamond_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "ebwizardry:master_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:javelin_diamond": [
+      "perception",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "stewweapons:fireaxe": [
+      "fitness",
+      "composure",
+      "twohanded"
+    ],
+    "thaumadditions:void_elemental_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:staff_diamond": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:hammer_iron": [
+      "fitness"
+    ],
+    "spartanweaponry:halberd_gold": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "stewweapons:garmonizator": [
+      "agility",
+      "tech",
+      "charisma"
+    ],
+    "ebwizardry:novice_healing_wand": [
+      "twohanded"
+    ],
+    "metallurgy:celenegil_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:longsword_platinum": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:vulcanite_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:crossbow_wood": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "astralsorcery:itemcrystalsword": [
+      "fitness"
+    ],
+    "spartanweaponry:mace_tin": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:crossbow_silver": [
+      "perception",
+      "twohanded",
+      "veryslow"
+    ],
+    "stewweapons:dragon_wrath": [
+      "tech",
+      "composure"
+    ],
+    "metallurgy:brass_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "erebus:enhanced_scorpion_pincer": [
+      "agility",
+      "ingenuity"
+    ],
+    "metallurgy:ignatius_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:dagger_invar": [
+      "agility"
+    ],
+    "spartanweaponry:glaive_copper": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "mod_lavacow:war": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "metallurgy:adamantine_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "botania:manasteelaxe": [
+      "fitness",
+      "onehanded"
+    ],
+    "metallurgy:etherium_sword": [
+      "fitness"
+    ],
+    "spartanweaponry:battleaxe_iron": [
+      "fitness"
+    ],
+    "spartanweaponry:battleaxe_stone": [
+      "fitness"
+    ],
+    "spartanweaponry:greatsword_steel": [
+      "fitness",
+      "twohanded"
+    ],
+    "metallurgy:etherium_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "ebwizardry:master_ice_wand": [
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_diamond": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "spartanweaponryarcana:katana_manasteel": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_tin": [
+      "coordination",
+      "twohanded"
+    ],
+    "thaumcraft:thaumium_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "stewweapons:basalt_cleaver": [
+      "fitness",
+      "coordination",
+      "composure"
+    ],
+    "endreborn:ender_bow": [
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:sanguinite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:black_steel_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:boomerang_manasteel": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "metallurgy:desichalkos_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanshields:shield_tower_steel": [
+      "towershield"
+    ],
+    "spartanweaponry:longbow_platinum": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponry:mace_silver": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:dagger_manasteel": [
+      "agility"
+    ],
+    "ebwizardry:master_sorcery_wand": [
+      "twohanded"
+    ],
+    "erebus:rolled_newspaper": [
+      "ingenuity"
+    ],
+    "spartanweaponry:rapier_electrum": [
+      "agility"
+    ],
+    "mana_wizardry:wand_dreamwood": [
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_invar": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "metallurgy:shadow_iron_axe": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:hammer_invar": [
+      "fitness"
+    ],
+    "metallurgy:bronze_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "metallurgy:oureclase_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:katana_wood": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "endreborn:tool_hoe_wolframium": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "botania:managun": [
+      "coordination",
+      "magic",
+      "onehanded"
+    ],
+    "grimoireofgaia:weapon_fan_ice": [
+      "composure",
+      "charisma"
+    ],
+    "spartanweaponry:boomerang_bronze": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "techguns:chainsaw": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
+    "thaumcraft:thaumium_sword": [
+      "fitness"
+    ],
+    "botania:terrasword": [
+      "fitness",
+      "coordination"
+    ],
+    "spartanweaponry:mace_platinum": [
+      "fitness",
+      "onehanded"
+    ],
+    "ebwizardry:master_fire_wand": [
+      "twohanded"
+    ],
+    "bewitchment:boline": [
+      "ingenuity",
+      "composure"
+    ],
+    "metallurgy:desichalkos_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:glaive_elementium": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "botania:terrapick": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:krik_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:spear_bronze": [
+      "perception",
+      "polearm"
+    ],
+    "techguns:pistol": [
+      "agility"
+    ],
+    "immersiveengineering:revolver": [
+      "agility",
+      "coordination",
+      "normal",
+      "onehanded"
+    ],
+    "techguns:laserpistol": [
+      "tech",
+      "agility"
+    ],
+    "spartanweaponryarcana:mace_terrasteel": [
+      "fitness",
+      "onehanded"
+    ],
+    "techguns:m4_infiltrator": [
+      "coordination",
+      "perception"
+    ],
+    "astralsorcery:itemchargedcrystalaxe": [
+      "fitness",
+      "onehanded"
+    ],
+    "minecraft:iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:pike_diamond": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "minecraft:egg": [
+      "throwable",
+      "coordination",
+      "composure"
+    ],
+    "spartanweaponryarcana:staff_thaumium": [
+      "coordination",
+      "twohanded"
+    ],
+    "techguns:scar": [
+      "perception"
+    ],
+    "metallurgy:quicksilver_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_platinum": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:glaive_wood": [
+      "coordination",
+      "perception",
+      "twohanded"
+    ],
+    "spartanweaponry:longbow_leather": [
+      "perception",
+      "twohanded",
+      "slow"
+    ],
+    "spartanweaponryarcana:halberd_manasteel": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:mace_steel": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:longsword_iron": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:throwing_axe_iron": [
+      "fitness",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "erebus:jade_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanshields:shield_tower_lead": [
+      "towershield"
+    ],
+    "metallurgy:ignatius_sword": [
+      "fitness"
+    ],
+    "immersiveengineering:railgun": [
+      "perception",
+      "tech",
+      "twohanded",
+      "slow"
+    ],
+    "mekanism:flamethrower": [
+      "coordination",
+      "tech",
+      "slow",
+      "twohanded"
+    ],
+    "mod_lavacow:spectral_dagger": [
+      "agility"
+    ],
+    "spartanweaponry:boomerang_invar": [
+      "composure",
+      "coordination",
+      "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "techguns:as50": [
+      "perception"
+    ],
+    "metallurgy:shadow_iron_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponry:pike_steel": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:hammer_platinum": [
+      "fitness"
+    ],
+    "spartanweaponry:katana_bronze": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:damascus_steel_sword": [
+      "fitness"
+    ],
+    "metallurgy:mithril_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "spartanweaponryarcana:throwing_knife_elementium": [
+      "agility",
+      "coordination",
+      "throwable"
+    ],
+    "spartanweaponry:staff_iron": [
+      "coordination",
+      "twohanded"
+    ],
+    "metallurgy:kalendrite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:deep_iron_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "metallurgy:krik_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "betternether:cincinnasite_axe_diamond": [
+      "fitness",
+      "onehanded"
+    ],
+    "spartanweaponry:staff_bronze": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponryarcana:lance_terrasteel": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:lance_copper": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:rapier_copper": [
+      "agility"
+    ],
+    "metallurgy:eximite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "spartanweaponry:battleaxe_diamond": [
+      "fitness"
+    ],
+    "thaumadditions:shadow_beam_staff": [
+      "ingenuity",
+      "perception",
+      "twohanded"
+    ],
+    "thaumadditions:essentia_pistol": [
+      "agility",
+      "magic",
+      "ingenuity"
+    ],
+    "thaumadditions:adaminite_sword": [
+      "fitness",
+      "twohanded"
+    ],
+    "thaumadditions:the_beheader": [
+      "fitness",
+      "twohanded"
+    ],
+    "thaumadditions:mithminite_scythe": [
+      "magic",
+      "composure",
+      "twohanded"
+    ],
+    "thaumicaugmentation:primal_cutter": [
+      "magic"
+    ],
+    "thaumicaugmentation:gauntlet": [
+      "magic",
+      "ingenuity"
+    ],
+    "thaumicaugmentation:impulse_cannon": [
+      "perception",
+      "magic"
     ]
   }
 }
