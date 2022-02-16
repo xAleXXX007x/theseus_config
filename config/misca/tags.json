@@ -39,6 +39,15 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.sickle_tin": [
+      "agility",
+      "composure"
+    ],
+    "thermalfoundation:tool.hoe_constantan": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "mowziesmobs:naga_fang_dagger": [
       "agility"
     ],
@@ -66,6 +75,9 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thermalfoundation:tool.sword_silver": [
+      "fitness"
     ],
     "spartanweaponry:dagger_diamond": [
       "agility"
@@ -138,6 +150,10 @@
       "perception",
       "twohanded"
     ],
+    "thermalfoundation:tool.axe_tin": [
+      "fitness",
+      "onehanded"
+    ],
     "spartanweaponry:warhammer_gold": [
       "fitness",
       "twohanded"
@@ -154,6 +170,11 @@
     "stewweapons:blade_trost": [
       "agility",
       "composure"
+    ],
+    "thermalfoundation:tool.bow_constantan": [
+      "twohanded",
+      "perception",
+      "normal"
     ],
     "botania:elementiumaxe": [
       "fitness",
@@ -181,8 +202,16 @@
       "ingenuity",
       "onehanded"
     ],
+    "thermalfoundation:tool.shield_aluminum": [
+      "shield"
+    ],
     "spartanweaponry:rapier_stone": [
       "agility"
+    ],
+    "thermalfoundation:tool.hammer_copper": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:hammer_bronze": [
       "fitness"
@@ -201,6 +230,11 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thermalfoundation:tool.shovel_silver": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "botania:starsword": [
       "fitness",
@@ -290,6 +324,11 @@
     "thaumicaugmentation:primal_cutter": [
       "magic"
     ],
+    "thermalfoundation:tool.shovel_invar": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "stewweapons:electroaxe": [
       "fitness",
       "tech"
@@ -321,6 +360,11 @@
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "thermalfoundation:tool.excavator_platinum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "ebwizardry:advanced_wand": [
       "twohanded"
@@ -545,10 +589,26 @@
     "spartanweaponryarcana:hammer_elementium": [
       "fitness"
     ],
+    "thermalfoundation:tool.hammer_electrum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "minecraft:wooden_pickaxe": [
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thermalfoundation:tool.sword_steel": [
+      "fitness"
+    ],
+    "thermalfoundation:tool.hammer_lead": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.sword_bronze": [
+      "fitness"
     ],
     "spartanweaponryarcana:throwing_axe_manasteel": [
       "fitness",
@@ -574,6 +634,15 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.hoe_platinum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.sickle_bronze": [
+      "agility",
+      "composure"
+    ],
     "spartanweaponry:mace_stone": [
       "fitness",
       "onehanded"
@@ -582,6 +651,11 @@
       "agility",
       "coordination",
       "throwable"
+    ],
+    "thermalfoundation:tool.fishing_rod_bronze": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "ebwizardry:advanced_sorcery_wand": [
       "twohanded"
@@ -597,6 +671,9 @@
     "spartanweaponryarcana:staff_voidmetal": [
       "coordination",
       "twohanded"
+    ],
+    "thermalfoundation:tool.sword_copper": [
+      "fitness"
     ],
     "metallurgy:electrum_pickaxe": [
       "fitness",
@@ -643,6 +720,10 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.sickle_aluminum": [
+      "agility",
+      "composure"
+    ],
     "spartanweaponryarcana:rapier_manasteel": [
       "agility"
     ],
@@ -663,6 +744,11 @@
     "thaumcraft:void_sword": [
       "fitness"
     ],
+    "thermalfoundation:tool.bow_nickel": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "minecraft:fishing_rod": [
       "twohanded",
       "slow",
@@ -674,6 +760,10 @@
     "thaumcraft:elemental_pick": [
       "fitness",
       "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.axe_aluminum": [
+      "fitness",
       "onehanded"
     ],
     "spartanweaponry:greatsword_bronze": [
@@ -734,6 +824,11 @@
       "perception",
       "twohanded"
     ],
+    "thermalfoundation:tool.hammer_silver": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:copper_shovel": [
       "fitness",
       "ingenuity",
@@ -760,8 +855,21 @@
       "perception",
       "polearm"
     ],
+    "thermalfoundation:tool.sword_constantan": [
+      "fitness"
+    ],
+    "thermalfoundation:tool.hoe_tin": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "spartanweaponryarcana:rapier_terrasteel": [
       "agility"
+    ],
+    "thermalfoundation:tool.bow_tin": [
+      "twohanded",
+      "perception",
+      "normal"
     ],
     "roots:wood_knife": [
       "agility"
@@ -775,6 +883,11 @@
     "metallurgy:vyroxeres_axe": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.fishing_rod_invar": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "metallurgy:astral_silver_hoe": [
       "fitness",
@@ -886,6 +999,11 @@
     "spartanweaponryarcana:saber_elementium": [
       "agility"
     ],
+    "thermalfoundation:tool.pickaxe_invar": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
     "mana_wizardry:wand_terra": [
       "twohanded"
     ],
@@ -986,6 +1104,11 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.hammer_constantan": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "ebwizardry:novice_sorcery_wand": [
       "twohanded"
     ],
@@ -1007,6 +1130,11 @@
     "spartanweaponryarcana:battleaxe_terrasteel": [
       "fitness"
     ],
+    "thermalfoundation:tool.pickaxe_platinum": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
     "spartanweaponry:longbow_tin": [
       "perception",
       "twohanded",
@@ -1016,6 +1144,11 @@
       "fitness",
       "tech",
       "composure"
+    ],
+    "thermalfoundation:tool.pickaxe_silver": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
     ],
     "astralsorcery:itemcrystalaxe": [
       "fitness",
@@ -1061,7 +1194,17 @@
       "perception",
       "polearm"
     ],
+    "thermalfoundation:tool.fishing_rod_silver": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
     "metallurgy:platinum_shovel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.excavator_copper": [
       "fitness",
       "ingenuity",
       "twohanded"
@@ -1210,6 +1353,11 @@
     "techguns:lmg": [
       "fitness"
     ],
+    "thermalfoundation:tool.hammer_bronze": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "bewitchment:cold_iron_axe": [
       "fitness",
       "onehanded"
@@ -1224,6 +1372,10 @@
     ],
     "spartanweaponry:hammer_electrum": [
       "fitness"
+    ],
+    "thermalfoundation:tool.axe_silver": [
+      "fitness",
+      "onehanded"
     ],
     "erebus:jade_shovel": [
       "fitness",
@@ -1289,6 +1441,12 @@
       "twohanded",
       "polearm"
     ],
+    "thermalfoundation:tool.shield_steel": [
+      "shield"
+    ],
+    "thermalfoundation:tool.sword_electrum": [
+      "fitness"
+    ],
     "metallurgy:carmot_shovel": [
       "fitness",
       "ingenuity",
@@ -1297,6 +1455,11 @@
     "extrabotany:elementiumhammer": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.shovel_bronze": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponryarcana:throwing_knife_manasteel": [
       "agility",
@@ -1346,12 +1509,18 @@
     ],
     "botania:crystalbow": [
       "perception",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "ebwizardry:master_lightning_wand": [
       "twohanded"
     ],
     "metallurgy:etherium_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.excavator_nickel": [
       "fitness",
       "ingenuity",
       "twohanded"
@@ -1382,6 +1551,11 @@
       "coordination",
       "throwable",
       "onehanded",
+      "normal"
+    ],
+    "thermalfoundation:tool.bow_aluminum": [
+      "twohanded",
+      "perception",
       "normal"
     ],
     "spartanweaponry:warhammer_diamond": [
@@ -1445,6 +1619,11 @@
       "fitness",
       "onehanded"
     ],
+    "thermalfoundation:tool.excavator_invar": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:astral_silver_pickaxe": [
       "fitness",
       "ingenuity",
@@ -1452,6 +1631,11 @@
     ],
     "spartanweaponry:warhammer_platinum": [
       "fitness",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.hoe_bronze": [
+      "fitness",
+      "ingenuity",
       "twohanded"
     ],
     "stewweapons:chainsaw_1": [
@@ -1478,8 +1662,18 @@
     "spartanweaponry:saber_electrum": [
       "agility"
     ],
+    "thermalfoundation:tool.shovel_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:astral_silver_axe": [
       "fitness",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.pickaxe_copper": [
+      "fitness",
+      "ingenuity",
       "onehanded"
     ],
     "spartanweaponry:katana_copper": [
@@ -1584,6 +1778,10 @@
       "agility",
       "magic"
     ],
+    "thermalfoundation:tool.sickle_copper": [
+      "agility",
+      "composure"
+    ],
     "minecraft:golden_shovel": [
       "fitness",
       "ingenuity",
@@ -1597,6 +1795,11 @@
       "perception",
       "twohanded",
       "veryslow"
+    ],
+    "thermalfoundation:tool.hoe_silver": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:lance_steel": [
       "perception",
@@ -1612,6 +1815,16 @@
     ],
     "spartanshields:shield_tower_constantan": [
       "towershield"
+    ],
+    "thermalfoundation:tool.bow_electrum": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
+    "thermalfoundation:tool.fishing_rod_constantan": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "spartanweaponry:spear_gold": [
       "perception",
@@ -1673,9 +1886,24 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.hoe_invar": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "thaumcraft:primal_crusher": [
       "magic",
       "onehanded"
+    ],
+    "thermalfoundation:tool.hoe_lead": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.excavator_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:throwing_knife_wood": [
       "agility",
@@ -1742,13 +1970,27 @@
     "techguns:mac10": [
       "agility"
     ],
+    "thermalfoundation:tool.fishing_rod_steel": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
     "metallurgy:haderoth_sword": [
       "fitness"
+    ],
+    "thermalfoundation:tool.bow_invar": [
+      "twohanded",
+      "perception",
+      "normal"
     ],
     "spartanweaponry:pike_platinum": [
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "thermalfoundation:tool.axe_lead": [
+      "fitness",
+      "onehanded"
     ],
     "spartanweaponryarcana:saber_manasteel": [
       "agility"
@@ -1771,6 +2013,11 @@
       "twohanded"
     ],
     "ebwizardry:master_necromancy_wand": [
+      "twohanded"
+    ],
+    "thermalfoundation:tool.excavator_tin": [
+      "fitness",
+      "ingenuity",
       "twohanded"
     ],
     "spartanweaponryarcana:javelin_terrasteel": [
@@ -1816,6 +2063,9 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.sword_aluminum": [
+      "fitness"
+    ],
     "erebus:wasp_sword": [
       "agility",
       "magic"
@@ -1832,6 +2082,11 @@
       "ingenuity",
       "twohanded"
     ],
+    "thermalfoundation:tool.fishing_rod_tin": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
     "techguns:lasergun": [
       "perception",
       "tech"
@@ -1843,6 +2098,9 @@
     ],
     "techguns:stielgranate": [
       "coordination"
+    ],
+    "thermalfoundation:tool.shield_silver": [
+      "shield"
     ],
     "spartanshields:shield_tower_silver": [
       "towershield"
@@ -1870,6 +2128,11 @@
       "onehanded",
       "normal"
     ],
+    "thermalfoundation:tool.excavator_lead": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "spartanweaponry:javelin_steel": [
       "perception",
       "coordination",
@@ -1887,6 +2150,10 @@
       "agility",
       "coordination",
       "throwable"
+    ],
+    "thermalfoundation:tool.sickle_nickel": [
+      "agility",
+      "composure"
     ],
     "spartanweaponry:longbow_bronze": [
       "perception",
@@ -1964,6 +2231,11 @@
       "fitness",
       "onehanded"
     ],
+    "thermalfoundation:tool.shovel_platinum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "ebwizardry:apprentice_lightning_wand": [
       "twohanded"
     ],
@@ -1996,6 +2268,11 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thermalfoundation:tool.fishing_rod_platinum": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "ebwizardry:advanced_earth_wand": [
       "twohanded"
@@ -2124,6 +2401,11 @@
       "composure",
       "polearm"
     ],
+    "thermalfoundation:tool.bow_silver": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "astralsorcery:itemchargedcrystalshovel": [
       "fitness",
       "ingenuity",
@@ -2138,6 +2420,16 @@
       "onehanded"
     ],
     "minecraft:stone_pickaxe": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.excavator_bronze": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.pickaxe_steel": [
       "fitness",
       "ingenuity",
       "onehanded"
@@ -2226,6 +2518,16 @@
     "stewweapons:knife": [
       "agility"
     ],
+    "thermalfoundation:tool.pickaxe_lead": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.hoe_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:carmot_sword": [
       "fitness"
     ],
@@ -2238,6 +2540,11 @@
       "twohanded",
       "veryslow"
     ],
+    "thermalfoundation:tool.hammer_tin": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "spartanweaponryarcana:katana_terrasteel": [
       "composure",
       "coordination",
@@ -2248,6 +2555,15 @@
     ],
     "ebwizardry:apprentice_healing_wand": [
       "twohanded"
+    ],
+    "thermalfoundation:tool.shovel_lead": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.sickle_platinum": [
+      "agility",
+      "composure"
     ],
     "metallurgy:ceruclase_hoe": [
       "fitness",
@@ -2265,12 +2581,16 @@
       "agility",
       "charisma"
     ],
+    "thermalfoundation:tool.sword_platinum": [
+      "fitness"
+    ],
     "spartanweaponry:katana_platinum": [
       "composure",
       "coordination",
       "twohanded"
     ],
     "erebus:max_speed_bow": [
+      "twohanded",
       "perception",
       "fast"
     ],
@@ -2308,10 +2628,16 @@
       "fitness",
       "onehanded"
     ],
+    "thermalfoundation:tool.sword_invar": [
+      "fitness"
+    ],
     "immersiveengineering:pickaxe_steel": [
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thermalfoundation:tool.shield_lead": [
+      "shield"
     ],
     "astralsorcery:itemchargedcrystalpickaxe": [
       "fitness",
@@ -2324,6 +2650,11 @@
     ],
     "spartanweaponryarcana:saber_voidmetal": [
       "agility"
+    ],
+    "thermalfoundation:tool.hoe_nickel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "techguns:pdw": [
       "tech",
@@ -2343,6 +2674,11 @@
     ],
     "ebwizardry:novice_necromancy_wand": [
       "twohanded"
+    ],
+    "thermalfoundation:tool.fishing_rod_electrum": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "spartanweaponry:greatsword_wood": [
       "fitness",
@@ -2454,6 +2790,11 @@
     "techguns:sonicshotgun": [
       "coordination",
       "tech"
+    ],
+    "thermalfoundation:tool.excavator_aluminum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "metallurgy:zinc_buckler": [
       "shield"
@@ -2585,6 +2926,11 @@
       "throwable",
       "coordination"
     ],
+    "thermalfoundation:tool.excavator_silver": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "botania:elementiumsword": [
       "fitness"
     ],
@@ -2629,6 +2975,11 @@
     "spartanweaponry:spear_diamond": [
       "perception",
       "polearm"
+    ],
+    "thermalfoundation:tool.bow_copper": [
+      "twohanded",
+      "perception",
+      "normal"
     ],
     "spartanweaponry:hammer_diamond": [
       "fitness"
@@ -2720,6 +3071,11 @@
       "perception",
       "twohanded"
     ],
+    "thermalfoundation:tool.pickaxe_nickel": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
     "metallurgy:angmallen_hoe": [
       "fitness",
       "ingenuity",
@@ -2743,6 +3099,11 @@
       "fitness",
       "twohanded"
     ],
+    "thermalfoundation:tool.shovel_tin": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:silver_shovel": [
       "fitness",
       "ingenuity",
@@ -2756,6 +3117,9 @@
     ],
     "spartanweaponryarcana:battleaxe_manasteel": [
       "fitness"
+    ],
+    "thermalfoundation:tool.shield_platinum": [
+      "shield"
     ],
     "ebwizardry:smoke_bomb": [
       "throwable",
@@ -2784,6 +3148,10 @@
       "twohanded",
       "veryslow"
     ],
+    "thermalfoundation:tool.axe_electrum": [
+      "fitness",
+      "onehanded"
+    ],
     "spartanweaponry:javelin_invar": [
       "perception",
       "coordination",
@@ -2809,6 +3177,10 @@
     "spartanweaponry:warhammer_steel": [
       "fitness",
       "twohanded"
+    ],
+    "thermalfoundation:tool.sickle_invar": [
+      "agility",
+      "composure"
     ],
     "techguns:minigun": [
       "fitness",
@@ -2863,6 +3235,9 @@
     "roots:gold_knife": [
       "agility"
     ],
+    "thermalfoundation:tool.shield_invar": [
+      "shield"
+    ],
     "metallurgy:adamantine_axe": [
       "fitness",
       "onehanded"
@@ -2893,6 +3268,10 @@
     ],
     "stewweapons:strange_sword": [
       "fitness"
+    ],
+    "thermalfoundation:tool.axe_bronze": [
+      "fitness",
+      "onehanded"
     ],
     "spartanweaponry:longsword_diamond": [
       "fitness",
@@ -2926,6 +3305,15 @@
     "techguns:advanced_shield": [
       "towershield"
     ],
+    "thermalfoundation:tool.pickaxe_electrum": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.sickle_lead": [
+      "agility",
+      "composure"
+    ],
     "techguns:thompson": [
       "agility"
     ],
@@ -2943,6 +3331,11 @@
     ],
     "spartanshields:shield_tower_bronze": [
       "towershield"
+    ],
+    "thermalfoundation:tool.hammer_nickel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "metallurgy:ceruclase_sword": [
       "fitness"
@@ -2971,8 +3364,16 @@
       "coordination",
       "tech"
     ],
+    "thermalfoundation:tool.shield_bronze": [
+      "shield"
+    ],
     "spartanweaponryarcana:battleaxe_elementium": [
       "fitness"
+    ],
+    "thermalfoundation:tool.fishing_rod_aluminum": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "techguns:alienblaster": [
       "tech",
@@ -3011,6 +3412,9 @@
     "techguns:vector": [
       "agility"
     ],
+    "thermalfoundation:tool.sword_lead": [
+      "fitness"
+    ],
     "mod_lavacow:reapers_scythe": [
       "composure",
       "veryslow"
@@ -3019,6 +3423,9 @@
       "composure",
       "coordination",
       "twohanded"
+    ],
+    "thermalfoundation:tool.sword_tin": [
+      "fitness"
     ],
     "spartanweaponry:katana_silver": [
       "composure",
@@ -3039,9 +3446,17 @@
       "coordination",
       "twohanded"
     ],
+    "thermalfoundation:tool.shield_electrum": [
+      "shield"
+    ],
     "metallurgy:damascus_steel_axe": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.hammer_invar": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:longbow_wood": [
       "perception",
@@ -3131,6 +3546,11 @@
       "fitness",
       "onehanded"
     ],
+    "thermalfoundation:tool.bow_steel": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "grimoireofgaia:weapon_book_battle": [
       "charisma",
       "magic"
@@ -3142,6 +3562,10 @@
     "metallurgy:midasium_pickaxe": [
       "fitness",
       "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.axe_platinum": [
+      "fitness",
       "onehanded"
     ],
     "metallurgy:steel_pickaxe": [
@@ -3180,6 +3604,11 @@
       "onehanded",
       "normal"
     ],
+    "thermalfoundation:tool.bow_platinum": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "metallurgy:vulcanite_shovel": [
       "fitness",
       "ingenuity",
@@ -3208,6 +3637,11 @@
     "spartanweaponry:warhammer_tin": [
       "fitness",
       "twohanded"
+    ],
+    "thermalfoundation:tool.fishing_rod_lead": [
+      "twohanded",
+      "slow",
+      "ingenuity"
     ],
     "roots:diamond_knife": [
       "agility"
@@ -3263,6 +3697,11 @@
       "coordination",
       "twohanded"
     ],
+    "thermalfoundation:tool.hammer_aluminum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "spartanweaponry:saber_invar": [
       "agility"
     ],
@@ -3286,11 +3725,18 @@
       "tech",
       "twohanded"
     ],
+    "thermalfoundation:tool.axe_steel": [
+      "fitness",
+      "onehanded"
+    ],
     "endreborn:ender_sword": [
       "fitness"
     ],
     "mod_lavacow:undertaker_shovel": [
       "charisma"
+    ],
+    "thermalfoundation:tool.shield_nickel": [
+      "shield"
     ],
     "spartanweaponry:dagger_electrum": [
       "agility"
@@ -3310,6 +3756,14 @@
     "spartanweaponry:greatsword_silver": [
       "fitness",
       "twohanded"
+    ],
+    "thermalfoundation:tool.hoe_electrum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.shield_tin": [
+      "shield"
     ],
     "spartanweaponry:boomerang_wood": [
       "composure",
@@ -3373,9 +3827,24 @@
     "spartanweaponryarcana:hammer_voidmetal": [
       "fitness"
     ],
+    "thermalfoundation:tool.shovel_aluminum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "minecraft:stone_axe": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.excavator_electrum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.hammer_steel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "extrabotany:terrasteelhammer": [
       "fitness",
@@ -3389,6 +3858,16 @@
     "metallurgy:bronze_axe": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.hammer_platinum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.excavator_constantan": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:battleaxe_copper": [
       "fitness"
@@ -3432,6 +3911,9 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "thermalfoundation:tool.shield_copper": [
+      "shield"
     ],
     "spartanweaponry:halberd_tin": [
       "fitness",
@@ -3477,6 +3959,9 @@
       "twohanded",
       "polearm"
     ],
+    "thermalfoundation:tool.shield_constantan": [
+      "shield"
+    ],
     "spartanweaponry:longbow_copper": [
       "perception",
       "twohanded",
@@ -3506,6 +3991,10 @@
       "fitness",
       "perception",
       "tech"
+    ],
+    "thermalfoundation:tool.axe_constantan": [
+      "fitness",
+      "onehanded"
     ],
     "astralsorcery:itemcrystalpickaxe": [
       "fitness",
@@ -3652,12 +4141,27 @@
       "onehanded",
       "normal"
     ],
+    "thermalfoundation:tool.fishing_rod_copper": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
+    "thermalfoundation:tool.bow_bronze": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "spartanweaponry:longbow_invar": [
       "perception",
       "twohanded",
       "slow"
     ],
     "metallurgy:vulcanite_hoe": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
+    "thermalfoundation:tool.shovel_constantan": [
       "fitness",
       "ingenuity",
       "twohanded"
@@ -3696,6 +4200,10 @@
       "composure",
       "twohanded"
     ],
+    "thermalfoundation:tool.sickle_electrum": [
+      "agility",
+      "composure"
+    ],
     "thaumadditions:void_elemental_pickaxe": [
       "fitness",
       "ingenuity",
@@ -3707,6 +4215,11 @@
     ],
     "spartanweaponry:hammer_iron": [
       "fitness"
+    ],
+    "thermalfoundation:tool.pickaxe_constantan": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
     ],
     "spartanweaponry:halberd_gold": [
       "fitness",
@@ -3775,6 +4288,11 @@
     "spartanweaponry:dagger_invar": [
       "agility"
     ],
+    "thermalfoundation:tool.bow_lead": [
+      "twohanded",
+      "perception",
+      "normal"
+    ],
     "spartanweaponry:glaive_copper": [
       "coordination",
       "perception",
@@ -3842,7 +4360,8 @@
     ],
     "endreborn:ender_bow": [
       "perception",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "metallurgy:sanguinite_hoe": [
       "fitness",
@@ -3919,6 +4438,13 @@
       "coordination",
       "twohanded"
     ],
+    "thermalfoundation:tool.axe_copper": [
+      "fitness",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.sword_nickel": [
+      "fitness"
+    ],
     "endreborn:tool_hoe_wolframium": [
       "fitness",
       "ingenuity",
@@ -3927,6 +4453,11 @@
     "botania:managun": [
       "coordination",
       "magic",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.pickaxe_tin": [
+      "fitness",
+      "ingenuity",
       "onehanded"
     ],
     "grimoireofgaia:weapon_fan_ice": [
@@ -3948,9 +4479,18 @@
     "thaumcraft:thaumium_sword": [
       "fitness"
     ],
+    "thermalfoundation:tool.shovel_copper": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "botania:terrasword": [
       "fitness",
       "coordination"
+    ],
+    "thermalfoundation:tool.axe_invar": [
+      "fitness",
+      "onehanded"
     ],
     "spartanweaponry:mace_platinum": [
       "fitness",
@@ -4004,6 +4544,11 @@
       "fitness",
       "onehanded"
     ],
+    "thermalfoundation:tool.pickaxe_aluminum": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
+    ],
     "techguns:m4_infiltrator": [
       "coordination",
       "perception"
@@ -4011,6 +4556,11 @@
     "astralsorcery:itemchargedcrystalaxe": [
       "fitness",
       "onehanded"
+    ],
+    "thermalfoundation:tool.shovel_electrum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "minecraft:iron_pickaxe": [
       "fitness",
@@ -4058,6 +4608,11 @@
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "thermalfoundation:tool.shovel_nickel": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
     ],
     "spartanweaponry:mace_steel": [
       "fitness",
@@ -4111,9 +4666,18 @@
     "techguns:as50": [
       "perception"
     ],
+    "thermalfoundation:tool.hoe_aluminum": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "metallurgy:shadow_iron_pickaxe": [
       "fitness",
       "ingenuity",
+      "onehanded"
+    ],
+    "thermalfoundation:tool.axe_nickel": [
+      "fitness",
       "onehanded"
     ],
     "spartanweaponry:pike_steel": [
@@ -4137,6 +4701,11 @@
       "ingenuity",
       "onehanded"
     ],
+    "thermalfoundation:tool.hoe_copper": [
+      "fitness",
+      "ingenuity",
+      "twohanded"
+    ],
     "spartanweaponryarcana:throwing_knife_elementium": [
       "agility",
       "coordination",
@@ -4145,6 +4714,10 @@
     "spartanweaponry:staff_iron": [
       "coordination",
       "twohanded"
+    ],
+    "thermalfoundation:tool.sickle_silver": [
+      "agility",
+      "composure"
     ],
     "metallurgy:kalendrite_hoe": [
       "fitness",
@@ -4155,6 +4728,11 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "thermalfoundation:tool.pickaxe_bronze": [
+      "fitness",
+      "ingenuity",
+      "onehanded"
     ],
     "metallurgy:krik_pickaxe": [
       "fitness",
@@ -4181,6 +4759,10 @@
       "twohanded",
       "polearm"
     ],
+    "thermalfoundation:tool.sickle_steel": [
+      "agility",
+      "composure"
+    ],
     "spartanweaponry:rapier_copper": [
       "agility"
     ],
@@ -4191,6 +4773,32 @@
     ],
     "spartanweaponry:battleaxe_diamond": [
       "fitness"
+    ],
+    "thermalfoundation:tool.sickle_constantan": [
+      "agility",
+      "composure"
+    ],
+    "thermalfoundation:tool.fishing_rod_nickel": [
+      "twohanded",
+      "slow",
+      "ingenuity"
+    ],
+    "thermalinnovation:drill": [
+      "fitness",
+      "ingenuity",
+      "tech",
+      "twohanded"
+    ],
+    "thermalinnovation:saw": [
+      "fitness",
+      "ingenuity",
+      "tech",
+      "twohanded"
+    ],
+    "thermalfoundation:wrench": [
+      "fitness",
+      "ingenuity",
+      "tech"
     ]
   }
 }
