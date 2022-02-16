@@ -5,6 +5,10 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:macuahuitl": [
+      "fitness",
+      "composure"
+    ],
     "spartanweaponry:crossbow_invar": [
       "perception",
       "twohanded",
@@ -18,10 +22,26 @@
     "spartanweaponryarcana:dagger_thaumium": [
       "agility"
     ],
+    "zettaigrimoires:grimoire_earth": [
+      "twohanded",
+      "normal"
+    ],
     "thaumcraft:void_shovel": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:emerald_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
+    "variedcommodities:demonic_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "spartanweaponry:halberd_stone": [
       "fitness",
@@ -42,6 +62,11 @@
     "thermalfoundation:tool.sickle_tin": [
       "agility",
       "composure"
+    ],
+    "variedcommodities:golden_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "thermalfoundation:tool.hoe_constantan": [
       "fitness",
@@ -79,6 +104,10 @@
     "thermalfoundation:tool.sword_silver": [
       "fitness"
     ],
+    "variedcommodities:katana": [
+      "coordination",
+      "composure"
+    ],
     "spartanweaponry:dagger_diamond": [
       "agility"
     ],
@@ -93,7 +122,8 @@
     ],
     "techguns:revolver": [
       "coordination",
-      "agility"
+      "agility",
+      "normal"
     ],
     "metallurgy:copper_pickaxe": [
       "fitness",
@@ -114,12 +144,27 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:bronze_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "spartanweaponryarcana:javelin_elementium": [
       "perception",
       "coordination",
       "throwable",
       "onehanded",
       "normal"
+    ],
+    "variedcommodities:mithril_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
+    "variedcommodities:stone_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
     ],
     "spartanweaponry:boomerang_iron": [
       "composure",
@@ -128,11 +173,18 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:wooden_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "ebwizardry:apprentice_sorcery_wand": [
       "twohanded"
     ],
     "techguns:flamethrower": [
-      "coordination"
+      "coordination",
+      "normal"
     ],
     "metallurgy:vyroxeres_shovel": [
       "fitness",
@@ -163,6 +215,10 @@
       "twohanded",
       "veryslow"
     ],
+    "zettaimagic:wmagic_glove": [
+      "onehanded",
+      "slow"
+    ],
     "endreborn:tool_axe_endorium": [
       "fitness",
       "onehanded"
@@ -180,6 +236,9 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:bronze_gun": [
+      "agility"
+    ],
     "metallurgy:brass_axe": [
       "fitness",
       "onehanded"
@@ -188,6 +247,11 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:bronze_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "spartanweaponry:spear_silver": [
       "perception",
@@ -213,6 +277,10 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:slingshot": [
+      "perception",
+      "ingenuity"
+    ],
     "spartanweaponry:hammer_bronze": [
       "fitness"
     ],
@@ -222,9 +290,16 @@
       "twohanded",
       "polearm"
     ],
+    "variedcommodities:diamond_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "techguns:m4": [
       "fitness",
-      "perception"
+      "perception",
+      "fast"
     ],
     "minecraft:diamond_pickaxe": [
       "fitness",
@@ -236,9 +311,16 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:iron_gun": [
+      "agility"
+    ],
     "botania:starsword": [
       "fitness",
       "agility"
+    ],
+    "variedcommodities:emerald_dagger_reversed": [
+      "agility",
+      "fast"
     ],
     "spartanweaponry:glaive_diamond": [
       "coordination",
@@ -321,6 +403,11 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:iron_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "thaumicaugmentation:primal_cutter": [
       "magic"
     ],
@@ -333,6 +420,10 @@
       "fitness",
       "tech"
     ],
+    "zettaimagic:m_wand_apprentice_darkness": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:crossbow_gold": [
       "perception",
       "twohanded",
@@ -340,7 +431,8 @@
     ],
     "techguns:mibgun": [
       "tech",
-      "agility"
+      "agility",
+      "normal"
     ],
     "metallurgy:carmot_pickaxe": [
       "fitness",
@@ -354,6 +446,13 @@
       "agility",
       "coordination",
       "throwable"
+    ],
+    "variedcommodities:bronze_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "spartanweaponryarcana:halberd_thaumium": [
       "fitness",
@@ -376,6 +475,10 @@
       "agility",
       "composure",
       "twohanded"
+    ],
+    "zettaigrimoires:grimoire_holy": [
+      "twohanded",
+      "normal"
     ],
     "ebwizardry:advanced_necromancy_wand": [
       "twohanded"
@@ -417,6 +520,10 @@
     "roots:living_sword": [
       "fitness"
     ],
+    "zettaimagic:m_wand_advanced_sorcery": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:dagger_gold": [
       "agility"
     ],
@@ -455,8 +562,22 @@
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:french_horn": [
+      "charisma",
+      "normal",
+      "onehanded"
+    ],
     "metallurgy:vulcanite_sword": [
       "fitness"
+    ],
+    "zettaimagic:m_wand_novice": [
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:mithril_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
     ],
     "metallurgy:inolashite_axe": [
       "fitness",
@@ -465,6 +586,12 @@
     "spartanweaponryarcana:mace_manasteel": [
       "fitness",
       "onehanded"
+    ],
+    "variedcommodities:emerald_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponry:lance_silver": [
       "perception",
@@ -487,9 +614,22 @@
       "coordination",
       "twohanded"
     ],
+    "zettaimagic:m_wand_novice_nature": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:spear_iron": [
       "perception",
       "polearm"
+    ],
+    "zettaimagic:m_wand_advanced": [
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:steel_claw": [
+      "agility",
+      "ingenuity",
+      "composure"
     ],
     "spartanweaponry:lance_bronze": [
       "perception",
@@ -502,7 +642,12 @@
     ],
     "techguns:scatterbeamrifle": [
       "coordination",
-      "tech"
+      "tech",
+      "normal"
+    ],
+    "zettaimagic:m_wand_apprentice_ice": [
+      "onehanded",
+      "normal"
     ],
     "stewweapons:vibroblade_1": [
       "fitness",
@@ -512,6 +657,9 @@
     ],
     "ebwizardry:novice_ice_wand": [
       "twohanded"
+    ],
+    "variedcommodities:wooden_gun": [
+      "agility"
     ],
     "metallurgy:adamantine_sword": [
       "fitness"
@@ -563,10 +711,17 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:leaf_sword": [
+      "agility"
+    ],
     "spartanweaponryarcana:glaive_voidmetal": [
       "coordination",
       "perception",
       "twohanded"
+    ],
+    "zettaimagic:m_wand_apprentice_thunder": [
+      "onehanded",
+      "normal"
     ],
     "minecraft:golden_hoe": [
       "fitness",
@@ -672,8 +827,24 @@
       "coordination",
       "twohanded"
     ],
+    "variedcommodities:guitar": [
+      "charisma",
+      "slow",
+      "twohanded"
+    ],
+    "variedcommodities:bronze_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
     "thermalfoundation:tool.sword_copper": [
       "fitness"
+    ],
+    "variedcommodities:kukri": [
+      "coordination"
+    ],
+    "variedcommodities:combat_knive": [
+      "agility"
     ],
     "metallurgy:electrum_pickaxe": [
       "fitness",
@@ -688,6 +859,11 @@
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "variedcommodities:frost_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
     ],
     "spartanweaponry:javelin_stone": [
       "perception",
@@ -730,6 +906,11 @@
     "spartanweaponryarcana:hammer_terrasteel": [
       "fitness"
     ],
+    "variedcommodities:demonic_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "ebwizardry:advanced_ice_wand": [
       "twohanded"
     ],
@@ -766,6 +947,11 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:banjo": [
+      "charisma",
+      "normal",
+      "onehanded"
+    ],
     "spartanweaponry:greatsword_bronze": [
       "fitness",
       "twohanded"
@@ -777,13 +963,22 @@
       "onehanded",
       "normal"
     ],
+    "zettaimagic:master_glove": [
+      "onehanded",
+      "slow"
+    ],
     "grimoireofgaia:weapon_book_hunger": [
       "charisma",
       "magic"
     ],
     "techguns:teslagun": [
       "tech",
-      "coordination"
+      "coordination",
+      "slow"
+    ],
+    "zettaimagic:m_wand_advanced_nature": [
+      "onehanded",
+      "normal"
     ],
     "mysticalworld:amethyst_sword": [
       "fitness"
@@ -808,6 +1003,11 @@
       "composure",
       "twohanded",
       "polearm"
+    ],
+    "variedcommodities:ocarina": [
+      "charisma",
+      "fast",
+      "onehanded"
     ],
     "roots:living_shovel": [
       "fitness",
@@ -848,8 +1048,16 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:bronze_dagger_reversed": [
+      "agility",
+      "fast"
+    ],
     "spartanweaponry:hammer_silver": [
       "fitness"
+    ],
+    "variedcommodities:wooden_dagger_reversed": [
+      "agility",
+      "fast"
     ],
     "spartanweaponry:spear_invar": [
       "perception",
@@ -857,6 +1065,16 @@
     ],
     "thermalfoundation:tool.sword_constantan": [
       "fitness"
+    ],
+    "variedcommodities:golden_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:bronze_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
     ],
     "thermalfoundation:tool.hoe_tin": [
       "fitness",
@@ -879,6 +1097,10 @@
     ],
     "metallurgy:amordrine_sword": [
       "fitness"
+    ],
+    "zettaimagic:m_wand_novice_ice": [
+      "onehanded",
+      "normal"
     ],
     "metallurgy:vyroxeres_axe": [
       "fitness",
@@ -926,6 +1148,11 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:wooden_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "metallurgy:prometheum_pickaxe": [
       "fitness",
       "ingenuity",
@@ -941,6 +1168,10 @@
     "spartanweaponryarcana:warhammer_elementium": [
       "fitness",
       "twohanded"
+    ],
+    "variedcommodities:sai": [
+      "agility",
+      "composure"
     ],
     "metallurgy:brass_hoe": [
       "fitness",
@@ -971,13 +1202,22 @@
     "stewweapons:dagger": [
       "agility"
     ],
+    "variedcommodities:stone_broadsword": [
+      "fitness"
+    ],
     "techguns:blasterrifle": [
       "perception",
-      "tech"
+      "tech",
+      "normal"
     ],
     "extrabotany:excaliber": [
       "fitness",
       "coordination"
+    ],
+    "variedcommodities:demonic_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
     ],
     "metallurgy:ceruclase_shovel": [
       "fitness",
@@ -1009,6 +1249,10 @@
     ],
     "metallurgy:celenegil_sword": [
       "fitness"
+    ],
+    "zettaimagic:wmaster_glove": [
+      "onehanded",
+      "slow"
     ],
     "minecraft:golden_axe": [
       "fitness",
@@ -1053,6 +1297,15 @@
     ],
     "metallurgy:mithril_sword": [
       "fitness"
+    ],
+    "variedcommodities:excalibur": [
+      "charisma",
+      "composure"
+    ],
+    "variedcommodities:stone_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
     ],
     "minecraft:stone_sword": [
       "fitness"
@@ -1122,6 +1375,11 @@
       "composure",
       "charisma"
     ],
+    "variedcommodities:emerald_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "metallurgy:orichalcum_pickaxe": [
       "fitness",
       "ingenuity",
@@ -1187,6 +1445,11 @@
       "twohanded",
       "polearm"
     ],
+    "variedcommodities:diamond_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "spartanweaponry:rapier_platinum": [
       "agility"
     ],
@@ -1203,6 +1466,11 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:demonic_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "thermalfoundation:tool.excavator_copper": [
       "fitness",
@@ -1238,10 +1506,17 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:frost_gun": [
+      "agility"
+    ],
     "metallurgy:brass_pickaxe": [
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "variedcommodities:frost_dagger_reversed": [
+      "agility",
+      "fast"
     ],
     "thaumcraft:thaumium_pick": [
       "fitness",
@@ -1252,6 +1527,10 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "zettaimagic:m_wand_master_thunder": [
+      "onehanded",
+      "normal"
     ],
     "stewweapons:laser_razor": [
       "agility",
@@ -1281,15 +1560,26 @@
       "veryslow"
     ],
     "techguns:powerhammer": [
-      "fitness"
+      "fitness",
+      "normal"
+    ],
+    "variedcommodities:mithril_staff": [
+      "magic",
+      "perception",
+      "twohanded"
     ],
     "techguns:aug": [
       "fitness",
-      "perception"
+      "perception",
+      "normal"
     ],
     "mod_lavacow:moltenhammer": [
       "fitness",
       "coordination"
+    ],
+    "zettaimagic:m_wand_apprentice_sorcery": [
+      "onehanded",
+      "normal"
     ],
     "mod_lavacow:vespa_dagger": [
       "agility"
@@ -1341,6 +1631,11 @@
       "fitness",
       "twohanded"
     ],
+    "variedcommodities:chainsaw_gun": [
+      "composure",
+      "fitness",
+      "agility"
+    ],
     "stewweapons:monomolecural_blade": [
       "agility",
       "tech"
@@ -1351,12 +1646,20 @@
       "twohanded"
     ],
     "techguns:lmg": [
-      "fitness"
+      "fitness",
+      "veryfast"
     ],
     "thermalfoundation:tool.hammer_bronze": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:iron_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "bewitchment:cold_iron_axe": [
       "fitness",
@@ -1377,6 +1680,11 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:baseball_bat": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
     "erebus:jade_shovel": [
       "fitness",
       "ingenuity",
@@ -1396,7 +1704,12 @@
     ],
     "techguns:combatshotgun": [
       "coordination",
-      "fitness"
+      "fitness",
+      "normal"
+    ],
+    "zettaimagic:m_wand_master_darkness": [
+      "onehanded",
+      "normal"
     ],
     "stewweapons:axe": [
       "fitness",
@@ -1411,6 +1724,16 @@
     "metallurgy:copper_sword": [
       "fitness"
     ],
+    "variedcommodities:demonic_gun": [
+      "agility"
+    ],
+    "variedcommodities:sledge_hammer": [
+      "fitness"
+    ],
+    "zettaimagic:m_wand_master_fire": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:halberd_copper": [
       "fitness",
       "perception",
@@ -1421,6 +1744,10 @@
       "fitness",
       "coordination",
       "throwable",
+      "onehanded",
+      "normal"
+    ],
+    "zettaimagic:m_wand_apprentice_light": [
       "onehanded",
       "normal"
     ],
@@ -1471,17 +1798,28 @@
       "ingenuity",
       "twohanded"
     ],
+    "zettaimagic:m_wand_advanced_ice": [
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:violin": [
+      "charisma",
+      "normal",
+      "onehanded"
+    ],
     "techguns:handcannon": [
       "perception",
       "fitness",
-      "composure"
+      "composure",
+      "normal"
     ],
     "stewweapons:plasma_torch": [
       "ingenuity",
       "tech"
     ],
     "techguns:combatknife": [
-      "agility"
+      "agility",
+      "fast"
     ],
     "minecraft:wooden_shovel": [
       "fitness",
@@ -1588,6 +1926,11 @@
       "composure",
       "polearm"
     ],
+    "variedcommodities:iron_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "metallurgy:steel_axe": [
       "fitness",
       "onehanded"
@@ -1638,6 +1981,9 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:demonic_broadsword": [
+      "fitness"
+    ],
     "stewweapons:chainsaw_1": [
       "fitness",
       "composure"
@@ -1676,6 +2022,10 @@
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:mithril_dagger_reversed": [
+      "agility",
+      "fast"
+    ],
     "spartanweaponry:katana_copper": [
       "composure",
       "coordination",
@@ -1689,10 +2039,23 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:frost_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
+    ],
     "stewweapons:claw": [
       "agility",
       "ingenuity",
       "composure"
+    ],
+    "variedcommodities:cursed_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponry:javelin_copper": [
       "perception",
@@ -1714,6 +2077,10 @@
       "twohanded",
       "polearm"
     ],
+    "zettaimagic:m_wand_novice_sorcery": [
+      "onehanded",
+      "normal"
+    ],
     "metallurgy:sanguinite_pickaxe": [
       "fitness",
       "ingenuity",
@@ -1724,6 +2091,11 @@
     ],
     "spartanweaponry:longbow_electrum": [
       "perception"
+    ],
+    "variedcommodities:violin_bow": [
+      "charisma",
+      "normal",
+      "onehanded"
     ],
     "metallurgy:mithril_hoe": [
       "fitness",
@@ -1771,6 +2143,11 @@
     "ebwizardry:advanced_fire_wand": [
       "twohanded"
     ],
+    "variedcommodities:bronze_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
     "techguns:ballistic_shield": [
       "towershield"
     ],
@@ -1796,9 +2173,30 @@
       "twohanded",
       "veryslow"
     ],
+    "variedcommodities:stone_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
+    ],
+    "variedcommodities:golden_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "thermalfoundation:tool.hoe_silver": [
       "fitness",
       "ingenuity",
+      "twohanded"
+    ],
+    "variedcommodities:diamond_gun": [
+      "agility"
+    ],
+    "thermalinnovation:drill": [
+      "fitness",
+      "ingenuity",
+      "tech",
       "twohanded"
     ],
     "spartanweaponry:lance_steel": [
@@ -1806,6 +2204,10 @@
       "composure",
       "twohanded",
       "polearm"
+    ],
+    "variedcommodities:batton": [
+      "fitness",
+      "charisma"
     ],
     "spartanweaponry:caestus_studded": [
       "fitness"
@@ -1858,6 +2260,10 @@
       "fitness",
       "tech",
       "ingenuity"
+    ],
+    "zettaimagic:m_wand_novice_thunder": [
+      "onehanded",
+      "normal"
     ],
     "spartanweaponryarcana:throwing_knife_terrasteel": [
       "agility",
@@ -1948,6 +2354,14 @@
       "twohanded",
       "polearm"
     ],
+    "zettaigrimoires:grimoire_lightning": [
+      "twohanded",
+      "normal"
+    ],
+    "zettaimagic:m_wand_master_sorcery": [
+      "onehanded",
+      "normal"
+    ],
     "ebwizardry:apprentice_ice_wand": [
       "twohanded"
     ],
@@ -1968,7 +2382,8 @@
       "normal"
     ],
     "techguns:mac10": [
-      "agility"
+      "agility",
+      "fast"
     ],
     "thermalfoundation:tool.fishing_rod_steel": [
       "twohanded",
@@ -2031,6 +2446,11 @@
       "fitness",
       "twohanded"
     ],
+    "variedcommodities:bronze_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "metallurgy:tartarite_hoe": [
       "fitness",
       "ingenuity",
@@ -2056,7 +2476,12 @@
     "techguns:miningdrill": [
       "fitness",
       "ingenuity",
-      "composure"
+      "composure",
+      "slow"
+    ],
+    "variedcommodities:bronze_dagger": [
+      "agility",
+      "fast"
     ],
     "metallurgy:amordrine_hoe": [
       "fitness",
@@ -2087,9 +2512,17 @@
       "slow",
       "ingenuity"
     ],
+    "variedcommodities:diamond_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
+    ],
     "techguns:lasergun": [
       "perception",
-      "tech"
+      "tech",
+      "normal"
     ],
     "spartanweaponry:throwing_knife_copper": [
       "agility",
@@ -2140,6 +2573,11 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:cleaver": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
     "spartanweaponryarcana:lance_elementium": [
       "perception",
       "composure",
@@ -2177,6 +2615,10 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "zettaimagic:m_wand_novice_light": [
+      "onehanded",
+      "normal"
     ],
     "endreborn:tool_axe_wolframium": [
       "fitness",
@@ -2230,6 +2672,10 @@
     "metallurgy:mithril_axe": [
       "fitness",
       "onehanded"
+    ],
+    "zettaigrimoires:grimoire_sorcery": [
+      "twohanded",
+      "normal"
     ],
     "thermalfoundation:tool.shovel_platinum": [
       "fitness",
@@ -2295,6 +2741,20 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:wrench": [
+      "fitness",
+      "ingenuity",
+      "tech"
+    ],
+    "variedcommodities:stone_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
+    "zettaimagic:m_wand_advanced_thunder": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:battleaxe_gold": [
       "fitness"
     ],
@@ -2312,6 +2772,10 @@
       "twohanded",
       "polearm"
     ],
+    "zettaigrimoires:empty_grimoire": [
+      "twohanded",
+      "normal"
+    ],
     "bewitchment:cold_iron_sword": [
       "fitness"
     ],
@@ -2324,6 +2788,11 @@
       "coordination",
       "perception",
       "twohanded"
+    ],
+    "variedcommodities:diamond_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "metallurgy:celenegil_hoe": [
       "fitness",
@@ -2379,6 +2848,13 @@
     ],
     "spartanweaponry:hammer_tin": [
       "fitness"
+    ],
+    "variedcommodities:wooden_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "immersiveengineering:drill": [
       "fitness",
@@ -2463,6 +2939,12 @@
       "twohanded",
       "polearm"
     ],
+    "thermalinnovation:saw": [
+      "fitness",
+      "ingenuity",
+      "tech",
+      "twohanded"
+    ],
     "spartanweaponryarcana:spear_terrasteel": [
       "perception",
       "polearm"
@@ -2528,6 +3010,11 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:diamond_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
     "metallurgy:carmot_sword": [
       "fitness"
     ],
@@ -2545,16 +3032,34 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:demonic_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "spartanweaponryarcana:katana_terrasteel": [
       "composure",
       "coordination",
       "twohanded"
+    ],
+    "variedcommodities:wooden_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "spartanshields:shield_tower_stone": [
       "towershield"
     ],
     "ebwizardry:apprentice_healing_wand": [
       "twohanded"
+    ],
+    "variedcommodities:mithril_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:rapier": [
+      "perception"
     ],
     "thermalfoundation:tool.shovel_lead": [
       "fitness",
@@ -2564,6 +3069,9 @@
     "thermalfoundation:tool.sickle_platinum": [
       "agility",
       "composure"
+    ],
+    "variedcommodities:crossbow": [
+      "perception"
     ],
     "metallurgy:ceruclase_hoe": [
       "fitness",
@@ -2613,7 +3121,19 @@
       "coordination",
       "twohanded"
     ],
+    "zettaimagic:m_wand_apprentice_nature": [
+      "onehanded",
+      "normal"
+    ],
     "metallurgy:inolashite_sword": [
+      "fitness"
+    ],
+    "variedcommodities:golden_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
+    "variedcommodities:bronze_broadsword": [
       "fitness"
     ],
     "spartanweaponry:rapier_invar": [
@@ -2623,6 +3143,10 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "zettaimagic:m_wand_master_light": [
+      "onehanded",
+      "normal"
     ],
     "minecraft:diamond_axe": [
       "fitness",
@@ -2658,12 +3182,18 @@
     ],
     "techguns:pdw": [
       "tech",
-      "agility"
+      "agility",
+      "fast"
     ],
     "metallurgy:prometheum_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:demonic_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "mana_wizardry:wand_livingwood": [
       "twohanded"
@@ -2686,6 +3216,11 @@
     ],
     "ebwizardry:advanced_healing_wand": [
       "twohanded"
+    ],
+    "variedcommodities:frost_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
     ],
     "spartanweaponry:crossbow_stone": [
       "perception",
@@ -2720,7 +3255,8 @@
       "onehanded"
     ],
     "techguns:grenadelauncher": [
-      "coordination"
+      "coordination",
+      "slow"
     ],
     "stewweapons:hand_drill": [
       "fitness",
@@ -2750,6 +3286,11 @@
     "astralsorcery:itemchargedcrystalsword": [
       "fitness"
     ],
+    "variedcommodities:mithril_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "spartanweaponry:crossbow_leather": [
       "perception",
       "twohanded",
@@ -2772,10 +3313,22 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:stone_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "spartanweaponry:longsword_stone": [
       "fitness",
       "coordination",
       "twohanded"
+    ],
+    "variedcommodities:shuriken_giant": [
+      "coordination",
+      "composure",
+      "throwable",
+      "slow"
     ],
     "spartanshields:shield_tower_iron": [
       "towershield"
@@ -2789,7 +3342,8 @@
     ],
     "techguns:sonicshotgun": [
       "coordination",
-      "tech"
+      "tech",
+      "veryslow"
     ],
     "thermalfoundation:tool.excavator_aluminum": [
       "fitness",
@@ -2832,8 +3386,17 @@
       "fitness",
       "twohanded"
     ],
+    "variedcommodities:emerald_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "roots:stone_knife": [
       "agility"
+    ],
+    "zettaigrimoires:grimoire_ice": [
+      "twohanded",
+      "normal"
     ],
     "metallurgy:desichalkos_sword": [
       "fitness"
@@ -2887,6 +3450,11 @@
       "perception",
       "twohanded"
     ],
+    "variedcommodities:stone_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "spartanweaponry:javelin_platinum": [
       "perception",
       "coordination",
@@ -2900,7 +3468,8 @@
     ],
     "techguns:grimreaper": [
       "coordination",
-      "composure"
+      "composure",
+      "slow"
     ],
     "metallurgy:ignatius_axe": [
       "fitness",
@@ -2911,7 +3480,8 @@
       "polearm"
     ],
     "techguns:boltaction": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponry:staff_invar": [
       "coordination",
@@ -2969,6 +3539,11 @@
     "spartanweaponry:hammer_steel": [
       "fitness"
     ],
+    "variedcommodities:demonic_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
+    ],
     "spartanshields:shield_tower_diamond": [
       "towershield"
     ],
@@ -2985,7 +3560,12 @@
       "fitness"
     ],
     "techguns:rocketlauncher": [
-      "coordination"
+      "coordination",
+      "veryslow"
+    ],
+    "variedcommodities:swiss_army_knife": [
+      "ingenuity",
+      "composure"
     ],
     "botania:manasteelshovel": [
       "fitness",
@@ -3001,10 +3581,29 @@
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:iron_dagger_reversed": [
+      "agility",
+      "fast"
+    ],
     "spartanweaponry:pike_iron": [
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "variedcommodities:machine_gun": [
+      "agility",
+      "twohanded",
+      "fast"
+    ],
+    "variedcommodities:emerald_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
+    "variedcommodities:crowbar": [
+      "fitness",
+      "ingenuity",
+      "composure"
     ],
     "betternether:cincinnasite_axe": [
       "fitness",
@@ -3040,7 +3639,8 @@
     ],
     "techguns:sawedoff": [
       "coordination",
-      "fitness"
+      "fitness",
+      "slow"
     ],
     "spartanweaponry:halberd_silver": [
       "fitness",
@@ -3052,6 +3652,10 @@
       "tech",
       "agility"
     ],
+    "variedcommodities:iron_dagger": [
+      "agility",
+      "fast"
+    ],
     "spartanweaponry:katana_gold": [
       "composure",
       "coordination",
@@ -3061,10 +3665,28 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:mithril_broadsword": [
+      "fitness"
+    ],
+    "variedcommodities:diamond_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "metallurgy:atlarus_hoe": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:stone_gun": [
+      "agility"
+    ],
+    "variedcommodities:demonic_dagger": [
+      "agility",
+      "fast"
+    ],
+    "variedcommodities:frost_broadsword": [
+      "fitness"
     ],
     "spartanweaponry:glaive_bronze": [
       "coordination",
@@ -3118,6 +3740,9 @@
     "spartanweaponryarcana:battleaxe_manasteel": [
       "fitness"
     ],
+    "variedcommodities:golden_gun": [
+      "agility"
+    ],
     "thermalfoundation:tool.shield_platinum": [
       "shield"
     ],
@@ -3139,9 +3764,18 @@
       "fitness",
       "onehanded"
     ],
+    "zettaimagic:m_wand_apprentice_fire": [
+      "onehanded",
+      "normal"
+    ],
     "mod_lavacow:moltenaxe": [
       "fitness",
       "onehanded"
+    ],
+    "variedcommodities:mithril_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponry:crossbow_iron": [
       "perception",
@@ -3167,9 +3801,23 @@
     "spartanweaponryarcana:battleaxe_thaumium": [
       "fitness"
     ],
+    "variedcommodities:musket": [
+      "perception"
+    ],
+    "variedcommodities:frost_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "techguns:gaussrifle": [
       "perception",
-      "tech"
+      "tech",
+      "slow"
+    ],
+    "variedcommodities:emerald_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
     ],
     "spartanweaponry:saber_tin": [
       "agility"
@@ -3184,7 +3832,8 @@
     ],
     "techguns:minigun": [
       "fitness",
-      "composure"
+      "composure",
+      "normal"
     ],
     "metallurgy:silver_sword": [
       "fitness"
@@ -3192,7 +3841,8 @@
     "techguns:crowbar": [
       "fitness",
       "ingenuity",
-      "composure"
+      "composure",
+      "normal"
     ],
     "spartanweaponry:glaive_gold": [
       "coordination",
@@ -3217,6 +3867,11 @@
       "fitness",
       "twohanded"
     ],
+    "variedcommodities:frost_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "stewweapons:rogosvet": [
       "fitness",
       "magic"
@@ -3231,6 +3886,10 @@
       "composure",
       "twohanded",
       "polearm"
+    ],
+    "zettaimagic:m_wand_advanced_darkness": [
+      "onehanded",
+      "normal"
     ],
     "roots:gold_knife": [
       "agility"
@@ -3263,8 +3922,20 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:diamond_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
+    ],
     "spartanweaponry:rapier_diamond": [
       "agility"
+    ],
+    "variedcommodities:mithril_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "stewweapons:strange_sword": [
       "fitness"
@@ -3278,6 +3949,12 @@
       "coordination",
       "twohanded"
     ],
+    "variedcommodities:golden_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "spartanweaponry:longsword_silver": [
       "fitness",
       "coordination",
@@ -3286,6 +3963,15 @@
     "spartanweaponryarcana:spear_elementium": [
       "perception",
       "polearm"
+    ],
+    "variedcommodities:wooden_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:stone_dagger_reversed": [
+      "agility",
+      "fast"
     ],
     "grimoireofgaia:weapon_book_nature": [
       "charisma",
@@ -3297,13 +3983,27 @@
     "minecraft:wooden_sword": [
       "fitness"
     ],
+    "variedcommodities:wooden_spear": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "endreborn:tool_pickaxe_wolframium": [
       "fitness",
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:clarinet": [
+      "charisma",
+      "normal",
+      "onehanded"
+    ],
     "techguns:advanced_shield": [
       "towershield"
+    ],
+    "variedcommodities:wooden_dagger": [
+      "agility",
+      "fast"
     ],
     "thermalfoundation:tool.pickaxe_electrum": [
       "fitness",
@@ -3314,8 +4014,14 @@
       "agility",
       "composure"
     ],
+    "variedcommodities:iron_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "techguns:thompson": [
-      "agility"
+      "agility",
+      "fast"
     ],
     "spartanweaponry:greatsword_stone": [
       "fitness",
@@ -3362,7 +4068,8 @@
     ],
     "techguns:tfg": [
       "coordination",
-      "tech"
+      "tech",
+      "veryslow"
     ],
     "thermalfoundation:tool.shield_bronze": [
       "shield"
@@ -3375,9 +4082,22 @@
       "slow",
       "ingenuity"
     ],
+    "variedcommodities:broken_bottle": [
+      "ingenuity"
+    ],
     "techguns:alienblaster": [
       "tech",
-      "charisma"
+      "charisma",
+      "normal"
+    ],
+    "variedcommodities:emerald_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
+    "zettaimagic:m_wand_master_nature": [
+      "onehanded",
+      "normal"
     ],
     "spartanweaponry:dagger_tin": [
       "agility"
@@ -3395,6 +4115,11 @@
     "ebwizardry:apprentice_necromancy_wand": [
       "twohanded"
     ],
+    "variedcommodities:frost_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
+    ],
     "spartanweaponryarcana:throwing_axe_terrasteel": [
       "fitness",
       "coordination",
@@ -3410,10 +4135,15 @@
       "agility"
     ],
     "techguns:vector": [
-      "agility"
+      "agility",
+      "fast"
     ],
     "thermalfoundation:tool.sword_lead": [
       "fitness"
+    ],
+    "variedcommodities:stone_dagger": [
+      "agility",
+      "fast"
     ],
     "mod_lavacow:reapers_scythe": [
       "composure",
@@ -3426,6 +4156,12 @@
     ],
     "thermalfoundation:tool.sword_tin": [
       "fitness"
+    ],
+    "variedcommodities:demonic_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponry:katana_silver": [
       "composure",
@@ -3449,6 +4185,10 @@
     "thermalfoundation:tool.shield_electrum": [
       "shield"
     ],
+    "zettaimagic:magic_glove": [
+      "onehanded",
+      "slow"
+    ],
     "metallurgy:damascus_steel_axe": [
       "fitness",
       "onehanded"
@@ -3460,6 +4200,11 @@
     ],
     "spartanweaponry:longbow_wood": [
       "perception",
+      "twohanded",
+      "slow"
+    ],
+    "variedcommodities:stone_battleaxe": [
+      "fitness",
       "twohanded",
       "slow"
     ],
@@ -3476,6 +4221,11 @@
       "composure",
       "coordination"
     ],
+    "variedcommodities:kunai_reversed": [
+      "coordination",
+      "normal",
+      "throwable"
+    ],
     "spartanweaponry:halberd_wood": [
       "fitness",
       "perception",
@@ -3484,7 +4234,8 @@
     ],
     "techguns:ak47": [
       "fitness",
-      "perception"
+      "perception",
+      "fast"
     ],
     "spartanweaponry:crossbow_steel": [
       "perception",
@@ -3507,6 +4258,16 @@
       "perception",
       "twohanded",
       "slow"
+    ],
+    "variedcommodities:ninja_claw": [
+      "agility",
+      "ingenuity",
+      "composure"
+    ],
+    "variedcommodities:hockey_stick": [
+      "fitness",
+      "ingenuity",
+      "composure"
     ],
     "metallurgy:carmot_hoe": [
       "fitness",
@@ -3533,14 +4294,33 @@
     ],
     "techguns:goldenrevolver": [
       "coordination",
-      "agility"
+      "composure",
+      "agility",
+      "normal"
+    ],
+    "variedcommodities:diamond_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
     ],
     "techguns:biogun": [
       "tech",
-      "coordination"
+      "coordination",
+      "veryslow"
+    ],
+    "variedcommodities:emerald_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
     ],
     "spartanweaponry:saber_gold": [
       "agility"
+    ],
+    "zettaimagic:advanced_glove": [
+      "onehanded",
+      "slow"
     ],
     "metallurgy:platinum_axe": [
       "fitness",
@@ -3558,6 +4338,11 @@
     "spartanweaponry:mace_iron": [
       "fitness",
       "onehanded"
+    ],
+    "variedcommodities:stone_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
     ],
     "metallurgy:midasium_pickaxe": [
       "fitness",
@@ -3609,6 +4394,10 @@
       "perception",
       "normal"
     ],
+    "zettaimagic:m_wand_master": [
+      "onehanded",
+      "normal"
+    ],
     "metallurgy:vulcanite_shovel": [
       "fitness",
       "ingenuity",
@@ -3646,6 +4435,11 @@
     "roots:diamond_knife": [
       "agility"
     ],
+    "thermalfoundation:wrench": [
+      "fitness",
+      "ingenuity",
+      "tech"
+    ],
     "metallurgy:quicksilver_sword": [
       "fitness"
     ],
@@ -3673,6 +4467,9 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:saber": [
+      "agility"
+    ],
     "metallurgy:kalendrite_sword": [
       "fitness"
     ],
@@ -3691,6 +4488,10 @@
       "composure",
       "coordination",
       "twohanded"
+    ],
+    "zettaimagic:m_wand_advanced_light": [
+      "onehanded",
+      "normal"
     ],
     "spartanweaponry:longsword_bronze": [
       "fitness",
@@ -3720,6 +4521,11 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:frost_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "stewweapons:cutter": [
       "fitness",
       "tech",
@@ -3728,6 +4534,10 @@
     "thermalfoundation:tool.axe_steel": [
       "fitness",
       "onehanded"
+    ],
+    "variedcommodities:mithril_dagger": [
+      "agility",
+      "fast"
     ],
     "endreborn:ender_sword": [
       "fitness"
@@ -3802,6 +4612,9 @@
       "onehanded",
       "normal"
     ],
+    "variedcommodities:iron_broadsword": [
+      "fitness"
+    ],
     "spartanweaponry:longbow_steel": [
       "perception",
       "twohanded",
@@ -3810,6 +4623,9 @@
     "stewweapons:shock_baton": [
       "fitness",
       "agility"
+    ],
+    "variedcommodities:golden_broadsword": [
+      "fitness"
     ],
     "endreborn:tool_pickaxe_endorium": [
       "fitness",
@@ -3841,10 +4657,19 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:iron_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "thermalfoundation:tool.hammer_steel": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:emerald_broadsword": [
+      "fitness"
     ],
     "extrabotany:terrasteelhammer": [
       "fitness",
@@ -3897,12 +4722,23 @@
     ],
     "techguns:nucleardeathray": [
       "fitness",
-      "tech"
+      "tech",
+      "slow"
     ],
     "spartanweaponry:katana_electrum": [
       "composure",
       "coordination",
       "twohanded"
+    ],
+    "variedcommodities:wooden_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
+    "variedcommodities:lead_pipe": [
+      "fitness",
+      "ingenuity",
+      "composure"
     ],
     "ebwizardry:advanced_lightning_wand": [
       "twohanded"
@@ -3911,6 +4747,10 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "zettaimagic:apprentice_glove": [
+      "onehanded",
+      "slow"
     ],
     "thermalfoundation:tool.shield_copper": [
       "shield"
@@ -3923,12 +4763,18 @@
     ],
     "techguns:guidedmissilelauncher": [
       "tech",
-      "coordination"
+      "coordination",
+      "veryslow"
     ],
     "spartanweaponryarcana:pike_terrasteel": [
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "variedcommodities:frost_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "spartanweaponryarcana:greatsword_terrasteel": [
       "fitness",
@@ -3943,6 +4789,11 @@
     ],
     "spartanshields:shield_tower_electrum": [
       "towershield"
+    ],
+    "variedcommodities:pipe_wrench": [
+      "fitness",
+      "ingenuity",
+      "composure"
     ],
     "grimoireofgaia:weapon_book_buff": [
       "charisma",
@@ -3984,13 +4835,32 @@
     "spartanshields:shield_tower_wood": [
       "towershield"
     ],
+    "variedcommodities:golden_dagger_reversed": [
+      "agility",
+      "fast"
+    ],
+    "zettaimagic:wadvanced_glove": [
+      "onehanded",
+      "slow"
+    ],
+    "variedcommodities:katar": [
+      "agility",
+      "ingenuity",
+      "composure"
+    ],
+    "variedcommodities:stone_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
     "spartanweaponry:dagger_silver": [
       "agility"
     ],
     "techguns:pulserifle": [
       "fitness",
       "perception",
-      "tech"
+      "tech",
+      "veryslow"
     ],
     "thermalfoundation:tool.axe_constantan": [
       "fitness",
@@ -4008,6 +4878,10 @@
     "extrabotany:failnaught": [
       "perception",
       "twohanded"
+    ],
+    "variedcommodities:demonic_dagger_reversed": [
+      "agility",
+      "fast"
     ],
     "metallurgy:vyroxeres_sword": [
       "fitness"
@@ -4040,6 +4914,10 @@
     "thaumcraft:elemental_sword": [
       "fitness"
     ],
+    "zettaimagic:m_wand_novice_darkness": [
+      "onehanded",
+      "normal"
+    ],
     "metallurgy:kalendrite_pickaxe": [
       "fitness",
       "ingenuity",
@@ -4047,6 +4925,11 @@
     ],
     "metallurgy:sanguinite_sword": [
       "fitness"
+    ],
+    "variedcommodities:diamond_warhammer": [
+      "fitness",
+      "twohanded",
+      "slow"
     ],
     "spartanweaponry:halberd_diamond": [
       "fitness",
@@ -4059,6 +4942,9 @@
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:emerald_gun": [
+      "agility"
+    ],
     "spartanweaponry:greatsword_invar": [
       "fitness",
       "twohanded"
@@ -4066,6 +4952,11 @@
     "metallurgy:atlarus_axe": [
       "fitness",
       "onehanded"
+    ],
+    "variedcommodities:golden_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
     ],
     "botanicadds:mana_stealer_sword": [
       "agility",
@@ -4086,7 +4977,8 @@
       "twohanded"
     ],
     "techguns:netherblaster": [
-      "tech"
+      "tech",
+      "slow"
     ],
     "astralsorcery:itemcrystalshovel": [
       "fitness",
@@ -4115,6 +5007,10 @@
     "thaumcraft:void_axe": [
       "fitness",
       "onehanded"
+    ],
+    "zettaimagic:m_wand_master_ice": [
+      "onehanded",
+      "normal"
     ],
     "spartanweaponryarcana:throwing_axe_voidmetal": [
       "fitness",
@@ -4185,6 +5081,10 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:golden_dagger": [
+      "agility",
+      "fast"
+    ],
     "ebwizardry:master_wand": [
       "twohanded"
     ],
@@ -4221,6 +5121,11 @@
       "ingenuity",
       "onehanded"
     ],
+    "variedcommodities:golden_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
+    ],
     "spartanweaponry:halberd_gold": [
       "fitness",
       "perception",
@@ -4255,6 +5160,11 @@
       "twohanded",
       "veryslow"
     ],
+    "variedcommodities:bronze_staff": [
+      "magic",
+      "perception",
+      "twohanded"
+    ],
     "astralsorcery:itemcrystalsword": [
       "fitness"
     ],
@@ -4271,10 +5181,24 @@
       "tech",
       "composure"
     ],
+    "zettaimagic:wapprentice_glove": [
+      "onehanded",
+      "slow"
+    ],
     "metallurgy:brass_shovel": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:shuriken": [
+      "coordination",
+      "fast",
+      "throwable"
+    ],
+    "variedcommodities:wooden_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
     ],
     "erebus:enhanced_scorpion_pincer": [
       "agility",
@@ -4312,7 +5236,18 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:iron_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
+    ],
+    "variedcommodities:mithril_gun": [
+      "agility"
+    ],
     "metallurgy:etherium_sword": [
+      "fitness"
+    ],
+    "variedcommodities:wooden_broadsword": [
       "fitness"
     ],
     "spartanweaponry:battleaxe_iron": [
@@ -4372,6 +5307,10 @@
       "fitness",
       "onehanded"
     ],
+    "zettaimagic:m_wand_advanced_fire": [
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponryarcana:boomerang_manasteel": [
       "composure",
       "coordination",
@@ -4386,6 +5325,10 @@
     ],
     "spartanshields:shield_tower_steel": [
       "towershield"
+    ],
+    "variedcommodities:frost_dagger": [
+      "agility",
+      "fast"
     ],
     "spartanweaponry:longbow_platinum": [
       "perception",
@@ -4423,6 +5366,24 @@
     "spartanweaponry:hammer_invar": [
       "fitness"
     ],
+    "variedcommodities:mithril_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
+    "variedcommodities:elemental_staff": [
+      "magic",
+      "twohanded",
+      "perception",
+      "normal"
+    ],
+    "variedcommodities:golden_halberd": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm",
+      "slow"
+    ],
     "metallurgy:bronze_pickaxe": [
       "fitness",
       "ingenuity",
@@ -4438,6 +5399,12 @@
       "coordination",
       "twohanded"
     ],
+    "variedcommodities:mithril_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "thermalfoundation:tool.axe_copper": [
       "fitness",
       "onehanded"
@@ -4449,6 +5416,16 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:demonic_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
+    "variedcommodities:iron_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
     ],
     "botania:managun": [
       "coordination",
@@ -4464,6 +5441,11 @@
       "composure",
       "charisma"
     ],
+    "variedcommodities:emerald_mace": [
+      "fitness",
+      "onehanded",
+      "normal"
+    ],
     "spartanweaponry:boomerang_bronze": [
       "composure",
       "coordination",
@@ -4474,7 +5456,8 @@
     "techguns:chainsaw": [
       "fitness",
       "ingenuity",
-      "composure"
+      "composure",
+      "slow"
     ],
     "thaumcraft:thaumium_sword": [
       "fitness"
@@ -4484,6 +5467,9 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:bo_staff": [
+      "coordination"
+    ],
     "botania:terrasword": [
       "fitness",
       "coordination"
@@ -4492,12 +5478,27 @@
       "fitness",
       "onehanded"
     ],
+    "variedcommodities:harp": [
+      "charisma",
+      "normal",
+      "onehanded"
+    ],
+    "variedcommodities:iron_scythe": [
+      "composure",
+      "twohanded",
+      "slow"
+    ],
     "spartanweaponry:mace_platinum": [
       "fitness",
       "onehanded"
     ],
     "ebwizardry:master_fire_wand": [
       "twohanded"
+    ],
+    "variedcommodities:hammer": [
+      "fitness",
+      "ingenuity",
+      "composure"
     ],
     "bewitchment:boline": [
       "ingenuity",
@@ -4513,6 +5514,15 @@
       "perception",
       "twohanded"
     ],
+    "variedcommodities:golf_club": [
+      "fitness",
+      "ingenuity",
+      "composure"
+    ],
+    "zettaigrimoires:grimoire_necromancy": [
+      "twohanded",
+      "normal"
+    ],
     "botania:terrapick": [
       "fitness",
       "ingenuity",
@@ -4523,12 +5533,16 @@
       "ingenuity",
       "twohanded"
     ],
+    "variedcommodities:diamond_broadsword": [
+      "fitness"
+    ],
     "spartanweaponry:spear_bronze": [
       "perception",
       "polearm"
     ],
     "techguns:pistol": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "immersiveengineering:revolver": [
       "agility",
@@ -4538,7 +5552,8 @@
     ],
     "techguns:laserpistol": [
       "tech",
-      "agility"
+      "agility",
+      "normal"
     ],
     "spartanweaponryarcana:mace_terrasteel": [
       "fitness",
@@ -4551,7 +5566,8 @@
     ],
     "techguns:m4_infiltrator": [
       "coordination",
-      "perception"
+      "perception",
+      "fast"
     ],
     "astralsorcery:itemchargedcrystalaxe": [
       "fitness",
@@ -4572,6 +5588,15 @@
       "twohanded",
       "polearm"
     ],
+    "variedcommodities:iron_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
+    "zettaimagic:m_wand_apprentice": [
+      "onehanded",
+      "normal"
+    ],
     "minecraft:egg": [
       "throwable",
       "coordination",
@@ -4582,12 +5607,23 @@
       "twohanded"
     ],
     "techguns:scar": [
-      "perception"
+      "perception",
+      "normal"
+    ],
+    "variedcommodities:wooden_glaive": [
+      "composure",
+      "coordination",
+      "polearm"
     ],
     "metallurgy:quicksilver_shovel": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:bear_claw": [
+      "agility",
+      "ingenuity",
+      "composure"
     ],
     "spartanweaponry:staff_platinum": [
       "coordination",
@@ -4641,6 +5677,10 @@
     "metallurgy:ignatius_sword": [
       "fitness"
     ],
+    "variedcommodities:emerald_dagger": [
+      "agility",
+      "fast"
+    ],
     "immersiveengineering:railgun": [
       "perception",
       "tech",
@@ -4664,12 +5704,17 @@
       "normal"
     ],
     "techguns:as50": [
-      "perception"
+      "perception",
+      "veryslow"
     ],
     "thermalfoundation:tool.hoe_aluminum": [
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "zettaigrimoires:grimoire_flame": [
+      "twohanded",
+      "normal"
     ],
     "metallurgy:shadow_iron_pickaxe": [
       "fitness",
@@ -4693,6 +5738,19 @@
       "coordination",
       "twohanded"
     ],
+    "variedcommodities:golden_battleaxe": [
+      "fitness",
+      "twohanded",
+      "slow"
+    ],
+    "zettaimagic:m_wand_novice_fire": [
+      "onehanded",
+      "normal"
+    ],
+    "variedcommodities:diamond_dagger": [
+      "agility",
+      "fast"
+    ],
     "metallurgy:damascus_steel_sword": [
       "fitness"
     ],
@@ -4705,6 +5763,12 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "variedcommodities:bronze_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponryarcana:throwing_knife_elementium": [
       "agility",
@@ -4733,6 +5797,11 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "variedcommodities:kunai": [
+      "coordination",
+      "normal",
+      "throwable"
     ],
     "metallurgy:krik_pickaxe": [
       "fitness",
@@ -4763,6 +5832,10 @@
       "agility",
       "composure"
     ],
+    "variedcommodities:diamond_dagger_reversed": [
+      "agility",
+      "fast"
+    ],
     "spartanweaponry:rapier_copper": [
       "agility"
     ],
@@ -4778,27 +5851,16 @@
       "agility",
       "composure"
     ],
+    "variedcommodities:frost_trident": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
     "thermalfoundation:tool.fishing_rod_nickel": [
       "twohanded",
       "slow",
       "ingenuity"
-    ],
-    "thermalinnovation:drill": [
-      "fitness",
-      "ingenuity",
-      "tech",
-      "twohanded"
-    ],
-    "thermalinnovation:saw": [
-      "fitness",
-      "ingenuity",
-      "tech",
-      "twohanded"
-    ],
-    "thermalfoundation:wrench": [
-      "fitness",
-      "ingenuity",
-      "tech"
     ]
   }
 }
