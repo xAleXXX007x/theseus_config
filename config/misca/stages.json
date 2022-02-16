@@ -9,14 +9,27 @@
     "roots:fey_crafter": [
       "mys_two"
     ],
+    "techguns:simplemachine:9": [
+      "eng_one"
+    ],
     "roots:imbuer": [
       "mys_two"
+    ],
+    "techguns:simplemachine:8": [
+      "eng_one"
+    ],
+    "techguns:multiblockmachine": [
+      "eng_two",
+      "mnf_two"
     ],
     "astralsorcery:blockaltar:0": [
       "arc_one"
     ],
     "thaumcraft:arcane_workbench:*": [
       "arc_one"
+    ],
+    "techguns:basicmachine": [
+      "eng_one"
     ],
     "astralsorcery:blockmapdrawingtable": [
       "enc_one"
@@ -39,11 +52,32 @@
     "astralsorcery:blockmachine:0": [
       "arc_two"
     ],
+    "techguns:basicmachine:3": [
+      "inf_one"
+    ],
+    "techguns:basicmachine:2": [
+      "eng_one",
+      "mnf_one",
+      "chm_one"
+    ],
     "thaumcraft:smelter_void:*": [
       "arc_three"
     ],
     "thaumcraft:infusion_matrix:*": [
       "arc_two"
+    ],
+    "bewitchment:sigil_table:*": [
+      "mys_three"
+    ],
+    "techguns:basicmachine:1": [
+      "eng_one",
+      "mnf_one"
+    ],
+    "bewitchment:brazier:*": [
+      "mys_two"
+    ],
+    "endreborn:block_end_forge:*": [
+      "mys_one"
     ],
     "immersiveengineering:metal_multiblock:13": [
       "mnf_one"
@@ -53,6 +87,9 @@
     ],
     "astralsorcery:blockattunementaltar": [
       "arc_three"
+    ],
+    "bewitchment:witches_cauldron": [
+      "mys_one"
     ],
     "botania:enchanter": [
       "enc_two"
@@ -87,11 +124,40 @@
     "astralsorcery:blockaltar:2": [
       "arc_two"
     ],
+    "techguns:simplemachine2:8": [
+      "mnf_one",
+      "eng_one"
+    ],
+    "techguns:simplemachine2:9": [
+      "eng_three"
+    ],
+    "bewitchment:witches_oven:*": [
+      "mys_one"
+    ],
+    "techguns:multiblockmachine:13": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
+    ],
     "immersivetech:metal_multiblock": [
       "mnf_one"
     ],
+    "techguns:multiblockmachine:10": [
+      "eng_two",
+      "mnf_two"
+    ],
     "botanicadds:elven_altar": [
       "arc_two"
+    ],
+    "techguns:multiblockmachine:12": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
+    ],
+    "techguns:multiblockmachine:11": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
     ],
     "roots:offertory_plate": [
       "mys_tree"
@@ -111,6 +177,9 @@
     "astralsorcery:blockbore": [
       "arc_three"
     ],
+    "techguns:simplemachine:11": [
+      "mnf_one"
+    ],
     "immersivepetroleum:metal_multiblock": [
       "mnf_one"
     ],
@@ -120,11 +189,48 @@
     "immersivetech:stone_multiblock:*": [
       "mnf_one"
     ],
+    "techguns:multiblockmachine:8": [
+      "eng_two",
+      "mnf_two"
+    ],
+    "endreborn:entropy_user:*": [
+      "mys_one"
+    ],
+    "techguns:multiblockmachine:9": [
+      "eng_two",
+      "mnf_two"
+    ],
     "ebwizardry:arcane_workbench": [
       "mys_one"
     ],
+    "techguns:multiblockmachine:4": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
+    ],
+    "techguns:multiblockmachine:5": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
+    ],
     "thaumcraft:wand_workbench:*": [
       "arc_one"
+    ],
+    "techguns:multiblockmachine:2": [
+      "eng_two",
+      "mnf_two"
+    ],
+    "techguns:multiblockmachine:3": [
+      "eng_two",
+      "mnf_two",
+      "chm_one"
+    ],
+    "bewitchment:distillery:*": [
+      "mys_one"
+    ],
+    "techguns:multiblockmachine:1": [
+      "eng_two",
+      "mnf_two"
     ],
     "botania:runealtar": [
       "arc_one"
@@ -140,6 +246,9 @@
     ],
     "thaumcraft:smelter_thaumium:*": [
       "arc_two"
+    ],
+    "minecraft:brewing_stand:*": [
+      "alc_one"
     ],
     "alchemistry:fission_controller:*": [
       "chm_one"
@@ -172,6 +281,9 @@
     "immersivetech:metal_multiblock:4": [
       "mnf_one"
     ],
+    "bewitchment:crystal_ball:*": [
+      "mys_two"
+    ],
     "immersivetech:metal_multiblock:6": [
       "mnf_one"
     ],
@@ -189,33 +301,6 @@
     ],
     "alchemistry:chemical_dissolver:*": [
       "chm_one"
-    ],
-    "bewitchment:witches_cauldron": [
-      "mys_one"
-    ],
-    "bewitchment:witches_oven:*": [
-      "mys_one"
-    ],
-    "bewitchment:distillery:*": [
-      "mys_one"
-    ],
-    "bewitchment:brazier:*": [
-      "mys_two"
-    ],
-    "bewitchment:crystal_ball:*": [
-      "mys_two"
-    ],
-    "bewitchment:sigil_table:*": [
-      "mys_three"
-    ],
-    "minecraft:brewing_stand:*": [
-      "alc_one"
-    ],
-    "endreborn:entropy_user:*": [
-      "mys_one"
-    ],
-    "endreborn:block_end_forge:*": [
-      "mys_one"
     ]
   },
   "global_stages": {},
