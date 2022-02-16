@@ -190,10 +190,6 @@ for stageName, items in stagedItems {
 }
 
 var toRemove = [
-  <immersiveengineering:steel_armor_feet>,
-  <immersiveengineering:steel_armor_legs>,
-  <immersiveengineering:steel_armor_chest>,
-  <immersiveengineering:steel_armor_head>
 ] as IIngredient[];
 
 for item in toRemove {
