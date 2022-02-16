@@ -233,6 +233,10 @@
       "ingenuity",
       "onehanded"
     ],
+    "thaumadditions:adaminite_sword": [
+      "fitness",
+      "twohanded"
+    ],
     "spartanweaponry:throwing_knife_bronze": [
       "agility",
       "coordination",
@@ -282,6 +286,9 @@
       "fitness",
       "ingenuity",
       "twohanded"
+    ],
+    "thaumicaugmentation:primal_cutter": [
+      "magic"
     ],
     "stewweapons:electroaxe": [
       "fitness",
@@ -347,6 +354,10 @@
     ],
     "spartanweaponry:dagger_steel": [
       "agility"
+    ],
+    "thaumicaugmentation:gauntlet": [
+      "magic",
+      "ingenuity"
     ],
     "spartanweaponry:javelin_gold": [
       "perception",
@@ -690,6 +701,11 @@
     "metallurgy:astral_silver_sword": [
       "fitness"
     ],
+    "thaumadditions:essentia_pistol": [
+      "agility",
+      "magic",
+      "ingenuity"
+    ],
     "spartanweaponry:battleaxe_wood": [
       "fitness"
     ],
@@ -712,6 +728,11 @@
       "fitness",
       "ingenuity",
       "onehanded"
+    ],
+    "thaumadditions:shadow_beam_staff": [
+      "ingenuity",
+      "perception",
+      "twohanded"
     ],
     "metallurgy:copper_shovel": [
       "fitness",
@@ -758,6 +779,11 @@
     "metallurgy:astral_silver_hoe": [
       "fitness",
       "ingenuity",
+      "twohanded"
+    ],
+    "thaumadditions:mithminite_scythe": [
+      "magic",
+      "composure",
       "twohanded"
     ],
     "spartanweaponry:lance_stone": [
@@ -824,6 +850,10 @@
       "perception",
       "twohanded",
       "polearm"
+    ],
+    "thaumadditions:the_beheader": [
+      "fitness",
+      "twohanded"
     ],
     "stewweapons:dagger": [
       "agility"
@@ -3493,6 +3523,10 @@
     "metallurgy:vyroxeres_sword": [
       "fitness"
     ],
+    "thaumicaugmentation:impulse_cannon": [
+      "perception",
+      "magic"
+    ],
     "spartanweaponryarcana:longbow_voidmetal": [
       "perception",
       "twohanded",
@@ -4157,40 +4191,6 @@
     ],
     "spartanweaponry:battleaxe_diamond": [
       "fitness"
-    ],
-    "thaumadditions:shadow_beam_staff": [
-      "ingenuity",
-      "perception",
-      "twohanded"
-    ],
-    "thaumadditions:essentia_pistol": [
-      "agility",
-      "magic",
-      "ingenuity"
-    ],
-    "thaumadditions:adaminite_sword": [
-      "fitness",
-      "twohanded"
-    ],
-    "thaumadditions:the_beheader": [
-      "fitness",
-      "twohanded"
-    ],
-    "thaumadditions:mithminite_scythe": [
-      "magic",
-      "composure",
-      "twohanded"
-    ],
-    "thaumicaugmentation:primal_cutter": [
-      "magic"
-    ],
-    "thaumicaugmentation:gauntlet": [
-      "magic",
-      "ingenuity"
-    ],
-    "thaumicaugmentation:impulse_cannon": [
-      "perception",
-      "magic"
     ]
   }
 }
