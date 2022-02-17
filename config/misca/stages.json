@@ -301,6 +301,18 @@
     ],
     "alchemistry:chemical_dissolver:*": [
       "chm_one"
+    ],
+    "rustic:condenser:*": [
+      "alc_one"
+    ],
+    "rustic:retort:*": [
+      "alc_one"
+    ],
+    "rustic:condenser_advanced:*": [
+      "alc_one"
+    ],
+    "rustic:retort_advanced:*": [
+      "alc_one"
     ]
   },
   "global_stages": {},
