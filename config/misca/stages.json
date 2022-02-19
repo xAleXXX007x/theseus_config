@@ -31,6 +31,9 @@
     "techguns:basicmachine": [
       "eng_one"
     ],
+    "rustic:condenser:*": [
+      "alc_one"
+    ],
     "astralsorcery:blockmapdrawingtable": [
       "enc_one"
     ],
@@ -69,6 +72,9 @@
     "bewitchment:sigil_table:*": [
       "mys_three"
     ],
+    "rustic:condenser_advanced:*": [
+      "alc_one"
+    ],
     "techguns:basicmachine:1": [
       "eng_one",
       "mnf_one"
@@ -87,6 +93,9 @@
     ],
     "astralsorcery:blockattunementaltar": [
       "arc_three"
+    ],
+    "rustic:retort_advanced:*": [
+      "alc_one"
     ],
     "bewitchment:witches_cauldron": [
       "mys_one"
@@ -114,6 +123,9 @@
     ],
     "thaumcraft:crucible:*": [
       "arc_one"
+    ],
+    "rustic:retort:*": [
+      "alc_one"
     ],
     "astralsorcery:blockaltar:1": [
       "arc_two"
@@ -301,21 +313,20 @@
     ],
     "alchemistry:chemical_dissolver:*": [
       "chm_one"
-    ],
-    "rustic:condenser:*": [
-      "alc_one"
-    ],
-    "rustic:retort:*": [
-      "alc_one"
-    ],
-    "rustic:condenser_advanced:*": [
-      "alc_one"
-    ],
-    "rustic:retort_advanced:*": [
-      "alc_one"
     ]
   },
-  "global_stages": {},
+  "global_stages": {
+    "arc_two": false,
+    "arc_three": false,
+    "mys_two": false,
+    "mys_three": false,
+    "eng_two": false,
+    "eng_three": false,
+    "mnf_two": false,
+    "mnf_three": false,
+    "tch_two": false,
+    "tch_three": false
+  },
   "adjacent_stages": {
     "mnf_two": [
       "tch_two"
