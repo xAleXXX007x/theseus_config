@@ -958,6 +958,7 @@
     ],
     "spartanweaponry:greatsword_bronze": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponry:throwing_axe_bronze": [
@@ -1134,6 +1135,7 @@
     ],
     "spartanweaponryarcana:greatsword_voidmetal": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponry:throwing_knife_tin": [
@@ -1193,6 +1195,7 @@
     ],
     "spartanweaponry:greatsword_electrum": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponry:pike_invar": [
@@ -1594,6 +1597,7 @@
     ],
     "spartanweaponry:greatsword_iron": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "metallurgy:eximite_pickaxe": [
@@ -1637,6 +1641,7 @@
     ],
     "spartanweaponryarcana:greatsword_thaumium": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "variedcommodities:chainsaw_gun": [
@@ -2250,6 +2255,7 @@
     ],
     "spartanweaponry:greatsword_copper": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponryarcana:rapier_thaumium": [
@@ -2438,6 +2444,7 @@
     ],
     "spartanweaponryarcana:greatsword_elementium": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "ebwizardry:master_necromancy_wand": [
@@ -3228,6 +3235,7 @@
     ],
     "spartanweaponry:greatsword_wood": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "ebwizardry:advanced_healing_wand": [
@@ -3402,6 +3410,7 @@
     ],
     "spartanweaponry:greatsword_tin": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "variedcommodities:emerald_warhammer": [
@@ -3461,6 +3470,7 @@
     ],
     "spartanweaponry:greatsword_diamond": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponry:glaive_steel": [
@@ -3526,6 +3536,7 @@
     ],
     "spartanweaponryarcana:greatsword_manasteel": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "thaumcraft:elemental_shovel": [
@@ -4051,10 +4062,12 @@
     ],
     "spartanweaponry:greatsword_stone": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "spartanweaponry:greatsword_platinum": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "metallurgy:krik_axe": [
@@ -4597,6 +4610,7 @@
     ],
     "spartanweaponry:greatsword_silver": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "thermalfoundation:tool.hoe_electrum": [
@@ -4812,6 +4826,7 @@
     ],
     "spartanweaponryarcana:greatsword_terrasteel": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "extrabotany:shadowkatana": [
@@ -4932,6 +4947,7 @@
     ],
     "spartanweaponry:greatsword_gold": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "botania:glasspick": [
@@ -4982,6 +4998,7 @@
     ],
     "spartanweaponry:greatsword_invar": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "metallurgy:atlarus_axe": [
@@ -5294,6 +5311,7 @@
     ],
     "spartanweaponry:greatsword_steel": [
       "fitness",
+      "slow",
       "twohanded"
     ],
     "metallurgy:etherium_pickaxe": [
