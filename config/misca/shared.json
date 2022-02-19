@@ -233,7 +233,7 @@
     "staminaRestMiningTimeoutSec": 2,
     "staminaRestPerSpeechChar": 2.5E-4,
     "staminaMiningSlowdownThreshold": 0.25,
-    "staminaCostPerMiningTick": 0.01,
+    "staminaCostPerMiningTick": 0.005,
     "staminaCostPerIngredient": 0.25,
     "craftMaxIngredientsOfOneType": 4,
     "sanitySilenceToLostSec": 1800.0,
