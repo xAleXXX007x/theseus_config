@@ -220,7 +220,7 @@
   },
   "charstate": {
     "globalMiningSpeedModifier": 0.5,
-    "integrityRestPerSec": 0.004,
+    "integrityRestPerSec": 0.0003,
     "integrityCostPerDamage": 0.75,
     "sanityRestPerFood": 1.0,
     "sanityRestPerSpeechChar": 0.0005,
