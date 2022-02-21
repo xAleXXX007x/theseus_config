@@ -29,7 +29,6 @@ var stagedItems as IIngredient[][string] = {
       <stewitems:medicine_sunscreen_spray>
   ],
   [ALC_1]:[
-      <stewitems:laudanum>,
       <stewitems:medicine_phenophasine>,
       <stewitems:medicine_yoln_tear>,
       <stewitems:medicine_elixir>,
@@ -38,8 +37,7 @@ var stagedItems as IIngredient[][string] = {
       <stewitems:medicine_freezing_powder>,
       <stewitems:medicine_serebrolist>,
       <stewitems:medicine_scomen>,
-      <stewitems:medicine_kanai>,
-      <stewitems:rubbing_alcohol>
+      <stewitems:medicine_kanai>
   ],
   [INF_1]:[
       <stewitems:medicine_nanits>
