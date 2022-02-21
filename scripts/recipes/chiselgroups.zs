@@ -64,4 +64,3 @@ Carving.addGroup("tiles_clay");
 Carving.addGroup("light_modern");
 Carving.addGroup("stone_mossy");
 Carving.addGroup("brick_stone_window");
-Carving.addGroup("glass");
