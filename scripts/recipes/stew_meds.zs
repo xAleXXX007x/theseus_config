@@ -67,9 +67,9 @@ recipes.addShaped(<stewitems:medicine_serebrolist>,[
     [<stewprops:paste_herbal>, <thaumcraft:leaves_silverwood>, <stewitems:laudanum>]]);
 
 recipes.addShaped(<stewitems:medicine_bandage_2> * 2, [
-    [<ore:twine>, <harvestcraft:wovencottonitem>, <ore:twine>],
+    [<ore:string>, <harvestcraft:wovencottonitem>, <ore:string>],
     [<ore:healPlant>, <stewprops:paste_herbal>, <ore:healPlant>],
-    [<ore:twine>, <harvestcraft:wovencottonitem>, <ore:twine>]]);
+    [<ore:string>, <harvestcraft:wovencottonitem>, <ore:string>]]);
   
 recipes.addShaped(<stewitems:medicine_bandage_2> * 2, [
     [<harvestcraft:wovencottonitem>, <stewprops:paste_herbal>, <harvestcraft:wovencottonitem>],
