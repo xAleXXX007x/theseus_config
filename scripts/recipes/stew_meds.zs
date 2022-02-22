@@ -49,7 +49,7 @@ recipes.addShaped(<stewitems:medicine_bandage_1> * 3,[
     [<stewitems:rubbing_alcohol>, <stewprops:paste_herbal>, <stewitems:rubbing_alcohol>],
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>]]);
 
-recipes.addShapeless(<stewprops:paste_herbal>.withTag({display: {Name: "§rЦелебная паста"}, craftOnly: true}) * 3, [<ore:healPlant>, <ore:healPlant>, <ore:dye>, <ore:dye>, <rustic:aloe_vera>, <roots:wildroot>]);
+recipes.addShapeless(<stewprops:paste_herbal>.withTag({display: {Name: "§rЦелебная паста"}, craftOnly: true}) * 2, [<ore:healPlant>, <ore:healPlant>, <ore:dye>, <ore:dye>, <roots:wildroot>]);
 
 recipes.addShaped(<stewitems:medicine_bandage_1> * 3,[
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>],
@@ -214,4 +214,3 @@ recipes.addShaped(<stewitems:food_bottle_water>, [
     [null, <minecraft:stone_button>, null],
     [<techguns:itemshared:55>, <minecraft:water_bucket>, <techguns:itemshared:55>],
     [<techguns:itemshared:55>, <techguns:itemshared:55>, <techguns:itemshared:55>]]);
-
