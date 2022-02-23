@@ -1140,3 +1140,9 @@ LootTweaker.getTable("zettaimagic:chests/zettai_items").getPool("zettai_items").
 LootTweaker.getTable("zettaimagic:chests/zettai_items").getPool("zettai_items").removeEntry("zettaimagic:arcane_note");
 LootTweaker.getTable("zettaimagic:chests/zettai_items").getPool("zettai_items").removeEntry("zettaimagic:magic_crystalz");
 LootTweaker.getTable("zettaimagic:chests/zettai_items").getPool("zettai_items").removeEntry("zettaimagic:magic_reagent");
+
+LootTweaker.getTable("minecraft:gameplay/fishing/treasure").getPool("main").removeEntry("minecraft:bow");
+LootTweaker.getTable("minecraft:gameplay/fishing/treasure").getPool("main").removeEntry("minecraft:fishing_rod");
+LootTweaker.getTable("minecraft:gameplay/fishing/treasure").getPool("main").removeEntry("minecraft:book");
+LootTweaker.getTable("minecraft:gameplay/fishing/treasure").getPool("main").removeEntry("ebwizardry_additive_entry");
+LootTweaker.getTable("minecraft:gameplay/fishing/treasure").getPool("main").removeEntry("zettaimagic_additive_entry");
