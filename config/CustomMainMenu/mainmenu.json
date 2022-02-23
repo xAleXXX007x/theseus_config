@@ -82,6 +82,20 @@
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -320,
+            "posY" : -94,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
         }
     },
 
