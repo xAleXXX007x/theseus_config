@@ -36,6 +36,11 @@
       "twohanded",
       "polearm"
     ],
+    "spartanweaponry:longsword_nickel": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
     "variedcommodities:demonic_halberd": [
       "fitness",
       "perception",
@@ -703,6 +708,10 @@
       "onehanded",
       "normal"
     ],
+    "spartanweaponry:warhammer_nickel": [
+      "fitness",
+      "twohanded"
+    ],
     "spartanweaponryarcana:dagger_terrasteel": [
       "agility"
     ],
@@ -926,6 +935,16 @@
       "ingenuity",
       "twohanded"
     ],
+    "spartanweaponry:lance_lead": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:warhammer_lead": [
+      "fitness",
+      "twohanded"
+    ],
     "thaumcraft:void_sword": [
       "fitness"
     ],
@@ -1040,6 +1059,11 @@
       "ingenuity",
       "twohanded"
     ],
+    "spartanweaponry:katana_nickel": [
+      "composure",
+      "coordination",
+      "twohanded"
+    ],
     "spartanweaponry:katana_iron": [
       "composure",
       "coordination",
@@ -1132,6 +1156,9 @@
       "composure",
       "twohanded",
       "polearm"
+    ],
+    "spartanweaponry:longbow_nickel": [
+      "perception"
     ],
     "spartanweaponryarcana:greatsword_voidmetal": [
       "fitness",
@@ -1523,6 +1550,10 @@
       "ingenuity",
       "onehanded"
     ],
+    "spartanweaponry:spear_lead": [
+      "perception",
+      "polearm"
+    ],
     "variedcommodities:frost_dagger_reversed": [
       "agility",
       "fast"
@@ -1577,6 +1608,9 @@
       "magic",
       "perception",
       "twohanded"
+    ],
+    "spartanweaponry:dagger_nickel": [
+      "agility"
     ],
     "techguns:aug": [
       "fitness",
@@ -1913,6 +1947,12 @@
       "perception",
       "normal"
     ],
+    "spartanweaponry:halberd_nickel": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "spartanweaponry:warhammer_diamond": [
       "fitness",
       "twohanded"
@@ -1966,6 +2006,9 @@
       "coordination",
       "perception",
       "twohanded"
+    ],
+    "spartanweaponry:hammer_nickel": [
+      "fitness"
     ],
     "spartanweaponry:rapier_iron": [
       "perception"
@@ -2153,6 +2196,11 @@
     "botania:thundersword": [
       "fitness",
       "perception"
+    ],
+    "spartanweaponry:greatsword_nickel": [
+      "fitness",
+      "slow",
+      "twohanded"
     ],
     "metallurgy:rubracium_gauntlet": [
       "fitness"
@@ -2653,6 +2701,9 @@
       "fitness",
       "onehanded"
     ],
+    "spartanweaponry:dagger_lead": [
+      "agility"
+    ],
     "bewitchment:athame": [
       "agility",
       "composure"
@@ -2767,6 +2818,11 @@
       "fitness",
       "ingenuity",
       "tech"
+    ],
+    "spartanweaponry:pike_lead": [
+      "perception",
+      "twohanded",
+      "polearm"
     ],
     "variedcommodities:stone_scythe": [
       "composure",
@@ -3161,6 +3217,9 @@
     "spartanweaponry:rapier_invar": [
       "perception"
     ],
+    "spartanweaponry:rapier_nickel": [
+      "perception"
+    ],
     "metallurgy:shadow_iron_hoe": [
       "fitness",
       "ingenuity",
@@ -3193,6 +3252,12 @@
     "stewweapons:kris": [
       "agility",
       "composure"
+    ],
+    "spartanweaponry:halberd_lead": [
+      "fitness",
+      "perception",
+      "twohanded",
+      "polearm"
     ],
     "spartanweaponryarcana:saber_voidmetal": [
       "agility"
@@ -3587,6 +3652,9 @@
       "perception",
       "normal"
     ],
+    "spartanweaponry:saber_lead": [
+      "agility"
+    ],
     "spartanweaponry:hammer_diamond": [
       "fitness"
     ],
@@ -3685,6 +3753,11 @@
       "tech",
       "agility"
     ],
+    "spartanweaponry:longsword_lead": [
+      "fitness",
+      "coordination",
+      "twohanded"
+    ],
     "variedcommodities:iron_dagger": [
       "agility",
       "fast"
@@ -3738,6 +3811,10 @@
     ],
     "spartanweaponry:dagger_iron": [
       "agility"
+    ],
+    "spartanweaponry:spear_nickel": [
+      "perception",
+      "polearm"
     ],
     "spartanweaponryarcana:javelin_voidmetal": [
       "perception",
@@ -3872,6 +3949,9 @@
     ],
     "metallurgy:silver_sword": [
       "fitness"
+    ],
+    "spartanweaponry:longbow_lead": [
+      "perception"
     ],
     "techguns:crowbar": [
       "fitness",
@@ -4009,6 +4089,9 @@
       "agility",
       "fast"
     ],
+    "spartanweaponry:hammer_lead": [
+      "fitness"
+    ],
     "grimoireofgaia:weapon_book_nature": [
       "charisma",
       "magic"
@@ -4059,6 +4142,9 @@
       "agility",
       "fast",
       "twohanded"
+    ],
+    "spartanweaponry:rapier_lead": [
+      "perception"
     ],
     "spartanweaponry:greatsword_stone": [
       "fitness",
@@ -4190,6 +4276,11 @@
     "mod_lavacow:reapers_scythe": [
       "composure",
       "veryslow"
+    ],
+    "spartanweaponry:greatsword_lead": [
+      "fitness",
+      "slow",
+      "twohanded"
     ],
     "stewweapons:katana": [
       "composure",
@@ -4370,6 +4461,11 @@
     "metallurgy:platinum_axe": [
       "fitness",
       "onehanded"
+    ],
+    "spartanweaponry:katana_lead": [
+      "composure",
+      "coordination",
+      "twohanded"
     ],
     "thermalfoundation:tool.bow_steel": [
       "twohanded",
@@ -4646,6 +4742,17 @@
       "ingenuity",
       "composure"
     ],
+    "spartanweaponry:lance_nickel": [
+      "perception",
+      "composure",
+      "twohanded",
+      "polearm"
+    ],
+    "spartanweaponry:pike_nickel": [
+      "perception",
+      "twohanded",
+      "polearm"
+    ],
     "metallurgy:sanguinite_shovel": [
       "fitness",
       "ingenuity",
@@ -4680,6 +4787,9 @@
     ],
     "ebwizardry:novice_fire_wand": [
       "twohanded"
+    ],
+    "spartanweaponry:saber_nickel": [
+      "agility"
     ],
     "bewitchment:cold_iron_shovel": [
       "fitness",
