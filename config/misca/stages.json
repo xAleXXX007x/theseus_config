@@ -316,16 +316,16 @@
     ]
   },
   "global_stages": {
-    "arc_two": false,
-    "arc_three": false,
+    "mnf_two": false,
+    "mnf_three": false,
+    "tch_three": false,
     "mys_two": false,
     "mys_three": false,
     "eng_two": false,
+    "arc_two": false,
+    "arc_three": false,
     "eng_three": false,
-    "mnf_two": false,
-    "mnf_three": false,
-    "tch_two": false,
-    "tch_three": false
+    "tch_two": false
   },
   "adjacent_stages": {
     "mnf_two": [
