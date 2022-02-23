@@ -378,7 +378,7 @@
       "normal"
     ],
     "spartanweaponry:caestus": [
-      "fitness"
+      "coordination"
     ],
     "stewweapons:spear": [
       "perception",
@@ -2275,7 +2275,7 @@
       "charisma"
     ],
     "spartanweaponry:caestus_studded": [
-      "fitness"
+      "coordination"
     ],
     "erebus:jade_sword": [
       "fitness"
@@ -5187,7 +5187,7 @@
       "onehanded"
     ],
     "metallurgy:brass_knuckles": [
-      "fitness"
+      "coordination"
     ],
     "spartanweaponry:mace_diamond": [
       "fitness",
