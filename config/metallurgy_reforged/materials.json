@@ -321,20 +321,20 @@
     "armor_stats": {
       "damage_reduction": [
         3,
+        4,
         5,
-        6,
         3
       ],
-      "enchantability": 18,
-      "durability": 50,
-      "toughness": 3.0
+      "enchantability": 16,
+      "durability": 40,
+      "toughness": 2.5
     },
     "tool_stats": {
-      "efficiency": 6.0,
+      "efficiency": 5.0,
       "harvest_level": 4,
-      "enchantability": 18,
-      "durability": 500,
-      "damage": 3.0
+      "enchantability": 16,
+      "durability": 350,
+      "damage": 2.5
     }
   },
   {
@@ -967,20 +967,20 @@
     "armor_stats": {
       "damage_reduction": [
         3,
+        4,
         5,
-        6,
         3
       ],
-      "enchantability": 18,
+      "enchantability": 16,
       "durability": 40,
       "toughness": 4.0
     },
     "tool_stats": {
-      "efficiency": 8.0,
+      "efficiency": 7.0,
       "harvest_level": 4,
-      "enchantability": 18,
-      "durability": 750,
-      "damage": 7.0
+      "enchantability": 15,
+      "durability": 450,
+      "damage": 4.5
     }
   },
   {
