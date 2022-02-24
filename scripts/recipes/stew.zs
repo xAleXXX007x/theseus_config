@@ -544,22 +544,28 @@ Carving.addVariation("door_wooden", <stewblocks:door_shutters_shut_dark>);
 
 Carving.addVariation("wood_oak", <minecraft:log>);
 Carving.addVariation("wood_oak", <stewblocks:wood_carved_zoak>);
+Carving.addVariation("wood_oak", <stewblocks:stripped_oak_log>);
 
 Carving.addVariation("wood_spruce", <minecraft:log:1>);
 Carving.addVariation("wood_spruce", <stewblocks:wood_carved_spruce>);
+Carving.addVariation("wood_spruce", <stewblocks:stripped_spruce_log>);
 
 Carving.addVariation("wood_birch", <minecraft:log:2>);
 Carving.addVariation("wood_birch", <stewblocks:wood_carved_birch>);
+Carving.addVariation("wood_birch", <stewblocks:stripped_birch_log>);
 
 Carving.addVariation("wood_jungle", <minecraft:log:3>);
 Carving.addVariation("wood_jungle", <stewblocks:wood_carved_jungle>);
+Carving.addVariation("wood_jungle", <stewblocks:stripped_jungle_log>);
 
 Carving.addVariation("wood_acacia", <minecraft:log2>);
 Carving.addVariation("wood_acacia", <stewblocks:wood_carved_acacia>);
 Carving.addVariation("wood_acacia", <stewblocks:wooden_panel_lily>);
+Carving.addVariation("wood_acacia", <stewblocks:stripped_acacia_log>);
 
 Carving.addVariation("wood_dark_oak", <minecraft:log2:1>);
 Carving.addVariation("wood_dark_oak", <stewblocks:wood_carved_darkoak>);
+Carving.addVariation("wood_dark_oak", <stewblocks:stripped_dark_oak_log>);
 
 Carving.addVariation("roofing", <stewblocks:roofing_black>);
 Carving.addVariation("roofing", <stewblocks:roofing_blue>);
@@ -1180,4 +1186,35 @@ recipes.addShaped(<stewblocks:furniture_sink>, [
     [null, <ore:hardenedClay>, null]]); 
 
 recipes.addShaped(<stewblocks:furniture_wooden_tankard>, [
-    [<ore:stickWood>, <ore:plankWood>]]); 
+    [<ore:stickWood>, <ore:plankWood>]]);
+	
+
+furnace.addRecipe(<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_1>);
+
+recipes.addShapeless(<stewitems:papirosa_1> * 5, [<stewitems:papirosa_pack_1>]);
+
+recipes.addShapeless(<stewitems:cigarette_1> * 5, [<stewitems:cigarette_pack_1>]);
+
+recipes.addShapeless(<stewitems:cigar_1> * 5, [<stewitems:cigar_box_1>]);
+
+recipes.addShapeless(<stewitems:tobacco_seeds>, [<stewitems:tobacco_leaves_1>]);
+
+recipes.addShapeless(<stewitems:tobacco_pile_2>, [<stewitems:tobacco_leaves_6>, <botania:pestleandmortar>.reuse()]);
+
+recipes.addShaped(<stewitems:rolling_paper> *6, [
+    [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
+
+recipes.addShaped(<stewitems:papirosa_pack_1>, [
+    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>],
+    [<stewitems:tobacco_pile_2>, <ore:blockWool>, <ore:blockWool>],
+    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>]]);
+	
+recipes.addShaped(<stewitems:cigarette_pack_1>, [
+    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>],
+    [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <ore:blockWool>],
+    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>]]);
+	
+recipes.addShaped(<stewitems:cigar_box_1>, [
+    [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>],
+    [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>],
+    [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>]]);
