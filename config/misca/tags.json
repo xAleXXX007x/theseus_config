@@ -217,6 +217,9 @@
       "fitness",
       "twohanded"
     ],
+    "stewweapons:light_item": [
+      "ingenuity"
+    ],
     "spartanweaponry:crossbow_tin": [
       "perception",
       "twohanded",
@@ -491,6 +494,9 @@
     "ebwizardry:advanced_necromancy_wand": [
       "twohanded"
     ],
+    "stewweapons:heavy_item": [
+      "ingenuity"
+    ],
     "spartanweaponryarcana:saber_thaumium": [
       "agility"
     ],
@@ -751,6 +757,22 @@
       "twohanded"
     ],
     "spartanweaponry:staff_copper": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_electrum": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_nickel": [
+      "coordination",
+      "twohanded"
+    ],
+    "spartanweaponry:staff_lead": [
       "coordination",
       "twohanded"
     ],
@@ -3486,6 +3508,9 @@
     "roots:stone_knife": [
       "agility"
     ],
+    "stewweapons:medium_item": [
+      "ingenuity"
+    ],
     "zettaigrimoires:grimoire_ice": [
       "twohanded",
       "normal"
@@ -6030,15 +6055,6 @@
     "thermalfoundation:tool.fishing_rod_nickel": [
       "twohanded",
       "slow",
-      "ingenuity"
-    ],
-    "stewweapons:light_item": [
-      "ingenuity"
-    ],
-    "stewweapons:medium_item": [
-      "ingenuity"
-    ],
-    "stewweapons:heavy_item": [
       "ingenuity"
     ]
   }
