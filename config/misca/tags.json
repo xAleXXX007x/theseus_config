@@ -6031,6 +6031,15 @@
       "twohanded",
       "slow",
       "ingenuity"
+    ],
+    "stewweapons:light_item": [
+      "ingenuity"
+    ],
+    "stewweapons:medium_item": [
+      "ingenuity"
+    ],
+    "stewweapons:heavy_item": [
+      "ingenuity"
     ]
   }
 }
