@@ -529,6 +529,88 @@
 				]
 			}
 		},
+		"mithril": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "mithril"
+						}
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 15,
+			"center-height": 24,
+			"spread": 20,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"mithril_biome": {
+			"enabled": "true",
+			"distribution": "gaussian",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "mithril"
+						}
+					}
+				],
+				"material": [
+					"minecraft:sandstone",
+					"minecraft:stone",
+					"minecraft:stained_hardened_clay",
+					"minecraft:hardened_clay",
+					"minecraft:concrete",
+					"minecraft:packed_ice"
+				],
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"chunk-chance": 15,
+			"center-height": 24,
+			"spread": 20,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": [
+							"HILLS", "MOUNTAIN"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 		"aluminum": {
 			"enabled": "true",
 			"distribution": "gaussian",
