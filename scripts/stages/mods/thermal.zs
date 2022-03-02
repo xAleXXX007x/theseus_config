@@ -105,8 +105,7 @@ var stagedItems as IIngredient[][string] = {
       <thermalfoundation:material:515>,
       <thermalfoundation:material:640>,
       <thermalfoundation:material:656>,
-      <thermalfoundation:material:657>,
-      <thermalfoundation:tome_experience>
+      <thermalfoundation:material:657>
     ],
     [TCH_2]:[
       <thermaldynamics:duct_0:6>,
@@ -398,6 +397,9 @@ var stagedItems as IIngredient[][string] = {
       <thermalfoundation:horse_armor_bronze>,
       <thermalfoundation:horse_armor_constantan>
     ],
+    [ENC_1]:[
+      <thermalfoundation:tome_experience>
+    ]
 };
 
 for stageName, items in stagedItems {
