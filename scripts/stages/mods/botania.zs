@@ -200,7 +200,6 @@ var stagedItems as IIngredient[][string] = {
     <botania:spawnermover>,
     <botania:corporeaspark>,
     <botania:invisibilitycloak>,
-    <botania:travelbelt>,
     <botania:supercloudpendant>,
     <botania:astrolabe>,
     <botania:spawnerclaw>,
@@ -290,7 +289,11 @@ var stagedItems as IIngredient[][string] = {
     <extrabotany:shadowwarriorlegs>,
     <extrabotany:shadowwarriorhelm>,
     <extrabotany:shadowwarriorchest>,
-    <extrabotany:shadowkatana>
+    <extrabotany:shadowkatana>,
+    <extrabotany:goblinslayerchest>,
+    <extrabotany:goblinslayerhelm>,
+    <extrabotany:goblinslayerlegs>,
+    <extrabotany:goblinslayerboots>
   ],
   [ALC_1]:[
     <botania:brewvial>,
@@ -312,10 +315,6 @@ for stageName, items in stagedItems {
 var toRemove = [
   <botania:thundersword>,
   <extrabotany:combatmaidchestdarkened>,
-  <extrabotany:goblinslayerchest>,
-  <extrabotany:goblinslayerhelm>,
-  <extrabotany:goblinslayerlegs>,
-  <extrabotany:goblinslayerboots>,
   <extrabotany:failnaught>,
   <extrabotany:achilleshield>,
   <extrabotany:camera>,
@@ -329,9 +328,19 @@ var toRemove = [
   <extrabotany:allforone>,
   <extrabotany:elvenking>,
   <extrabotany:jingweifeather>,
-  <extrabotany:firstfractal>
+  <extrabotany:firstfractal>,
+  <extrabotany:goblinslayerchest>,
+    <extrabotany:goblinslayerhelm>,
+    <extrabotany:goblinslayerlegs>,
+    <extrabotany:goblinslayerboots>,
+    <extrabotany:shadowwarriorboots>,
+    <extrabotany:shadowwarriorlegs>,
+    <extrabotany:shadowwarriorhelm>,
+    <extrabotany:shadowwarriorchest>
 ] as IIngredient[];
 
 for item in toRemove {
   recipes.remove(item);
 }
+
+mods.botania.RuneAltar.removeRecipe(<extrabotany:elvenking>);
