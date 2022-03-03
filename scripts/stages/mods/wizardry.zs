@@ -35,7 +35,8 @@ var stagedItems as IIngredient[][string] = {
         <zettaimagic:m_wand_novice_thunder>,
         <zettaimagic:m_wand_novice_darkness>,
         <zettaimagic:m_wand_novice_light>,
-        <zettaimagic:m_wand_novice_sorcery>
+        <zettaimagic:m_wand_novice_sorcery>,
+        <mana_wizardry:wand_flowers>
         ],
     [MYS_2]:[
         <ebwizardry:receptacle>,
@@ -93,7 +94,9 @@ var stagedItems as IIngredient[][string] = {
         <zettaigrimoires:grimoire_ice>,
         <zettaigrimoires:grimoire_holy>,
         <zettaigrimoires:grimoire_necromancy>,
-        <zettaigrimoires:grimoire_sorcery>
+        <zettaigrimoires:grimoire_sorcery>,
+        <mana_wizardry:wand_livingwood>,
+        <mana_wizardry:wand_dreamwood>
         ],
     [MYS_3]:[
         <ebwizardry:master_wand>,
@@ -111,8 +114,8 @@ var stagedItems as IIngredient[][string] = {
         <zettaimagic:cloak_light>,
         <zettaimagic:cloak_arcane>,
         <zettaimagic:cloak_nature>,
-        <zettaimagic:cloak_gravity>
-
+        <zettaimagic:cloak_gravity>,
+        <mana_wizardry:wand_terra>
         ],
     [SMT_1]:[
         ],
