@@ -75,7 +75,8 @@ var stagedItems as IIngredient[][string] = {
       <bewitchment:poppet_voodoo>,
       <bewitchment:poppet_wasting>,
       <bewitchment:poppet_waterprotection>,
-      <bewitchment:pentacle>
+      <bewitchment:pentacle>,
+      <bewitchment:flying_ointment>
   ],
   [MYS_3]:[
       <bewitchment:waystone>,
@@ -84,6 +85,18 @@ var stagedItems as IIngredient[][string] = {
       <bewitchment:poppet_deathprotection>
   ],
   [SMT_1]:[
+    <bewitchment:cold_iron_helmet>,
+    <bewitchment:cold_iron_chestplate>,
+    <bewitchment:cold_iron_leggings>,
+    <bewitchment:cold_iron_boots>,
+    <bewitchment:cold_iron_sword>,
+    <bewitchment:cold_iron_pickaxe>,
+    <bewitchment:cold_iron_axe>,
+    <bewitchment:cold_iron_shovel>,
+    <bewitchment:cold_iron_hoe>,
+    <bewitchment:athame>,
+    <bewitchment:boline>,
+    <bewitchment:cleaver_sword>
   ],
 };
 
