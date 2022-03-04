@@ -966,14 +966,14 @@
     "color": "616161",
     "armor_stats": {
       "damage_reduction": [
-        3,
+        2,
+        4,
         5,
-        6,
-        3
+        2
       ],
       "enchantability": 18,
       "durability": 40,
-      "toughness": 4.0
+      "toughness": 2.0
     },
     "tool_stats": {
       "efficiency": 8.0,
