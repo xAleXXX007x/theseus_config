@@ -616,6 +616,10 @@
     "spartanweaponry:dagger_bronze": [
       "agility"
     ],
+    "spartanweaponry:staff": [
+      "coordination",
+      "twohanded"
+    ],
     "metallurgy:haderoth_axe": [
       "fitness",
       "onehanded"
@@ -757,22 +761,6 @@
       "twohanded"
     ],
     "spartanweaponry:staff_copper": [
-      "coordination",
-      "twohanded"
-    ],
-    "spartanweaponry:staff": [
-      "coordination",
-      "twohanded"
-    ],
-    "spartanweaponry:staff_electrum": [
-      "coordination",
-      "twohanded"
-    ],
-    "spartanweaponry:staff_nickel": [
-      "coordination",
-      "twohanded"
-    ],
-    "spartanweaponry:staff_lead": [
       "coordination",
       "twohanded"
     ],
@@ -1142,7 +1130,8 @@
       "normal"
     ],
     "roots:wood_knife": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "spartanshields:shield_tower_tin": [
       "towershield"
@@ -1673,6 +1662,10 @@
       "fitness",
       "twohanded"
     ],
+    "spartanweaponry:staff_lead": [
+      "coordination",
+      "twohanded"
+    ],
     "spartanweaponry:katana_stone": [
       "composure",
       "coordination",
@@ -1762,7 +1755,7 @@
     ],
     "mysticalworld:amethyst_knife": [
       "agility",
-      "fast"
+      "normal"
     ],
     "spartanweaponry:longsword_electrum": [
       "fitness",
@@ -2836,6 +2829,10 @@
       "fitness",
       "onehanded"
     ],
+    "spartanweaponry:staff_electrum": [
+      "coordination",
+      "twohanded"
+    ],
     "variedcommodities:wrench": [
       "fitness",
       "ingenuity",
@@ -3396,7 +3393,8 @@
       "normal"
     ],
     "astralsorcery:itemchargedcrystalsword": [
-      "fitness"
+      "fitness",
+      "slow"
     ],
     "variedcommodities:mithril_warhammer": [
       "fitness",
@@ -3506,7 +3504,8 @@
       "slow"
     ],
     "roots:stone_knife": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "stewweapons:medium_item": [
       "ingenuity"
@@ -3778,6 +3777,10 @@
       "tech",
       "agility"
     ],
+    "spartanweaponry:staff_nickel": [
+      "coordination",
+      "twohanded"
+    ],
     "spartanweaponry:longsword_lead": [
       "fitness",
       "coordination",
@@ -4033,7 +4036,8 @@
       "normal"
     ],
     "roots:gold_knife": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "thermalfoundation:tool.shield_invar": [
       "shield"
@@ -4122,7 +4126,8 @@
       "magic"
     ],
     "roots:iron_knife": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "minecraft:wooden_sword": [
       "fitness"
@@ -4599,7 +4604,8 @@
       "ingenuity"
     ],
     "roots:diamond_knife": [
-      "agility"
+      "agility",
+      "normal"
     ],
     "thermalfoundation:wrench": [
       "fitness",
@@ -5354,7 +5360,8 @@
       "twohanded"
     ],
     "astralsorcery:itemcrystalsword": [
-      "fitness"
+      "fitness",
+      "slow"
     ],
     "spartanweaponry:mace_tin": [
       "fitness",
