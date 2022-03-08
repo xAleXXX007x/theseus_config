@@ -471,16 +471,15 @@ Carving.addVariation("organic_object", <stewblocks:organic_red>);
 
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:5>);
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:6>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_ornament>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_base>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_capital>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_brick>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_pillar>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_cornice>);
 
 Carving.addVariation("asphalt", <immersivepetroleum:stone_decoration>);
 Carving.addVariation("asphalt", <stewblocks:asphalt>);
-
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_ornament>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_base>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_capital>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_brick>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_pillar>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_cornice>);
 
 Carving.addVariation("glass", <minecraft:glass>);
 Carving.addVariation("glass", <stewblocks:glass_round_brown>);
