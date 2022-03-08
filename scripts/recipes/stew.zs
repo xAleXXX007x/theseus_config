@@ -247,24 +247,6 @@ Carving.addVariation("sandstoneyellow", <minecraft:red_sandstone:2>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone:1>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone:2>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_01>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_02>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_03>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_04>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_05>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_06>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_dark>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin>);
-Carving.addVariation("sandstoneyellow", <stewblocks:polychrome_capital_corinthian>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_cornice>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_dorian_base>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_polished>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_brick>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_blue>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_gold>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_red>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_dorian>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_inscribed>);
 
 Carving.addVariation("railing_wood", <stewblocks:railing_wooden_baluster>);
 Carving.addVariation("railing_wood", <stewblocks:railing_reed>);
@@ -767,6 +749,27 @@ Carving.addVariation("blood", <stewblocks:effect_blood_trail_turn>);
 Carving.addVariation("limestone", <stewblocks:limestone>);
 Carving.addVariation("limestone", <stewblocks:cobblestone_limestone>);
 
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_01>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_02>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_03>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_04>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_05>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_06>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_dark>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin>);
+Carving.addVariation("sindarin", <stewblocks:polychrome_capital_corinthian>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_cornice>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_dorian_base>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_polished>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_brick>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_blue>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_gold>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_red>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_dorian>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_inscribed>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_capital_eagle>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_capital_face>);
+
 var ingotBrick = <ore:ingotBrick>;
 ingotBrick.add(<biomesoplenty:mud_brick>);
 
@@ -1165,9 +1168,9 @@ recipes.addShaped(<stewblocks:casement_mica_01> * 3, [
 recipes.addShapeless(<stewblocks:wallgap_stonebrick_rhombus> * 4, [<ore:bricksStone>, <ore:bricksStone>, <ore:bricksStone>, <ore:bricksStone>, <ore:blockGlass>]);
 
 recipes.addShaped(<stewblocks:scrap_generator> * 4, [
-    [<ore:itemConduitBinder>, <ore:plateIron>, <ore:itemConduitBinder>],
+    [null, <ore:plateIron>, null],
     [<ore:plateIron>, <techguns:itemshared:57>, <ore:plateIron>],
-    [<ore:itemConduitBinder>, <ore:plateIron>, <ore:itemConduitBinder>]]); 
+    [null, <ore:plateIron>, null]]); 
 
 recipes.addShaped(<stewblocks:furniture_mirror_wooden>, [
     [null, <ore:plankWood>, null],
@@ -1217,3 +1220,8 @@ recipes.addShaped(<stewitems:cigar_box_1>, [
     [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>],
     [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>],
     [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>]]);
+
+recipes.addShaped(<stewblocks:wall_sindarin_01>*4, [
+	[null, <ore:sandstone>, null], 
+	[<ore:sandstone>, <ore:dye>, <ore:sandstone>], 
+	[null, <ore:sandstone>, null]]);
