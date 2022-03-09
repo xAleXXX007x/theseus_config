@@ -1225,3 +1225,8 @@ recipes.addShaped(<stewblocks:wall_sindarin_01>*4, [
 	[null, <ore:sandstone>, null], 
 	[<ore:sandstone>, <ore:dye>, <ore:sandstone>], 
 	[null, <ore:sandstone>, null]]);
+
+recipes.addShaped(<stewprops:microphone>, [
+	[<ore:oc:materialTransistor>, <ore:plateIron>, null], 
+	[<ore:plateIron>, <ore:oc:circuitChip1>, <ore:plateIron>], 
+	[null, <ore:plateIron>, <ore:plateIron>]]);

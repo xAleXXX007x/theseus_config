@@ -65,3 +65,9 @@ Carving.addGroup("light_modern");
 Carving.addGroup("stone_mossy");
 Carving.addGroup("brick_stone_window");
 Carving.addGroup("sindarin");
+
+Carving.addGroup("varied_banner");
+Carving.addGroup("varied_lamp");
+Carving.addGroup("varied_crate");
+Carving.addGroup("varied_barrel");
+Carving.addGroup("varied_weapon_rack");
