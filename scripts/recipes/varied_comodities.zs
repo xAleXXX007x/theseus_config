@@ -1,9 +1,4 @@
-import crafttweaker.item.IItemStack;
-import crafttweaker.item.IItemTransformer;
-import crafttweaker.item.IItemCondition;
-import crafttweaker.item.IIngredient;
-import crafttweaker.recipes.ICraftingRecipe;
-
+import mods.chisel.Carving;
 
 Carving.addVariation("table_wooden", <variedcommodities:table>);
 Carving.addVariation("table_wooden", <variedcommodities:table:1>);
