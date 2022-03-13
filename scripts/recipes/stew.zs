@@ -1197,7 +1197,19 @@ recipes.addShapeless(<stewitems:papirosa_1> * 5, [<stewitems:papirosa_pack_1>]);
 
 recipes.addShapeless(<stewitems:cigarette_1> * 5, [<stewitems:cigarette_pack_1>]);
 
+recipes.addShapeless(<stewitems:cigarette_2> * 5, [<stewitems:cigarette_pack_2>]);
+
+recipes.addShapeless(<stewitems:cigarette_3> * 5, [<stewitems:cigarette_pack_3>]);
+
+recipes.addShapeless(<stewitems:cigarette_4> * 5, [<stewitems:cigarette_pack_4>]);
+
 recipes.addShapeless(<stewitems:cigar_1> * 5, [<stewitems:cigar_box_1>]);
+
+recipes.addShapeless(<stewitems:cigar_2> * 5, [<stewitems:cigar_box_2>]);
+
+recipes.addShapeless(<stewitems:cigar_3> * 5, [<stewitems:cigar_box_3>]);
+
+recipes.addShapeless(<stewitems:cigar_4> * 5, [<stewitems:cigar_box_4>]);
 
 recipes.addShapeless(<stewitems:tobacco_seeds>, [<stewitems:tobacco_leaves_1>]);
 
