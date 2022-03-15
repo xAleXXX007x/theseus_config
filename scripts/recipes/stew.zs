@@ -737,6 +737,13 @@ Carving.addVariation("hardware", <stewblocks:furniture_retro_range_white>);
 Carving.addVariation("hardware", <stewblocks:furniture_future_metal_shelf>);
 Carving.addVariation("hardware", <stewblocks:furniture_old_camera>);
 Carving.addVariation("hardware", <stewblocks:furniture_alarm_clock>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_core>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_battery>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_clono>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_processor>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_coil>);
+Carving.addVariation("hardware", <stewblocks:scrap_wires>);
+Carving.addVariation("hardware", <stewblocks:scrap_accelerator_base>);
 
 Carving.addVariation("computer", <stewblocks:furniture_old_terminal>);
 Carving.addVariation("computer", <stewblocks:furniture_old_register>);
