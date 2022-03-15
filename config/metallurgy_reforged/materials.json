@@ -26,8 +26,8 @@
       "efficiency": 10.0,
       "harvest_level": 7,
       "enchantability": 22,
-      "durability": 1550,
-      "damage": 5.0
+      "durability": 2000,
+      "damage": 4.0
     }
   },
   {
@@ -59,7 +59,7 @@
       "harvest_level": 5,
       "enchantability": 50,
       "durability": 500,
-      "damage": 4.0
+      "damage": 7.0
     }
   },
   {
@@ -84,7 +84,7 @@
       "harvest_level": 3,
       "enchantability": 30,
       "durability": 300,
-      "damage": 3.0
+      "damage": 2.75
     }
   },
   {
@@ -109,7 +109,7 @@
       "harvest_level": 5,
       "enchantability": 20,
       "durability": 1100,
-      "damage": 7.0
+      "damage": 3.5
     }
   },
   {
@@ -159,7 +159,7 @@
       "harvest_level": 3,
       "enchantability": 17,
       "durability": 500,
-      "damage": 3.0
+      "damage": 4.25
     }
   },
   {
@@ -209,10 +209,10 @@
       "harvest_level": 3,
       "enchantability": 9,
       "durability": 250,
-      "damage": 2.0
+      "damage": 2.3
     }
   },
-  {
+  { 
     "name": "carmot",
     "hardness": 3.0,
     "blast_resistance": 15.0,
@@ -234,7 +234,7 @@
       "harvest_level": 5,
       "enchantability": 40,
       "durability": 500,
-      "damage": 2.0
+      "damage": 2.4
     }
   },
   {
@@ -259,7 +259,7 @@
       "harvest_level": 6,
       "enchantability": 50,
       "durability": 1600,
-      "damage": 4.0
+      "damage": 4.25
     }
   },
   {
@@ -284,7 +284,7 @@
       "harvest_level": 4,
       "enchantability": 18,
       "durability": 500,
-      "damage": 4.0
+      "damage": 6.0
     }
   },
   {
@@ -309,7 +309,7 @@
       "harvest_level": 2,
       "enchantability": 5,
       "durability": 180,
-      "damage": 2.0
+      "damage": 1.5
     }
   },
   {
@@ -334,7 +334,7 @@
       "harvest_level": 4,
       "enchantability": 18,
       "durability": 500,
-      "damage": 3.0
+      "damage": 3.5
     }
   },
   {
@@ -359,7 +359,7 @@
       "harvest_level": 3,
       "enchantability": 14,
       "durability": 250,
-      "damage": 3.0
+      "damage": 2.75
     }
   },
   {
@@ -384,7 +384,7 @@
       "harvest_level": 4,
       "enchantability": 30,
       "durability": 1800,
-      "damage": 5.0
+      "damage": 7.25
     }
   },
   {
@@ -409,7 +409,7 @@
       "harvest_level": 2,
       "enchantability": 30,
       "durability": 70,
-      "damage": 2.0
+      "damage": 1.0
     }
   },
   {
@@ -434,7 +434,7 @@
       "harvest_level": 8,
       "enchantability": 35,
       "durability": 750,
-      "damage": 8.0
+      "damage": 10.0
     }
   },
   {
@@ -459,7 +459,7 @@
       "harvest_level": 7,
       "enchantability": 25,
       "durability": 1000,
-      "damage": 4.0
+      "damage": 6.0
     }
   },
   {
@@ -484,7 +484,7 @@
       "harvest_level": 5,
       "enchantability": 19,
       "durability": 1250,
-      "damage": 4.0
+      "damage": 4.25
     }
   },
   {
@@ -509,7 +509,7 @@
       "harvest_level": 3,
       "enchantability": 22,
       "durability": 300,
-      "damage": 2.0
+      "damage": 2.75
     }
   },
   {
@@ -534,7 +534,7 @@
       "harvest_level": 2,
       "enchantability": 15,
       "durability": 200,
-      "damage": 3.0
+      "damage": 6.5
     }
   },
   {
@@ -566,7 +566,7 @@
       "harvest_level": 5,
       "enchantability": 25,
       "durability": 900,
-      "damage": 4.0
+      "damage": 9.0
     }
   },
   {
@@ -591,7 +591,7 @@
       "harvest_level": 5,
       "enchantability": 20,
       "durability": 1000,
-      "damage": 4.0
+      "damage": 6.0
     }
   },
   {
@@ -616,7 +616,7 @@
       "harvest_level": 4,
       "enchantability": 17,
       "durability": 350,
-      "damage": 7.0
+      "damage": 5.75
     }
   },
   {
@@ -641,7 +641,7 @@
       ],
       "enchantability": 17,
       "durability": 50,
-      "toughness": 3.0
+      "toughness": 3.25
     }
   },
   {
@@ -680,7 +680,7 @@
       "harvest_level": 4,
       "enchantability": 35,
       "durability": 100,
-      "damage": 7.0
+      "damage": 6.0
     }
   },
   {
@@ -705,7 +705,7 @@
       "harvest_level": 5,
       "enchantability": 18,
       "durability": 1000,
-      "damage": 7.0
+      "damage": 5.75
     }
   },
   {
@@ -730,7 +730,7 @@
       "harvest_level": 6,
       "enchantability": 20,
       "durability": 1350,
-      "damage": 7.0
+      "damage": 3.25
     }
   },
   {
@@ -773,7 +773,7 @@
       "harvest_level": 3,
       "enchantability": 18,
       "durability": 750,
-      "damage": 6.0
+      "damage": 4.5
     }
   },
   {
@@ -798,7 +798,7 @@
       "harvest_level": 3,
       "enchantability": 50,
       "durability": 250,
-      "damage": 5.0
+      "damage": 4.0
     }
   },
   {
@@ -823,7 +823,7 @@
       "harvest_level": 2,
       "enchantability": 16,
       "durability": 200,
-      "damage": 5.0
+      "damage": 2.25
     }
   },
   {
@@ -848,7 +848,7 @@
       "harvest_level": 5,
       "enchantability": 20,
       "durability": 1100,
-      "damage": 7.0
+      "damage": 5.75
     }
   },
   {
@@ -880,7 +880,7 @@
       "harvest_level": 7,
       "enchantability": 25,
       "durability": 1750,
-      "damage": 8.0
+      "damage": 8.5
     }
   },
   {
@@ -905,7 +905,7 @@
       "harvest_level": 2,
       "enchantability": 3,
       "durability": 300,
-      "damage": 6.0
+      "damage": 6.25
     }
   },
   {
@@ -930,7 +930,7 @@
       "harvest_level": 3,
       "enchantability": 5,
       "durability": 400,
-      "damage": 7.0
+      "damage": 7.5
     }
   },
   {
@@ -955,7 +955,7 @@
       "harvest_level": 1,
       "enchantability": 20,
       "durability": 25,
-      "damage": 5.0
+      "damage": 1.75
     }
   },
   {
@@ -980,7 +980,7 @@
       "harvest_level": 4,
       "enchantability": 18,
       "durability": 750,
-      "damage": 3.75
+      "damage": 3.15
     }
   },
   {
@@ -1005,7 +1005,7 @@
       "harvest_level": 8,
       "enchantability": 25,
       "durability": 3000,
-      "damage": 9.0
+      "damage": 7.5
     }
   },
   {
@@ -1037,7 +1037,7 @@
       "harvest_level": 6,
       "enchantability": 20,
       "durability": 1500,
-      "damage": 7.0
+      "damage": 7.75
     }
   },
   {
@@ -1062,7 +1062,7 @@
       "harvest_level": 4,
       "enchantability": 16,
       "durability": 300,
-      "damage": 7.0
+      "damage": 7.25
     }
   },
   {
