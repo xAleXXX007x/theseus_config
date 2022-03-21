@@ -1254,7 +1254,7 @@
     "techguns:blasterrifle": [
       "perception",
       "tech",
-      "normal",
+      "fast",
       "twohanded"
     ],
     "extrabotany:excaliber": [
@@ -1626,7 +1626,7 @@
     "techguns:aug": [
       "fitness",
       "perception",
-      "normal",
+      "fast",
       "twohanded"
     ],
     "mod_lavacow:moltenhammer": [
@@ -2606,7 +2606,7 @@
     "techguns:lasergun": [
       "perception",
       "tech",
-      "normal",
+      "fast",
       "twohanded"
     ],
     "spartanweaponry:throwing_knife_copper": [
@@ -5050,7 +5050,7 @@
       "fitness",
       "perception",
       "tech",
-      "veryslow",
+      "normal",
       "twohanded"
     ],
     "thermalfoundation:tool.axe_constantan": [
@@ -5172,7 +5172,7 @@
     "techguns:netherblaster": [
       "tech",
       "slow",
-      "twohanded"
+      "onehanded"
     ],
     "astralsorcery:itemcrystalshovel": [
       "fitness",
@@ -5751,7 +5751,7 @@
     "techguns:laserpistol": [
       "tech",
       "agility",
-      "normal",
+      "fast",
       "onehanded"
     ],
     "spartanweaponryarcana:mace_terrasteel": [
