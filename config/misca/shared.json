@@ -48,12 +48,12 @@
     },
     "5": {
       "rain": {
-        "income": 0,
-        "outcome": 0,
-        "thunder": 0,
-        "min": 0,
-        "max": 0,
-        "dice": 0
+        "income": 1,
+        "outcome": 35,
+        "thunder": 6048000,
+        "min": 3456000,
+        "max": 8640000,
+        "dice": 4500000
       },
       "time": {
         "timezone": "-01:00",
@@ -224,8 +224,8 @@
     "integrityCostPerDamage": 0.45,
     "sanityRestPerFood": 1.0,
     "sanityRestPerSpeechChar": 2.5E-4,
-    "sanityCostPerSec": 3.0E-4,
-    "sanityCostPerSecInDarkness": 12.0E-4,
+    "sanityCostPerSec": 9.0E-4,
+    "sanityCostPerSecInDarkness": 0.009,
     "sanityCostPerDamage": 0.55,
     "sanityLevelToRegenStamina": 80.0,
     "sanityDebuffToRestThreshold": 0.75,
