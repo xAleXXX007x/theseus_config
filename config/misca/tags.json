@@ -630,7 +630,8 @@
     "spartanweaponry:katana_tin": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "zettaimagic:m_wand_novice_nature": [
       "onehanded",
@@ -758,7 +759,8 @@
     "spartanweaponry:katana_steel": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponry:staff_copper": [
       "coordination",
@@ -1072,12 +1074,14 @@
     "spartanweaponry:katana_nickel": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponry:katana_iron": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponryarcana:spear_thaumium": [
       "perception",
@@ -1669,7 +1673,8 @@
     "spartanweaponry:katana_stone": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "metallurgy:krik_sword": [
       "fitness"
@@ -2104,7 +2109,8 @@
     "spartanweaponry:katana_copper": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "endreborn:tool_sword_wolframium": [
       "fitness"
@@ -3137,7 +3143,8 @@
     "spartanweaponryarcana:katana_terrasteel": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "variedcommodities:wooden_warhammer": [
       "fitness",
@@ -3192,7 +3199,8 @@
     "spartanweaponry:katana_platinum": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "erebus:max_speed_bow": [
       "twohanded",
@@ -3216,7 +3224,8 @@
     "spartanweaponryarcana:katana_voidmetal": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "zettaimagic:m_wand_apprentice_nature": [
       "onehanded",
@@ -3530,7 +3539,8 @@
     "spartanweaponryarcana:katana_thaumium": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponry:warhammer_iron": [
       "fitness",
@@ -3793,7 +3803,8 @@
     "spartanweaponry:katana_gold": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "metallurgy:kalendrite_axe": [
       "fitness",
@@ -4329,7 +4340,8 @@
     "spartanweaponry:katana_silver": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponryarcana:mace_voidmetal": [
       "fitness",
@@ -4495,7 +4507,8 @@
     "spartanweaponry:katana_lead": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "thermalfoundation:tool.bow_steel": [
       "twohanded",
@@ -4622,7 +4635,8 @@
     "spartanweaponry:katana_diamond": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponryarcana:dagger_elementium": [
       "agility"
@@ -4659,7 +4673,8 @@
     "spartanweaponry:katana_invar": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "zettaimagic:m_wand_advanced_light": [
       "onehanded",
@@ -4916,7 +4931,8 @@
     "spartanweaponry:katana_electrum": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "variedcommodities:wooden_staff": [
       "magic",
@@ -5191,7 +5207,8 @@
     "spartanweaponryarcana:katana_elementium": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "mysticalworld:amethyst_hoe": [
       "fitness",
@@ -5474,7 +5491,8 @@
     "spartanweaponryarcana:katana_manasteel": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "spartanweaponry:staff_tin": [
       "coordination",
@@ -5593,7 +5611,8 @@
     "spartanweaponry:katana_wood": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "variedcommodities:mithril_trident": [
       "perception",
@@ -5938,7 +5957,8 @@
     "spartanweaponry:katana_bronze": [
       "composure",
       "coordination",
-      "twohanded"
+      "twohanded",
+      "normal"
     ],
     "variedcommodities:golden_battleaxe": [
       "fitness",
