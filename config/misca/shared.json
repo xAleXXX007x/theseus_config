@@ -28,7 +28,7 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "-01:00",
+        "timezone": "-00:00",
         "scale": 1.0
       }
     },
@@ -42,7 +42,7 @@
         "dice": 0
       },
       "time": {
-        "timezone": "-01:00",
+        "timezone": "-00:00",
         "scale": 1.0
       }
     },
@@ -56,7 +56,7 @@
         "dice": 999999999
       },
       "time": {
-        "timezone": "-01:00",
+        "timezone": "-00:00",
         "scale": 1.0
       }
     },
@@ -70,7 +70,7 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "-01:00",
+        "timezone": "-00:00",
         "scale": 1.0
       }
     }
