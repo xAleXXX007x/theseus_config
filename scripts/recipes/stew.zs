@@ -737,6 +737,13 @@ Carving.addVariation("hardware", <stewblocks:furniture_retro_range_white>);
 Carving.addVariation("hardware", <stewblocks:furniture_future_metal_shelf>);
 Carving.addVariation("hardware", <stewblocks:furniture_old_camera>);
 Carving.addVariation("hardware", <stewblocks:furniture_alarm_clock>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_core>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_battery>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_clono>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_processor>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_coil>);
+Carving.addVariation("hardware", <stewblocks:scrap_wires>);
+Carving.addVariation("hardware", <stewblocks:scrap_accelerator_base>);
 
 Carving.addVariation("computer", <stewblocks:furniture_old_terminal>);
 Carving.addVariation("computer", <stewblocks:furniture_old_register>);
@@ -1197,7 +1204,19 @@ recipes.addShapeless(<stewitems:papirosa_1> * 5, [<stewitems:papirosa_pack_1>]);
 
 recipes.addShapeless(<stewitems:cigarette_1> * 5, [<stewitems:cigarette_pack_1>]);
 
+recipes.addShapeless(<stewitems:cigarette_2> * 5, [<stewitems:cigarette_pack_2>]);
+
+recipes.addShapeless(<stewitems:cigarette_3> * 5, [<stewitems:cigarette_pack_3>]);
+
+recipes.addShapeless(<stewitems:cigarette_4> * 5, [<stewitems:cigarette_pack_4>]);
+
 recipes.addShapeless(<stewitems:cigar_1> * 5, [<stewitems:cigar_box_1>]);
+
+recipes.addShapeless(<stewitems:cigar_2> * 5, [<stewitems:cigar_box_2>]);
+
+recipes.addShapeless(<stewitems:cigar_3> * 5, [<stewitems:cigar_box_3>]);
+
+recipes.addShapeless(<stewitems:cigar_4> * 5, [<stewitems:cigar_box_4>]);
 
 recipes.addShapeless(<stewitems:tobacco_seeds>, [<stewitems:tobacco_leaves_1>]);
 
