@@ -72,7 +72,6 @@ recipes.addShaped(<stewprops:random_spiked_stick>.withTag({display: {Name: "Де
     [<ore:stickWood>]]);
 
 recipes.addShaped(<stewprops:random_soap>.withTag({display: {Name: "Мыло"}}) * 2, [
-    [<biomesoplenty:coral:4>],
     [<ore:tallow>]]);
 
 recipes.addShaped(<stewprops:random_sleepingbag>.withTag({display: {Name: "Спальный мешок"}}), [
