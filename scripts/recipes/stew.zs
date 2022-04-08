@@ -1002,13 +1002,13 @@ recipes.addShapeless(<stewblocks:object_onions>, [<ore:cropOnion>, <ore:cropOnio
 recipes.addShapeless(<harvestcraft:onionitem> * 6, [<stewblocks:object_onions>]);
 
 recipes.addShapeless(<stewblocks:object_rabbit>, [<ore:listAllrabbitraw>]);
-recipes.addShapeless(<minecraft:rabbit> * 6, [<stewblocks:object_rabbit>]);
+recipes.addShapeless(<minecraft:rabbit> * 3, [<stewblocks:object_rabbit>]);
 
 recipes.addShaped(<stewblocks:object_ribcage>, [
     [<ore:listAllmuttonraw>],
     [<ore:listAllmuttonraw>],
     [<ore:listAllmuttonraw>]]);
-recipes.addShapeless(<minecraft:mutton> * 6, [<stewblocks:object_ribcage>]);
+recipes.addShapeless(<minecraft:mutton> * 3, [<stewblocks:object_ribcage>]);
 
 recipes.addShapeless(<stewblocks:object_toad>, [<ore:foodFrograw>]);
 recipes.addShapeless(<harvestcraft:frograwitem>, [<stewblocks:object_toad>]);
