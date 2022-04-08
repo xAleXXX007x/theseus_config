@@ -280,7 +280,8 @@
       "shield"
     ],
     "spartanweaponry:rapier_stone": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "thermalfoundation:tool.hammer_copper": [
       "fitness",
@@ -707,7 +708,8 @@
       "onehanded"
     ],
     "spartanweaponry:rapier_silver": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "techguns:fraggrenade": [
       "coordination"
@@ -926,7 +928,8 @@
       "composure"
     ],
     "spartanweaponryarcana:rapier_manasteel": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponryarcana:hammer_terrasteel": [
       "fitness"
@@ -1126,7 +1129,8 @@
       "twohanded"
     ],
     "spartanweaponryarcana:rapier_terrasteel": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "thermalfoundation:tool.bow_tin": [
       "twohanded",
@@ -1378,7 +1382,8 @@
       "twohanded"
     ],
     "spartanweaponryarcana:rapier_elementium": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "metallurgy:oureclase_hoe": [
       "fitness",
@@ -1502,7 +1507,8 @@
       "polearm"
     ],
     "spartanweaponry:rapier_platinum": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponryarcana:spear_voidmetal": [
       "perception",
@@ -1785,7 +1791,8 @@
       "twohanded"
     ],
     "spartanweaponry:rapier_tin": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "mod_lavacow:famine": [
       "agility"
@@ -2031,7 +2038,8 @@
       "fitness"
     ],
     "spartanweaponry:rapier_iron": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "stewweapons:magnet_mace": [
       "coordination",
@@ -2074,7 +2082,8 @@
       "fast"
     ],
     "spartanweaponry:rapier_bronze": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponry:spear_platinum": [
       "perception",
@@ -2203,7 +2212,8 @@
       "polearm"
     ],
     "spartanweaponry:rapier_steel": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "stewweapons:long_dagger": [
       "agility"
@@ -2328,7 +2338,8 @@
       "twohanded"
     ],
     "spartanweaponryarcana:rapier_thaumium": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponry:saber_silver": [
       "agility"
@@ -3030,7 +3041,8 @@
       "onehanded"
     ],
     "spartanweaponryarcana:rapier_voidmetal": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "mysticalworld:amethyst_axe": [
       "fitness",
@@ -3243,10 +3255,12 @@
       "fitness"
     ],
     "spartanweaponry:rapier_invar": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponry:rapier_nickel": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "metallurgy:shadow_iron_hoe": [
       "fitness",
@@ -3553,7 +3567,8 @@
       "twohanded"
     ],
     "spartanweaponry:rapier_wood": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponryarcana:longsword_terrasteel": [
       "fitness",
@@ -4084,7 +4099,8 @@
       "polearm"
     ],
     "spartanweaponry:rapier_diamond": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "variedcommodities:mithril_halberd": [
       "fitness",
@@ -4185,7 +4201,8 @@
       "twohanded"
     ],
     "spartanweaponry:rapier_lead": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "spartanweaponry:greatsword_stone": [
       "fitness",
@@ -5025,7 +5042,8 @@
       "slow"
     ],
     "spartanweaponry:rapier_gold": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "mekanism:electricbow": [
       "tech",
@@ -5563,7 +5581,8 @@
       "ingenuity"
     ],
     "spartanweaponry:rapier_electrum": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "mana_wizardry:wand_dreamwood": [
       "twohanded"
@@ -6059,7 +6078,8 @@
       "fast"
     ],
     "spartanweaponry:rapier_copper": [
-      "perception"
+      "perception",
+      "normal"
     ],
     "metallurgy:eximite_hoe": [
       "fitness",
