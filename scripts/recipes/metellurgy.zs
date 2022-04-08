@@ -9,3 +9,17 @@ recipes.addShaped(<metallurgy:mithril_ingot>, [
 	[<ore:dustPhosphorus>, <minecraft:lava_bucket>, <ore:dustPhosphorus>], 
 	[null, <ore:ingotAstralSilver>, <ore:dustPhosphorus>]
 ]);
+
+recipes.remove(<metallurgy:quicksilver_ingot>);
+
+recipes.addShaped(<metallurgy:quicksilver_ingot>, [
+	[<ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>], 
+	[<ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>], 
+	[<ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>, <ore:nuggetQuicksilver>]
+]);
+
+recipes.addShaped(<metallurgy:quicksilver_ingot> * 9, [
+	[null, null, null], 
+	[null, <ore:blockQuicksilver>, null], 
+	[null, null, null]
+]);
