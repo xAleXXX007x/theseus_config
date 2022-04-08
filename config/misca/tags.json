@@ -631,7 +631,7 @@
     "spartanweaponry:katana_tin": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "zettaimagic:m_wand_novice_nature": [
@@ -761,7 +761,7 @@
     "spartanweaponry:katana_steel": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponry:staff_copper": [
@@ -1077,13 +1077,13 @@
     "spartanweaponry:katana_nickel": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponry:katana_iron": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponryarcana:spear_thaumium": [
@@ -1679,7 +1679,7 @@
     "spartanweaponry:katana_stone": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "metallurgy:krik_sword": [
@@ -2118,7 +2118,7 @@
     "spartanweaponry:katana_copper": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "endreborn:tool_sword_wolframium": [
@@ -3155,7 +3155,7 @@
     "spartanweaponryarcana:katana_terrasteel": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "variedcommodities:wooden_warhammer": [
@@ -3211,7 +3211,7 @@
     "spartanweaponry:katana_platinum": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "erebus:max_speed_bow": [
@@ -3236,7 +3236,7 @@
     "spartanweaponryarcana:katana_voidmetal": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "zettaimagic:m_wand_apprentice_nature": [
@@ -3553,7 +3553,7 @@
     "spartanweaponryarcana:katana_thaumium": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponry:warhammer_iron": [
@@ -3818,7 +3818,7 @@
     "spartanweaponry:katana_gold": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "metallurgy:kalendrite_axe": [
@@ -4357,7 +4357,7 @@
     "spartanweaponry:katana_silver": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponryarcana:mace_voidmetal": [
@@ -4524,7 +4524,7 @@
     "spartanweaponry:katana_lead": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "thermalfoundation:tool.bow_steel": [
@@ -4652,7 +4652,7 @@
     "spartanweaponry:katana_diamond": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponryarcana:dagger_elementium": [
@@ -4690,7 +4690,7 @@
     "spartanweaponry:katana_invar": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "zettaimagic:m_wand_advanced_light": [
@@ -4948,7 +4948,7 @@
     "spartanweaponry:katana_electrum": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "variedcommodities:wooden_staff": [
@@ -5225,7 +5225,7 @@
     "spartanweaponryarcana:katana_elementium": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "mysticalworld:amethyst_hoe": [
@@ -5509,7 +5509,7 @@
     "spartanweaponryarcana:katana_manasteel": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "spartanweaponry:staff_tin": [
@@ -5630,7 +5630,7 @@
     "spartanweaponry:katana_wood": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "variedcommodities:mithril_trident": [
@@ -5976,7 +5976,7 @@
     "spartanweaponry:katana_bronze": [
       "composure",
       "coordination",
-      "twohanded",
+      "onehanded",
       "normal"
     ],
     "variedcommodities:golden_battleaxe": [
