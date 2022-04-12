@@ -1028,7 +1028,7 @@ recipes.addShaped(<stewblocks:object_flat_ashtray> * 4, [
 recipes.addShapeless(<stewblocks:object_flat_bones> * 4, [<ore:bone>, <ore:bone>]);
 recipes.addShapeless(<stewblocks:object_flat_book> * 2, [<minecraft:book>]);
 recipes.addShapeless(<stewblocks:object_flat_cards> * 4, [<stewblocks:railing_planks_oak>, <ore:paper>]);
-recipes.addShapeless(<stewblocks:object_flat_coins> * 4, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
+recipes.addShapeless(<stewblocks:object_flat_coins> * 3, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
 
 recipes.addShaped(<stewblocks:object_flat_fanblade> * 4, [
     [<ore:stickWood>, null, <ore:stickWood>],
