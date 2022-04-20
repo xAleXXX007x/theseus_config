@@ -228,7 +228,6 @@ var stagedItems as IIngredient[][string] = {
     <extrabotany:material:8>,
     <extrabotany:material:9>,
     <extrabotany:material:10>,
-    <extrabotany:ultimatehammer>,
     <extrabotany:kinggarden>,
     <extrabotany:natureorb>,
     <extrabotany:cosmeticmaidchest>,
@@ -285,15 +284,8 @@ var stagedItems as IIngredient[][string] = {
     <extrabotany:combatmaidhelmrevealing>,
     <extrabotany:combatmaidchest>,
     <extrabotany:combatmaidlegs>,
-    <extrabotany:shadowwarriorboots>,
-    <extrabotany:shadowwarriorlegs>,
-    <extrabotany:shadowwarriorhelm>,
-    <extrabotany:shadowwarriorchest>,
     <extrabotany:shadowkatana>,
-    <extrabotany:goblinslayerchest>,
-    <extrabotany:goblinslayerhelm>,
-    <extrabotany:goblinslayerlegs>,
-    <extrabotany:goblinslayerboots>
+    
   ],
   [ALC_1]:[
     <botania:brewvial>,
@@ -330,13 +322,14 @@ var toRemove = [
   <extrabotany:jingweifeather>,
   <extrabotany:firstfractal>,
   <extrabotany:goblinslayerchest>,
-    <extrabotany:goblinslayerhelm>,
-    <extrabotany:goblinslayerlegs>,
-    <extrabotany:goblinslayerboots>,
-    <extrabotany:shadowwarriorboots>,
-    <extrabotany:shadowwarriorlegs>,
-    <extrabotany:shadowwarriorhelm>,
-    <extrabotany:shadowwarriorchest>
+  <extrabotany:goblinslayerhelm>,
+  <extrabotany:goblinslayerlegs>,
+  <extrabotany:goblinslayerboots>,
+  <extrabotany:shadowwarriorboots>,
+  <extrabotany:shadowwarriorlegs>,
+  <extrabotany:shadowwarriorhelm>,
+  <extrabotany:shadowwarriorchest>,
+  <extrabotany:ultimatehammer>,
 ] as IIngredient[];
 
 for item in toRemove {
@@ -344,3 +337,4 @@ for item in toRemove {
 }
 
 mods.botania.RuneAltar.removeRecipe(<extrabotany:elvenking>);
+mods.botania.RuneAltar.removeRecipe(<extrabotany:ultimatehammer>);
