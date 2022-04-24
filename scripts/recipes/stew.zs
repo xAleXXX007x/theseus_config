@@ -26,7 +26,7 @@ var colors = [
 
 for color in colors {
   Carving.addVariation("brick_plastered", itemUtils.getItem("stewblocks:brick_plastered_" + color));
-
+  
   var colorname = "white";
 
   if (color == "light_blue") {
@@ -601,13 +601,17 @@ Carving.addVariation("plasteel", <stewblocks:plasteel_cell_ocherus>);
 Carving.addVariation("railing_glass", <stewblocks:railing_glass>);
 Carving.addVariation("railing_glass", <stewblocks:plasteel_window>);
 
+Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_1>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_2>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_ornament>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_piston>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_plate_protective>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_ventilation_tube>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_plate>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_plate_double>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_tank>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_tile_small>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_tile_small_2>);
 Carving.addVariation("metal_block", <stewblocks:metal_oxidized_riveted_01>);
 Carving.addVariation("metal_block", <stewblocks:metal_oxidized_riveted_02>);
 Carving.addVariation("metal_block", <stewblocks:old_metal_rivet_02>);
@@ -630,6 +634,16 @@ Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_windo
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_yellow_elven>);
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_white_hobbit>);
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_yellow_hobbit>);
+
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_green_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_light_blue_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_light_gray_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_magenta_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_orange_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_purple_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_red_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_white_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_yellow_1>);
 
 Carving.addVariation("curtain", <stewblocks:curtain_black>);
 Carving.addVariation("curtain", <stewblocks:curtain_blue>);
@@ -829,6 +843,10 @@ recipes.addShaped(<stewblocks:metal_rough_plate_double> * 32, [
     [<ore:blockSheetmetalIron>, <ore:plateIron>, <ore:blockSheetmetalIron>],
     [<ore:plateIron>, null, <ore:plateIron>],
     [<ore:blockSheetmetalIron>, <ore:plateIron>, <ore:blockSheetmetalIron>]]);
+	
+recipes.addShaped(<stewblocks:metal_rough_louvers_full> * 16, [
+    [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>],
+    [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
 
 recipes.addShaped(<stewblocks:warp_dreg> * 8, [
     [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
