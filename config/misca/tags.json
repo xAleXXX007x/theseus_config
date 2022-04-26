@@ -5138,7 +5138,9 @@
     ],
     "thaumicaugmentation:impulse_cannon": [
       "perception",
-      "magic"
+      "magic",
+      "twohanded",
+      "veryslow"
     ],
     "spartanweaponryarcana:longbow_voidmetal": [
       "perception",
