@@ -370,7 +370,8 @@
     "spartanweaponry:throwing_knife_bronze": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "metallurgy:oureclase_axe": [
       "fitness",
@@ -465,7 +466,8 @@
     "spartanweaponry:throwing_knife_silver": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "variedcommodities:bronze_halberd": [
       "fitness",
@@ -840,7 +842,8 @@
     "spartanweaponry:throwing_knife_iron": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "thermalfoundation:tool.fishing_rod_bronze": [
       "twohanded",
@@ -1195,7 +1198,8 @@
     "spartanweaponry:throwing_knife_tin": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "spartanweaponry:pike_bronze": [
       "perception",
@@ -1756,7 +1760,8 @@
     "spartanweaponryarcana:throwing_knife_thaumium": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "spartanweaponry:hammer_copper": [
       "fitness"
@@ -1881,7 +1886,8 @@
     "spartanweaponryarcana:throwing_knife_manasteel": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "metallurgy:vyroxeres_hoe": [
       "fitness",
@@ -1969,7 +1975,8 @@
     "spartanweaponry:throwing_knife_steel": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "metallurgy:amordrine_pickaxe": [
       "fitness",
@@ -2381,7 +2388,8 @@
     "spartanweaponryarcana:throwing_knife_terrasteel": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "metallurgy:angmallen_shovel": [
       "fitness",
@@ -2427,7 +2435,8 @@
     "spartanweaponry:throwing_knife_wood": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "spartanweaponryarcana:glaive_terrasteel": [
       "coordination",
@@ -2576,7 +2585,8 @@
     "spartanweaponry:throwing_knife_diamond": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "techguns:riot_shield": [
       "towershield"
@@ -2646,7 +2656,8 @@
     "spartanweaponry:throwing_knife_copper": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "techguns:stielgranate": [
       "coordination"
@@ -2706,7 +2717,8 @@
     "spartanweaponryarcana:throwing_knife_voidmetal": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "thermalfoundation:tool.sickle_nickel": [
       "agility",
@@ -2810,7 +2822,8 @@
     "spartanweaponry:throwing_knife_stone": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "stewweapons:laser_sword": [
       "tech",
@@ -4320,7 +4333,8 @@
     "spartanweaponry:throwing_knife_gold": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "ebwizardry:apprentice_necromancy_wand": [
       "twohanded"
@@ -4508,7 +4522,8 @@
     "spartanweaponry:throwing_knife_platinum": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "techguns:goldenrevolver": [
       "coordination",
@@ -5079,7 +5094,8 @@
     "spartanweaponry:throwing_knife_invar": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "spartanshields:shield_tower_wood": [
       "towershield"
@@ -5138,7 +5154,9 @@
     ],
     "thaumicaugmentation:impulse_cannon": [
       "perception",
-      "magic"
+      "magic",
+      "twohanded",
+      "slow"
     ],
     "spartanweaponryarcana:longbow_voidmetal": [
       "perception",
@@ -6049,7 +6067,8 @@
     "spartanweaponryarcana:throwing_knife_elementium": [
       "agility",
       "coordination",
-      "throwable"
+      "throwable",
+      "fast"
     ],
     "spartanweaponry:staff_iron": [
       "coordination",

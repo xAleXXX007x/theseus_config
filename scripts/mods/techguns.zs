@@ -124,8 +124,8 @@ GunStats.setWeaponStat("netherblaster", "DAMAGE_MIN", 3);
 GunStats.setWeaponStat("netherblaster", "DAMAGE_DROP_START", 8);
 GunStats.setWeaponStat("netherblaster", "DAMAGE_DROP_END", 10);
 
-GunStats.setWeaponStat("powerhammer", "DAMAGE", 15);
-GunStats.setWeaponStat("powerhammer", "DAMAGE_MIN", 7.5);
+GunStats.setWeaponStat("powerhammer", "DAMAGE", 3);
+GunStats.setWeaponStat("powerhammer", "DAMAGE_MIN", 2.5);
 GunStats.setWeaponStat("powerhammer", "DAMAGE_DROP_START", 11);
 GunStats.setWeaponStat("powerhammer", "DAMAGE_DROP_END", 20);
 
