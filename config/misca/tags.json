@@ -1636,7 +1636,7 @@
     ],
     "techguns:powerhammer": [
       "fitness",
-      "slow",
+      "normal",
       "twohanded"
     ],
     "variedcommodities:mithril_staff": [
