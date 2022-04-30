@@ -35,9 +35,9 @@ recipes.addShaped(<stewitems:medicine_sotocvet> * 3,[
     [<harvestcraft:honeycombitem>, <ore:slimeball>, <harvestcraft:honeycombitem>]]);
 
 recipes.addShaped(<stewitems:medicine_kanai> * 2,[
-    [<minecraft:tallgrass:2>, <ore:sugar>, <minecraft:tallgrass:2>],
+    [<minecraft:tallgrass:2>, <ore:listAllsugar>, <minecraft:tallgrass:2>],
     [<techguns:itemshared:61>, <stewitems:rubbing_alcohol>, <techguns:itemshared:61>],
-    [<minecraft:tallgrass:2>, <ore:sugar>, <minecraft:tallgrass:2>]]);
+    [<minecraft:tallgrass:2>, <ore:listAllsugar>, <minecraft:tallgrass:2>]]);
 
 recipes.addShaped(<stewitems:medicine_kazachban>,[
     [<ore:wax>, <ore:healPlant>, <ore:healPlant>],

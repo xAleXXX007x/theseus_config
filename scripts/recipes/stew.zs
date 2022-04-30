@@ -26,7 +26,7 @@ var colors = [
 
 for color in colors {
   Carving.addVariation("brick_plastered", itemUtils.getItem("stewblocks:brick_plastered_" + color));
-
+  
   var colorname = "white";
 
   if (color == "light_blue") {
@@ -247,24 +247,6 @@ Carving.addVariation("sandstoneyellow", <minecraft:red_sandstone:2>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone:1>);
 Carving.addVariation("sandstoneyellow", <biomesoplenty:white_sandstone:2>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_01>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_02>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_03>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_04>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_05>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_06>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin_dark>);
-Carving.addVariation("sandstoneyellow", <stewblocks:wall_sindarin>);
-Carving.addVariation("sandstoneyellow", <stewblocks:polychrome_capital_corinthian>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_cornice>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_dorian_base>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_polished>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_brick>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_blue>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_gold>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_red>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_pillar_dorian>);
-Carving.addVariation("sandstoneyellow", <stewblocks:sandstone_inscribed>);
 
 Carving.addVariation("railing_wood", <stewblocks:railing_wooden_baluster>);
 Carving.addVariation("railing_wood", <stewblocks:railing_reed>);
@@ -471,16 +453,15 @@ Carving.addVariation("organic_object", <stewblocks:organic_red>);
 
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:5>);
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:6>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_ornament>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_base>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_capital>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_brick>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_pillar>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_cornice>);
 
 Carving.addVariation("asphalt", <immersivepetroleum:stone_decoration>);
 Carving.addVariation("asphalt", <stewblocks:asphalt>);
-
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_ornament>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_base>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_capital>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_brick>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_pillar>);
-Carving.addVariation("brownstone_tconstruct", <stewblocks:concrete_faded_cornice>);
 
 Carving.addVariation("glass", <minecraft:glass>);
 Carving.addVariation("glass", <stewblocks:glass_round_brown>);
@@ -620,13 +601,17 @@ Carving.addVariation("plasteel", <stewblocks:plasteel_cell_ocherus>);
 Carving.addVariation("railing_glass", <stewblocks:railing_glass>);
 Carving.addVariation("railing_glass", <stewblocks:plasteel_window>);
 
+Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_1>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_2>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_ornament>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_piston>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_plate_protective>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_ventilation_tube>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_plate>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_plate_double>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_tank>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_tile_small>);
+Carving.addVariation("metal_block", <stewblocks:metal_rough_tile_small_2>);
 Carving.addVariation("metal_block", <stewblocks:metal_oxidized_riveted_01>);
 Carving.addVariation("metal_block", <stewblocks:metal_oxidized_riveted_02>);
 Carving.addVariation("metal_block", <stewblocks:old_metal_rivet_02>);
@@ -649,6 +634,16 @@ Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_windo
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_yellow_elven>);
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_white_hobbit>);
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_yellow_hobbit>);
+
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_green_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_light_blue_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_light_gray_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_magenta_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_orange_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_purple_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_red_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_white_1>);
+Carving.addVariation("brick_plastered", <stewblocks:brick_plastered_yellow_1>);
 
 Carving.addVariation("curtain", <stewblocks:curtain_black>);
 Carving.addVariation("curtain", <stewblocks:curtain_blue>);
@@ -756,6 +751,13 @@ Carving.addVariation("hardware", <stewblocks:furniture_retro_range_white>);
 Carving.addVariation("hardware", <stewblocks:furniture_future_metal_shelf>);
 Carving.addVariation("hardware", <stewblocks:furniture_old_camera>);
 Carving.addVariation("hardware", <stewblocks:furniture_alarm_clock>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_core>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_battery>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_clono>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_processor>);
+Carving.addVariation("hardware", <stewblocks:scrap_hardware_coil>);
+Carving.addVariation("hardware", <stewblocks:scrap_wires>);
+Carving.addVariation("hardware", <stewblocks:scrap_accelerator_base>);
 
 Carving.addVariation("computer", <stewblocks:furniture_old_terminal>);
 Carving.addVariation("computer", <stewblocks:furniture_old_register>);
@@ -767,6 +769,27 @@ Carving.addVariation("blood", <stewblocks:effect_blood_trail_turn>);
 
 Carving.addVariation("limestone", <stewblocks:limestone>);
 Carving.addVariation("limestone", <stewblocks:cobblestone_limestone>);
+
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_01>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_02>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_03>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_04>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_05>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_06>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin_dark>);
+Carving.addVariation("sindarin", <stewblocks:wall_sindarin>);
+Carving.addVariation("sindarin", <stewblocks:polychrome_capital_corinthian>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_cornice>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_dorian_base>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_polished>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_brick>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_blue>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_gold>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_red>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_pillar_dorian>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_inscribed>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_capital_eagle>);
+Carving.addVariation("sindarin", <stewblocks:sandstone_capital_face>);
 
 var ingotBrick = <ore:ingotBrick>;
 ingotBrick.add(<biomesoplenty:mud_brick>);
@@ -820,6 +843,10 @@ recipes.addShaped(<stewblocks:metal_rough_plate_double> * 32, [
     [<ore:blockSheetmetalIron>, <ore:plateIron>, <ore:blockSheetmetalIron>],
     [<ore:plateIron>, null, <ore:plateIron>],
     [<ore:blockSheetmetalIron>, <ore:plateIron>, <ore:blockSheetmetalIron>]]);
+	
+recipes.addShaped(<stewblocks:metal_rough_louvers_full> * 16, [
+    [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>],
+    [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
 
 recipes.addShaped(<stewblocks:warp_dreg> * 8, [
     [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
@@ -993,13 +1020,13 @@ recipes.addShapeless(<stewblocks:object_onions>, [<ore:cropOnion>, <ore:cropOnio
 recipes.addShapeless(<harvestcraft:onionitem> * 6, [<stewblocks:object_onions>]);
 
 recipes.addShapeless(<stewblocks:object_rabbit>, [<ore:listAllrabbitraw>]);
-recipes.addShapeless(<minecraft:rabbit> * 6, [<stewblocks:object_rabbit>]);
+recipes.addShapeless(<minecraft:rabbit> * 3, [<stewblocks:object_rabbit>]);
 
 recipes.addShaped(<stewblocks:object_ribcage>, [
     [<ore:listAllmuttonraw>],
     [<ore:listAllmuttonraw>],
     [<ore:listAllmuttonraw>]]);
-recipes.addShapeless(<minecraft:mutton> * 6, [<stewblocks:object_ribcage>]);
+recipes.addShapeless(<minecraft:mutton> * 3, [<stewblocks:object_ribcage>]);
 
 recipes.addShapeless(<stewblocks:object_toad>, [<ore:foodFrograw>]);
 recipes.addShapeless(<harvestcraft:frograwitem>, [<stewblocks:object_toad>]);
@@ -1019,7 +1046,7 @@ recipes.addShaped(<stewblocks:object_flat_ashtray> * 4, [
 recipes.addShapeless(<stewblocks:object_flat_bones> * 4, [<ore:bone>, <ore:bone>]);
 recipes.addShapeless(<stewblocks:object_flat_book> * 2, [<minecraft:book>]);
 recipes.addShapeless(<stewblocks:object_flat_cards> * 4, [<stewblocks:railing_planks_oak>, <ore:paper>]);
-recipes.addShapeless(<stewblocks:object_flat_coins> * 4, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
+recipes.addShapeless(<stewblocks:object_flat_coins> * 3, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
 
 recipes.addShaped(<stewblocks:object_flat_fanblade> * 4, [
     [<ore:stickWood>, null, <ore:stickWood>],
@@ -1166,9 +1193,9 @@ recipes.addShaped(<stewblocks:casement_mica_01> * 3, [
 recipes.addShapeless(<stewblocks:wallgap_stonebrick_rhombus> * 4, [<ore:bricksStone>, <ore:bricksStone>, <ore:bricksStone>, <ore:bricksStone>, <ore:blockGlass>]);
 
 recipes.addShaped(<stewblocks:scrap_generator> * 4, [
-    [<ore:itemConduitBinder>, <ore:plateIron>, <ore:itemConduitBinder>],
+    [null, <ore:plateIron>, null],
     [<ore:plateIron>, <techguns:itemshared:57>, <ore:plateIron>],
-    [<ore:itemConduitBinder>, <ore:plateIron>, <ore:itemConduitBinder>]]); 
+    [null, <ore:plateIron>, null]]); 
 
 recipes.addShaped(<stewblocks:furniture_mirror_wooden>, [
     [null, <ore:plankWood>, null],
@@ -1195,7 +1222,19 @@ recipes.addShapeless(<stewitems:papirosa_1> * 5, [<stewitems:papirosa_pack_1>]);
 
 recipes.addShapeless(<stewitems:cigarette_1> * 5, [<stewitems:cigarette_pack_1>]);
 
+recipes.addShapeless(<stewitems:cigarette_2> * 5, [<stewitems:cigarette_pack_2>]);
+
+recipes.addShapeless(<stewitems:cigarette_3> * 5, [<stewitems:cigarette_pack_3>]);
+
+recipes.addShapeless(<stewitems:cigarette_4> * 5, [<stewitems:cigarette_pack_4>]);
+
 recipes.addShapeless(<stewitems:cigar_1> * 5, [<stewitems:cigar_box_1>]);
+
+recipes.addShapeless(<stewitems:cigar_2> * 5, [<stewitems:cigar_box_2>]);
+
+recipes.addShapeless(<stewitems:cigar_3> * 5, [<stewitems:cigar_box_3>]);
+
+recipes.addShapeless(<stewitems:cigar_4> * 5, [<stewitems:cigar_box_4>]);
 
 recipes.addShapeless(<stewitems:tobacco_seeds>, [<stewitems:tobacco_leaves_1>]);
 
@@ -1218,3 +1257,13 @@ recipes.addShaped(<stewitems:cigar_box_1>, [
     [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>],
     [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>],
     [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>]]);
+
+recipes.addShaped(<stewblocks:wall_sindarin_01>*4, [
+	[null, <ore:sandstone>, null], 
+	[<ore:sandstone>, <ore:dye>, <ore:sandstone>], 
+	[null, <ore:sandstone>, null]]);
+
+recipes.addShaped(<stewprops:microphone>, [
+	[<ore:oc:materialTransistor>, <ore:plateIron>, null], 
+	[<ore:plateIron>, <ore:oc:circuitChip1>, <ore:plateIron>], 
+	[null, <ore:plateIron>, <ore:plateIron>]]);
