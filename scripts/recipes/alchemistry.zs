@@ -13,6 +13,11 @@ mods.alchemistry.Combiner.removeRecipe(<minecraft:prismarine_shard>);
 mods.alchemistry.Combiner.addRecipe(<minecraft:prismarine_shard>,
     [<alchemistry:compound:18> * 2,<alchemistry:compound:23> * 1,null]);
 
+mods.alchemistry.Combiner.removeRecipe(<metallurgy:phosphorus>);
+
+mods.alchemistry.Combiner.addRecipe(<metallurgy:phosphorus>,
+    [null,null,<alchemistry:element:15> * 16]);
+
 Dissolver.removeRecipe(<minecraft:prismarine_shard>);
 
 Dissolver.addRecipe(<minecraft:prismarine_shard>, false, 1,
