@@ -209,8 +209,3 @@ recipes.addShaped(<stewitems:medicine_strong_pheromones>, [
     [<alchemistry:compound:59>, <stewitems:medicine_inner_light>, <alchemistry:compound:55>],
     [<stewitems:medicine_corpideks>, <ore:listAllwater>, <stewitems:medicine_corpideks>],
     [<alchemistry:compound:55>, <alchemistry:compound:52>, <alchemistry:compound:59>]]);
-
-recipes.addShaped(<stewitems:food_bottle_water>, [
-    [null, <minecraft:stone_button>, null],
-    [<techguns:itemshared:55>, <minecraft:water_bucket>, <techguns:itemshared:55>],
-    [<techguns:itemshared:55>, <techguns:itemshared:55>, <techguns:itemshared:55>]]);
