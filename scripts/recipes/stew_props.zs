@@ -1,138 +1,138 @@
 import mods.chisel.Carving;
 
 
-recipes.addShaped(<stewprops:box_brown>.withTag({display: {Name: "Деревянный ящик"}}), [
+recipes.addShaped(<stewprops:box_brown>.withTag({display: {Name: "§rДеревянный ящик"}}), [
     [<minecraft:log>, <minecraft:planks>, <minecraft:log>],
     [<minecraft:planks>, <minecraft:log>, <minecraft:planks>],
     [<minecraft:log>, <minecraft:planks>, <minecraft:log>]]);
 
-recipes.addShaped(<stewprops:pouch_generic>.withTag({display: {Name: "Сумка"}}), [
+recipes.addShaped(<stewprops:pouch_generic>.withTag({display: {Name: "§rСумка"}}), [
     [null, <minecraft:string>, null],
     [<minecraft:leather>, null, <minecraft:leather>],
     [<minecraft:string>, <minecraft:leather>, <minecraft:string>]]);
 
-recipes.addShaped(<stewprops:random_canister_00>.withTag({display: {Name: "Канистра"}}), [
+recipes.addShaped(<stewprops:random_canister_00>.withTag({display: {Name: "§rКанистра"}}), [
     [<minecraft:dye:1>, <ore:sheetPlastic>, <minecraft:dye:1>],
     [<ore:sheetPlastic>, null, <ore:sheetPlastic>],
     [<ore:sheetPlastic>, <ore:sheetPlastic>, <ore:sheetPlastic>]]);
 
-recipes.addShaped(<stewprops:random_cd_disk>.withTag({display: {Name: "Диск"}}), [
+recipes.addShaped(<stewprops:random_cd_disk>.withTag({display: {Name: "§rДиск"}}), [
     [null, <ore:sheetPlastic>, null],
     [<ore:sheetPlastic>, null, <ore:sheetPlastic>],
     [null, <ore:sheetPlastic>, null]]);
 
-recipes.addShaped(<stewprops:random_chalice>.withTag({display: {Name: "Золотая чаша"}}), [
+recipes.addShaped(<stewprops:random_chalice>.withTag({display: {Name: "§rЗолотая чаша"}}), [
     [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>],
     [null, <minecraft:gold_ingot>, null],
     [null, <minecraft:gold_ingot>, null]]);
 
-recipes.addShaped(<stewprops:random_cloth_00>.withTag({display: {Name: "Ткань"}}), [
+recipes.addShaped(<stewprops:random_cloth_00>.withTag({display: {Name: "§rТкань"}}), [
     [<minecraft:string>, null, <minecraft:string>],
     [null, <minecraft:string>, null],
     [<minecraft:string>, null, <minecraft:string>]]);
 
-recipes.addShaped(<stewprops:random_container_parcel>.withTag({display: {Name: "Посылка"}}), [
+recipes.addShaped(<stewprops:random_container_parcel>.withTag({display: {Name: "§rПосылка"}}), [
     [<minecraft:paper>, <minecraft:string>, <minecraft:paper>],
     [<minecraft:string>, null, <minecraft:string>],
     [<minecraft:paper>, <minecraft:string>, <minecraft:paper>]]);
 
-recipes.addShaped(<stewprops:random_device_02>.withTag({display: {Name: "Зеркало"}}), [
+recipes.addShaped(<stewprops:random_device_02>.withTag({display: {Name: "§rЗеркало"}}), [
     [null, <minecraft:iron_ingot>, null],
     [<minecraft:iron_ingot>, <minecraft:glass>, <minecraft:iron_ingot>],
     [null, <minecraft:iron_ingot>, null]]);
 
-recipes.addShaped(<stewprops:random_diskette>.withTag({display: {Name: "Дискета"}}), [
+recipes.addShaped(<stewprops:random_diskette>.withTag({display: {Name: "§rДискета"}}), [
     [<techguns:itemshared:55>, <minecraft:iron_ingot>, null],
     [<techguns:itemshared:55>, <minecraft:iron_ingot>, <techguns:itemshared:55>],
     [<techguns:itemshared:55>, <techguns:itemshared:55>, <techguns:itemshared:55>]]);
 
-recipes.addShaped(<stewprops:random_empty_can>.withTag({display: {Name: "Пустая банка"}}), [
+recipes.addShaped((<stewprops:random_empty_can>.withTag({display: {Name: "§rПустая банка"}})) * 3, [
     [<thermalfoundation:material:132>, null, <thermalfoundation:material:132>],
     [null, <thermalfoundation:material:132>, null]]);
 
-recipes.addShaped(<stewprops:random_fister>.withTag({display: {Name: "Фистер"}}), [
+recipes.addShaped(<stewprops:random_fister>.withTag({display: {Name: "§rФистер"}}), [
     [null, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
     [null, <minecraft:iron_ingot>, <minecraft:iron_ingot>],
     [<minecraft:stick>, null, null]]);
 
-recipes.addShaped(<stewprops:random_flask>.withTag({display: {Name: "Фляга"}}), [
+recipes.addShaped(<stewprops:random_flask>.withTag({display: {Name: "§rФляга"}}), [
     [<minecraft:leather>, <minecraft:glass_bottle>, <minecraft:leather>],
     [null, <minecraft:iron_ingot>, null]]);
 
-recipes.addShaped(<stewprops:random_gas_00>.withTag({display: {Name: "Газовый балон"}}), [
+recipes.addShaped(<stewprops:random_gas_00>.withTag({display: {Name: "§rГазовый балон"}}), [
     [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>]]);
 
-recipes.addShaped(<stewprops:random_gastorch>.withTag({display: {Name: "Газовая горелка"}}), [
+recipes.addShaped(<stewprops:random_gastorch>.withTag({display: {Name: "§rГазовая горелка"}}), [
     [null, <minecraft:flint_and_steel>, null],
     [<minecraft:iron_ingot>, <stewprops:random_gas_00>, <minecraft:iron_ingot>],
     [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 
-recipes.addShaped(<stewprops:random_spiked_stick>.withTag({display: {Name: "Деревянный кол"}}), [
+recipes.addShaped(<stewprops:random_spiked_stick>.withTag({display: {Name: "§rДеревянный кол"}}), [
     [<ore:stickWood>]]);
 
-recipes.addShaped(<stewprops:random_soap>.withTag({display: {Name: "Мыло"}}) * 2, [
+recipes.addShaped(<stewprops:random_soap>.withTag({display: {Name: "§rМыло"}}) * 2, [
     [<ore:tallow>]]);
 
-recipes.addShaped(<stewprops:random_sleepingbag>.withTag({display: {Name: "Спальный мешок"}}), [
+recipes.addShaped(<stewprops:random_sleepingbag>.withTag({display: {Name: "§rСпальный мешок"}}), [
     [<ore:wool>, <ore:wool>, <ore:wool>],
     [<ore:wool>, <ore:wool>, <ore:wool>]]);
 
-recipes.addShaped(<stewprops:random_screwdriver>.withTag({display: {Name: "Отвёртка"}}), [
+recipes.addShaped(<stewprops:random_screwdriver>.withTag({display: {Name: "§rОтвёртка"}}), [
     [null, null, <minecraft:iron_ingot>],
     [null, <techguns:itemshared:55>, null],
     [<techguns:itemshared:55>, null, null]]);
 
-recipes.addShaped(<stewprops:random_pipette>.withTag({display: {Name: "Пипетка"}}), [
+recipes.addShaped(<stewprops:random_pipette>.withTag({display: {Name: "§rПипетка"}}), [
     [null, null, <minecraft:slime_ball>],
     [null, <minecraft:slime_ball>, null],
     [<minecraft:glass>, null, null]]);
 
-recipes.addShaped(<stewprops:random_tape>.withTag({display: {Name: "Пустая киноплёнка"}}), [
+recipes.addShaped(<stewprops:random_tape>.withTag({display: {Name: "§rПустая киноплёнка"}}), [
     [null, <minecraft:paper>, null],
     [<minecraft:paper>, <minecraft:iron_ingot>, <minecraft:paper>],
     [null, <minecraft:paper>, null]]);
 
-recipes.addShaped(<stewprops:random_grenade>.withTag({display: {Name: "Граната"}}), [
+recipes.addShaped(<stewprops:random_grenade>.withTag({display: {Name: "§rГраната"}}), [
     [null, <minecraft:string>, null],
     [<minecraft:clay_ball>, <minecraft:gunpowder>, <minecraft:clay_ball>],
     [null, <minecraft:clay_ball>, null]]);
 
 
-recipes.addShaped(<stewprops:random_guitar>.withTag({display: {Name: "Гитара"}}), [
+recipes.addShaped(<stewprops:random_guitar>.withTag({display: {Name: "§rГитара"}}), [
     [null, <ore:itemRubber>, <ore:stickWood>],
     [<ore:itemRubber>, <ore:wireCopper>, <ore:itemRubber>],
     [<ore:logWood>, <ore:itemRubber>, null]]);
 
-recipes.addShaped(<stewprops:random_jug>.withTag({display: {Name: "Кувшин"}}), [
+recipes.addShaped(<stewprops:random_jug>.withTag({display: {Name: "§rКувшин"}}), [
     [<minecraft:clay_ball>, null, <minecraft:clay_ball>],
     [<minecraft:clay_ball>, null, <minecraft:clay_ball>],
     [null, <minecraft:clay_ball>, null]]);
 
-recipes.addShaped(<stewprops:random_junk_00>.withTag({display: {Name: "Хлам"}}), [
+recipes.addShaped(<stewprops:random_junk_00>.withTag({display: {Name: "§rХлам"}}), [
     [null, <stewprops:random_cloth_00>, null],
     [<minecraft:stick>, null, <minecraft:string>],
     [null, <minecraft:paper>, null]]);
 
-recipes.addShaped(<stewprops:random_kaboom>.withTag({display: {Name: "Динамитная шашка"}}), [
+recipes.addShaped(<stewprops:random_kaboom>.withTag({display: {Name: "§rДинамитная шашка"}}), [
     [null, null, <minecraft:string>],
     [null, <minecraft:gunpowder>, null],
     [<minecraft:gunpowder>, null, null]]);
 
-recipes.addShaped(<stewprops:random_knife>.withTag({display: {Name: "Канцелярский нож"}}), [
+recipes.addShaped(<stewprops:random_knife>.withTag({display: {Name: "§rКанцелярский нож"}}), [
     [<minecraft:iron_ingot>, null, null],
     [null, <minecraft:iron_ingot>, null],
     [null, null, <techguns:itemshared:55>]]);
 
-recipes.addShaped(<stewprops:random_pipe>.withTag({display: {Name: "Курительная трубка"}}), [
+recipes.addShaped(<stewprops:random_pipe>.withTag({display: {Name: "§rКурительная трубка"}}), [
     [<ore:logWood>, null, <ore:stickWood>],
     [<ore:stickWood>, <ore:stickWood>, null]]);
 
-recipes.addShaped(<stewprops:random_packet_00>.withTag({display: {Name: "Пакет"}}), [
+recipes.addShaped(<stewprops:random_packet_00>.withTag({display: {Name: "§rПакет"}}), [
     [<techguns:itemshared:55>, <techguns:itemshared:55>],
     [<techguns:itemshared:55>, <techguns:itemshared:55>]]);
 
-recipes.addShaped(<stewitems:guitar>.withTag({display: {Name: "Гитара"}}), [
+recipes.addShaped(<stewitems:guitar>.withTag({display: {Name: "§rГитара"}}), [
     [null, <ore:plankWood>, <ore:stickWood>],
     [<ore:plankWood>, <ore:wireCopper>, <ore:plankWood>],
     [<ore:plankWood>, <ore:plankWood>, null]]);
@@ -162,13 +162,257 @@ recipes.addShaped(<stewitems:banjo>, [
     [<ore:plankWood>, <ore:wireCopper>, null],
     [<ore:plankWood>, <ore:plankWood>, null]]);
 
+recipes.addShaped(<stewprops:alchemy_alchogest>, [
+    [null, <ore:ingotGold>, null],
+    [<ore:ingotGold>, <ore:enderpearl>, <ore:ingotGold>],
+    [<ore:ingotGold>, <ore:ingotGold>, <ore:ingotGold>]]);
+
+recipes.addShaped(<stewprops:equipment_anicent_shield>, [
+    [null, <minecraft:iron_ingot>, null],
+    [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+
+recipes.addShaped(<stewprops:equipment_medusa_shield>, [
+    [null, <minecraft:iron_ingot>, null],
+    [<minecraft:iron_ingot>, <ore:foodJellyfishraw>, <minecraft:iron_ingot>],
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+
+recipes.addShaped(<stewprops:equipment_amulet>, [
+    [null, <ore:ingotGold>, null],
+    [<ore:ingotGold>, null, <ore:ingotGold>],
+    [null, <minecraft:redstone>, null]]);
+
+recipes.addShaped(<stewprops:equipment_necklace>, [
+    [<minecraft:iron_nugget>, <ore:ingotGold>, <minecraft:iron_nugget>],
+    [<ore:ingotGold>, null, <ore:ingotGold>],
+    [<minecraft:iron_nugget>, <ore:ingotGold>, <minecraft:iron_nugget>]]);
+
+recipes.addShaped(<stewprops:equipment_ring>, [
+    [<minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget>],
+    [<minecraft:iron_nugget>, null, <minecraft:iron_nugget>],
+    [<minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget>]]);
+
+recipes.addShaped(<stewprops:equipment_bracelet_00>, [
+    [<minecraft:dye:4>, <rustic:rope>, <minecraft:dye:4>],
+    [<rustic:rope>, null, <rustic:rope>],
+    [<minecraft:dye:4>, <rustic:rope>, <minecraft:dye:4>]]);
+
+recipes.addShaped(<stewprops:random_gas_01>, [
+    [<minecraft:dye:1>, <minecraft:iron_ingot>, <minecraft:dye:1>],
+    [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
+    [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+
+recipes.addShaped(<stewprops:magic_crystal_ball>, [
+    [null, <minecraft:quartz>, null],
+    [<minecraft:quartz>, null, <minecraft:quartz>],
+    [<minecraft:wool:15>, <minecraft:quartz>, <minecraft:wool:15>]]);
+
+recipes.addShaped(<stewprops:magic_stone_glowing_01>, [
+    [null, <minecraft:stone>, null],
+    [<minecraft:stone>, <minecraft:glowstone>, <minecraft:stone>],
+    [null, <minecraft:stone>, null]]);
+
+recipes.addShaped(<stewprops:random_magnet>, [
+    [null, <minecraft:iron_ingot>, null],
+    [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
+    [<minecraft:dye:4>, null, <minecraft:redstone>]]);
+
+recipes.addShaped(<stewprops:random_mirror>, [
+    [null, <minecraft:iron_ingot>, null],
+    [<minecraft:iron_ingot>, <ore:paneGlassColorless>, <minecraft:iron_ingot>],
+    [null, <minecraft:iron_ingot>, null]]);
+
+recipes.addShaped(<stewprops:random_opium_pipe>, [
+    [<ore:stickWood>, null, null],
+    [null, <ore:stickWood>, <ore:plankWood>],
+    [null, null, <ore:stickWood>]]);
+
+recipes.addShaped(<stewprops:random_spray>, [
+    [<minecraft:iron_nugget>, <industrialforegoing:plastic>, null],
+    [<industrialforegoing:plastic>, null, <industrialforegoing:plastic>],
+    [null, <industrialforegoing:plastic>, null]]);
+
+recipes.addShaped(<stewprops:random_bag>, [
+    [null, <minecraft:leather>, null],
+    [<minecraft:leather>, <ore:dyeGreen>, <minecraft:leather>],
+    [null, <minecraft:leather>, null]]);
+
+recipes.addShaped(<stewprops:random_container_02>, [
+    [<ore:dyeMagenta>, <industrialforegoing:plastic>, null],
+    [<industrialforegoing:plastic>, null, <industrialforegoing:plastic>],
+    [null, <industrialforegoing:plastic>, null]]);
+
+recipes.addShaped(<stewprops:random_container_03>, [
+    [<minecraft:iron_nugget>, <industrialforegoing:plastic>, null],
+    [<industrialforegoing:plastic>, <ore:paneGlassColorless>, <industrialforegoing:plastic>],
+    [null, <industrialforegoing:plastic>, null]]);
+
+recipes.addShaped(<stewprops:random_flask_metal>, [
+    [null, <minecraft:iron_ingot>, null],
+    [<minecraft:iron_ingot>, <minecraft:glass_bottle>, <minecraft:iron_ingot>],
+    [null, <minecraft:iron_ingot>, null]]);
+
+recipes.addShaped(<stewprops:random_upgrade>, [
+    [null, <ore:plateAluminum>, null],
+    [<ore:plateSteel>, null, <ore:plateSteel>],
+    [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]]);
+
+recipes.addShaped(<stewprops:random_urn>, [
+    [null, <ore:ingotBrick>, null],
+    [<ore:ingotBrick>, null, <ore:ingotBrick>],
+    [null, <ore:ingotBrick>, null]]);
+
+recipes.addShaped(<stewprops:random_waterskin>, [
+    [null, <minecraft:leather>, null],
+    [<minecraft:leather>, <minecraft:glass_bottle>, <minecraft:leather>],
+    [null, <minecraft:leather>, null]]);
+
+recipes.addShaped(<stewprops:tech_battery_00>, [
+    [null, <ore:plateSteel>, null],
+    [<ore:plateSteel>, <minecraft:redstone>, <ore:plateSteel>],
+    [<ore:plateSteel>, <minecraft:redstone>, <ore:plateSteel>]]);
+
+recipes.addShaped(<stewprops:tech_battery_03>, [
+    [null, <ore:plateLead>, null],
+    [<ore:plateSteel>, <minecraft:redstone>, <ore:plateSteel>],
+    [<ore:plateSteel>, <minecraft:redstone>, <ore:plateSteel>]]);
+
+recipes.addShaped(<stewprops:tech_cell_01>, [
+    [null, <ore:plateSteel>, null],
+    [<ore:plateSteel>, <ore:dyeRed>, <ore:plateSteel>],
+    [null, <ore:plateSteel>, null]]);
+
+recipes.addShaped(<stewprops:tech_cell_02>, [
+    [null, <ore:plateSteel>, null],
+    [<ore:plateSteel>, <ore:dyeYellow>, <ore:plateSteel>],
+    [null, <ore:plateSteel>, null]]);
+
+recipes.addShaped(<stewprops:tech_cell_03>, [
+    [null, <ore:plateSteel>, null],
+    [<ore:plateSteel>, <ore:dyeGreen>, <ore:plateSteel>],
+    [null, <ore:plateSteel>, null]]);
+
+recipes.addShaped(<stewprops:tech_cell_04>, [
+    [null, <ore:plateSteel>, null],
+    [<ore:plateSteel>, <ore:dyeBlue>, <ore:plateSteel>],
+    [null, <ore:plateSteel>, null]]);
+
+recipes.addShaped(<stewprops:tech_chip_00>, [
+    [null, <ore:plateIron>, null],
+    [<ore:nuggetIron>, <minecraft:paper>, <ore:plateIron>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_chip_01>, [
+    [<ore:plateIron>, null, <ore:plateIron>],
+    [<ore:plateIron>, <ore:dyeGreen>, <ore:plateIron>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_chip_02>, [
+    [null, <ore:plateIron>, null],
+    [<ore:nuggetGold>, <minecraft:paper>, <ore:plateIron>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_chip_03>, [
+    [null, <ore:plateIron>, null],
+    [<ore:plateIron>, <minecraft:paper>, <ore:plateIron>],
+    [null, <ore:nuggetGold>, null]]);
+
+recipes.addShaped(<stewprops:tech_chip_04>, [
+    [null, <ore:plateIron>, null],
+    [<ore:nuggetIron>, <ore:dyeBlack>, <ore:nuggetIron>],
+    [null, <ore:nuggetGold>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_00>, [
+    [null, <ore:plateIron>, null],
+    [<ore:plateSteel>, <ore:dyeYellow>, <ore:plateSteel>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_06>, [
+    [null, <ore:nuggetIron>, null],
+    [<ore:plateIron>, <ore:dyeBlack>, <ore:plateIron>],
+    [null, <minecraft:redstone>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_22>, [
+    [null, <ore:plateGold>, null],
+    [<ore:plateGold>, <minecraft:redstone>, <ore:plateGold>],
+    [null, <minecraft:gold_nugget>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_button>, [
+    [null, <ore:plateAluminum>, null],
+    [<ore:dyeYellow>, <minecraft:stone_button>, <ore:dyeBlack>],
+    [null, <ore:plateAluminum>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_pda_00>, [
+    [null, <ore:circuitBasic>, null],
+    [<ore:plateIron>, <mekanism:walkietalkie>, <ore:plateIron>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_pda_01>, [
+    [null, <ore:circuitBasic>, null],
+    [<ore:plateSteel>, <mekanism:walkietalkie>, <ore:plateSteel>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_pda_02>, [
+    [null, <ore:circuitBasic>, null],
+    [<ore:plateSteel>, <mekanism:walkietalkie>, <ore:plateSteel>],
+    [null, <ore:plateSteel>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_radio>, [
+    [<ore:ingotOsmium>, <ore:plateIron>, <ore:ingotOsmium>],
+    [<ore:ingotSteel>, <ore:circuitBasic>, <ore:ingotSteel>],
+    [<ore:plateIron>, <ore:ingotSteel>, <ore:plateIron>]]);
+
+recipes.addShaped(<stewprops:tech_device_remote>, [
+    [null, <ore:itemRubber>, null],
+    [<ore:itemRubber>, <ore:circuitBasic>, <ore:itemRubber>],
+    [null, <ore:itemRubber>, null]]);
+
+recipes.addShaped(<stewprops:tech_device_remote_1>, [
+    [null, <ore:itemRubber>, <ore:ingotOsmium>],
+    [<ore:itemRubber>, <ore:circuitBasic>, <ore:itemRubber>],
+    [null, <ore:itemRubber>, null]]);
+
+recipes.addShaped(<stewprops:tech_engine>, [
+    [null, <ore:plateIron>, null],
+    [<ore:wireCopper>, <minecraft:redstone>, <ore:wireCopper>],
+    [null, <ore:plateIron>, null]]);
+
+recipes.addShaped(<stewprops:tech_watches>, [
+    [null, <ore:circuitBasic>, null],
+    [<ore:itemRubber>, <minecraft:clock>, <ore:itemRubber>],
+    [null, <ore:itemRubber>, null]]);
+
+recipes.addShaped(<stewprops:gift_box_1>, [
+    [<ore:string>, <ore:woolGreen>, <ore:string>],
+    [<ore:woolGreen>, null, <ore:woolGreen>],
+    [null, <ore:woolGreen>, null]]);
+
+recipes.addShaped(<stewprops:gift_box_2>, [
+    [<ore:string>, <ore:blockWoolBlue>, <ore:string>],
+    [<ore:blockWoolBlue>, null, <ore:blockWoolBlue>],
+    [null, <ore:blockWoolBlue>, null]]);
+
+recipes.addShaped(<stewprops:gift_box_3>, [
+    [<ore:string>, <ore:woolRed>, <ore:string>],
+    [<ore:woolRed>, null, <ore:woolRed>],
+    [null, <ore:woolRed>, null]]);
+
+recipes.addShaped(<stewprops:gift_box_4>, [
+    [null, <ore:woolRed>, null],
+    [<ore:woolRed>, <ore:nuggetGold>, <ore:woolRed>],
+    [null, <ore:woolRed>, null]]);
+
+recipes.addShaped(<stewprops:gift_box_5>, [
+    [null, <ore:woolRed>, null],
+    [<ore:woolRed>, <ore:string>, <ore:woolRed>],
+    [null, <ore:woolRed>, null]]);
+
+
 recipes.addShapeless(<stewprops:bottle_big_brown>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyeBrown>]);
 
 recipes.addShapeless(<stewprops:bottle_big_purple>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyePurple>]);
 
 recipes.addShapeless(<stewprops:bottle_big_red>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyeRed>]);
-
-recipes.addShapeless(<stewprops:bottle_blood>, [<ore:itemEmptyBottle>, <ore:slimeballBlood>]);
 
 recipes.addShapeless(<stewprops:bottle_blue_00>, [<ore:dyeBlue>, <ore:itemEmptyBottle>]);
 
@@ -329,3 +573,133 @@ recipes.addShapeless(<stewprops:medicine_vial_02>, [<minecraft:glass_bottle>, <o
 recipes.addShapeless(<stewprops:medicine_vial_03>, [<minecraft:glass_bottle>, <ore:dyeBrown>]);
 
 recipes.addShapeless(<stewprops:medicine_vial_04>, [<minecraft:glass_bottle>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:alchemy_vitola>, [<ore:gemPrismarine>, <ore:dustGlowstone>]);
+
+recipes.addShapeless(<stewprops:box_green>, [<stewprops:box_brown>, <ore:dyeGreen>]);
+
+recipes.addShapeless(<stewprops:box_red>, [<stewprops:box_brown>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:box_yellow>, [<stewprops:box_brown>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:crystal_blue>, [<minecraft:flint>, <ore:dyeBlue>]);
+
+recipes.addShapeless(<stewprops:crystal_flaming>, [<minecraft:flint>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:crystal_green_spikes>, [<minecraft:flint>, <ore:dyeGreen>]);
+
+recipes.addShapeless(<stewprops:crystal_green_shard>, [<minecraft:flint>, <ore:dyeLime>]);
+
+recipes.addShapeless(<stewprops:crystal_purple>, [<minecraft:flint>, <ore:dyePurple>]);
+
+recipes.addShapeless(<stewprops:crystal_liquid_blue>, [<minecraft:flint>, <ore:dyeLightBlue>]);
+
+recipes.addShapeless(<stewprops:crystal_red_01>, [<minecraft:flint>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:crystal_red_00>, [<minecraft:flint>, <ore:dyePink>]);
+
+recipes.addShapeless(<stewprops:crystal_sharp>, [<minecraft:flint>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:crystal_white>, [<minecraft:quartz>, <minecraft:flint>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:crystal_yellow_00>, [<minecraft:quartz>, <minecraft:flint>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:crystal_yellow_01>, [<minecraft:quartz>, <minecraft:flint>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:magic_liquid_stone>, [<minecraft:quartz>, <minecraft:magma_cream>]);
+
+recipes.addShapeless(<stewprops:magic_strange_sphere>, [<minecraft:magma_cream>, <minecraft:slime_ball>]);
+
+recipes.addShapeless(<stewprops:random_junk_01>, [<minecraft:gold_nugget>, <minecraft:iron_nugget>, <ore:plankWood>]);
+
+recipes.addShapeless(<stewprops:random_leather>, [<minecraft:leather>]);
+
+recipes.addShapeless(<stewprops:random_paper>, [<minecraft:paper>]);
+
+recipes.addShapeless(<stewprops:random_packet_01>, [<minecraft:paper>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:random_card>, [<minecraft:paper>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:random_ticket>, [<minecraft:paper>, <ore:stickWood>]);
+
+recipes.addShapeless(<stewprops:random_paper_white>, [<minecraft:paper>, <minecraft:gold_nugget>]);
+
+recipes.addShapeless(<stewprops:random_paper_black>, [<minecraft:paper>, <ore:dyeBlack>, <minecraft:gold_nugget>]);
+
+recipes.addShapeless(<stewprops:random_skull>, [<minecraft:skull>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:random_powder_white>, [<minecraft:paper>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:random_pouch_00>, [<stewprops:pouch_generic>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:random_pouch_01>, [<stewprops:pouch_generic>, <ore:dyeBlack>]);
+
+recipes.addShapeless(<stewprops:pouch_blue>, [<stewprops:pouch_generic>, <ore:dyeLightBlue>]);
+
+recipes.addShapeless(<stewprops:pouch_yellow>, [<stewprops:pouch_generic>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:pouch_gray>, [<stewprops:pouch_generic>, <ore:dyeGray>]);
+
+recipes.addShapeless(<stewprops:pouch_green>, [<stewprops:pouch_generic>, <ore:dyeGreen>]);
+
+recipes.addShapeless(<stewprops:pouch_green_brown>, [<stewprops:pouch_generic>, <ore:dyeBrown>]);
+
+recipes.addShapeless(<stewprops:pouch_orange>, [<stewprops:pouch_generic>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:pouch_white>, [<stewprops:pouch_generic>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:nature_goo>, [<ore:slimeball>, <ore:dyePurple>]);
+
+recipes.addShapeless(<stewprops:perfume_06>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyeCyan>]);
+
+recipes.addShapeless(<stewprops:perfume_05>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:perfume_04>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:perfume_03>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyePurple>]);
+
+recipes.addShapeless(<stewprops:perfume_02>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:perfume_01>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyePink>]);
+
+recipes.addShapeless(<stewprops:perfume_00>, [<ore:allFlowers>, <minecraft:glass_bottle>, <ore:dyeBlue>]);
+
+recipes.addShapeless(<stewprops:random_beer_mug>, [<harvestcraft:rootbeerfloatitem>, <ore:plankWood>]);
+
+recipes.addShapeless(<stewprops:random_ball>, [<ore:stone>, <minecraft:flint>]);
+
+recipes.addShapeless(<stewprops:random_cloth_01>, [<ore:wool>, <minecraft:leather>]);
+
+recipes.addShapeless(<stewprops:tech_tube>, [<ore:electronTube>]);
+
+recipes.addShapeless(<stewprops:letter>, [<minecraft:paper>, <ore:feather>]);
+
+recipes.addShapeless(<stewprops:card_1>, [<stewprops:random_paper>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:card_2>, [<stewprops:random_paper>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:card_3>, [<stewprops:random_paper>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:card_4>, [<stewprops:random_paper>, <ore:dyeWhite>]);
+
+recipes.addShapeless(<stewprops:card_5>, [<stewprops:random_paper>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:card_6>, [<stewprops:random_paper>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:card_7>, [<stewprops:random_paper>, <ore:dyeRed>]);
+
+recipes.addShapeless(<stewprops:card_8>, [<stewprops:random_paper>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:card_9>, [<stewprops:random_paper>, <ore:dyeYellow>]);
+
+recipes.addShapeless(<stewprops:card_10>, [<stewprops:random_paper>, <ore:dyeBlue>]);
+
+recipes.addShapeless(<stewprops:card_11>, [<stewprops:random_paper>, <ore:dyeBlue>]);
+
+recipes.addShapeless(<stewprops:card_12>, [<stewprops:random_paper>, <ore:dyePurple>]);
+
+recipes.addShapeless(<stewprops:card_13>, [<stewprops:random_paper>, <ore:dyePurple>]);
+
+recipes.addShapeless(<stewprops:card_14>, [<stewprops:random_paper>, <ore:dyeOrange>]);
+
+recipes.addShapeless(<stewprops:dice>, [<ore:blockQuartz>, <minecraft:flint>]);
