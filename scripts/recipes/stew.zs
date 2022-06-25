@@ -64,6 +64,10 @@ for color in colors {
   }
 }
 
+Carving.addVariation("cladding", <stewblocks:ruin_machinery_orange>);
+Carving.addVariation("cladding", <stewblocks:ruin_machinery_green>);
+Carving.addVariation("cladding", <stewblocks:ruin_machinery_red>);
+
 for i in 0 to 16 {
   Carving.addVariation("carpet", <minecraft:carpet>.definition.makeStack(i));
 }
@@ -78,6 +82,9 @@ Carving.addVariation("carpet", <stewblocks:cloth_blanket_pink>);
 Carving.addVariation("carpet", <stewblocks:cloth_blanket_red>);
 Carving.addVariation("carpet", <stewblocks:cloth_hide_brown>);
 Carving.addVariation("carpet", <stewblocks:cloth_hide_white>);
+Carving.addVariation("carpet", <stewblocks:pillow_red>);
+Carving.addVariation("carpet", <stewblocks:pillow_green>);
+Carving.addVariation("carpet", <stewblocks:pillow_purple>);
 
 
 var rusticChairs = [
@@ -144,6 +151,7 @@ Carving.addVariation("red_brick", <stewblocks:brick_pink>);
 Carving.addVariation("red_brick", <stewblocks:brick_scarlet>);
 Carving.addVariation("red_brick", <stewblocks:brick_scarlet_mossy>);
 Carving.addVariation("red_brick", <stewblocks:brick_shabby_ocher>);
+Carving.addVariation("red_brick", <stewblocks:ruin_urian_brick_01>);
 
 Carving.addVariation("marble", <stewblocks:brick_plaster_base>);
 Carving.addVariation("marble", <stewblocks:brick_plaster_masonry>);
@@ -169,6 +177,30 @@ Carving.addVariation("marble", <stewblocks:marble_mixed_checkered_small>);
 Carving.addVariation("marble", <stewblocks:marble_mixed_diamond>);
 Carving.addVariation("marble", <stewblocks:marble_mixed_diamond_small>);
 Carving.addVariation("marble", <stewblocks:marble_mixed_frame>);
+Carving.addVariation("marble", <stewblocks:ruin_urban_messy_plaster>);
+Carving.addVariation("marble", <stewblocks:ruin_tomb_marble>);
+Carving.addVariation("marble", <stewblocks:ruin_tomb_marble_ornament>);
+Carving.addVariation("marble", <stewblocks:ruin_old_plaster_brick>);
+Carving.addVariation("marble", <stewblocks:ruin_old_plaster_base>);
+
+Carving.addVariation("basalt", <stewblocks:bedrock_bricks>);
+Carving.addVariation("basalt", <stewblocks:bedrock_bricks_mossy>);
+Carving.addVariation("basalt", <stewblocks:bedrock_small_bricks>);
+Carving.addVariation("basalt", <stewblocks:bedrock_small_bricks_damaged>);
+Carving.addVariation("basalt", <stewblocks:bedrock_smooth>);
+Carving.addVariation("basalt", <stewblocks:bedrock_capital_gargoyle>);
+Carving.addVariation("basalt", <stewblocks:bedrock_tile_square>);
+Carving.addVariation("basalt", <stewblocks:bedrock_brick_stairs>);
+Carving.addVariation("basalt", <stewblocks:bedrock_bricks_wavy>);
+Carving.addVariation("basalt", <stewblocks:bedrock_brick_slab>);
+Carving.addVariation("basalt", <stewblocks:bedrock_pillar>);
+Carving.addVariation("basalt", <stewblocks:bedrock_frize>);
+Carving.addVariation("basalt", <stewblocks:bedrock_masonry>);
+Carving.addVariation("basalt", <stewblocks:bedrock_writings>);
+Carving.addVariation("basalt", <stewblocks:bedrock_triglyph>);
+Carving.addVariation("basalt", <stewblocks:bedrock_warped>);
+Carving.addVariation("basalt", <stewblocks:ruin_eldritch_obsidian_sigil>);
+Carving.addVariation("basalt", <stewblocks:ruin_eldritch_stone_sigil>);
 
 Carving.addVariation("bookshelf", <stewblocks:shelf_books_faded>);
 Carving.addVariation("bookshelf", <stewblocks:shelf_supply>);
@@ -293,6 +325,11 @@ Carving.addVariation("railing_metal", <stewblocks:sheet_metal_blue>);
 Carving.addVariation("railing_metal", <stewblocks:sheet_metal_old>);
 Carving.addVariation("railing_metal", <stewblocks:sheet_metal_red>);
 Carving.addVariation("railing_metal", <stewblocks:metal_rough_louvers>);
+Carving.addVariation("railing_metal", <stewblocks:crusted_metal_thin>);
+Carving.addVariation("railing_metal", <stewblocks:crusted_metal_grid>);
+Carving.addVariation("railing_metal", <stewblocks:crusted_metal_plate>);
+Carving.addVariation("railing_metal", <stewblocks:fence_iron_spears>);
+Carving.addVariation("railing_metal", <stewblocks:fence_barbed_wire>);
 
 Carving.addVariation("railing_stone", <stewblocks:railing_stone>);
 Carving.addVariation("railing_stone", <stewblocks:railing_cobblestone>);
@@ -421,6 +458,7 @@ Carving.addVariation("barrel_wheat", <stewblocks:packed_wheat>);
 Carving.addVariation("barrel_wheat", <stewblocks:packed_grain>);
 
 Carving.addVariation("wooden_barrel", <stewblocks:furniture_wooden_barrel>);
+Carving.addVariation("wooden_barrel", <rustic:barrel>);
 
 Carving.addVariation("carboard_box", <mekanism:cardboardbox>);
 Carving.addVariation("carboard_box", <stewblocks:box_cardboard>);
@@ -450,6 +488,12 @@ Carving.addVariation("organic_object", <stewblocks:guts_red>);
 Carving.addVariation("organic_object", <stewblocks:organic_lightgray>);
 Carving.addVariation("organic_object", <stewblocks:organic_purple>);
 Carving.addVariation("organic_object", <stewblocks:organic_red>);
+Carving.addVariation("organic_object", <stewblocks:organic_blue>);
+Carving.addVariation("organic_object", <stewblocks:flesh_smooth>);
+Carving.addVariation("organic_object", <stewblocks:flesh_maw>);
+Carving.addVariation("organic_object", <stewblocks:flesh_eye>);
+Carving.addVariation("organic_object", <stewblocks:flesh_ribs>);
+Carving.addVariation("organic_object", <stewblocks:flesh_membrane>);
 
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:5>);
 Carving.addVariation("concrete", <immersiveengineering:stone_decoration:6>);
@@ -459,6 +503,11 @@ Carving.addVariation("concrete", <stewblocks:concrete_faded_capital>);
 Carving.addVariation("concrete", <stewblocks:concrete_faded_brick>);
 Carving.addVariation("concrete", <stewblocks:concrete_faded_pillar>);
 Carving.addVariation("concrete", <stewblocks:concrete_faded_cornice>);
+Carving.addVariation("concrete", <stewblocks:concrete_faded_cornice>);
+Carving.addVariation("concrete", <stewblocks:concrete_ornament>);
+Carving.addVariation("concrete", <stewblocks:concrete_dark_ornament_round>);
+Carving.addVariation("concrete", <stewblocks:ruin_urian_concrete_01>);
+Carving.addVariation("concrete", <stewblocks:ruin_urban_concrete_reinforced>);
 
 Carving.addVariation("asphalt", <immersivepetroleum:stone_decoration>);
 Carving.addVariation("asphalt", <stewblocks:asphalt>);
@@ -473,12 +522,41 @@ Carving.addVariation("glass", <stewblocks:window_wooden_asian>);
 Carving.addVariation("glass", <stewblocks:window_wooden_cross>);
 Carving.addVariation("glass", <stewblocks:window_wooden_square>);
 Carving.addVariation("glass", <stewblocks:window_wooden_web>);
+Carving.addVariation("glass", <stewblocks:glass_colorful_cross>);
+Carving.addVariation("glass", <stewblocks:glass_colorful_diamond>);
+Carving.addVariation("glass", <stewblocks:glass_colorful_vortex>);
+Carving.addVariation("glass", <stewblocks:glass_colorful_web>);
+Carving.addVariation("glass", <stewblocks:glass_frame_boarded_up>);
+Carving.addVariation("glass", <stewblocks:glass_frame>);
+Carving.addVariation("glass", <stewblocks:glass_futuristic_black>);
+Carving.addVariation("glass", <stewblocks:glass_futuristic_magenta>);
+Carving.addVariation("glass", <stewblocks:glass_lattice>);
+Carving.addVariation("glass", <stewblocks:glass_mica_black>);
+Carving.addVariation("glass", <stewblocks:glass_mica_blue>);
+Carving.addVariation("glass", <stewblocks:glass_mica_brown>);
+Carving.addVariation("glass", <stewblocks:glass_mica_cyan>);
+Carving.addVariation("glass", <stewblocks:glass_mica_gray>);
+Carving.addVariation("glass", <stewblocks:glass_mica_green>);
+Carving.addVariation("glass", <stewblocks:glass_mica_light_blue>);
+Carving.addVariation("glass", <stewblocks:glass_mica_lime>);
+Carving.addVariation("glass", <stewblocks:glass_mica_magenta>);
+Carving.addVariation("glass", <stewblocks:glass_mica_orange>);
+Carving.addVariation("glass", <stewblocks:glass_mica_pink>);
+Carving.addVariation("glass", <stewblocks:glass_mica_purple>);
+Carving.addVariation("glass", <stewblocks:glass_mica_red>);
+Carving.addVariation("glass", <stewblocks:glass_mica_silver>);
+Carving.addVariation("glass", <stewblocks:glass_mica_white>);
+Carving.addVariation("glass", <stewblocks:glass_mica_yellow>);
+Carving.addVariation("glass", <stewblocks:glass_twisted>);
+Carving.addVariation("glass", <stewblocks:glass_twisted_pane>);
 
 Carving.addVariation("brick_stone", <minecraft:stone>);
 Carving.addVariation("brick_stone", <minecraft:stonebrick>);
 Carving.addVariation("brick_stone", <minecraft:stonebrick:1>);
 Carving.addVariation("brick_stone", <minecraft:stonebrick:2>);
 Carving.addVariation("brick_stone", <minecraft:stonebrick:3>);
+Carving.addVariation("brick_stone", <stewblocks:ruin_urban_sewer_wall_01>);
+Carving.addVariation("brick_stone", <stewblocks:ruin_urban_sewer_wall_02>);
 
 Carving.addVariation("paper", <stewblocks:wallpaper_black>);
 Carving.addVariation("paper", <stewblocks:wallpaper_blue_pattern>);
@@ -505,6 +583,7 @@ Carving.addVariation("door_metal", <stewblocks:door_junk_broken>);
 Carving.addVariation("door_metal", <stewblocks:door_modern_blue>);
 Carving.addVariation("door_metal", <stewblocks:door_modern_gray>);
 Carving.addVariation("door_metal", <stewblocks:door_modern_green>);
+Carving.addVariation("door_metal", <stewblocks:door_crusted_metal_tagged>);
 
 Carving.addVariation("door_future", <stewblocks:door_air_lock>);
 Carving.addVariation("door_future", <stewblocks:door_blast_red>);
@@ -526,6 +605,7 @@ Carving.addVariation("door_wooden", <stewblocks:door_shutters_shut_dark>);
 Carving.addVariation("wood_oak", <minecraft:log>);
 Carving.addVariation("wood_oak", <stewblocks:wood_carved_zoak>);
 Carving.addVariation("wood_oak", <stewblocks:stripped_oak_log>);
+Carving.addVariation("wood_oak", <stewblocks:wooden_panel_oak>);
 
 Carving.addVariation("wood_spruce", <minecraft:log:1>);
 Carving.addVariation("wood_spruce", <stewblocks:wood_carved_spruce>);
@@ -538,6 +618,8 @@ Carving.addVariation("wood_birch", <stewblocks:stripped_birch_log>);
 Carving.addVariation("wood_jungle", <minecraft:log:3>);
 Carving.addVariation("wood_jungle", <stewblocks:wood_carved_jungle>);
 Carving.addVariation("wood_jungle", <stewblocks:stripped_jungle_log>);
+Carving.addVariation("wood_jungle", <stewblocks:wooden_beam_jungle>);
+Carving.addVariation("wood_jungle", <stewblocks:wooden_panel_jungle>);
 
 Carving.addVariation("wood_acacia", <minecraft:log2>);
 Carving.addVariation("wood_acacia", <stewblocks:wood_carved_acacia>);
@@ -547,6 +629,16 @@ Carving.addVariation("wood_acacia", <stewblocks:stripped_acacia_log>);
 Carving.addVariation("wood_dark_oak", <minecraft:log2:1>);
 Carving.addVariation("wood_dark_oak", <stewblocks:wood_carved_darkoak>);
 Carving.addVariation("wood_dark_oak", <stewblocks:stripped_dark_oak_log>);
+Carving.addVariation("wood_dark_oak", <stewblocks:wooden_panel_dark_oak>);
+
+Carving.addVariation("planks-oak", <stewblocks:wooden_logwall>);
+Carving.addVariation("planks-oak", <stewblocks:planks_overgrown>);
+Carving.addVariation("planks-oak", <stewblocks:planks_driftwood>);
+
+Carving.addVariation("planks-birch", <stewblocks:wooden_beam_birch>);
+
+Carving.addVariation("planks-dark-oak", <stewblocks:wooden_logwall_dark>);
+Carving.addVariation("planks-dark-oak", <stewblocks:wooden_beam_dark>);
 
 Carving.addVariation("roofing", <stewblocks:roofing_black>);
 Carving.addVariation("roofing", <stewblocks:roofing_blue>);
@@ -563,6 +655,18 @@ Carving.addVariation("roofing", <stewblocks:roofing_cyan_cracked>);
 Carving.addVariation("roofing", <stewblocks:roofing_gray_wavy>);
 Carving.addVariation("roofing", <stewblocks:roofing_green_slate>);
 Carving.addVariation("roofing", <stewblocks:roofing_cyan>);
+Carving.addVariation("roofing", <stewblocks:roofing_pink>);
+
+Carving.addVariation("ash", <biomesoplenty:ash_block>);
+Carving.addVariation("ash", <stewblocks:decayed_sand>);
+Carving.addVariation("ash", <stewblocks:decayed_dirt>);
+Carving.addVariation("ash", <stewblocks:decayed_log>);
+
+Carving.addVariation("taint", <stewblocks:taint_crust>);
+Carving.addVariation("taint", <stewblocks:taint_soil>);
+Carving.addVariation("taint", <stewblocks:taint_flesh>);
+Carving.addVariation("taint", <stewblocks:taint_growth>);
+Carving.addVariation("taint", <stewblocks:taint_fibres>);
 
 Carving.addVariation("plasteel", <stewblocks:plasteel_panel_aseptic>);
 Carving.addVariation("plasteel", <stewblocks:plasteel_panel_white_wayline>);
@@ -600,6 +704,8 @@ Carving.addVariation("plasteel", <stewblocks:plasteel_cell_ocherus>);
 
 Carving.addVariation("railing_glass", <stewblocks:railing_glass>);
 Carving.addVariation("railing_glass", <stewblocks:plasteel_window>);
+Carving.addVariation("railing_glass", <stewblocks:object_flat_mirror>);
+Carving.addVariation("railing_glass", <stewblocks:object_flat_mirror_fake>);
 
 Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_1>);
 Carving.addVariation("metal_block", <stewblocks:metal_rough_carved_2>);
@@ -626,6 +732,16 @@ Carving.addVariation("metal_block", <stewblocks:metal_rusty_pipe_pillar>);
 Carving.addVariation("metal_block", <stewblocks:metal_rusty_round_grate>);
 Carving.addVariation("metal_block", <stewblocks:metal_rusty_tubing>);
 Carving.addVariation("metal_block", <stewblocks:metal_rusty_scaffolding>);
+Carving.addVariation("metal_block", <stewblocks:crusted_metal>);
+Carving.addVariation("metal_block", <stewblocks:crusted_metal_machine>);
+Carving.addVariation("metal_block", <stewblocks:crusted_metal_slot>);
+Carving.addVariation("metal_block", <stewblocks:crusted_metal_tube>);
+Carving.addVariation("metal_block", <stewblocks:crusted_metal_grating>);
+Carving.addVariation("metal_block", <stewblocks:ruin_machinery_base_gray>);
+Carving.addVariation("metal_block", <stewblocks:ruin_machinery_tile_green>);
+Carving.addVariation("metal_block", <stewblocks:ruin_urban_tank_bloody>);
+Carving.addVariation("metal_block", <stewblocks:ruin_urban_tile_red>);
+Carving.addVariation("metal_block", <stewblocks:ruin_urban_rebar>);
 
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_blue>);
 Carving.addVariation("brick_plastered_window", <stewblocks:brick_plastered_window_orange>);
@@ -689,6 +805,8 @@ Carving.addVariation("diorite", <quark:world_stone_carved:1>);
 Carving.addVariation("diorite", <quark:world_stone_pavement:1>);
 Carving.addVariation("diorite", <rustic:diorite_pillar>);
 Carving.addVariation("diorite", <stewblocks:cobblestone_diorite>);
+Carving.addVariation("diorite", <stewblocks:ruin_urban_tile_white_damaged>);
+Carving.addVariation("diorite", <stewblocks:ruin_urban_tile_white>);
 
 Carving.addVariation("stone_mossy", <minecraft:mossy_cobblestone>);
 Carving.addVariation("stone_mossy", <stewblocks:stone_green_fetis_blaze>);
@@ -791,6 +909,12 @@ Carving.addVariation("sindarin", <stewblocks:sandstone_inscribed>);
 Carving.addVariation("sindarin", <stewblocks:sandstone_capital_eagle>);
 Carving.addVariation("sindarin", <stewblocks:sandstone_capital_face>);
 
+Carving.addVariation("mushroom", <stewblocks:plant_mushroom_grass>);
+Carving.addVariation("mushroom", <stewblocks:plant_dead_trunk>);
+Carving.addVariation("mushroom", <stewblocks:plant_crimson_cap>);
+Carving.addVariation("mushroom", <stewblocks:plant_deep_amanita>);
+Carving.addVariation("mushroom", <minecraft:red_mushroom>);
+
 var ingotBrick = <ore:ingotBrick>;
 ingotBrick.add(<biomesoplenty:mud_brick>);
 
@@ -827,6 +951,11 @@ for item in itemUtils.getItemsByRegexRegistryName(".*candle.*") {
 
 var foodFrograw = <ore:foodFrograw>;
 foodFrograw.add(<quark:frog_leg>);
+
+recipes.addShaped(<stewblocks:corpse_hanged>, [
+    [null, <minecraft:skull>, null],
+    [<minecraft:bone>, <minecraft:bone_block>, <minecraft:bone>],
+    [<minecraft:bone>, null, <minecraft:bone>]]);
 
 recipes.addShaped(<stewblocks:brick_plastered_gray> * 8, [
     [<ore:concrete>, <ore:ingotBrick>, <ore:concrete>],
@@ -884,19 +1013,28 @@ recipes.addShaped(<stewblocks:railing_stone> * 12, [
     [<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>]]);
 
 recipes.addShaped(<stewblocks:railing_brick> * 12, [
-    [<ore:slabBricks>, <ore:slabBricks>, <ore:slabBricks>],
-    [<ore:slabBricks>, <ore:slabBricks>, <ore:slabBricks>]]);
+    [<minecraft:stone_slab:4>, <minecraft:stone_slab:4>, <minecraft:stone_slab:4>],
+    [<minecraft:stone_slab:4>, <minecraft:stone_slab:4>, <minecraft:stone_slab:4>]]);
 
 recipes.addShaped(<stewblocks:railing_sandstone_smooth> * 12, [
-    [<ore:slabSandstone>, <ore:slabSandstone>, <ore:slabSandstone>],
-    [<ore:slabSandstone>, <ore:slabSandstone>, <ore:slabSandstone>]]);
+    [<minecraft:stone_slab:1>, <minecraft:stone_slab:1>, <minecraft:stone_slab:1>],
+    [<minecraft:stone_slab:1>, <minecraft:stone_slab:1>, <minecraft:stone_slab:1>]]);
+
+recipes.addShaped(<stewblocks:railing_marble_baluster> * 12, [
+    [<quark:stone_marble_slab>, <quark:stone_marble_slab>, <quark:stone_marble_slab>],
+    [<quark:stone_marble_slab>, <quark:stone_marble_slab>, <quark:stone_marble_slab>]]);
 
 recipes.addShaped(<stewblocks:railing_glass> * 6, [
     [<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],
     [<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>]]);
 
+recipes.addShapeless(<stewblocks:object_flat_wheel_wooden_01>, [<astikorcarts:wheel>]);
+recipes.addShapeless(<astikorcarts:wheel>, [<stewblocks:object_flat_wheel_wooden_01>]);
+recipes.addShapeless(<stewblocks:object_glowglobe_2>, [<minecraft:redstone_lamp>]);
+recipes.addShapeless(<stewblocks:taint_crust>, [<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "vitium"}]})]);
 recipes.addShapeless(<stewblocks:effect_smoke_black> * 4, [<ore:dyeBlack>]);
-recipes.addShapeless(<stewblocks:effect_fireflies> * 4, [<ore:firefly>]);
+recipes.addShapeless(<stewblocks:effect_blood_splashes> * 4, [<ore:dyeRed>]);
+recipes.addShapeless(<stewblocks:effect_fireflies> * 4, [<minecraft:glowstone_dust>]);
 recipes.addShapeless(<stewblocks:effect_flies> * 4, [<minecraft:rotten_flesh>]);
 recipes.addShapeless(<stewblocks:effect_matrix> * 4, [<immersivepetroleum:schematic>.reuse(), <ore:oc:materialTransistor>]);
 recipes.addShapeless(<stewblocks:effect_water_calm> * 4, [<ore:listAllwater>]);
@@ -953,6 +1091,11 @@ recipes.addShaped(<stewblocks:object_craneclaw> * 4, [
     [<ore:barsIron>, <ore:nuggetIron>, <ore:barsIron>],
     [null, <ore:barsIron>, null],
     [<ore:barsIron>, <ore:nuggetIron>, <ore:barsIron>]]);
+
+recipes.addShaped(<stewblocks:dense_roots>, [
+    [<rustic:core_root>, <rustic:core_root>, <rustic:core_root>],
+    [<rustic:core_root>, <rustic:core_root>, <rustic:core_root>],
+    [<rustic:core_root>, <rustic:core_root>, <rustic:core_root>]]);
 
 recipes.addShaped(<stewblocks:object_cranehook> * 2, [
     [null, <ore:barsIron>, null],
@@ -1047,6 +1190,7 @@ recipes.addShapeless(<stewblocks:object_flat_bones> * 4, [<ore:bone>, <ore:bone>
 recipes.addShapeless(<stewblocks:object_flat_book> * 2, [<minecraft:book>]);
 recipes.addShapeless(<stewblocks:object_flat_cards> * 4, [<stewblocks:railing_planks_oak>, <ore:paper>]);
 recipes.addShapeless(<stewblocks:object_flat_coins> * 3, [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]);
+recipes.addShapeless(<stewblocks:pile_metal_scrap> * 3, [<ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>]);
 
 recipes.addShaped(<stewblocks:object_flat_fanblade> * 4, [
     [<ore:stickWood>, null, <ore:stickWood>],
@@ -1067,8 +1211,8 @@ recipes.addShapeless(<stewblocks:object_flat_ice_floe> * 4, [<ore:blockPackedIce
 recipes.addShapeless(<stewblocks:object_flat_metal_patch> * 4, [<ore:plateIron>]);
 
 recipes.addShaped(<stewblocks:object_flat_rats>, [
-    [<ore:listAllRotten>, <ore:listAllRotten>, <ore:listAllRotten>],
-    [<ore:listAllRotten>, <ore:listAllRotten>, <ore:listAllRotten>]]);
+    [<minecraft:rotten_flesh>, <minecraft:rotten_flesh>, <minecraft:rotten_flesh>],
+    [<minecraft:rotten_flesh>, <minecraft:rotten_flesh>, <minecraft:rotten_flesh>]]);
 recipes.addShapeless(<minecraft:rotten_flesh> * 6, [<stewblocks:object_flat_rats>]);
 
 recipes.addShaped(<stewblocks:object_flat_sausages>, [

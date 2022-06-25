@@ -65,6 +65,9 @@ Carving.addGroup("light_modern");
 Carving.addGroup("stone_mossy");
 Carving.addGroup("brick_stone_window");
 Carving.addGroup("sindarin");
+Carving.addGroup("ash");
+Carving.addGroup("taint");
+Carving.addGroup("mushroom");
 
 Carving.addGroup("varied_banner");
 Carving.addGroup("varied_lamp");
