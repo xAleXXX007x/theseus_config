@@ -3,21 +3,9 @@ import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
   [ENG_1]:[
-      <misca:lock_mechanical:42>
-  ],
-  [ENG_2]:[
-      <misca:lock_mechanical:96>
-  ],
-  [ENG_3]:[
       <misca:lock_mechanical:158>
   ],
   [ARC_1]:[
-      <misca:lock_magical:42>
-  ],
-  [ARC_2]:[
-      <misca:lock_magical:96>
-  ],
-  [ARC_3]:[
       <misca:lock_magical:158>
   ],
 };
