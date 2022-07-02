@@ -164,8 +164,6 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:metal_device1:7>,
     <immersivepetroleum:metal_device>,
     <immersivepetroleum:metal_device:1>,
-    <immersivetech:metal_device>,
-    <immersivetech:stone_decoration>,
     <alternatingflux:connector>,
     <alternatingflux:connector:1>
   ],

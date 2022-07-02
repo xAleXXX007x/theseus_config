@@ -1,127 +1,5 @@
 {
   "block_stage": {
-    "techguns:simplemachine:9": [
-      "eng_one"
-    ],
-    "techguns:simplemachine:8": [
-      "eng_one"
-    ],
-    "techguns:multiblockmachine": [
-      "eng_two",
-      "mnf_two"
-    ],
-    "thaumcraft:arcane_workbench:*": [
-      "arc_one"
-    ],
-    "astralsorcery:blockmapdrawingtable": [
-      "enc_one"
-    ],
-    "alchemistry:atomizer:*": [
-      "chm_one"
-    ],
-    "astralsorcery:blockmachine:1": [
-      "arc_one"
-    ],
-    "astralsorcery:blockstarlightinfuser": [
-      "arc_two"
-    ],
-    "astralsorcery:blockmachine:0": [
-      "arc_two"
-    ],
-    "techguns:basicmachine:3": [
-      "inf_one"
-    ],
-    "techguns:basicmachine:2": [
-      "eng_one",
-      "mnf_one",
-      "chm_one"
-    ],
-    "techguns:basicmachine:1": [
-      "eng_one",
-      "mnf_one"
-    ],
-    "bewitchment:brazier:*": [
-      "mys_two"
-    ],
-    "immersiveengineering:metal_multiblock:13": [
-      "mnf_one"
-    ],
-    "alchemistry:fusion_controller:*": [
-      "chm_one"
-    ],
-    "ebwizardry:imbuement_altar": [
-      "mys_two"
-    ],
-    "thaumcraft:crucible:*": [
-      "arc_one"
-    ],
-    "thaumadditions:shadow_enchanter": [
-      "enc_one"
-    ],
-    "techguns:simplemachine2:8": [
-      "mnf_one",
-      "eng_one"
-    ],
-    "techguns:simplemachine2:9": [
-      "eng_three"
-    ],
-    "bewitchment:witches_oven:*": [
-      "mys_one"
-    ],
-    "techguns:multiblockmachine:10": [
-      "eng_two",
-      "mnf_two"
-    ],
-    "techguns:multiblockmachine:12": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
-    ],
-    "techguns:multiblockmachine:11": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
-    ],
-    "roots:offertory_plate": [
-      "mys_tree"
-    ],
-    "betternether:pig_statue_01:*": [
-      "disabled"
-    ],
-    "techguns:simplemachine:11": [
-      "mnf_one"
-    ],
-    "apotheosis:prismatic_altar": [
-      "enc_two"
-    ],
-    "bewitchment:distillery:*": [
-      "mys_one"
-    ],
-    "botania:runealtar": [
-      "arc_one"
-    ],
-    "astralsorcery:blockattunementrelay": [
-      "arc_one"
-    ],
-    "roots:bonfire": [
-      "mys_one"
-    ],
-    "immersiveengineering:metal_device1:7": [
-      "mnf_one"
-    ],
-    "minecraft:brewing_stand:*": [
-      "alc_one"
-    ],
-    "immersiveengineering:wooden_device0:2": [
-      "mnf_one",
-      "eng_one"
-    ],
-    "bewitchment:crystal_ball:*": [
-      "mys_two"
-    ],
-    "immersiveengineering:metal_device1:13": [
-      "mnf_one"
-    ],
     "alchemistry:chemical_combiner:*": [
       "chm_one"
     ],
@@ -134,20 +12,35 @@
     "roots:imbuer": [
       "mys_two"
     ],
+    "thaumcraft:arcane_workbench:*": [
+      "arc_one"
+    ],
     "astralsorcery:blockaltar:0": [
       "arc_one"
     ],
-    "techguns:basicmachine": [
-      "eng_one"
-    ],
     "rustic:condenser:*": [
       "alc_one"
+    ],
+    "astralsorcery:blockmapdrawingtable": [
+      "enc_one"
+    ],
+    "alchemistry:atomizer:*": [
+      "chm_one"
     ],
     "alchemistry:liquifier:*": [
       "chm_one"
     ],
     "alchemistry:evaporator:*": [
       "chm_one"
+    ],
+    "astralsorcery:blockmachine:1": [
+      "arc_one"
+    ],
+    "astralsorcery:blockstarlightinfuser": [
+      "arc_two"
+    ],
+    "astralsorcery:blockmachine:0": [
+      "arc_two"
     ],
     "thaumcraft:smelter_void:*": [
       "arc_three"
@@ -161,8 +54,17 @@
     "rustic:condenser_advanced:*": [
       "alc_one"
     ],
+    "bewitchment:brazier:*": [
+      "mys_two"
+    ],
     "endreborn:block_end_forge:*": [
       "mys_one"
+    ],
+    "immersiveengineering:metal_multiblock:13": [
+      "mnf_one"
+    ],
+    "alchemistry:fusion_controller:*": [
+      "chm_one"
     ],
     "astralsorcery:blockattunementaltar": [
       "arc_three"
@@ -185,8 +87,14 @@
     "alchemistry:electrolyzer:*": [
       "chm_one"
     ],
+    "ebwizardry:imbuement_altar": [
+      "mys_two"
+    ],
     "vehicle:workstation:*": [
       "eng_one"
+    ],
+    "thaumcraft:crucible:*": [
+      "arc_one"
     ],
     "astralsorcery:blockaltar:3": [
       "arc_three"
@@ -197,13 +105,14 @@
     "astralsorcery:blockaltar:1": [
       "arc_two"
     ],
+    "thaumadditions:shadow_enchanter": [
+      "enc_one"
+    ],
     "astralsorcery:blockaltar:2": [
       "arc_two"
     ],
-    "techguns:multiblockmachine:13": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
+    "bewitchment:witches_oven:*": [
+      "mys_one"
     ],
     "immersivetech:metal_multiblock": [
       "mnf_one"
@@ -211,11 +120,17 @@
     "botanicadds:elven_altar": [
       "arc_two"
     ],
+    "roots:offertory_plate": [
+      "mys_tree"
+    ],
     "astralsorcery:blockborehead:0": [
       "arc_three"
     ],
     "minecraft:enchanting_table": [
       "enc_one"
+    ],
+    "betternether:pig_statue_01:*": [
+      "disabled"
     ],
     "immersiveengineering:stone_device:2": [
       "mnf_one"
@@ -226,54 +141,48 @@
     "astralsorcery:blockbore": [
       "arc_three"
     ],
+    "apotheosis:prismatic_altar": [
+      "enc_two"
+    ],
     "immersivepetroleum:metal_multiblock": [
       "mnf_one"
     ],
     "immersivetech:stone_multiblock:*": [
       "mnf_one"
     ],
-    "techguns:multiblockmachine:8": [
-      "eng_two",
-      "mnf_two"
-    ],
     "endreborn:entropy_user:*": [
       "mys_one"
-    ],
-    "techguns:multiblockmachine:9": [
-      "eng_two",
-      "mnf_two"
     ],
     "ebwizardry:arcane_workbench": [
       "mys_one"
     ],
-    "techguns:multiblockmachine:4": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
-    ],
-    "techguns:multiblockmachine:5": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
-    ],
     "thaumcraft:wand_workbench:*": [
       "arc_one"
     ],
-    "techguns:multiblockmachine:2": [
-      "eng_two",
-      "mnf_two"
+    "bewitchment:distillery:*": [
+      "mys_one"
     ],
-    "techguns:multiblockmachine:3": [
-      "eng_two",
-      "mnf_two",
-      "chm_one"
+    "botania:runealtar": [
+      "arc_one"
     ],
-    "techguns:multiblockmachine:1": [
-      "eng_two",
-      "mnf_two"
+    "astralsorcery:blockattunementrelay": [
+      "arc_one"
+    ],
+    "roots:bonfire": [
+      "mys_one"
+    ],
+    "immersiveengineering:metal_device1:7": [
+      "mnf_one"
+    ],
+    "minecraft:brewing_stand:*": [
+      "alc_one"
     ],
     "thaumcraft:smelter_thaumium:*": [
       "arc_two"
+    ],
+    "immersiveengineering:wooden_device0:2": [
+      "mnf_one",
+      "eng_one"
     ],
     "alchemistry:fission_controller:*": [
       "chm_one"
@@ -302,7 +211,13 @@
     "immersivetech:metal_multiblock:4": [
       "mnf_one"
     ],
+    "bewitchment:crystal_ball:*": [
+      "mys_two"
+    ],
     "immersivetech:metal_multiblock:6": [
+      "mnf_one"
+    ],
+    "immersiveengineering:metal_device1:13": [
       "mnf_one"
     ],
     "astralsorcery:blockborehead:1": [

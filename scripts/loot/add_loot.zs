@@ -49,18 +49,6 @@ var lootTablesTier1 = [
   "minecraft:chests/woodland_mansion",
   "mysticalworld:chests/hut",
   "quark:chests/pirate_chest",
-  "roots:barrow",
-  "roots:hut",
-  "techguns:blocks/military_crate_ammo",
-  "techguns:blocks/military_crate_armor",
-  "techguns:blocks/military_crate_explosives",
-  "techguns:blocks/military_crate_generic",
-  "techguns:blocks/military_crate_gun",
-  "techguns:blocks/military_crate_medical",
-  "techguns:chests/factory_building",
-  "techguns:chests/gasstation",
-  "techguns:chests/small_trainstation",
-  "techguns:chests/survivor_hideout",
   "thaumicaugmentation:block/loot_common",
   "thaumicaugmentation:block/loot_uncommon",
   "thaumicaugmentation:generic/pedestal_uncommon"
@@ -76,18 +64,13 @@ var lootTablesTier2 = [
   "minecraft:chests/simple_dungeon",
   "minecraft:chests/stronghold_corridor",
   "minecraft:chests/stronghold_crossing",
-  "techguns:chests/policestation"
 ] as string[];
 
 var lootTablesTier3 = [
   "loot:tier3",
   "minecraft:chests/end_city_treasure",
-  "techguns:chests/militarybase_bunker",
-  "techguns:chests/militarybase_barracks",
   "thaumicaugmentation:block/loot_rare",
   "thaumicaugmentation:generic/pedestal_rare",
-  "techguns:chests/aircraftcarrier",
-  "techguns:chests/castle",
   "minecraft:chests/stronghold_library"
 ] as string[];
 

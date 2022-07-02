@@ -7,7 +7,7 @@ var stagedItems as IIngredient[][string] = {
     <roots:wildwood_door>,
     <roots:pestle>,
     <roots:mortar>,
-    <roots:bonfire>
+    <roots:pyre>
   ],
   [MYS_2]:[
     <roots:component_pouch>,
@@ -16,11 +16,12 @@ var stagedItems as IIngredient[][string] = {
     <roots:fey_crafter>,
     <roots:unending_bowl>,
     <roots:grove_stone>,
-    <roots:fey_crafter>
+    <roots:fey_crafter>,
+    <roots:reinforced_pyre>
   ],
   [MYS_3]:[
     <roots:apothecary_pouch>,
-    <roots:offertory_plate>
+    <roots:reinforced_catalyst_plate>
   ],
   [SMT_1]:[
     <roots:iron_knife>,

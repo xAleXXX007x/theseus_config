@@ -28,7 +28,7 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "-00:00",
+        "timezone": "Z",
         "scale": 1.0
       }
     },
@@ -42,7 +42,7 @@
         "dice": 0
       },
       "time": {
-        "timezone": "-00:00",
+        "timezone": "Z",
         "scale": 1.0
       }
     },
@@ -56,7 +56,7 @@
         "dice": 999999999
       },
       "time": {
-        "timezone": "-00:00",
+        "timezone": "Z",
         "scale": 1.0
       }
     },
@@ -70,7 +70,7 @@
         "dice": 4500000
       },
       "time": {
-        "timezone": "-00:00",
+        "timezone": "Z",
         "scale": 1.0
       }
     }
@@ -158,17 +158,6 @@
       "engineersdoors:door_treated": "door",
       "engineersdoors:door_treated_ornate": "door",
       "engineersdoors:door_treated_reinforced": "door",
-      "erebus:door_amber": "door",
-      "erebus:door_petrified_wood": "door",
-      "erebus:door_baobab": "door",
-      "erebus:door_eucalyptus": "door",
-      "erebus:door_mahogany": "door",
-      "erebus:door_mossbark": "door",
-      "erebus:door_asper": "door",
-      "erebus:door_cypress": "door",
-      "erebus:door_rotten": "door",
-      "erebus:door_marshwood": "door",
-      "erebus:door_scorched": "door",
       "bewitchment:juniper_chest": "single",
       "bewitchment:dragons_blood_chest": "single",
       "quark:custom_chest": "adjacent",
@@ -177,7 +166,6 @@
       "quark:custom_chest:3": "adjacent",
       "quark:custom_chest:4": "adjacent",
       "thaumcraft:hungry_chest": "single",
-      "erebus:petrified_wood_chest": "adjacent",
       "engineersdecor:labeled_crate": "single",
       "minecraft:spruce_door": "door",
       "minecraft:birch_door": "door",
@@ -206,11 +194,7 @@
       "biomesoplenty:ebony_door": "door",
       "biomesoplenty:eucalyptus_door": "door",
       "rustic:olive_door": "door",
-      "rustic:ironwood_door": "door",
-      "techguns:item_door3x3": "door",
-      "techguns:item_door3x3:1": "door",
-      "techguns:item_door3x3:2": "door",
-      "techguns:item_bunkerdoor": "door"
+      "rustic:ironwood_door": "door"
     },
     "setupKeysCount": 2,
     "defaultPinPositions": 3,
