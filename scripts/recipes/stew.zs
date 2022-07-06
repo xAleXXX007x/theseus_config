@@ -979,7 +979,7 @@ recipes.addShaped(<stewblocks:metal_rough_louvers_full> * 16, [
 
 recipes.addShaped(<stewblocks:warp_dreg> * 8, [
     [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
-    [<ore:blockGlass>, <techguns:itemshared:61>, <ore:blockGlass>],
+    [<ore:blockGlass>, <ore:itemSlag>, <ore:blockGlass>],
     [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>]]);
 
 recipes.addShaped(<stewblocks:shelf_books_faded> * 4, [
@@ -1125,7 +1125,7 @@ recipes.addShaped(<stewblocks:object_chandelier> * 4, [
     [<ore:blockCandle>, <rustic:chandelier>, <ore:blockCandle>],
     [null, <ore:blockCandle>, null]]);
 
-recipes.addShapeless(<stewblocks:object_light_bulb>, [<techguns:lamp0>]);
+recipes.addShapeless(<stewblocks:object_light_bulb> * 4, [<minecraft:redstone_lamp>]);
 
 recipes.addShaped(<stewblocks:object_meat>, [
     [<minecraft:beef>],
@@ -1157,7 +1157,7 @@ recipes.addShaped(<stewblocks:object_stalacnite> * 4, [
 
 recipes.addShaped(<stewblocks:object_transmitter> * 8, [
     [<ore:oc:circuitChip1>],
-    [<techguns:itemshared:57>]]);
+    [<ore:plateIron>]]);
 
 recipes.addShapeless(<stewblocks:object_onions>, [<ore:cropOnion>, <ore:cropOnion>, <ore:cropOnion>, <ore:cropOnion>, <ore:cropOnion>, <ore:cropOnion>]);
 recipes.addShapeless(<harvestcraft:onionitem> * 6, [<stewblocks:object_onions>]);
@@ -1338,7 +1338,7 @@ recipes.addShapeless(<stewblocks:wallgap_stonebrick_rhombus> * 4, [<ore:bricksSt
 
 recipes.addShaped(<stewblocks:scrap_generator> * 4, [
     [null, <ore:plateIron>, null],
-    [<ore:plateIron>, <techguns:itemshared:57>, <ore:plateIron>],
+    [<ore:plateIron>, <stewitems:techguns_mechanicalpartsiron>, <ore:plateIron>],
     [null, <ore:plateIron>, null]]); 
 
 recipes.addShaped(<stewblocks:furniture_mirror_wooden>, [

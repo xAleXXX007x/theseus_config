@@ -36,7 +36,7 @@ recipes.addShaped(<stewitems:medicine_sotocvet> * 3,[
 
 recipes.addShaped(<stewitems:medicine_kanai> * 2,[
     [<minecraft:tallgrass:2>, <ore:listAllsugar>, <minecraft:tallgrass:2>],
-    [<techguns:itemshared:61>, <stewitems:rubbing_alcohol>, <techguns:itemshared:61>],
+    [<ore:slimeball>, <stewitems:rubbing_alcohol>, <ore:slimeball>],
     [<minecraft:tallgrass:2>, <ore:listAllsugar>, <minecraft:tallgrass:2>]]);
 
 recipes.addShaped(<stewitems:medicine_kazachban>,[
@@ -63,7 +63,7 @@ recipes.addShaped(<stewitems:medicine_scomen>,[
 
 recipes.addShaped(<stewitems:medicine_serebrolist>,[
     [<stewitems:laudanum>, <thaumcraft:leaves_silverwood>, <stewprops:paste_herbal>],
-    [<thaumcraft:leaves_silverwood>, <techguns:itemshared:61>, <thaumcraft:leaves_silverwood>],
+    [<thaumcraft:leaves_silverwood>, <ore:slimeball>, <thaumcraft:leaves_silverwood>],
     [<stewprops:paste_herbal>, <thaumcraft:leaves_silverwood>, <stewitems:laudanum>]]);
 
 recipes.addShaped(<stewitems:medicine_bandage_2> * 2, [
@@ -77,7 +77,7 @@ recipes.addShaped(<stewitems:medicine_bandage_2> * 2, [
 
 recipes.addShaped(<stewitems:medicine_blood>, [
     [null, <bewitchment:bottle_of_blood>, null],
-    [<bewitchment:bottle_of_blood>, <techguns:itemshared:146>, <bewitchment:bottle_of_blood>],
+    [<bewitchment:bottle_of_blood>, <stewitems:techguns_infusionbag>, <bewitchment:bottle_of_blood>],
     [null, <bewitchment:bottle_of_blood>, null]]);
 
 recipes.addShaped(<stewitems:medicine_inhaler>, [
@@ -117,7 +117,7 @@ recipes.addShaped(<stewitems:medicine_corpideks>, [
 
 recipes.addShaped(<stewitems:medicine_nicotine_gum> * 4, [
     [null, <ore:itemRawRubber>, null],
-    [<ore:itemRawRubber>, <techguns:itemshared:61>, <ore:itemRawRubber>],
+    [<stewitems:techguns_rubberbar>, <stewitems:tobacco_leaves_6>, <stewitems:techguns_rubberbar>],
     [null, <ore:itemRawRubber>, null]]);
 
 recipes.addShaped(<stewitems:medicine_yoln_tear>, [

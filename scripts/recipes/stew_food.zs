@@ -1,8 +1,8 @@
 
 recipes.addShaped(<stewitems:food_bottle_water>, [
     [null, <minecraft:stone_button>, null],
-    [<techguns:itemshared:55>, <minecraft:water_bucket>, <techguns:itemshared:55>],
-    [<techguns:itemshared:55>, <techguns:itemshared:55>, <techguns:itemshared:55>]]);
+    [<industrialforegoing:plastic>, <minecraft:water_bucket>, <industrialforegoing:plastic>],
+    [<industrialforegoing:plastic>, <industrialforegoing:plastic>, <industrialforegoing:plastic>]]);
 
 recipes.addShaped(<stewitems:food_canned_berries>, [
     [<ore:listAllberry>, <ore:listAllberry>, <ore:listAllberry>],

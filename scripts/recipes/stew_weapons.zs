@@ -131,22 +131,22 @@ recipes.addShapeless(<stewweapons:light_item>, [<minecraft:cobblestone>, <minecr
 recipes.addShaped(<stewweapons:blader_cutter>, [
 	[<thermalfoundation:material:657>, <ore:gearIron>, <ore:plateSteel>], 
 	[<ore:plateSteel>, <thermalfoundation:material:640>, <ore:plateSteel>], 
-	[null, <techguns:itemshared:33>, <thermalexpansion:capacitor>]]);
+	[null, <stewitems:techguns_mechanicalpartsobsidiansteel>, <thermalexpansion:capacitor>]]);
 
 recipes.addShaped(<stewweapons:blader_cutter_1>, [
-	[<techguns:itemshared:123>, <ore:gearSteel>, <ore:plateCarbon>], 
-	[<ore:gearSteel>, <stewweapons:blader_cutter>, <ore:plateCarbon>], 
-	[null, <techguns:itemshared:34>, <ore:plateCarbon>]]);
+	[<stewitems:techguns_mechanicalpartsobsidiansteel>, <ore:gearSteel>, <stewitems:techguns_platecarbon>], 
+	[<ore:gearSteel>, <stewweapons:blader_cutter>, <stewitems:techguns_platecarbon>], 
+	[null, <stewitems:techguns_pumpmechanism>, <stewitems:techguns_platecarbon>]]);
 
 recipes.addShaped(<stewweapons:chainsaw>, [
-	[<techguns:itemshared:123>, <ore:plateCarbon>, <techguns:itemshared:58>], 
-	[<techguns:itemshared:58>, <thermalexpansion:capacitor>, <ore:plateCarbon>], 
-	[null, <ore:plateCarbon>, <techguns:itemshared:34>]]);
+	[<stewitems:techguns_mechanicalpartsobsidiansteel>, <stewitems:techguns_platecarbon>, <rustic:chain>], 
+	[<ore:gearSteel>, <thermalexpansion:capacitor>, <stewitems:techguns_platecarbon>], 
+	[null, <stewitems:techguns_platecarbon>, <stewitems:techguns_pumpmechanism>]]);
 
 recipes.addShaped(<stewweapons:chainsaw_1>, [
 	[<thermalfoundation:material:657>, <ore:plateIron>, null], 
-	[<techguns:itemshared:57>, <thermalexpansion:capacitor>, <techguns:itemshared:57>], 
-	[null, <ore:plateIron>, <techguns:itemshared:33>]]);
+	[<rustic:chain>, <thermalexpansion:capacitor>, <stewitems:techguns_pumpmechanism>], 
+	[null, <ore:plateIron>, <stewitems:techguns_mechanicalpartsobsidiansteel>]]);
 
 recipes.addShaped(<stewweapons:crystal_sword>, [
 	[null, <ebwizardry:grand_crystal>, null], 
@@ -156,17 +156,17 @@ recipes.addShaped(<stewweapons:crystal_sword>, [
 recipes.addShaped(<stewweapons:deepdrill>, [
 	[<thermalfoundation:material:656>, <ore:gearSteel>, <ore:plateSteel>], 
 	[<ore:plateSteel>, <thermalexpansion:capacitor>, <thermalfoundation:material:640>], 
-	[null, <ore:gearSteel>, <techguns:itemshared:33>]]);
+	[null, <ore:gearSteel>, <stewitems:techguns_mechanicalpartsobsidiansteel>]]);
 
 recipes.addShaped(<stewweapons:negotiator>, [
-	[<immersiveengineering:metal_decoration0:2>, null, null], 
-	[null, <techguns:itemshared:68>, null], 
+	[<immersiveengineering:metal_decoration0:2>, <stewitems:techguns_mechanicalpartsiron>, null], 
+	[<stewitems:techguns_mechanicalpartsiron>, <stewitems:techguns_coil>, null], 
 	[null, null, <ore:stickAluminum>]]);
 
 recipes.addShaped(<stewweapons:plasma_torch>, [
-	[null, <techguns:itemshared:68>, null], 
-	[<techguns:itemshared:68>, <ore:stickAluminum>, <techguns:itemshared:68>], 
-	[null, <techguns:itemshared:68>, <immersiveengineering:metal_decoration0:2>]]);
+	[null, <stewitems:techguns_mechanicalpartsiron>, null], 
+	[<stewitems:techguns_coil>, <ore:stickAluminum>, <stewitems:techguns_coil>], 
+	[null, <stewitems:techguns_pumpmechanism>, <immersiveengineering:metal_decoration0:2>]]);
 
 recipes.addShaped(<stewweapons:poison_dagger>, [
 	[null, <ebwizardry:poison_bomb>, null], 
@@ -175,12 +175,12 @@ recipes.addShaped(<stewweapons:poison_dagger>, [
 
 recipes.addShaped(<stewweapons:shock_baton>, [
 	[null, null, <immersiveengineering:metal_decoration0:2>], 
-	[<techguns:itemshared:57>, <techguns:itemshared:68>, <techguns:itemshared:57>], 
+	[<stewitems:techguns_mechanicalpartsiron>, <stewitems:techguns_coil>, <stewitems:techguns_mechanicalpartsiron>], 
 	[<ore:stickAluminum>, null, null]]);
 
 recipes.addShaped(<stewweapons:thermal_blade>, [
-	[null, null, <techguns:itemshared:68>], 
-	[<ore:stickAluminum>, <techguns:itemshared:68>, null], 
+	[null, null, <stewitems:techguns_coil>], 
+	[<ore:stickAluminum>, <stewitems:techguns_coil>, null], 
 	[<ore:stickAluminum>, <thermalexpansion:capacitor>, null]]);
 
 recipes.addShaped(<stewweapons:vibroblade>, [
@@ -201,17 +201,17 @@ recipes.addShaped(<stewweapons:garmonizator>, [
 recipes.addShaped(<stewweapons:drill>, [
 	[<ore:stickSteel>, null, null], 
 	[<ore:plateSteel>, <ore:stickSteel>, <ore:plateSteel>], 
-	[null, <thermalexpansion:capacitor>, <techguns:itemshared:33>]]);
+	[null, <thermalexpansion:capacitor>, <stewitems:techguns_mechanicalpartsiron>]]);
 
 recipes.addShaped(<stewweapons:dragon_wrath>, [
 	[null, null, <ore:rodBlaze>], 
-	[<techguns:itemshared:68>, <ore:rodBlaze>, null], 
+	[<stewitems:techguns_coil>, <ore:rodBlaze>, null], 
 	[<ore:stickAluminum>, <thermalexpansion:capacitor>, null]]);
 
 recipes.addShaped(<stewweapons:hand_drill>, [
 	[<ore:ingotSteel>, null, null], 
 	[<ore:ingotSteel>, <stewweapons:drill>, <ore:circuitBasic>], 
-	[null, <techguns:itemshared:68>, <techguns:itemshared:34>]]);
+	[null, <stewitems:techguns_coil>, <stewitems:techguns_mechanicalpartsobsidiansteel>]]);
 
 recipes.addShaped(<stewweapons:anicent_blade>, [
 	[null, null, <ore:ingotVoid>], 
@@ -221,7 +221,7 @@ recipes.addShaped(<stewweapons:anicent_blade>, [
 recipes.addShaped(<stewweapons:kris>, [
 	[<ore:ingotSteel>, null, null], 
 	[null, <ore:ingotSteel>, null], 
-	[null, null, <spartanweaponry:material>]]);
+	[null, null, <ore:stickTreatedWood>]]);
 
 recipes.addShaped(<stewweapons:blue_laser_sword>, [
 	[null, null, null], 
@@ -244,7 +244,7 @@ recipes.addShaped(<stewweapons:cutter>, [
 	[null, <ore:battery>, null]]);
 
 recipes.addShaped(<stewweapons:positron_opressor>, [
-	[<techguns:itemshared:68>, <immersiveengineering:metal_decoration0:2>, <techguns:itemshared:68>], 
+	[<stewitems:techguns_coil>, <immersiveengineering:metal_decoration0:2>, <stewitems:techguns_coil>], 
 	[null, <ore:alloyUltimate>, null], 
 	[null, <ore:ingotSteel>, null]]);
 
@@ -276,17 +276,17 @@ recipes.addShaped(<stewweapons:solid_light_baton>, [
 recipes.addShaped(<stewweapons:winged_sword>, [
 	[null, null, <ore:ingotTitanium>], 
 	[<ore:ingotLemurite>, <ore:ingotTitanium>, null], 
-	[<spartanweaponry:material>, <ore:ingotLemurite>, null]]);
+	[<ore:stickTreatedWood>, <ore:ingotLemurite>, null]]);
 
 recipes.addShaped(<stewweapons:electroaxe>, [
-	[<ore:alloyUltimate>, <techguns:itemshared:68>, null], 
+	[<ore:alloyUltimate>, <stewitems:techguns_coil>, null], 
 	[<ore:alloyUltimate>, <ore:battery>, null], 
 	[null, <ore:ingotSteel>, null]]);
 
 recipes.addShaped(<stewweapons:energy_glavie>, [
-	[null, <techguns:itemshared:68>, <ore:alloyUltimate>], 
+	[null, <stewitems:techguns_coil>, <ore:alloyUltimate>], 
 	[null, <ore:battery>, null], 
-	[<ore:alloyUltimate>, <techguns:itemshared:68>, null]]);
+	[<ore:alloyUltimate>, <stewitems:techguns_coil>, null]]);
 
 recipes.addShaped(<stewweapons:industrial_hammer>, [
 	[<ore:alloyElite>, <ore:battery>, <ore:alloyElite>], 

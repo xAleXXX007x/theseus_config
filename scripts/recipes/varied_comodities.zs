@@ -97,7 +97,7 @@ recipes.addShaped(<variedcommodities:crate>, [
 
 recipes.addShaped(<variedcommodities:carpentry_bench>, [
 	[null, null, null], 
-	[<ore:stickWood>, <techguns:itemshared:57>, <ore:stickWood>], 
+	[<ore:stickWood>, <stewitems:techguns_mechanicalpartsiron>, <ore:stickWood>], 
 	[<ore:stickWood>, <ore:craftingTableWood>, <ore:stickWood>]]);
 
 recipes.addShaped(<variedcommodities:book>, [
@@ -131,12 +131,12 @@ recipes.addShaped(<variedcommodities:wrench>, [
 	[<ore:plateIron>, null, null]]);
 
 recipes.addShaped(<variedcommodities:swiss_army_knife>, [
-	[null, <techguns:itemshared:57>, <ore:ingotIron>], 
+	[null, <stewitems:techguns_rubberbar>, <ore:ingotIron>], 
 	[<ore:ingotIron>, <ore:plateIron>, null], 
 	[<ore:ingotIron>, null, null]]);
 
 recipes.addShaped(<variedcommodities:pipe_wrench>, [
-	[null, <ore:plateIron>, <techguns:itemshared:57>], 
+	[null, <ore:plateIron>, <stewitems:techguns_mechanicalpartsiron>], 
 	[null, null, <ore:plateIron>], 
 	[null, null, <ore:ingotIron>]]);
 
@@ -158,12 +158,12 @@ recipes.addShaped(<variedcommodities:batton>, [
 recipes.addShaped(<variedcommodities:sai>, [
 	[null, <ore:ingotIron>, <ore:plateIron>], 
 	[null, <ore:plateIron>, <ore:ingotIron>], 
-	[<spartanweaponry:material>, null, null]]);
+	[<ore:stickTreatedWood>, null, null]]);
 
 recipes.addShaped(<variedcommodities:bo_staff>, [
-	[null, null, <spartanweaponry:material:1>], 
+	[null, null, <ore:stickTreatedWood>], 
 	[null, <ore:plateIron>, null], 
-	[<spartanweaponry:material:1>, null, null]]);
+	[<ore:stickTreatedWood>, null, null]]);
 
 recipes.addShaped(<variedcommodities:macuahuitl>, [
 	[null, <ore:nuggetIron>, <ore:plankWood>], 
@@ -262,7 +262,7 @@ recipes.addShaped(<variedcommodities:ocarina>, [
 
 recipes.addShaped(<variedcommodities:clarinet>, [
 	[null, null, <ore:plateIron>], 
-	[null, <techguns:itemshared:57>, null], 
+	[null, <stewitems:techguns_mechanicalpartsiron>, null], 
 	[<ore:plateIron>, null, null]]);
 
 recipes.addShaped(<variedcommodities:french_horn>, [
@@ -297,5 +297,5 @@ recipes.addShaped(<variedcommodities:banjo>, [
 
 recipes.addShaped(<variedcommodities:lighter>, [
 	[null, <ore:materialStoneTool>, <ore:itemRubber>], 
-	[<techguns:itemshared:57>, null, <ore:itemRubber>], 
+	[<stewitems:techguns_mechanicalpartsiron>, null, <ore:itemRubber>], 
 	[<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]]);

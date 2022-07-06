@@ -12,14 +12,14 @@ recipes.addShaped(<stewprops:pouch_generic>.withTag({display: {Name: "§rСум�
     [<minecraft:string>, <minecraft:leather>, <minecraft:string>]]);
 
 recipes.addShaped(<stewprops:random_canister_00>.withTag({display: {Name: "§rКанистра"}}), [
-    [<minecraft:dye:1>, <ore:sheetPlastic>, <minecraft:dye:1>],
-    [<ore:sheetPlastic>, null, <ore:sheetPlastic>],
-    [<ore:sheetPlastic>, <ore:sheetPlastic>, <ore:sheetPlastic>]]);
+    [<minecraft:dye:1>, <ore:itemRubber>, <minecraft:dye:1>],
+    [<ore:itemRubber>, null, <ore:itemRubber>],
+    [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]]);
 
 recipes.addShaped(<stewprops:random_cd_disk>.withTag({display: {Name: "§rДиск"}}), [
-    [null, <ore:sheetPlastic>, null],
-    [<ore:sheetPlastic>, null, <ore:sheetPlastic>],
-    [null, <ore:sheetPlastic>, null]]);
+    [null, <ore:itemRubber>, null],
+    [<ore:itemRubber>, null, <ore:itemRubber>],
+    [null, <ore:itemRubber>, null]]);
 
 recipes.addShaped(<stewprops:random_chalice>.withTag({display: {Name: "§rЗолотая чаша"}}), [
     [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>],
@@ -42,9 +42,9 @@ recipes.addShaped(<stewprops:random_device_02>.withTag({display: {Name: "§rЗе
     [null, <minecraft:iron_ingot>, null]]);
 
 recipes.addShaped(<stewprops:random_diskette>.withTag({display: {Name: "§rДискета"}}), [
-    [<techguns:itemshared:55>, <minecraft:iron_ingot>, null],
-    [<techguns:itemshared:55>, <minecraft:iron_ingot>, <techguns:itemshared:55>],
-    [<techguns:itemshared:55>, <techguns:itemshared:55>, <techguns:itemshared:55>]]);
+    [<industrialforegoing:plastic>, <minecraft:iron_ingot>, null],
+    [<industrialforegoing:plastic>, <minecraft:iron_ingot>, <industrialforegoing:plastic>],
+    [<industrialforegoing:plastic>, <industrialforegoing:plastic>, <industrialforegoing:plastic>]]);
 
 recipes.addShaped((<stewprops:random_empty_can>.withTag({display: {Name: "§rПустая банка"}})) * 3, [
     [<thermalfoundation:material:132>, null, <thermalfoundation:material:132>],
@@ -80,8 +80,8 @@ recipes.addShaped(<stewprops:random_sleepingbag>.withTag({display: {Name: "§rС
 
 recipes.addShaped(<stewprops:random_screwdriver>.withTag({display: {Name: "§rОтвёртка"}}), [
     [null, null, <minecraft:iron_ingot>],
-    [null, <techguns:itemshared:55>, null],
-    [<techguns:itemshared:55>, null, null]]);
+    [null, <industrialforegoing:plastic>, null],
+    [<industrialforegoing:plastic>, null, null]]);
 
 recipes.addShaped(<stewprops:random_pipette>.withTag({display: {Name: "§rПипетка"}}), [
     [null, null, <minecraft:slime_ball>],
@@ -122,15 +122,15 @@ recipes.addShaped(<stewprops:random_kaboom>.withTag({display: {Name: "§rДин�
 recipes.addShaped(<stewprops:random_knife>.withTag({display: {Name: "§rКанцелярский нож"}}), [
     [<minecraft:iron_ingot>, null, null],
     [null, <minecraft:iron_ingot>, null],
-    [null, null, <techguns:itemshared:55>]]);
+    [null, null, <industrialforegoing:plastic>]]);
 
 recipes.addShaped(<stewprops:random_pipe>.withTag({display: {Name: "§rКурительная трубка"}}), [
     [<ore:logWood>, null, <ore:stickWood>],
     [<ore:stickWood>, <ore:stickWood>, null]]);
 
 recipes.addShaped(<stewprops:random_packet_00>.withTag({display: {Name: "§rПакет"}}), [
-    [<techguns:itemshared:55>, <techguns:itemshared:55>],
-    [<techguns:itemshared:55>, <techguns:itemshared:55>]]);
+    [<industrialforegoing:plastic>, <industrialforegoing:plastic>],
+    [<industrialforegoing:plastic>, <industrialforegoing:plastic>]]);
 
 recipes.addShaped(<stewitems:guitar>.withTag({display: {Name: "§rГитара"}}), [
     [null, <ore:plankWood>, <ore:stickWood>],
