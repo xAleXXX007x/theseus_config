@@ -25,6 +25,9 @@ mods.alchemistry.Combiner.removeRecipe(<metallurgy:phosphorus>);
 mods.alchemistry.Combiner.addRecipe(<metallurgy:phosphorus>,
     [null,null,<alchemistry:element:15> * 16]);
 
+mods.alchemistry.Combiner.addRecipe(<stewitems:dust_carbon>,
+    [<alchemistry:element:6> * 24, null, null]);
+
 Dissolver.removeRecipe(<minecraft:prismarine_shard>);
 
 Dissolver.addRecipe(<minecraft:prismarine_shard>, false, 1,

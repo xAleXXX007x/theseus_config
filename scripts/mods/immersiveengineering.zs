@@ -219,3 +219,8 @@ mods.immersiveengineering.Fermenter.addRecipe(null, ethanol *100, <harvestcraft:
 mods.immersiveengineering.Fermenter.addRecipe(null, ethanol *100, <harvestcraft:wintersquashseeditem>, 80);
 mods.immersiveengineering.Fermenter.addRecipe(null, ethanol *100, <harvestcraft:zucchiniitem>, 80);
 mods.immersiveengineering.Fermenter.addRecipe(null, ethanol *100, <harvestcraft:zucchiniseeditem>, 80);
+
+mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_rubberbar>, <industrialforegoing:dryrubber> * 4, <immersiveengineering:mold>, 2000);
+mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_plateobsidiansteel>, <stewitems:techguns_ingotobsidiansteel>, <immersiveengineering:mold>, 4000);
+mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_platecarbon>, <stewitems:techguns_carbonfibers> * 4, <immersiveengineering:mold>, 4000);
+mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_carbonfibers>, <stewitems:dust_carbon> * 4, <immersiveengineering:mold>, 4000);
