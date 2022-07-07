@@ -44,10 +44,27 @@ recipes.addShaped(<ebwizardry:imbuement_altar> * 2, [
     [<ebwizardry:astral_diamond>, <ebwizardry:arcane_workbench>, <ebwizardry:astral_diamond>],
     [<minecraft:gold_block>, <minecraft:enchanting_table>, <minecraft:gold_block>]]);
 
-recipes.addShapeless(<ebwizardry:magic_crystal:1>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:1>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:2>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:2>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:3>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:3>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:4>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:4>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:5>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:5>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:6>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:6>]);
-recipes.addShapeless(<ebwizardry:magic_crystal:7>, [<ebwizardry:magic_crystal:0>,<ebwizardry:spectral_dust:7>]);
+
+#Starting crystals crafts rebalance
+val dust = [<ebwizardry:spectral_dust:1>, <ebwizardry:spectral_dust:2>, <ebwizardry:spectral_dust:3>, <ebwizardry:spectral_dust:4>, <ebwizardry:spectral_dust:5>, <ebwizardry:spectral_dust:6>, <ebwizardry:spectral_dust:7>, ] as IItemStack[];
+val crystal = [<ebwizardry:magic_crystal:1>, <ebwizardry:magic_crystal:2>, <ebwizardry:magic_crystal:3>, <ebwizardry:magic_crystal:4>, <ebwizardry:magic_crystal:5>, <ebwizardry:magic_crystal:6>, <ebwizardry:magic_crystal:7>, ] as IItemStack[];
+for i in 0 to 7 {
+    recipes.addShaped(crystal[i], [
+    [dust[i], dust[i], dust[i]],
+    [dust[i], <ebwizardry:magic_crystal:0>, dust[i]],
+    [dust[i], dust[i], dust[i]]]);
+}
+
+#Remove duplicate recipes
+recipes.removeShaped(<ebwizardry:purifying_elixir>,[
+    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>],
+    [<ebwizardry:magic_crystal:7>,<ebwizardry:small_mana_flask>,<ebwizardry:magic_crystal:7>],
+    [<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>,<ebwizardry:magic_crystal:7>]] );
+recipes.removeShapeless(<ebwizardry:crystal_silver_plating>, [<ebwizardry:large_mana_flask>, <minecraft:diamond>, <ebwizardry:astral_diamond> ,<ebwizardry:astral_diamond> ,<ebwizardry:astral_diamond> , <ebwizardry:grand_crystal>, <zettaimagic:magic_reagent>]);
+recipes.removeShapeless(<ebwizardry:resplendent_thread>, [<ebwizardry:magic_silk>, <minecraft:string>, <minecraft:enchanted_book>, <ebwizardry:astral_diamond> ,<ebwizardry:astral_diamond> , <ebwizardry:grand_crystal>, <zettaimagic:magic_reagent>]);
+recipes.removeShapeless( <ebwizardry:identification_scroll>, [<ebwizardry:large_mana_flask>, <ebwizardry:blank_scroll>]);
+recipes.removeShaped(<ebwizardry:grand_crystal>,[
+    [<ebwizardry:crystal_block>,<ebwizardry:crystal_block>,<ebwizardry:crystal_block>],
+    [<ebwizardry:crystal_block>,<ebwizardry:magic_crystal>,<ebwizardry:crystal_block>],
+    [<ebwizardry:crystal_block>,<ebwizardry:crystal_block>,<ebwizardry:crystal_block>]] );
+recipes.removeShapeless(<ebwizardry:ethereal_crystalweave>, [<ebwizardry:magic_silk> ,<ebwizardry:magic_silk> , <ebwizardry:astral_diamond> ,<ebwizardry:astral_diamond> , <ebwizardry:grand_crystal>, <zettaimagic:magic_reagent>]);
