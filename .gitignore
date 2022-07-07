@@ -16,3 +16,4 @@ config/xaero*
 !/scripts/
 !/electroblob_spells/
 !/mods/
+config/misca.cfg
