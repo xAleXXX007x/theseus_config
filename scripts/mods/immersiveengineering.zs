@@ -224,3 +224,28 @@ mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_rubberbar>, <
 mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_plateobsidiansteel>, <stewitems:techguns_ingotobsidiansteel>, <immersiveengineering:mold>, 4000);
 mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_platecarbon>, <stewitems:techguns_carbonfibers> * 4, <immersiveengineering:mold>, 4000);
 mods.immersiveengineering.MetalPress.addRecipe(<stewitems:techguns_carbonfibers>, <stewitems:dust_carbon> * 4, <immersiveengineering:mold>, 4000);
+
+#Plant oil tweak (IE to Thermal)
+val seed_oil = <liquid:seed_oil>;
+mods.immersiveengineering.Squeezer.removeByInput(<mysticalworld:aubergine_seed>);
+mods.immersiveengineering.Squeezer.removeFluidRecipe(<liquid:plantoil>);
+
+mods.jei.JEI.hide(<liquid:plantoil>);
+mods.jei.JEI.hide(<forge:bucketfilled>.withTag({FluidName: "plantoil", Amount: 1000}));
+
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *80, <minecraft:wheat_seeds>, 1600);
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *60, <minecraft:beetroot_seeds>, 1600);
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *40, <minecraft:pumpkin_seeds>, 1600);
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *120, <immersiveengineering:seed>, 1600);
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *20, <minecraft:melon_seeds>, 1600);
+mods.immersiveengineering.Squeezer.addRecipe(null, seed_oil *80, <mysticalworld:aubergine_seed>, 1600);
+
+
+mods.thermalexpansion.Transposer.removeFillRecipe(<thermalfoundation:material:816>, <liquid:plantoil>);
+mods.thermalexpansion.Transposer.removeFillRecipe(<thermalfoundation:material:818>, <liquid:plantoil>);
+
+mods.immersiveengineering.Refinery.removeRecipe(<liquid:biodiesel>);
+mods.immersiveengineering.Refinery.addRecipe(<liquid:biodiesel> *16, ethanol *8, seed_oil *8, 2048);
+
+mods.industrialforegoing.FluidDictionary.add("lubricant", "seed_oil", 1);
+mods.industrialforegoing.FluidDictionary.add("seed_oil", "lubricant", 1);
