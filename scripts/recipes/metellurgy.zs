@@ -23,3 +23,6 @@ recipes.addShaped(<metallurgy:quicksilver_ingot> * 9, [
 	[null, <ore:blockQuicksilver>, null], 
 	[null, null, null]
 ]);
+
+recipes.remove(<metallurgy:ore_detector>);
+mods.jei.JEI.hide(<metallurgy:ore_detector>);
