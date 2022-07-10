@@ -1359,49 +1359,6 @@ recipes.addShaped(<stewblocks:furniture_sink>, [
 recipes.addShaped(<stewblocks:furniture_wooden_tankard>, [
     [<ore:stickWood>, <ore:plankWood>]]);
 	
-
-furnace.addRecipe(<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_1>);
-
-recipes.addShapeless(<stewitems:papirosa_1> * 5, [<stewitems:papirosa_pack_1>]);
-
-recipes.addShapeless(<stewitems:cigarette_1> * 5, [<stewitems:cigarette_pack_1>]);
-
-recipes.addShapeless(<stewitems:cigarette_2> * 5, [<stewitems:cigarette_pack_2>]);
-
-recipes.addShapeless(<stewitems:cigarette_3> * 5, [<stewitems:cigarette_pack_3>]);
-
-recipes.addShapeless(<stewitems:cigarette_4> * 5, [<stewitems:cigarette_pack_4>]);
-
-recipes.addShapeless(<stewitems:cigar_1> * 5, [<stewitems:cigar_box_1>]);
-
-recipes.addShapeless(<stewitems:cigar_2> * 5, [<stewitems:cigar_box_2>]);
-
-recipes.addShapeless(<stewitems:cigar_3> * 5, [<stewitems:cigar_box_3>]);
-
-recipes.addShapeless(<stewitems:cigar_4> * 5, [<stewitems:cigar_box_4>]);
-
-recipes.addShapeless(<stewitems:tobacco_seeds>, [<stewitems:tobacco_leaves_1>]);
-
-recipes.addShapeless(<stewitems:tobacco_pile_2>, [<stewitems:tobacco_leaves_6>, <botania:pestleandmortar>.reuse()]);
-
-recipes.addShaped(<stewitems:rolling_paper> *6, [
-    [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
-
-recipes.addShaped(<stewitems:papirosa_pack_1>, [
-    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>],
-    [<stewitems:tobacco_pile_2>, <ore:blockWool>, <ore:blockWool>],
-    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>]]);
-	
-recipes.addShaped(<stewitems:cigarette_pack_1>, [
-    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>],
-    [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <ore:blockWool>],
-    [<stewitems:rolling_paper>, <stewitems:rolling_paper>, <stewitems:rolling_paper>]]);
-	
-recipes.addShaped(<stewitems:cigar_box_1>, [
-    [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>],
-    [<stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>, <stewitems:tobacco_pile_2>],
-    [<stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>, <stewitems:tobacco_leaves_6>]]);
-
 recipes.addShaped(<stewblocks:wall_sindarin_01>*4, [
 	[null, <ore:sandstone>, null], 
 	[<ore:sandstone>, <ore:dye>, <ore:sandstone>], 
