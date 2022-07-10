@@ -1,0 +1,29 @@
+{
+    "rules": [
+      {
+        "match": {
+          "blocks": {
+            "blocks": [
+                "thaumcraft:stone_porous"
+            ]
+          },
+          "drops": {
+            "drops": [
+                "minecraft:diamond",
+                "minecraft:emerald"
+            ]
+          }
+        },
+        "replaceStrategy": "REPLACE_ITEMS",
+        "drops": [  
+            {
+              "item": {
+                "items" : [
+                  "minecraft:gravel"
+                ]
+              }
+            }
+        ]
+      }
+    ]
+}
