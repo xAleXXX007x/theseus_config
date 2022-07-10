@@ -408,25 +408,25 @@ recipes.addShaped(<stewprops:gift_box_5>, [
     [null, <ore:woolRed>, null]]);
 
 
-recipes.addShapeless(<stewprops:bottle_big_brown>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyeBrown>]);
+recipes.addShapeless(<stewprops:bottle_big_brown>, [<ore:nuggetGold>, <minecraft:glass_bottle>, <ore:dyeBrown>]);
 
-recipes.addShapeless(<stewprops:bottle_big_purple>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyePurple>]);
+recipes.addShapeless(<stewprops:bottle_big_purple>, [<ore:nuggetGold>, <minecraft:glass_bottle>, <ore:dyePurple>]);
 
-recipes.addShapeless(<stewprops:bottle_big_red>, [<ore:nuggetGold>, <ore:itemEmptyBottle>, <ore:dyeRed>]);
+recipes.addShapeless(<stewprops:bottle_big_red>, [<ore:nuggetGold>, <minecraft:glass_bottle>, <ore:dyeRed>]);
 
-recipes.addShapeless(<stewprops:bottle_blue_00>, [<ore:dyeBlue>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_blue_00>, [<ore:dyeBlue>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_green_00>, [<ore:dyeGreen>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_green_00>, [<ore:dyeGreen>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_brown>, [<ore:dyeBrown>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_brown>, [<ore:dyeBrown>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_white>, [<ore:dyeWhite>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_white>, [<ore:dyeWhite>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_yellow_00>, [<ore:dyeYellow>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_yellow_00>, [<ore:dyeYellow>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_purple_00>, [<ore:dyePurple>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_purple_00>, [<ore:dyePurple>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_red>, [<ore:dyeRed>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_red>, [<ore:dyeRed>, <minecraft:glass_bottle>]);
 
 recipes.addShapeless(<stewprops:bottle_closed_00>, [<bewitchment:empty_jar>, <ore:dyePurple>]);
 
@@ -434,41 +434,41 @@ recipes.addShapeless(<stewprops:bottle_closed_01>, [<bewitchment:empty_jar>, <or
 
 recipes.addShapeless(<stewprops:bottle_small>, [<bewitchment:empty_jar>, <ore:dyeBrown>]);
 
-recipes.addShapeless(<stewprops:bottle_red_01>, [<ore:string>, <ore:itemEmptyBottle>, <ore:dyeRed>]);
+recipes.addShapeless(<stewprops:bottle_red_01>, [<ore:string>, <minecraft:glass_bottle>, <ore:dyeRed>]);
 
-recipes.addShapeless(<stewprops:bottle_purple_01>, [<ore:string>, <ore:itemEmptyBottle>, <ore:dyePurple>]);
+recipes.addShapeless(<stewprops:bottle_purple_01>, [<ore:string>, <minecraft:glass_bottle>, <ore:dyePurple>]);
 
-recipes.addShapeless(<stewprops:bottle_green_01>, [<ore:dyeGreen>, <ore:blockGlass>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_green_01>, [<ore:dyeGreen>, <ore:blockGlass>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_green_02>, [<ore:dyeGreen>, <ore:dyeGreen>, <ore:blockGlass>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_green_02>, [<ore:dyeGreen>, <ore:dyeGreen>, <ore:blockGlass>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_blue_01>, [<ore:dyeBlue>, <ore:blockGlass>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_blue_01>, [<ore:dyeBlue>, <ore:blockGlass>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_yellow_01>, [<ore:dyeYellow>, <ore:blockGlass>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_yellow_01>, [<ore:dyeYellow>, <ore:blockGlass>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_blue_02>, [<ore:nuggetIron>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_blue_02>, [<ore:nuggetIron>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_strange>, [<ore:shardGlass>, <ore:itemEmptyBottle>]);
+recipes.addShapeless(<stewprops:bottle_strange>, [<ore:shardGlass>, <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_pink>, [<ore:itemEmptyBottle>, <ore:dyePink>]);
+recipes.addShapeless(<stewprops:bottle_pink>, [<minecraft:glass_bottle>, <ore:dyePink>]);
 
 recipes.addShapeless(<stewprops:bottle_chem>, [<alchemistry:periodic_diagram>.reuse(), <minecraft:glass_bottle>]);
 
-recipes.addShapeless(<stewprops:bottle_yellow_02>, [<ore:dyeYellow>, <ore:itemEmptyBottle>, <ore:blockGlass>]);
+recipes.addShapeless(<stewprops:bottle_yellow_02>, [<ore:dyeYellow>, <minecraft:glass_bottle>, <ore:blockGlass>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_00>, [<ore:itemEmptyBottle>, <ore:dyeOrange>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_00>, [<minecraft:glass_bottle>, <ore:dyeOrange>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_01>, [<ore:itemEmptyBottle>, <ore:dyePurple>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_01>, [<minecraft:glass_bottle>, <ore:dyePurple>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_02>, [<ore:itemEmptyBottle>, <ore:dyeLightBlue>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_02>, [<minecraft:glass_bottle>, <ore:dyeLightBlue>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_03>, [<ore:itemEmptyBottle>, <ore:dyeGreen>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_03>, [<minecraft:glass_bottle>, <ore:dyeGreen>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_04>, [<ore:itemEmptyBottle>, <ore:dyeBrown>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_04>, [<minecraft:glass_bottle>, <ore:dyeBrown>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_05>, [<ore:itemEmptyBottle>, <ore:dyeRed>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_05>, [<minecraft:glass_bottle>, <ore:dyeRed>, <minecraft:tripwire_hook>]);
 
-recipes.addShapeless(<stewprops:medicine_inhaler_06>, [<ore:itemEmptyBottle>, <ore:dyeBlue>, <minecraft:tripwire_hook>]);
+recipes.addShapeless(<stewprops:medicine_inhaler_06>, [<minecraft:glass_bottle>, <ore:dyeBlue>, <minecraft:tripwire_hook>]);
 
 recipes.addShapeless(<stewprops:medicine_injector>, [<stewitems:syringe_empty>, <ore:itemRubber>]);
 
