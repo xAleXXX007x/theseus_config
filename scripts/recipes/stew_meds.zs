@@ -49,7 +49,7 @@ recipes.addShaped(<stewitems:medicine_bandage_1> * 3,[
     [<stewitems:rubbing_alcohol>, <stewprops:paste_herbal>, <stewitems:rubbing_alcohol>],
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>]]);
 
-recipes.addShapeless(<stewprops:paste_herbal>.withTag({display: {Name: "§rЦелебная паста"}, craftOnly: true}) * 2, [<ore:healPlant>, <ore:healPlant>, <ore:dye>, <ore:dye>, <roots:wildroot>]);
+recipes.addShapeless(<stewprops:paste_herbal> * 2, [<ore:healPlant>, <ore:healPlant>, <ore:dye>, <ore:dye>, <roots:wildroot>]);
 
 recipes.addShaped(<stewitems:medicine_bandage_1> * 3,[
     [<ore:materialCloth>, <ore:materialCloth>, <ore:materialCloth>],
@@ -76,9 +76,9 @@ recipes.addShaped(<stewitems:medicine_bandage_2> * 2, [
     [<minecraft:string>, <ore:blockWool>, <minecraft:string>]]);
 
 recipes.addShaped(<stewitems:medicine_blood>, [
-    [null, <bewitchment:bottle_of_blood>, null],
-    [<bewitchment:bottle_of_blood>, <stewitems:techguns_infusionbag>, <bewitchment:bottle_of_blood>],
-    [null, <bewitchment:bottle_of_blood>, null]]);
+    [<alchemistry:compound:11>, <alchemistry:element:8>, <alchemistry:compound:9>],
+    [<alchemistry:compound:6>, <stewitems:techguns_infusionbag>, <alchemistry:compound:6>],
+    [<alchemistry:compound:9>, <alchemistry:element:26>, <alchemistry:compound:11>]]);
 
 recipes.addShaped(<stewitems:medicine_inhaler>, [
     [null, <stewitems:rubbing_alcohol>, null],
@@ -96,9 +96,9 @@ recipes.addShaped(<stewitems:medicine_valkyrine>, [
     [null, <alchemistry:compound:59>, null]]);
 
 recipes.addShaped(<stewitems:medicine_nictogenic>, [
-    [<ore:foodMushroompowder>, <alchemistry:compound:21>, <ore:foodMushroompowder>],
+    [<ore:listAllmushroom>, <alchemistry:compound:21>, <ore:listAllmushroom>],
     [<alchemistry:compound:55>, <stewitems:syringe_empty>, <alchemistry:compound:55>],
-    [<ore:foodMushroompowder>, <alchemistry:compound:21>, <ore:foodMushroompowder>]]);
+    [<ore:listAllmushroom>, <alchemistry:compound:21>, <ore:listAllmushroom>]]);
 
 recipes.addShaped(<stewitems:medicine_antidote>, [
     [<alchemistry:compound:52>, <alchemistry:compound:58>, <alchemistry:compound:52>],
@@ -116,9 +116,9 @@ recipes.addShaped(<stewitems:medicine_corpideks>, [
     [<minecraft:tallgrass:1>, <minecraft:tallgrass:1>, <minecraft:tallgrass:1>]]);
 
 recipes.addShaped(<stewitems:medicine_nicotine_gum> * 4, [
-    [null, <ore:itemRawRubber>, null],
-    [<stewitems:techguns_rubberbar>, <stewitems:tobacco_leaves_6>, <stewitems:techguns_rubberbar>],
-    [null, <ore:itemRawRubber>, null]]);
+    [null, <industrialforegoing:dryrubber>, null],
+    [<stewitems:techguns_rubberbar>, <stewitems:tobacco_pile_2>, <stewitems:techguns_rubberbar>],
+    [null, <industrialforegoing:dryrubber>, null]]);
 
 recipes.addShaped(<stewitems:medicine_yoln_tear>, [
     [<ore:slimeball>, <harvestcraft:seaweeditem>, <ore:slimeball>],
@@ -151,9 +151,9 @@ recipes.addShaped(<stewitems:medicine_antidepressants>, [
     [<alchemistry:element:12>, <harvestcraft:lentilitem>, <alchemistry:element:12>]]);
 
 recipes.addShaped(<stewitems:medicine_stamina_inhaler>, [
-    [null, <stewitems:rubbing_alcohol>, null],
-    [<alchemistry:compound:59>, <stewitems:inhaler_empty>, <alchemistry:compound:55>],
-    [null, <stewitems:rubbing_alcohol>, null]]);
+    [<alchemistry:compound:59>, <stewitems:rubbing_alcohol>, <alchemistry:compound:55>],
+    [null, <stewitems:inhaler_empty>, null],
+    [<alchemistry:compound:55>, <stewitems:rubbing_alcohol>, <alchemistry:compound:59>]]);
 
 recipes.addShaped(<stewitems:medicine_stimpack>, [
     [<alchemistry:compound:9>, <alchemistry:compound:57>, <alchemistry:compound:52>],
@@ -209,3 +209,49 @@ recipes.addShaped(<stewitems:medicine_strong_pheromones>, [
     [<alchemistry:compound:59>, <stewitems:medicine_inner_light>, <alchemistry:compound:55>],
     [<stewitems:medicine_corpideks>, <ore:listAllwater>, <stewitems:medicine_corpideks>],
     [<alchemistry:compound:55>, <alchemistry:compound:52>, <alchemistry:compound:59>]]);
+
+    recipes.addShaped(<stewitems:medicine_scanner>, [
+    [null, <ore:itemRubber>, <ore:paneGlassColorless>],
+    [<stewitems:techguns_rubberbar>, <ore:circuitElite>, <stewitems:techguns_rubberbar>],
+    [<thermalexpansion:capacitor>.withTag({Energy: 1000000}), <ore:itemRubber>, null]]);
+
+    recipes.addShaped(<stewitems:alchemy_pills_psyblock>, [
+    [<alchemistry:compound:57>, <thaumcraft:shimmerleaf>, <alchemistry:compound:52>],
+    [<alchemistry:element:12>, <stewitems:laudanum>, <alchemistry:element:12>],
+    [<alchemistry:compound:52>, <thaumcraft:shimmerleaf>, <alchemistry:compound:57>]]);
+
+    recipes.addShaped(<stewitems:medicine_steam>, [
+    [null, <alchemistry:compound:32>, null],
+    [<alchemistry:compound:59>, <stewitems:syringe_empty>, <alchemistry:compound:55>],
+    [null, <stewitems:rubbing_alcohol>, null]]);
+
+    recipes.addShaped(<stewitems:medicine_neon>, [
+    [<alchemistry:compound:32>, <alchemistry:compound:55>, <alchemistry:compound:57>],
+    [<alchemistry:compound:21>, <stewitems:inhaler_empty>, <alchemistry:compound:21>],
+    [<alchemistry:compound:57>, <stewitems:rubbing_alcohol>, <alchemistry:compound:32>]]);
+
+    mods.alchemistry.Combiner.addRecipe(<stewitems:medicine_meth>,
+    [<alchemistry:element:6>*10,<alchemistry:element:1>*15,<alchemistry:element:7>]);
+
+    mods.alchemistry.Combiner.addRecipe(<stewitems:medicine_antipyretic>,
+    [<alchemistry:element:6>*8,<alchemistry:element:1>*9,<alchemistry:element:7>,
+    <alchemistry:element:8> * 2, null, null]);
+
+    recipes.addShapeless(<stewitems:medicine_firstaidkit>, [<stewitems:medicine_bandage_1>, <stewitems:medicine_inhaler>, <stewitems:rubbing_alcohol>, <stewitems:medicine_painkillers>, <stewitems:medicine_antipyretic>]);
+    
+    recipes.addShapeless(<stewitems:medicine_firstaidkit>, [<stewitems:medicine_bandage_1>, <stewitems:medicine_inhaler>, <stewitems:rubbing_alcohol>, <stewitems:medicine_stimpack>]);
+    
+    recipes.addShaped(<stewitems:medicine_bloodpills>, [
+    [<alchemistry:element:16>, <alchemistry:compound:52>, <alchemistry:compound:58>],
+    [<alchemistry:compound:52>, <alchemistry:compound:9>, <alchemistry:compound:52>],
+    [<alchemistry:compound:58>, <stewitems:rubbing_alcohol>, <alchemistry:element:16>]]);
+
+    recipes.addShaped(<stewitems:medicine_injurywax>, [
+    [<alchemistry:compound:57>, <ore:slimeball>, <alchemistry:compound:52>],
+    [<ore:wax>, <stewitems:rubbing_alcohol>, <ore:wax>],
+    [<alchemistry:compound:52>, <ore:slimeball>, <alchemistry:compound:57>]]);
+
+    recipes.addShaped(<stewitems:medicine_blesk>, [
+    [<alchemistry:compound:32>, <stewitems:medicine_meth>, <alchemistry:compound:21>],
+    [<alchemistry:compound:56>, <stewitems:medicine_medx>, <alchemistry:compound:56>],
+    [<alchemistry:compound:53>, <stewitems:medicine_meth>, <stewitems:laudanum>]]);
