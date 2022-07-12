@@ -3,8 +3,8 @@
   "smallDataUid": "theseus",
   "hideUnknownIPs": false,
   "displayUrls": {
-    "gui": "https://raw.githubusercontent.com/xAleXXX007x/Uplink/master/gui/ru.json",
-    "server": "https://raw.githubusercontent.com/xAleXXX007x/Uplink/master/server/",
-    "small": "https://raw.githubusercontent.com/xAleXXX007x/Uplink/master/small/"
+    "gui": "https://raw.githubusercontent.com/AlexS1105/Uplink/master/gui/ru.json",
+    "server": "https://raw.githubusercontent.com/AlexS1105/Uplink/master/server/",
+    "small": "https://raw.githubusercontent.com/AlexS1105/Uplink/master/small/"
   }
 }

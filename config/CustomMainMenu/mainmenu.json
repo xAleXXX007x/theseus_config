@@ -30,7 +30,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "theseus.su"
+                "ip" : "play.theseus.su"
             }
         },
 
