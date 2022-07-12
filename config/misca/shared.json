@@ -21,7 +21,7 @@
     "0": {
       "rain": {
         "income": 1,
-        "outcome": 35,
+        "outcome": 45,
         "thunder": 6048000,
         "min": 3456000,
         "max": 8640000,
@@ -46,28 +46,28 @@
         "scale": 1.0
       }
     },
-    "5": {
+    "3": {
       "rain": {
-        "income": 1,
+        "income": 0,
         "outcome": 0,
-        "thunder": 999999999,
-        "min": 999999999,
-        "max": 999999999,
-        "dice": 999999999
+        "thunder": 0,
+        "min": 0,
+        "max": 0,
+        "dice": 0
       },
       "time": {
         "timezone": "Z",
         "scale": 1.0
       }
     },
-    "6": {
+    "4": {
       "rain": {
-        "income": 1,
-        "outcome": 35,
-        "thunder": 6048000,
-        "min": 3456000,
-        "max": 8640000,
-        "dice": 4500000
+        "income": 0,
+        "outcome": 0,
+        "thunder": 0,
+        "min": 0,
+        "max": 0,
+        "dice": 0
       },
       "time": {
         "timezone": "Z",
