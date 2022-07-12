@@ -497,7 +497,6 @@ static tier3 as int[IItemStack] = {
   <quark:rune:14>: 10,
   <quark:rune:15>: 10,
   <quark:rune:16>: 10,
-  <quark:archaeologist_hat>: 4,
   <quark:witch_hat>: 4,
   <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "vacuos"}]}): 10,
   <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "lux"}]}): 10,
