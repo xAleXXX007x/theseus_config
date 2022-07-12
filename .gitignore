@@ -9,6 +9,7 @@ config/splash.properties
 config/jei/jei.cfg
 config/jei/worldSettings.cfg
 config/xaero*
+config/BiomeTweaker/output
 
 !/mods/OpenTerrainGenerator
 !.gitignore
