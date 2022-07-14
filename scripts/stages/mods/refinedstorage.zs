@@ -1,7 +1,7 @@
 import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 var stagedItems as IIngredient[][string] = {
-    [INF_1]:[
+    [TCH_2]:[
         <refinedstorage:controller>,
         <refinedstorage:grid>,
         <refinedstorage:grid:1>,

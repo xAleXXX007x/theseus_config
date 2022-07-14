@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
-    [INF_1]:[
+    [ENG_2]:[
         <opencomputers:adapter>,
         <opencomputers:assembler>,
         <opencomputers:cable>,
@@ -130,7 +130,6 @@ var stagedItems as IIngredient[][string] = {
         <opensecurity:mag_reader>,
         <opensecurity:data_block>,
         <opensecurity:keypad>,
-        <opensecurity:energy_turret>,
         <opensecurity:card_writer>,
         <opensecurity:alarm>,
         <opensecurity:private_secure_door>,
@@ -148,6 +147,9 @@ var stagedItems as IIngredient[][string] = {
         <opensecurity:rfid_card>,
         <opencomputers:material:28>
     ],
+    [GUN_2]:[
+        <opensecurity:energy_turret>
+    ]
 };
 
 for stageName, items in stagedItems {

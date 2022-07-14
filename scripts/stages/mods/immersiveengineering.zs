@@ -31,7 +31,17 @@ var stagedItems as IIngredient[][string] = {
     <immersiveengineering:metal_device0:4>,
     <immersiveengineering:metal_device1:6>,
     <alternatingflux:material>,
-    <alternatingflux:wirecoil>
+    <alternatingflux:wirecoil>,
+    <immersivecables:coil_block>,
+    <immersivecables:coil_block:1>,
+    <immersivecables:coil_block:2>,
+    <immersivecables:coil_block:3>,
+    <immersivecables:wire_coil>,
+    <immersivecables:wire_coil:1>,
+    <immersivecables:wire_coil:2>,
+    <immersivecables:wire_coil:3>,
+    <immersivecables:transformer_refined>,
+    <immersivecables:relay_refined>
   ],
   [ENG_1]: [
     <immersiveengineering:wooden_device0:2>,
@@ -166,18 +176,6 @@ var stagedItems as IIngredient[][string] = {
     <immersivepetroleum:metal_device:1>,
     <alternatingflux:connector>,
     <alternatingflux:connector:1>
-  ],
-  [INF_1]: [
-    <immersivecables:coil_block>,
-    <immersivecables:coil_block:1>,
-    <immersivecables:coil_block:2>,
-    <immersivecables:coil_block:3>,
-    <immersivecables:wire_coil>,
-    <immersivecables:wire_coil:1>,
-    <immersivecables:wire_coil:2>,
-    <immersivecables:wire_coil:3>,
-    <immersivecables:transformer_refined>,
-    <immersivecables:relay_refined>
   ]
 };
 
