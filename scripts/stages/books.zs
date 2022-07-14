@@ -9,6 +9,7 @@ Book.addBook(ARC_3, "Аркана 3", "Мануал: Аркана 3", "wizardryf
 
 Book.addBook(MYS_1, "Мистика 1", "Мануал: Мистика 1", "bewitchment:horseshoe", 0x6097a3);
 Book.addBook(MYS_2, "Мистика 2", "Мануал: Мистика 2", "bewitchment:pentacle", 0x4692a3);
+Book.addBook(MYS_3, "Мистика 3", "Мануал: Мистика 3", "bewitchment:token_of_remedies", 0x1f8ba3);
 
 Book.addBook(WIZ_1, "Чародейство 1", "Мануал: Чародейство 1", "minecraft:enchanted_book", 0xa34b9a);
 Book.addBook(WIZ_2, "Чародейство 2", "Мануал: Чародейство 2", "minecraft:enchanted_book", 0xa34b9a);
@@ -19,9 +20,11 @@ Book.addBook(MNF_3, "Производство 3", "Мануал: Произво�
 
 Book.addBook(TCH_1, "Техника 1", "Мануал: Техника 1", "embers:winding_gears", 0x9e974a);
 Book.addBook(TCH_2, "Техника 2", "Мануал: Техника 2", "engineersdecor:treated_wood_crafting_table", 0x9e952c);
+Book.addBook(TCH_3, "Техника 3", "Мануал: Техника 3", "engineersdecor:treated_wood_crafting_table", 0x9e952c);
 
 Book.addBook(ENG_1, "Инженерия 1", "Мануал: Инженерия 1", "thermalinnovation:drill", 0x997239);
 Book.addBook(ENG_2, "Инженерия 2", "Мануал: Инженерия 2", "thermalinnovation:drill", 0x9c6b22);
+Book.addBook(ENG_3, "Инженерия 2", "Мануал: Инженерия 3", "mekanism:atomicdisassembler", 0x9e6003);
 
 Book.addBook(GUN_1, "Оружейное дело 1", "Мануал: Оружейное дело 1", "thermalinnovation:drill", 0x997239);
 Book.addBook(GUN_2, "Оружейное дело 2", "Мануал: Оружейное дело 2", "thermalinnovation:drill", 0x9c6b22);

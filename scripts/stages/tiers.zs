@@ -9,6 +9,7 @@ global ARC_3 as string = "arc_three";
 // Мистика
 global MYS_1 as string = "mys_one";
 global MYS_2 as string = "mys_two";
+global MYS_3 as string = "mys_three";
 
 // Чародейство
 global WIZ_1 as string = "wiz_one";
@@ -18,10 +19,12 @@ global WIZ_2 as string = "wiz_two";
 // Технический стейдж для общих рецептов
 global TCH_1 as string = "tch_one";
 global TCH_2 as string = "tch_two";
+global TCH_3 as string = "tch_three";
 
 // Лёгкая инженерия
 global ENG_1 as string = "eng_one";
 global ENG_2 as string = "eng_two";
+global ENG_3 as string = "eng_three";
 
 // Производство
 global MNF_1 as string = "mnf_one";
