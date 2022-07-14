@@ -2,10 +2,6 @@ import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
-    [INF_1]:[
-        <mekanism:basicblock2:9>,
-        <mekanism:robit>
-    ],
     [ENG_1]:[
       <mekanism:walkietalkie>,
       <mekanism:scubatank>,
@@ -25,7 +21,9 @@ var stagedItems as IIngredient[][string] = {
     ],
     [ENG_3]:[
       <mekanism:portableteleporter>,
-      <mekanism:atomicdisassembler>
+      <mekanism:atomicdisassembler>,
+      <mekanism:basicblock2:9>,
+      <mekanism:robit>
     ],
     [TCH_1]:[
       <mekanism:configurator>,
