@@ -234,16 +234,31 @@
     ]
   },
   "global_stages": {
-    "mnf_two": false,
-    "mnf_three": false,
-    "tch_three": false,
-    "mys_two": false,
-    "mys_three": false,
-    "eng_two": false,
+    "arc_one": false,
     "arc_two": false,
     "arc_three": false,
+    "mys_one": false,
+    "mys_two": false,
+    "mys_three": false,
+    "wiz_one": false,
+    "wiz_two": false,
+    "tch_one": false,
+    "tch_two": false,
+    "tch_three": false,
+    "eng_one": false,
+    "eng_two": false,
     "eng_three": false,
-    "tch_two": false
+    "mnf_one": false,
+    "mnf_two": false,
+    "mnf_three": false,
+    "gun_one": false,
+    "gun_two": false,
+    "chm_one": false,
+    "chm_two": false,
+    "smt_one": false,
+    "smt_two": false,
+    "bld_one": false,
+    "med_one": false
   },
   "adjacent_stages": {
     "mnf_two": [
