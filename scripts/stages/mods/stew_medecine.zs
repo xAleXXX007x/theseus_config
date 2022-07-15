@@ -39,7 +39,7 @@ var stagedItems as IIngredient[][string] = {
       <stewitems:medicine_scomen>,
       <stewitems:medicine_kanai>
   ],
-  [INF_1]:[
+  [ENG_3]:[
       <stewitems:medicine_nanits>
   ]
 };
