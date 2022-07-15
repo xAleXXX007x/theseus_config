@@ -3,7 +3,7 @@ import mods.recipestages.Recipes;
 
 
 var stagedItems as IIngredient[][string] = {
-    [MYS_1]:[
+    [WIZ_1]:[
         <ebwizardry:arcane_workbench>,
         <ebwizardry:wizard_handbook>,
         <ebwizardry:magic_wand>,
@@ -38,7 +38,7 @@ var stagedItems as IIngredient[][string] = {
         <zettaimagic:m_wand_novice_sorcery>,
         <mana_wizardry:wand_flowers>
         ],
-    [MYS_2]:[
+    [WIZ_2]:[
         <ebwizardry:receptacle>,
         <ebwizardry:imbuement_altar>,
         <ebwizardry:ruined_spell_book>,
@@ -96,9 +96,7 @@ var stagedItems as IIngredient[][string] = {
         <zettaigrimoires:grimoire_necromancy>,
         <zettaigrimoires:grimoire_sorcery>,
         <mana_wizardry:wand_livingwood>,
-        <mana_wizardry:wand_dreamwood>
-        ],
-    [MYS_3]:[
+        <mana_wizardry:wand_dreamwood>,
         <ebwizardry:master_wand>,
         <ebwizardry:master_lightning_wand>,
         <ebwizardry:master_fire_wand>,
@@ -116,13 +114,7 @@ var stagedItems as IIngredient[][string] = {
         <zettaimagic:cloak_nature>,
         <zettaimagic:cloak_gravity>,
         <mana_wizardry:wand_terra>
-        ],
-    [SMT_1]:[
-        ],
-    [ALC_1]:[
-        ],
-    [ENC_1]:[
-    ]
+        ]
     };
 
 for stageName, items in stagedItems {

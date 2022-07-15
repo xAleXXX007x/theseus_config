@@ -42,12 +42,9 @@ var stagedItems as IIngredient[][string] = {
       <minecraft:golden_horse_armor>,
       <minecraft:diamond_horse_armor>
   ],
-  [ALC_1]:[
+  [CHM_1]:[
       <minecraft:brewing_stand>
-  ],
-  [ENC_1]:[
-      <minecraft:enchanting_table>
-  ],
+  ]
 };
 
 for stageName, items in stagedItems {

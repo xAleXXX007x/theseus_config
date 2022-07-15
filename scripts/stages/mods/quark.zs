@@ -3,11 +3,10 @@ import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
   [SMT_1]:[
-      <quark:pickarang>,
       <quark:chain>,
       <quark:trowel>
   ],
-  [ENC_1]:[
+  [MYS_1]:[
       <quark:rune:7>,
       <quark:rune:8>,
       <quark:rune:9>,

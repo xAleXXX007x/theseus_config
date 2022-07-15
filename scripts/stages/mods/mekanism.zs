@@ -17,7 +17,9 @@ var stagedItems as IIngredient[][string] = {
       <mekanism:flamethrower>,
       <mekanism:armoredjetpack>,
       <mekanism:freerunners>,
-      <mekanism:electricbow>
+      <mekanism:electricbow>,
+      <mekanism:basicblock2:9>,
+      <mekanism:robit>
     ],
     [ENG_3]:[
       <mekanism:portableteleporter>,

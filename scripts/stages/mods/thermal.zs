@@ -397,7 +397,7 @@ var stagedItems as IIngredient[][string] = {
       <thermalfoundation:horse_armor_bronze>,
       <thermalfoundation:horse_armor_constantan>
     ],
-    [ENC_1]:[
+    [ARC_1]:[
       <thermalfoundation:tome_experience>
     ]
 };

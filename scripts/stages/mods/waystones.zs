@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
-  [ENC_1]:[
+  [ARC_1]:[
     <waystones:waystone>,
     <waystones:return_scroll>,
     <waystones:bound_scroll>,

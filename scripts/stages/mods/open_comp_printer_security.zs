@@ -3,6 +3,7 @@ import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
     [ENG_2]:[
+<<<<<<< HEAD
         <opencomputers:component:16>,
         <opencomputers:component:3>,
         <opencomputers:component:4>,
@@ -50,6 +51,8 @@ var stagedItems as IIngredient[][string] = {
         <opencomputers:upgrade:24>,
         <opencomputers:upgrade:29>,
         <opencomputers:upgrade:31>,
+=======
+>>>>>>> 1e6c9702e4d15fdad92e83749c9880179695281c
         <opencomputers:adapter>,
         <opencomputers:assembler>,
         <opencomputers:cable>,
@@ -118,6 +121,7 @@ var stagedItems as IIngredient[][string] = {
         <opensecurity:nanodna>,
         <opensecurity:nanofog_terminal>,
         <opensecurity:biometric_reader>,
+<<<<<<< HEAD
         <opencomputers:case3>,
         <opencomputers:screen3>,
         <opencomputers:material:24>,
@@ -144,10 +148,32 @@ var stagedItems as IIngredient[][string] = {
         <opencomputers:storage:4>
     ],
     [GUN_2]:[
+=======
+        <opensecurity:mag_reader>,
+        <opensecurity:data_block>,
+        <opensecurity:keypad>,
+        <opensecurity:card_writer>,
+        <opensecurity:alarm>,
+        <opensecurity:private_secure_door>,
+        <opensecurity:secure_door>,
+        <opensecurity:rolldoor>,
+        <opensecurity:rolldoor_controller>,
+        <opensecurity:door_controller>,
+>>>>>>> 1e6c9702e4d15fdad92e83749c9880179695281c
         <opensecurity:movement_upgrade>,
         <opensecurity:cooldown_upgrade>,
         <opensecurity:damage_upgrade>,
         <opensecurity:energy_upgrade>,
+<<<<<<< HEAD
+=======
+        <opensecurity:rfid_reader_card>,
+        <opensecurity:nanodna>,
+        <opensecurity:mag_card>,
+        <opensecurity:rfid_card>,
+        <opencomputers:material:28>
+    ],
+    [GUN_2]:[
+>>>>>>> 1e6c9702e4d15fdad92e83749c9880179695281c
         <opensecurity:energy_turret>
     ]
 };
