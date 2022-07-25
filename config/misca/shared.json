@@ -3,6 +3,20 @@
     "wikiUrlBase": "https://crust.theseus.su/characters/",
     "offtopRange": 15,
     "rollRange": 15,
+    "emotesList": [
+      "no",
+      "yes",
+      "wave",
+      "salute",
+      "cheer",
+      "clap",
+      "think",
+      "point",
+      "shrug",
+      "headbang",
+      "weep",
+      "facepalm"
+    ],
     "speechRanges": [
       2,
       5,
