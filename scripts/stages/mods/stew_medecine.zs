@@ -26,9 +26,7 @@ var stagedItems as IIngredient[][string] = {
       <stewitems:medicine_neuropozine>,
       <stewitems:medicine_protein_pill>,
       <stewitems:medicine_ironskin_pills>,
-      <stewitems:medicine_sunscreen_spray>
-  ],
-  [ALC_1]:[
+      <stewitems:medicine_sunscreen_spray>,
       <stewitems:medicine_phenophasine>,
       <stewitems:medicine_yoln_tear>,
       <stewitems:medicine_elixir>,

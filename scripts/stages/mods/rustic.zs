@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import mods.recipestages.Recipes;
 
 var stagedItems as IIngredient[][string] = {
-  [ALC_1]:[
+  [CHM_1]:[
       <rustic:condenser>,
       <rustic:retort>,
       <rustic:condenser_advanced>,

@@ -274,7 +274,7 @@ var stagedItems as IIngredient[][string] = {
     <extrabotany:shadowkatana>,
     
   ],
-  [ALC_1]:[
+  [CHM_1]:[
     <botania:brewvial>,
     <botania:brewflask>,
     <botania:incensestick>,
